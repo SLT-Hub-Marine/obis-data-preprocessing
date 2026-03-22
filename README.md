@@ -76,6 +76,11 @@ Dataset-level splits show very different taxonomic compositions per split (e.g.,
 
 ### Distributional Equivalence Tests
 
+To verify whether splits are interchangeable, we test each split pair (train↔dev, train↔test, dev↔test) across 12 features using 50,000 sampled rows per split:
+
+- **Numerical features** (bathymetry, shoredistance, lat, lon): [Two-sample Kolmogorov-Smirnov test](https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Smirnov_test) — tests whether two samples come from the same continuous distribution. Pass criterion: p > 0.05.
+- **Categorical features** (kingdom through species, samplingProtocol): [Chi-squared test](https://en.wikipedia.org/wiki/Chi-squared_test) with [Cramér's V](https://en.wikipedia.org/wiki/Cram%C3%A9r%27s_V) effect size — measures the strength of association between split membership and category frequencies. Pass criterion: V < 0.1 (negligible effect).
+
 ![Equivalence tests heatmap](docs/equivalence_tests.png)
 
 - **Dataset-level (1/36 passed)** — large differences across all features, expected from survey-level splitting.
