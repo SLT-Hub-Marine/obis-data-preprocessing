@@ -1,0 +1,18 @@
+# Data (62GB of parquets)
+data/
+
+# Large outputs
+outputs/*.html
+outputs/*.csv
+outputs/*.png
+outputs/*.geojsonl
+outputs/*.pmtiles
+
+# Generated splits (parquet)
+splits/*.parquet
+splits/**/*.parquet
+
+# Python
+__pycache__/
+*.pyc
+.venv/
