@@ -19,13 +19,14 @@ scripts/                    → Analysis scripts + shared config
 splits/                     → Dataset-level train/dev/test splits
 splits/record_splits/       → Record-level train/dev/test splits
 outputs/                    → Generated reports and visualizations
+docs/                       → README charts and figures
 ```
 
 ## Splitting Strategies
 
-We provide two approaches for creating train/dev/test splits, each answering a different question.
+We provide two approaches for creating train/dev/test splits via `create_splits.py`, each answering a different question.
 
-### Dataset-Level Splitting (`create_splits.py`)
+### Dataset-Level (default)
 
 Each parquet file (= one OBIS dataset/survey) is **assigned whole** to a split by hashing its `dataset_id`. All records from a given survey end up in the same split.
 
@@ -37,12 +38,12 @@ python scripts/create_splits.py
 
 **Trade-off:** Splits have different geographic and taxonomic compositions because each survey covers a specific region/taxon.
 
-### Record-Level Splitting (`create_splits_record.py`)
+### Record-Level (`--by-record`)
 
-Each individual row's `_id` (UUID) is hashed to independently assign it to a split. Records from the same survey are spread across all splits.
+Each row's `_id` (UUID) is hashed to independently assign it to a split. Records from the same survey are spread across all splits.
 
 ```bash
-python scripts/create_splits_record.py
+python scripts/create_splits.py --by-record
 ```
 
 **Why:** Produces **distributionally balanced** splits — identical geographic coverage, taxonomic mix, and exact 80/10/10 row ratios. Useful for benchmarking and hyperparameter tuning.
@@ -53,41 +54,41 @@ python scripts/create_splits_record.py
 
 ### Split Sizes
 
-| | Dataset-Level | Record-Level |
-|---|---:|---:|
-| Train | 28,158,921 (68.3%) | 32,935,709 (80.0%) |
-| Dev | 6,131,663 (14.9%) | 4,118,578 (10.0%) |
-| Test | 6,880,361 (16.7%) | 4,116,658 (10.0%) |
-| **Total** | **41,170,945** | **41,170,945** |
+![Split size comparison](docs/split_sizes.png)
 
-> Dataset-level targets 80/10/10 by *file count*, but datasets have very different row counts, so actual row ratios deviate. Record-level achieves exact 80/10/10 by row.
+Dataset-level targets 80/10/10 by *file count*, but datasets have very different row counts, so actual row ratios deviate. Record-level achieves exact 80/10/10 by row.
+
+### Phylum Distribution
+
+![Taxonomy comparison](docs/taxonomy_comparison.png)
+
+Dataset-level splits show very different taxonomic compositions per split (e.g., Chordata ranges from 63% to 86%). Record-level splits are near-identical across all phyla.
+
+### Geographic Distribution
+
+**Dataset-level** — each split covers different ocean regions:
+
+![Dataset-level geographic distribution](docs/geo_dataset_splits.png)
+
+**Record-level** — identical geographic coverage across all splits:
+
+![Record-level geographic distribution](docs/geo_record_splits.png)
 
 ### Distributional Equivalence Tests
 
-| | Dataset-Level | Record-Level |
-|---|:-:|:-:|
-| Numerical (KS test, p > 0.05) | 0/12 ✗ | 12/12 ✓ |
-| Categorical (Cramér's V < 0.1) | 1/24 ✗ | 24/24 ✓ |
-| **Overall** | **1/36** | **36/36** |
+![Equivalence tests heatmap](docs/equivalence_tests.png)
 
-- **Dataset-level:** Splits have very different distributions across all features — expected and correct, since each split contains different surveys.
-- **Record-level:** All 36 tests pass — splits are statistically identical.
-
-Run the EDA yourself:
-
-```bash
-python scripts/eda_splits.py                                    # dataset-level
-python scripts/eda_splits.py --splits-dir splits/record_splits  # record-level
-```
+- **Dataset-level (1/36 passed)** — large differences across all features, expected from survey-level splitting.
+- **Record-level (36/36 passed)** — all tests pass, confirming statistical equivalence.
 
 ## Scripts
 
 | Script | Description |
 |--------|-------------|
 | `config.py` | Shared path configuration and column/field constants |
-| `create_splits.py` | Dataset-level 80/10/10 splitting (no data leakage) |
-| `create_splits_record.py` | Record-level 80/10/10 splitting (balanced distributions) |
+| `create_splits.py` | Create splits — dataset-level (default) or record-level (`--by-record`) |
 | `eda_splits.py` | EDA with summary stats, equivalence tests, and geospatial maps |
+| `generate_readme_charts.py` | Generate comparison charts for the README |
 | `validate_splits.py` | Legacy split validation (uses `.txt` file lists) |
 | `data_scale_assessment.py` | Field coverage report across all 212 Darwin Core fields |
 | `export_to_csv.py` | Extract interested fields from interpreted column to CSV |
@@ -119,10 +120,13 @@ All scripts should be run from the project root:
 aws s3 sync s3://obis-products/occurrence data/
 
 # Create splits
-python scripts/create_splits.py            # dataset-level
-python scripts/create_splits_record.py     # record-level
+python scripts/create_splits.py              # dataset-level (no data leakage)
+python scripts/create_splits.py --by-record  # record-level (balanced)
 
 # Run EDA
-python scripts/eda_splits.py
-python scripts/eda_splits.py --splits-dir splits/record_splits
+python scripts/eda_splits.py                                    # dataset-level
+python scripts/eda_splits.py --splits-dir splits/record_splits  # record-level
+
+# Regenerate README charts
+python scripts/generate_readme_charts.py
 ```
