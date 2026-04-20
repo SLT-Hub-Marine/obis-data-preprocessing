@@ -1,0 +1,501 @@
+unique_samplingProtocol_value,n_count,proportion_of_all_values_incl_null
+,136888180,0.5669119865369928
+SBTL_SWATH_PISCO,16291206,0.06746879063293394
+SBTL_FISH_PISCO,8681789,0.035954968856222735
+Reef Fish Visual Census doi:10.1016/j.fishres.2011.01.012,7992276,0.033099403207142726
+acoustic detection,7286178,0.030175152041923073
+gps,7154610,0.02963027317623358
+Should point to voyage CTD bottle cast methods.,5773593,0.023910896302997642
+SBTL_SWATH_VRG,4418301,0.018298057560765156
+CPR Tow,3889405,0.01610767500157364
+eDNA expeditions citizen science sampling,2644041,0.010950094710845428
+Bag Seine,2256999,0.009347189704049
+SBTL_FISH_VRG,1548416,0.006412647100324251
+Gill Net,1173016,0.004857956551103807
+Sampling device : Niskin bottle  -  Size filter : generally before 2007 1.2 micrometers and after 2007 0.7 micrometers,924064,0.003826940776970807
+Haps,734428,0.0030415777056016853
+band transect,724871,0.003001998116952512
+nSPC,698970,0.002894731095334614
+GOV Trawl,602963,0.0024971254065786013
+Species subsampled and individual lengths recorded.,601868,0.0024925905473580463
+Eight m Beam trawl,517480,0.0021431040634272663
+acoustic telemetry,505174,0.002092139700351329
+SBTL_SWATH_HSU,504891,0.0020909676773746924
+helicopter,472966,0.0019587527179078233
+midwater trawl; http://calcofi.org/publications/calcofireports/v57/Vol57-Sakuma_pages.163-183.pdf,471986,0.001954694122441025
+CalCOFI ichthyoplankton net tow,463655,0.0019201919195492947
+SBTL_FISH_HSU,429998,0.0017808040138084518
+Campelen,417506,0.001729069345878612
+GearType= Bottom trawl,405326,0.0016786268022198347
+Sampling device : Plastic bucket  -  Size filter : generally before 2007 1.2 micrometers and after 2007 0.7 micrometers,401584,0.001663129593814979
+position from GPS data logger deployed on bird,388590,0.0016093159310643917
+"Water filtrated from the hose/bottle. DNA extraction, sequencing, and data processing were describe in https://doi.org/10.1038/s41597-023-02825-5, and the deviations to the original protocol in https://doi.org/10.1101/2024.08.14.607742",368864,0.0015276222023112682
+"Four m Beam trawl, aft - in IrishSea q3 BTS",363788,0.001506600334362832
+Sampling device : Hydrobios bottle  -  Size filter : generally before 2007 1.2 micrometers and after 2007 0.7 micrometers,358026,0.001482737449587637
+"Four m Beam trawl, aft",330838,0.0013701404153516074
+boat - diver,328653,0.001361091404030226
+original transect,309879,0.0012833403108734208
+CTD rosette,307862,0.0012749870587749187
+Trawl,307651,0.0012741132183223735
+Agassiz trawl,280721,0.0011625846714643378
+1,256954,0.0010641554485465907
+Belt Transect (BLT) surveys; https://inport.nmfs.noaa.gov/inport/item/5565.,245157,0.0010152990702590211
+Vigneron-Dahl North Sea type trawl,242777,0.0010054424812682256
+Casual sighting,233437,0.0009667615816152716
+Tow with mobile fishing gear,231457,0.0009585615622027609
+The start location of the next video interval in sequence is the end location of this 30-second video interval,225951,0.0009357588819576683
+,214877,0.0008898967531828489
+Standardized surveys,210074,0.0008700054939715921
+TOWED01,206500,0.000855204044789616
+Analyzed images are targeted to be taken ~30 seconds apart.,204344,0.00084627513476266
+Niskin 5L,200705,0.0008312044930242124
+Niskin,197547,0.0008181258762036526
+photo_plot_surveys,196750,0.0008148251613189197
+"Young-modified Van Veen grab sampler, 0.04 sq m",196020,0.0008118019218385497
+"CREMP sites consist of two to four monitoring stations delimited by permanent markers. Stations are approximately 2m x 22m and are generally perpendicular to the shoreline. Three video transects (benthic survey), a station species inventory (SSI), and a clioniad sponge survey are conducted annually at each station.",193481,0.0008012868464403859
+Coral_demographics,191348,0.0007924531891641812
+Percent seagrass cover measured by 50 cm by 50 cm quadrat,190266,0.0007879721684549204
+ROUTINE,188960,0.00078256346878182
+GearType=pot,184801,0.000765339286591602
+Sampling instrument: 50: Sediment Grab; Seive mesh size: 1.000mm,181858,0.0007531510759193704
+Seven m Beam trawl,163981,0.0006791148400418693
+Bottle,162849,0.0006744267481353228
+"Four m Beam Trawl, port",162193,0.0006717099740269354
+https://dx.doi.org/10.17504/protocols.io.bp2l69y7klqe/v2,160114,0.0006630999536437993
+standard lobster trap baited with mackerel,159233,0.0006594513591476267
+"ROV equipped with a colour camera (570 line/02 Lux, 4:3), analyzed using customizable video annotation software COVER (Ifremer)",151938,0.0006292396714636545
+bucket,144367,0.0005978849507706658
+capture for bio-logging:device type= PTT:device id=,140714,0.0005827563290969783
+"Four m Beam Trawl, starboard",136309,0.0005645133566161151
+Underwater visual survey - 20 x 2m,127344,0.0005273854909428031
+Transecto de punto intercepto,125818,0.000521065678001646
+fukui trap,125075,0.0005179886000099816
+"vertical net tow using 60cm diameter ring net, 200 micron mesh",124449,0.0005153960686199657
+Engels,123342,0.000510811512312062
+Protocolo SIMAC - Cobertura de organismos sésiles,113004,0.000467997471561287
+9 Western IIA trawl,112169,0.0004645393825666171
+Braun-Blanquet method as described in metadata,111209,0.00046056361557873316
+cbs point contact https://marine.ucsc.edu/methods/biodiversity-methods.html#bio-method-pc,111111,0.00046015775603205336
+standard lobster trap baited with herring,108928,0.00045111702755856314
+https://repository.oceanbestpractices.org/handle/11329/1738,102723,0.0004254194919754175
+Gear=otter trawl; TagType=spaghetti tag; TagAttachment=T-bar,101857,0.0004218330188384306
+Throw-trap method as described in metadata,101093,0.00041866897094390625
+"During low tides, percent cover of taxa in quadrats determined using a 20 cm × 20 cm frame divided in 100 squares with monofilament line.",100620,0.00041671007741758427
+https://dx.doi.org/10.17504/protocols.io.bucjnsun,99159,0.0004106594570328984
+visual observation from whale watching boat,97985,0.00040579742532063207
+Research Vessel: GADUS,96324,0.0003989185201468037
+WP II-56 cm,94311,0.0003905818337440846
+Niskin Carrousel,94281,0.0003904575910257132
+Net,93901,0.0003888838499263425
+averaged_sample,92795,0.00038430343504238456
+Underwater Visual Census,92554,0.00038330535187146785
+https://github.com/HakaiInstitute/rocky-subtidal-fish-invertebrate/blob/main/docs/Protocol.pdf,81714,0.0003384123162999452
+SCUBA transects,80990,0.00033541392536324936
+"""Gear: bottom trawl made of four panels, referenced as GOC73, with 10 mm of mesh side in the codend and doors of type Morgére, with 2.5-3 m vertical opening and 16-22, horizontal opening. SCANMAR system is used in each haul to estimate its effective duration and the geometry of the net.""",79763,0.0003303323981818602
+https://github.com/arms-mbon/documentation/tree/main/armsmbon_handbook,79140,0.0003277522910636814
+Niskin bottle,78282,0.0003241989493182601
+Van Veen,76057,0.00031498428103905
+line trasect and photo quadrat; doi:10.1371/journal.pone.0130823,75152,0.00031123629236818023
+SBTL_FISH_CRANE,74882,0.0003101181079028379
+http://purl.org/spc/digilib/doc/fs6ca,73395,0.0003039598104955635
+boat - camera,73099,0.00030273394900763264
+Bottom trawl,71732,0.00029707262247384374
+NPL022,71462,0.0002959544380085014
+Collecting method: Marutoku net; Vessel: SOYO; Wire length: 150; angle(º): ; Flow meter revolution number: ; mesh size: 335; Analysis method: micro scope,71137,0.00029460847522614486
+Sampling device : 1000 ml bottle  -  Size filter : generally before 2007 1.2 micrometers and after 2007 0.7 micrometers,70232,0.00029086048655527506
+cbs quadrat surveys https://marine.ucsc.edu/methods/biodiversity-methods.html#bio-method-quad,69426,0.00028752249885503087
+BIONESS 1.0m,68786,0.00028487198752977493
+GearType= High opening bottom trawl,67137,0.0002780427794432951
+Ikke oplyst,63693,0.0002637797153742615
+Core_01,62100,0.00025718242702874164
+Bottom Trawl,61849,0.0002561429296183678
+"oblique net tow using 60cm diameter bongo net, 335 micron mesh",61280,0.00025378645939325747
+"Sediment coring (Kasten Coring). See Armbrecht, Focardi et al. 2023 (https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JG007252) and Armand et al. 2023 (https://openresearch-repository.anu.edu.au/handle/1885/142525)",60867,0.0002520760513036782
+Stationary visual survey - 4 x 2m,60241,0.00024948351991366225
+Underwater Visual Survey - 20 x 2m,58330,0.0002415692587534058
+birds counted from ship,57804,0.00023939086975796107
+ROV,57603,0.00023855844354487286
+Smørstikke,57197,0.00023687702542291361
+standard lobster trap baited with frozen mackerel,50541,0.0002093117076402517
+RCMed U-CEM protocol,50255,0.00020812726039177797
+satellite telemetry,49275,0.00020406866492497978
+Collecting method: Marutoku net; Vessel: HOKKO; Wire length: 150; angle(º): ; Flow meter revolution number: ; mesh size: 335; Analysis method: micro scope,48896,0.00020249906524955478
+http://www.helcom.fi/Documents/Action%20areas/Monitoring%20and%20assessment/Manuals%20and%20Guidelines/Guidelines%20for%20monitoring%20of%20mesozooplankton.pdf,47636,0.00019728087107795712
+Sampling instrument: TOOL0963: Day grab; Seive mesh size: 0.500mm,47278,0.00019579824130539207
+Stationary Point Count (SPC); doi:10.1371/journal.pone.0130823,47236,0.00019562430149967213
+http://purl.org/spc/digilib/doc/pfj5w,46744,0.00019358672091838165
+Protocolo SIMAC - Salud coralina,46424,0.00019226146525575365
+"Visual census as point counting on free-choice routes using unlimited recording distance, each count route consists of 20 points with 5-minute stops at least 200 m apart in closed landscape and 300 m in open landscape to minimize double-counting of individuals.",45408,0.00018805377852690983
+capture for bio-logging:device type= GPS:device id=,43850,0.00018160144001948988
+MRMLN004000000AE_METH_001,43512,0.00018020163872583907
+MRUMU100000000CA_METH_001,42939,0.00017782860280494584
+Protocolo SIMAC - Censo abundancia de peces arrecifales,42927,0.0001777789057175973
+boat - grab,42887,0.0001776132487597688
+"Sampling device : Quadrat 33 x 33 cm (0,1 m2)",41699,0.00017269323711226244
+Multicore,41332,0.000171173334524186
+http://ipt.sb-roscoff.fr/ipt/resource?r=benthobs-pn#methods,40996,0.0001697818160784266
+Deployment,40831,0.00016909848112738407
+Sampling device : Benne Smith Mc Intyre ; Taxon count after sieving 1 mm (square mesh),40607,0.00016817080216354448
+Research Vessel: MARINUS,40597,0.00016812938792408735
+Van Veen 0.1 m2,39839,0.00016499018857323732
+SBTL_SIZEFREQ_VRG,39311,0.00016280351672990118
+a beach seine that is 30 m long by 2 m high with 6 mm mesh size,39290,0.0001627165468270412
+Harstad trawl,38620,0.00015994179278341387
+Collecting method: Marutoku net; Vessel: WAKATAKA; Wire length: 150; angle(º): ; Flow meter revolution number: ; mesh size: 335; Analysis method: micro scope,38537,0.00015959805459591974
+derived effort,38491,0.000159407549094417
+fish -- BOT,37800,0.0001565458251479297
+"boat - camera, grab",37544,0.0001554856206178273
+Collecting method: Marutoku net; Vessel: CHIBA No.2; Wire length: 150; angle(º): ; Flow meter revolution number: ; mesh size: 335; Analysis method: micro scope,37437,0.00015504248825563607
+"Sled, epibenthic",36971,0.0001531125846969341
+MRMLN00300000002_METH_001,35247,0.00014597276981452586
+Sampling instrument: TOOL0653: Van Veen Grab; Seive mesh size: 1.000mm,35027,0.00014506165654646914
+Transectos de banda,34682,0.00014363286528519835
+GOV trawl,33881,0.0001403155847046827
+SCUBA diver survey,33411,0.00013836911545019785
+distance sampling,33320,0.00013799224587113804
+Niskin bottle sampling,33248,0.00013769406334704674
+"Zooplancton: Arrastres superficiales rectos durante 1 min con una red cónica de zooplancton de 0,38 m de diámetro de boca y 130 μm de ojo de malla. Perifiton: Raspado de sustratos naturales y artificiales, se empleó un cuadrante con un área de 36 cm2. Macrozoobentos: Se realizaron raspados al epibentos adherido a sustratos duros sintéticos y naturales, se ubicó un cuadrante de 0,5 m x 0,5 m, al que se adhirió una bolsa de malla de 500 μm. Fitoplancton: Arrastres superficiales (< 1 m profundidad) circulares, con red de fitoplancton de ojo de malla de 21um.",32437,0.00013433536852707395
+"Standard (14"") Campelen",32295,0.0001337472863267828
+"Modified (21"") Campelen",31686,0.00013122515914384391
+tracking tags,31075,0.00012869474911301364
+"Large VV grab,Subsample method: Sieve content - Mesh size (mm): 1.0",31025,0.00012848767791572802
+MRMLN0010000000F_METH_001,30200,0.00012507100316051526
+MRMIT60000000014_METH_001,29894,0.00012380372743312726
+ferrybox_sample,29769,0.0001232860494399132
+"Observaciones en parcelas cuadradas de 100 m2, separadas cada 10 m una de la otra",29650,0.0001227932199903734
+SCOR VNH mesh=351,29619,0.00012266483584805635
+"Beamtrawl,Subsample method: Sieve content - Mesh size (mm): 5.0",29172,0.00012081361934432288
+Large-Area Stationary Point Count(SPC) surveys; https://inport.nmfs.noaa.gov/inport/item/5566.,28934,0.00011982796044524333
+By boat; Top 4 cm of the sample,28858,0.00011951321222536919
+https://doi.org/10.5281/zenodo.8237301,28817,0.00011934341384359497
+MRUMU100000000CB_METH_001,28604,0.00011846129054315823
+standard lobster trap baited with redfish,28580,0.00011836189636846113
+Collecting method: Marutoku net; Vessel: SHUNYO; Wire length: 150; angle(º): ; Flow meter revolution number: ; mesh size: 335; Analysis method: micro scope,28450,0.00011782351125551851
+Lowestoft Sampler,28405,0.00011763714717796145
+Collecting method: Marutoku net; Vessel: HAYACHINE; Wire length: 150; angle(º): ; Flow meter revolution number: ; mesh size: 335; Analysis method: micro scope,28282,0.00011712775203263883
+Gear=cod trap; TagType=spaghetti tag; TagAttachment=T-bar,28050,0.00011616694167723354
+MRCON05300000009_METH_002,27900,0.00011554572808537668
+original general observation,27658,0.00011454350349051427
+Sampling device : Benne Smith Mc Intyre ; Taxon count after sieving 1 mm (round mesh),27355,0.0001132886520349634
+By foot; Top 4 cm of the sample,27099,0.00011222844750486103
+3 replicate samples by 20 * 20 cm metal frames are collected from each homogeneous bottom zone.,27005,0.00011183915365396406
+"Sampling device : Quadrat 50 x 50 cm (0,25 m2)",26874,0.00011129662711707573
+GearType=pots,26707,0.00011060500931814176
+Gear=otter trawl; TagType=English yellow Peterson disc; TagAttachment=stainless steel wire,26706,0.00011060086789419605
+GearType= Scampi trawl,26321,0.00010900641967509676
+Censos en transectos y/o puntos,26177,0.00010841005462691417
+"Sampling instrument - Jedy's net N 49, mesh size=0,168 mm",26044,0.00010785924524213442
+MRCED00500000102_METH_001,25946,0.0001074533856954546
+BIONESS 0.5m,25876,0.00010716348601925473
+underwater visual census point count technique,25536,0.00010575540187771251
+GearType=scampi bottom trawl,25429,0.00010531226951552128
+"Niskin bottle, 5 l",25262,0.0001046206517165873
+Gear=unspecified trap or miscellaneous; TagType=spaghetti tag; TagAttachment=T-bar,25223,0.00010445913618270451
+"Sampling device : Benne Van Veen 0,1 m2 ; Taxon count after sieving 1 mm (square mesh)",25175,0.00010426034783331033
+Ring net 0.75m xbow,24923,0.00010321670899899079
+"{""SamplerType"":""Imaging Flow Cytobot""}",24822,0.00010279842518047384
+"Scuba diving surveys are conducted along transects measuring 30 x 2m. Data collected on the transects include depth of transect, number, size and species of abalone and urchins, number of associated species and predators, substrate percent cover, and algal type percent cover.",24474,0.00010135720964736591
+Sampling device : Benne Smith Mc Intyre ; Comptage des taxons après tamisage 1 mm (maille carrée),24001,9.939831612104393e-05
+"boat - camera, diver",23998,9.938589184920679e-05
+Collecting method: Marutoku net; Vessel: IWATE; Wire length: ; angle(º): ; Flow meter revolution number: ; mesh size: 335; Analysis method: micro scope,23740,9.831740447121299e-05
+Collecting method: Marutoku net; Vessel: SHOYO; Wire length: 150; angle(º): ; Flow meter revolution number: ; mesh size: 335; Analysis method: micro scope,23638,9.789497922875033e-05
+MRUMU100000000C9_METH_001,23580,9.7654776639899e-05
+passive acoustic monitoring,22928,9.49545682272945e-05
+METH_01,22703,9.40227478395092e-05
+"Sampling with a hose. 'Lindahl, O., 1986. A dividable hose for phytoplankton sampling. In Report of the ICES Working Group on Exceptional Algal Blooms, Hirtshals, Denmark, 17-19 March 1986. ICES, C.M. 1986/L:26.'",22147,9.17201161256931e-05
+MBAMIRTU00000001_METH_001,21873,9.05853659645679e-05
+MRMLN00100000057_METH_001,21775,9.017950641788807e-05
+Collecting method: Marutoku net; Vessel: HOKKO; Wire length: ; angle(º): ; Flow meter revolution number: ; mesh size: 335; Analysis method: micro scope,21716,8.993516240509104e-05
+Oceanographic bucket,21589,8.940920156398557e-05
+video taken using a remote camera,21490,8.899920059336003e-05
+Other,21340,8.837798700150316e-05
+VID-TOW,21243,8.797626887876906e-05
+Visual observation from vessel,20950,8.676283166267533e-05
+refer to parent event,20654,8.553697017474444e-05
+GearType=bottom trawl,20597,8.530090900983884e-05
+MRNE013400000064_METH_002,20364,8.433595723048784e-05
+"boat - grab, sled",20072,8.312666143833981e-05
+3 replicate samples by 20 * 20 cm metal frames are collected from each homogeneous bottom zone,20069,8.311423716650267e-05
+standard lobster trap baited with salt mackerel,19974,8.272080189165999e-05
+Irregular plot,19891,8.237706370416586e-05
+Collecting method: Marutoku net; Vessel: KITAKAMI; Wire length: 150; angle(º): ; Flow meter revolution number: ; mesh size: 335; Analysis method: micro scope,19343,8.010756338191546e-05
+"boat - camera, sled",18720,7.752745626373661e-05
+"RP-sledge,Subsample method: Decanted - Mesh size (mm): 0.5",18643,7.720856661991675e-05
+"Counts are made by scanning flocks of waterbirds (which usually comprise several species) with a telescope or with binoculars as appropriate, and counting each species one-by-one, or in “blocks” of bigger numbers",18512,7.666604008302842e-05
+Photoquadrats - 0.66 X 0.75 m,18445,7.63885646786657e-05
+Collecting method: Marutoku net; Vessel: SHUNYO; Wire length: ; angle(º): ; Flow meter revolution number: ; mesh size: 335; Analysis method: micro scope,18408,7.623533199267434e-05
+MRMLN004000000A8_METH_002,18367,7.606553361090012e-05
+Field observation,18275,7.568452260789458e-05
+Sampling instrument: 50: Sediment Grab,18070,7.483553069902353e-05
+"Small VV grab,Subsample method: Sieve content - Mesh size (mm): 1.0",18019,7.46243180777922e-05
+Collecting method: Marutoku net; Vessel: IWATE; Wire length: 150; angle(º): ; Flow meter revolution number: ; mesh size: 335; Analysis method: micro scope,17920,7.421431710716667e-05
+"https://doi.org/10.3389/fmicb.2016.00679. Sequence processing was not conducted as in the journal publication, but by using the https://nf-co.re/ampliseq pipeline in which the denoising (ASV reconstruction) step was conducted with DADA2.",17910,7.417290286770954e-05
+Unspecified,17842,7.38912860394011e-05
+Research Vessel: SHAMOOK,17657,7.31251226094443e-05
+http://ipt.sb-roscoff.fr/ipt/resource?r=phytoplankton_somlit-astan#methods,17544,7.26571417035788e-05
+"boat - diver, grab",17446,7.225128215689898e-05
+Unknown,17418,7.213532228641903e-05
+"Sampling device : Benne Van Veen 0,1 m² ; Comptage des taxons après tamisage 1 mm (maille carrée)",16649,6.895056727216618e-05
+"Sampling device : Benne Van Veen 0,1 m2 ; Comptage des taxons aprés tamisage 1 mm (maille carré)",16580,6.866480901991202e-05
+"APHA. (1989). Standard methods for the examination of water and wastewater, 17th edn. American Public Health Association, Washington, DC; Utermohl H. (1958). Zur Vervollkommnung der quantitativen Phytoplankton-Methodik. Mitt Int Verh Theor Angew Limnol 9:1-38",16442,6.80932925154037e-05
+standard lobster trap baited with crabs,16337,6.76584430011039e-05
+"Sampling device : Benne Van Veen 0,1 m2 ; Taxon count after sieving 1 mm (round mesh)",16280,6.742238183619829e-05
+Bongo net hauled vertically,16207,6.712005788816129e-05
+SBTL_SIZEFREQ_PISCO,16096,6.66603598301872e-05
+Alfredo-03,16014,6.632076306663878e-05
+epibenthic sampling,15907,6.587763070444756e-05
+https://doi.org/10.1038/s41597-024-03744-9,15900,6.584864073682757e-05
+Box corer,15853,6.565399381137909e-05
+https://doi.org/10.3389/fmars.2020.615458,15744,6.520257860129644e-05
+Collecting method: Marutoku net; Vessel: IWAKI; Wire length: 150; angle(º): ; Flow meter revolution number: ; mesh size: 335; Analysis method: micro scope,15733,6.51570229378936e-05
+Analyzed images are targeted to be 50 meters apart.,15586,6.454823361787387e-05
+"Sampling device : PVC corer diam. 11.28 cm (0,01 m2) ; Taxon count after sieving 1 mm (square mesh)",15515,6.425419251772829e-05
+Grabadora acústica Audiomoth,15403,6.37903530358085e-05
+DayGrab,15341,6.353358475117432e-05
+Cosmos 2600,15258,6.31898465636802e-05
+Unspecified zooplankton net or nets,15247,6.314429090027735e-05
+"Mesozooplankton was collected with Juday net: mesh size 112 mm, net mouth opening 0.37 m.",15224,6.304903814952598e-05
+Counts represent sightings made from an airplane. Observations are made from both sides of the plane by different observers and considered different occurrences.,15191,6.291237115931746e-05
+BACT_NUC-DNA(100L)_W0.22-3,15034,6.226216759984062e-05
+Hand-sampling | leaf-litter sampling,14926,6.181489381370366e-05
+Collecting method: Marutoku net; Vessel: MITO; Wire length: 150; angle(º): ; Flow meter revolution number: ; mesh size: 335; Analysis method: micro scope,14735,6.102388184007259e-05
+Research Vessel: INV II,14432,5.976903038452173e-05
+MRUMU100000000C4_METH_001,14337,5.937559510967905e-05
+Surface sample collected using a bucket,14327,5.933418087022192e-05
+Collecting method: Marutoku net; Vessel: WAKATAKA; Wire length: ; angle(º): ; Flow meter revolution number: ; mesh size: 335; Analysis method: micro scope,14247,5.900286695456493e-05
+BOT,14169,5.8679835886799365e-05
+Shrimp trawl / Fish trawl,13941,5.7735591227176925e-05
+https://github.com/HakaiInstitute/sentinels-light-trap-public/tree/main/docs/Protocols,13906,5.759064138907699e-05
+dredge,13872,5.7449832974922773e-05
+standard lobster trap baited with frozen herring,13853,5.737114591995424e-05
+Photoquadrats 50 X 50cm,13849,5.735458022417138e-05
+MRCON05300000009_METH_001,13848,5.735043880022567e-05
+standard lobster trap baited with not provided,13711,5.678306371966307e-05
+SCUBA,13684,5.6671245273128834e-05
+MRCON02300000005_METH_001,13652,5.653871970686604e-05
+MRUMU1000000001B_METH_001,13649,5.65262954350289e-05
+colony census,13527,5.602104171365199e-05
+"Sampling device : Quadrat 33 x 33 cm (0,1 m²)",13419,5.557376792751504e-05
+stratified oblique trawl | opening-closing | RMT25,13402,5.550336372043793e-05
+Sampling device : Benne Smith Mc Intyre ; Comptage des taxons après tamisage 1 mm (maille ronde),13375,5.53915452739037e-05
+Minibongo frames of 30 cm fitted with 200 and 90 µm meshes and calibrated Hydrobios flowmeter and syringe with a filter holder attachment,13249,5.486972585674393e-05
+Boat angling,13245,5.485316016096108e-05
+Collecting method: Marutoku net; Vessel: HOYO No.12; Wire length: 150; angle(º): ; Flow meter revolution number: ; mesh size: 335; Analysis method: micro scope,13226,5.477447310599254e-05
+MRCON05300000004_METH_002,13146,5.444315919033555e-05
+https://github.com/HakaiInstitute/nearshore-RI_motileInvertebrates/blob/eaebf4b2b252b48ba79eae92e32e5f8b6d6f2ac1/protocols/rocky_intertidal-protocol.pdf,13018,5.391305692528436e-05
+MRMLN00100000058_METH_001,13009,5.387578410977295e-05
+Binoculars,12844,5.31924491587304e-05
+transect_surveys,12778,5.291911517831338e-05
+JNCCMNCR10000265_METH_001,12735,5.274103394864774e-05
+"Edler, L., and Elbrächter, M. (2010). The utermöhl method for quantitative phytoplankton analysis, in Microscopic and Molecular Methods for Quantitative Phytoplankton Analysis, eds B. Karlson, C. Cusack, and E. Bresnan (Paris:UNESCO), 13–20., https://repository.oceanbestpractices.org/bitstream/handle/11329/303/WKNCT_Handbook_ver5May2010_2.pdf?sequence=1#page=17",12686,5.2538104175307836e-05
+Swimming,12671,5.247598281612215e-05
+"SCUBA diving, grab samplers and piston corer",12418,5.1428202557856904e-05
+standard lobster trap baited with herring/ mackerel,12333,5.107618152247135e-05
+replicate systematic aerial survey,12263,5.078628184627148e-05
+"Trawl, Fish, Bottom",12183,5.0454967930614486e-05
+capture for bio-logging:device type= GLS:device id=,12049,4.990001712188902e-05
+"Trawl, Beam",12017,4.976749155562622e-05
+LPI,11941,4.9452743335752076e-05
+standard lobster trap baited with salt herring,11888,4.9233247866629315e-05
+GearType=Bottom trawl,11849,4.907173233274653e-05
+"Pelagic (or midwater) trawling in the northern Adriatic developed in the 1950s, targeting mostly small pelagic fish such as anchovy (Engraulis encrasicolus) and sardine (Sardine pilchardus). Midwater trawling is carried out by two paired vessels having similar size and engine power (average engine power is 440 HP, average length overall LOA is 25 m and average vessel size is 90 GT). The midwater trawl net consists of a cone- or pyramid-shaped body whose size depends on engine power, available towing pull, and vessel size. The horizontal opening of the net is provided by the distance between the two vessels during towing, whereas its vertical opening is ensured by floats on the headline and weights on the groundline. The minimum mesh size of the codend of the midwater trawl is 20 mm (EC Regulation 1967/2006).  https://doi.org/10.1371/journal.pone.0191647.g001 https://doi.org/10.3389/fmars.2019.00365",11785,4.880668120022094e-05
+MRCON05300000008_METH_004,11776,4.8769408384709527e-05
+Peterson Grab,11738,4.8612034274772454e-05
+capture for bio-logging:device type= PTT:device id= 7075,11710,4.8496074404292506e-05
+MRNE01080000002B_METH_003,11698,4.8446377316943955e-05
+boat - sled,11635,4.818546760836407e-05
+trawl,11519,4.7705062430661435e-05
+Bottom-grabs are used for sampling. Three replicate samples are collected from each station.,11511,4.767193103909573e-05
+MRNE010800000048_METH_001,11498,4.761809252780147e-05
+Gear=longline; TagType=spaghetti tag; TagAttachment=T-bar,11479,4.7539405472832935e-05
+Collecting method: Marutoku net; Vessel: SOYO; Wire length: ; angle(º): ; Flow meter revolution number: ; mesh size: 335; Analysis method: micro scope,11417,4.728263718819876e-05
+by hand,11238,4.654132230191624e-05
+MRNE010800000035_METH_002,11213,4.643778670327343e-05
+Collecting method: Marutoku net; Vessel: HEIWA IBARAKI; Wire length: 150; angle(º): ; Flow meter revolution number: ; mesh size: 335; Analysis method: micro scope,11126,4.6077482819996446e-05
+"“At each station, scuba divers collected 3 virtually undisturbed sediment cores using polycarbonate sample tubes (12.7 cm I.D) with a sample area of 127 cm^2. Subsamples of the upper 1.5 cm were taken for microphytobenthos analysis. For the microphytobenthic analyses, aliquots of 2 cm^3 of homogenised sediment were withdrawn using a syringe and directly fixed with 10 ml of formaldehyde (4% final concentration) buffered solution CaMg(CO3)2, in pre-filtered bottom seawater (0.2 ml filters). After manual stirring, 20 microlitter aliquots of the sediment suspension were drawn off from the slurries and placed in a counting chamber.”",11040,4.572132036066518e-05
+3 Yankee #36 otter trawl,11037,4.570889608882804e-05
+Photoquadrats - 0.25 x 0.25 m,11005,4.5576370522565245e-05
+https://www.bodc.ac.uk/resources/inventories/cruise_inventory/report/6785/,10976,4.5456269228139585e-05
+2,10933,4.527818799847395e-05
+JNCCMNCR10000261_METH_002,10876,4.504212683356834e-05
+MRCCW31700000003_METH_002,10854,4.495101550676267e-05
+Collecting method: Marutoku net; Vessel: SHOYO; Wire length: ; angle(º): ; Flow meter revolution number: ; mesh size: 335; Analysis method: micro scope,10685,4.425111485993727e-05
+SBTL_SIZEFREQ_HSU,10658,4.413929641340304e-05
+"Trawl, Agassiz medium",10536,4.363404269202612e-05
+MRUMU100000000C6_METH_001,10476,4.338555725528337e-05
+Conteo por sitios (áreas) sin ajuste de la probabilidad de detección.Protocolo red neotropical de aves playeras en el pacifico americano,10470,4.33607087116091e-05
+Gear=purse seine; TagType=spaghetti tag; TagAttachment=T-bar,10414,4.31287889706492e-05
+10 FOOT SEINE,10338,4.2814040750775056e-05
+Human observation in transect and quadrat,10120,4.1911210330609746e-05
+Red bongo de 300 y 500 um con arrastre superficial,10080,4.1745553372781254e-05
+MRCON05300000009_METH_004,10047,4.160888638257274e-05
+Research Vessel: W T,10030,4.153848217549563e-05
+Multicorer,9973,4.130242101059002e-05
+juday100µm,9953,4.1219592531675777e-05
+MRCCW16900000002_METH_005,9857,4.082201583288738e-05
+Bottom longline fishing,9837,4.073918735397313e-05
+https://www.bodc.ac.uk/resources/inventories/cruise_inventory/report/6810/,9828,4.070191453846172e-05
+Research Vessel: AT CAME,9789,4.054039900457894e-05
+Ring net 0.75 o/c,9763,4.0432721981990416e-05
+"Quadrat 50 x 50 cm (0,25 m2)",9692,4.013868088184483e-05
+Baited Camera,9662,4.001443816347346e-05
+"Samples of zooplankton were collected by vertical hauls by Juday net: Opening mouth diameter 37 cm, square 0,1 m2, mesh size 180 micro m.",9630,3.9881912597210664e-05
+Sampling device: WP2 net; WP2 net mesh size: 100 µm,9603,3.9770094150676425e-05
+Count / Photo,9594,3.973282133516501e-05
+"Sampling device : Carottier PVC diam. 11.28 cm (0,01 m²) ; Comptage des taxons après tamisage 1 mm (maille carrée)",9589,3.9712114215436454e-05
+"Sampling device : Quadrat 50 x 50 cm (0,25 m²)",9518,3.941807311529087e-05
+MRSNH01600000008_METH_004,9290,3.8473828455668436e-05
+Commercial Gear: Otter Trawl (stern),9235,3.8246050138654255e-05
+Dredge,9212,3.8150797387902864e-05
+Gear=weir; TagType=spaghetti tag; TagAttachment=T-bar,9195,3.8080393180825755e-05
+"Identification and abundance measurement of each algal, invertebrate and lichen macrospecies within 25 cm2 quadrats: 20 replicates at midshore, 10 northwards (cold) and 10 southwards (hot); and 10 replicates at lowshore on flat surfaces",9183,3.8030696093477205e-05
+Research Vessel: LAND,9119,3.776564496095161e-05
+Box Core; subsamplingcoefficient: 1,9052,3.748816955658888e-05
+MRCON04100000006_METH_001,9042,3.744675531713176e-05
+Commercial Gear: Gillnet,9001,3.727695693535755e-05
+midwater trawl,8985,3.721069415222615e-05
+MRMLN004000000AD_METH_001,8894,3.6833824573166316e-05
+Collecting method: Marutoku net; Vessel: TANKAI; Wire length: 150; angle(º): ; Flow meter revolution number: ; mesh size: 335; Analysis method: micro scope,8825,3.654806632091216e-05
+Beam trawl,8721,3.6117358230558065e-05
+MRCON0530000000A_METH_002,8708,3.6063519719263804e-05
+Peterson bottom sediments sampling,8692,3.5997256936132405e-05
+https://doi.org/10.3389/fmars.2020.572680,8639,3.5777761467009645e-05
+"beam trawl 6 m used, mesh size (in m) 0.02",8638,3.5773620043063935e-05
+"Several field of views could occur over 1 second of video, if speed over ground was high. As such, for each second of video, the video was stopped, crinoids were counted in view then video restarted until new individuals appeared, and video was paused again.",8632,3.574877149938966e-05
+capture for bio-logging:device type= PTT:device id= 6393,8597,3.5603821661289725e-05
+MRCON0530000000A_METH_004,8535,3.534705337665555e-05
+MRUMU10000000009_METH_001,8480,3.511927505964137e-05
+The presence or absence of the focal species,8247,3.4154323280290374e-05
+MRMLN00100000047_METH_001,8198,3.395139350695047e-05
+MRCON0530000000A_METH_003,8146,3.373603946177342e-05
+"Van Veen (0,100)",8113,3.359937247156491e-05
+capture for bio-logging:device type= PTT:device id= 60037,8111,3.3591089623673484e-05
+capture for bio-logging:device type= PTT:device id= 6394,8098,3.353725111237922e-05
+Motoda Net XX13 | https://www.bco-dmo.org/instrument/555 | Mesh size of 100 microns | Single net or net pair vertical tow (1) | Wiebe et al. (2015). A vocabulary for the configuration of net tows for collecting plankton and micronekton. J. Plankton Res. 37(1):21-27. doi:10.1093/plankt/fbu101,8066,3.3404725546116426e-05
+MRSNH0160000000B_METH_003,8015,3.319351292488509e-05
+MRUMU1000000001D_METH_001,7923,3.281250192187955e-05
+Seine net,7921,3.280421907398812e-05
+MBAMNMMP00000001_METH_007,7905,3.2737956290856725e-05
+"Vessel: Bios; Fish samples were taken with a cotton bottom otter-trawl net with wing mesh-size of 55 mm, cod-end mesh-size of 20 mm, foot-rope length of 36.3 m and head-rope length of 29.1 m",7904,3.2733814866911015e-05
+Collecting method: Marutoku B net; Vessel: IWAKI; Wire length: 150; angle(º): ; Flow meter revolution number: ; mesh size: 335; Analysis method: micro scope,7897,3.270482489929103e-05
+BACT_NUC-RNA(10L-or-10min)_W0.22-3,7835,3.2448056614656856e-05
+MRMIT60000000018_METH_001,7822,3.2394218103362595e-05
+Sanders epibenthic sledge,7773,3.219128833002268e-05
+unknown,7682,3.181441875096286e-05
+cbs swath transects https://marine.ucsc.edu/methods/biodiversity-methods.html#bio-method-swath,7667,3.175229739177717e-05
+Trap,7630,3.159906470578581e-05
+Van Veen grab,7584,3.140855920428304e-05
+Collecting method: Marutoku net; Vessel: TENYO; Wire length: ; angle(º): ; Flow meter revolution number: ; mesh size: 335; Analysis method: micro scope,7560,3.130916502958594e-05
+MRCON05300000008_METH_001,7535,3.120562943094313e-05
+SOCKEYE MIGRATION,7534,3.120148800699742e-05
+MRCON0510000000B_METH_001,7529,3.118078088726885e-05
+dive,7521,3.1147649495703156e-05
+https://www.bodc.ac.uk/resources/inventories/cruise_inventory/report/5998/,7500,3.106067959284319e-05
+capture for bio-logging:device type= PTT:device id= 78114,7492,3.10275482012775e-05
+rotenone,7406,3.067138574194622e-05
+MRMIT6000000001C_METH_003,7366,3.050572878411773e-05
+pump,7336,3.0381486065746357e-05
+MRNE014100000003_METH_004,7334,3.037320321785493e-05
+MRCON04300000002_METH_106,7333,3.036906179390922e-05
+MRNE01080000000A_METH_001,7317,3.030279901077782e-05
+"Vertical tows by Hensen net (73 cm mouth diameter, 330 µm mesh size) from above the bottom to the surface (100–0 m) at towing speed of 0.3 m/s",7308,3.026552619526641e-05
+Variable (museum collection) - sieve mesh size: 1 mm,7277,3.0137142052949322e-05
+capture for bio-logging:device type= PTT:device id= 69040,7268,3.0099869237437912e-05
+MRUMU1000000001A_METH_001,7177,2.972299965837808e-05
+MRMIT6000000001C_METH_004,7152,2.961946405973527e-05
+stratified oblique trawl | opening-closing | IYGPT,7119,2.9482797069526758e-05
+JNCCMNCR10000242_METH_004,7099,2.9399968590612512e-05
+Juday-bogorov Net (300µm mesh size).,7099,2.9399968590612512e-05
+"Dredge, rock",7078,2.931299868775255e-05
+"Identification and abundance scaling of each algal, invertebrate and lichen macrospecies observed from top to lowshore; abundance estimation based on the SACFOR scale",7075,2.9300574415915414e-05
+capture for bio-logging:device type= PTT:device id= 24656,7049,2.919289739332689e-05
+JNCCMNCR10000434_METH_001,7045,2.917633169754404e-05
+stratified oblique trawl | opening-closing | IYGPT with MIDOC | https://cchdo.ucsd.edu/data/12287/10003-DOC-0041-01-201516MarineDataVoyageReportV3.docx,7038,2.9147341729924052e-05
+MRCON04100000008_METH_001,7012,2.903966470733553e-05
+horizontal | opening-closing | IYGPT,6960,2.8824310662158484e-05
+bottom trawl,6956,2.8807744966375633e-05
+Gear=NA; TagType=spaghetti tag; TagAttachment=T-bar,6948,2.8774613574809934e-05
+Censos visuales alrededor de la isla con método de transectos,6937,2.8729057911407097e-05
+Gear=otter trawl; TagType=yellow/red disc; TagAttachment=stainless steel wire,6920,2.8658653704329988e-05
+capture for bio-logging:device type= PTT:device id= 69044,6912,2.8625522312764286e-05
+ICHTHYOCIDE,6902,2.8584108073307163e-05
+Redes de arrastre,6886,2.8517845290175764e-05
+https://doi.org/10.1093/icesjms/fsaa225,6868,2.8443299659152942e-05
+ichthyocide,6823,2.825693558159588e-05
+MRCCW30000000061_METH_002,6810,2.820309707030162e-05
+seine,6795,2.8140975711115932e-05
+MRUMU100000000C8_METH_001,6788,2.8111985743495946e-05
+electrofishing,6788,2.8111985743495946e-05
+https://www.bodc.ac.uk/resources/inventories/cruise_inventory/report/6763/,6735,2.789249027437319e-05
+EBS,6710,2.7788954675730378e-05
+Sampling device : Pump  -  Size filter : generally before 2007 1.2 micrometers and after 2007 0.7 micrometers,6706,2.7772388979947527e-05
+MRCON0510000000B_METH_003,6679,2.766057053341329e-05
+Daily sightings of jellyfish by citizens from 2009 to 2017,6669,2.761915629395617e-05
+MRCON05300000004_METH_001,6649,2.753632781504192e-05
+"The date is arbitary set to the 1st of the month because the exact day is not available. Aerial survey is carried out during the specified month at great coefficient low tide. The position of the algae and their total surface of deposit can vary during the month, the situation reported corresponds to the situation on the day of the flight.",6640,2.7499054999530506e-05
+Hayward grab,6637,2.748663072769337e-05
+METH1,6636,2.7482489303747658e-05
+MRCED00500000008_METH_001,6624,2.7432792216399107e-05
+https://www.bodc.ac.uk/resources/inventories/cruise_inventory/report/8276/,6608,2.736652943326771e-05
+https://publications.gc.ca/collections/collection_2017/mpo-dfo/Fs97-6-3158-eng.pdf,6573,2.7221579595167775e-05
+Collecting method: Marutoku net; Vessel: MITO; Wire length: ; angle(º): ; Flow meter revolution number: ; mesh size: 335; Analysis method: micro scope,6572,2.721743817122206e-05
+Recolecta manual,6552,2.7134609692307815e-05
+"beam trawl 4.5 m used, mesh size (in m) 0.08",6545,2.7105619724687826e-05
+MRMCS01900000013_METH_001,6539,2.7080771181013554e-05
+Commercial Gear: Cod trap (NF),6526,2.702693266971929e-05
+capture for bio-logging:device type= PTT:device id= 22490,6479,2.6832285744270808e-05
+"counts were the maximum number of seals observed (visible at the surface) within a three minute duration, separated by a three minute interval, for one hour per site",6469,2.679087150481368e-05
+standard lobster trap baited with flounder,6445,2.6691477330116584e-05
+STROMER,6440,2.6670770210388022e-05
+ND,6422,2.65962245793652e-05
+BACT_NUC-DNA(100L)_W0.22-1.6,6411,2.6550668915962363e-05
+standard lobster trap baited with gaspereau,6388,2.6455416165210976e-05
+MRCON02200000002_METH_034,6379,2.6418143349699563e-05
+https://www.bodc.ac.uk/resources/inventories/cruise_inventory/report/6767/,6370,2.6380870534188153e-05
+Gear=angling or dip net; TagType=spaghetti tag; TagAttachment=T-bar,6364,2.6356021990513878e-05
+Gridded monthly summaries from catch records,6356,2.632289059894818e-05
+MRCON02200000002_METH_006,6356,2.632289059894818e-05
+capture for bio-logging:device type= PTT:device id= 69046,6338,2.6248344967925356e-05
+MRMLN00400000081_METH_001,6330,2.6215213576359654e-05
+Sampling instrument: 91: Observers,6322,2.6182082184793955e-05
+JNCCMNCR10000030_METH_002,6317,2.6161375065065393e-05
+MT 1600,6306,2.6115819401662556e-05
+MRCON04300000002_METH_099,6293,2.6061980890368295e-05
+Hydro,6253,2.58963239325398e-05
+MRNE010800000038_METH_002,6235,2.5821778301516974e-05
+Sampling device: KC demark small plankton net;  net mesh size: 100 µm,6234,2.5817636877571263e-05
+https://www.bodc.ac.uk/resources/inventories/cruise_inventory/report/9357/,6222,2.5767939790222713e-05
+capture for bio-logging:device type= PTT:device id= 69041,6216,2.5743091246548438e-05
+capture for bio-logging:device type= PTT:device id= 69049,6211,2.5722384126819876e-05
+JNCCMNCR10000031_METH_002,6195,2.5656121343688478e-05
+capture for bio-logging:device type= PTT:device id= 82073,6157,2.5498747233751406e-05
+GearType= Midwater trawl,6131,2.5391070211162884e-05
+"Samples were taken by 1L Nansen bottle at  standard depths. The standard sedimentation technique for samples preparation (Morozova-Vodianitkaia, 1954) was used.",6118,2.533723169986862e-05
+GearType=longline,6088,2.5212988981497247e-05
+capture for bio-logging:device type= PTT:device id= 43871,6049,2.5051473447614465e-05
+Grab,6044,2.5030766327885903e-05
+https://www.bodc.ac.uk/resources/inventories/cruise_inventory/report/5387/,6035,2.499349351237449e-05
+MRCCW3000000005A_METH_002,6021,2.4935513577134516e-05
+Utermöhl method,5993,2.4819553706654567e-05
+MRCON01500000003_METH_004,5946,2.4624906781206085e-05
+capture for bio-logging:device type= PTT:device id= 98219,5934,2.4575209693857535e-05
+AMBON cruise line transect survey,5925,2.453793687834612e-05
+capture for bio-logging:device type= PTT:device id= 43846,5922,2.4525512606508984e-05
+Quantitative sampling of Macrozoobenthos,5909,2.4471674095214723e-05
+capture for bio-logging:device type= PTT:device id= 43859,5878,2.434328995289764e-05
+https://www.bodc.ac.uk/resources/inventories/cruise_inventory/report/6514/,5862,2.427702716976624e-05
+capture for bio-logging:device type= PTT:device id= 4276,5844,2.4202481538743416e-05
+crypticfish -- BOT,5810,2.4061673124589195e-05
+capture for bio-logging:device type= PTT:device id= 43881,5805,2.4040966004860634e-05
+Sampling device : Niskin bottle 5L,5794,2.3995410341457797e-05
+MRNE017000000004_METH_002,5780,2.3937430406217822e-05
+Underwater visual census using SCUBA diving gear,5775,2.391672328648926e-05
+http://ipt.sb-roscoff.fr/ipt/resource?r=benthobs-riv-mlx#methods,5774,2.3912581862543547e-05
+MRCCW30000000051_METH_002,5771,2.390015759070641e-05
+capture for bio-logging:device type= PTT:device id= 24654,5750,2.381318768784645e-05
+Commercial Gear: Linetrawl,5742,2.378005629628075e-05
+Plankton pump sampler,5730,2.37303592089322e-05
+MRCCW30000000062_METH_002,5728,2.3722076361040776e-05
+Field observations were conducted for 1–2 hours during low tide,5724,2.3705510665257924e-05
+"Quadrat 40 x 40 cm (0,16 m2)",5714,2.36640964258008e-05
+Alicuotas de la muestra tomada con red,5709,2.364338930607224e-05

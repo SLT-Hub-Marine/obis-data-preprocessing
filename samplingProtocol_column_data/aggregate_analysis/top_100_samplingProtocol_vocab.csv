@@ -1,0 +1,101 @@
+unique_samplingProtocol_value,n_count,proportion_of_all_values_incl_null
+,136888180,0.5669119865369928
+SBTL_SWATH_PISCO,16291206,0.06746879063293394
+SBTL_FISH_PISCO,8681789,0.035954968856222735
+Reef Fish Visual Census doi:10.1016/j.fishres.2011.01.012,7992276,0.033099403207142726
+acoustic detection,7286178,0.030175152041923073
+gps,7154610,0.02963027317623358
+Should point to voyage CTD bottle cast methods.,5773593,0.023910896302997642
+SBTL_SWATH_VRG,4418301,0.018298057560765156
+CPR Tow,3889405,0.01610767500157364
+eDNA expeditions citizen science sampling,2644041,0.010950094710845428
+Bag Seine,2256999,0.009347189704049
+SBTL_FISH_VRG,1548416,0.006412647100324251
+Gill Net,1173016,0.004857956551103807
+Sampling device : Niskin bottle  -  Size filter : generally before 2007 1.2 micrometers and after 2007 0.7 micrometers,924064,0.003826940776970807
+Haps,734428,0.0030415777056016853
+band transect,724871,0.003001998116952512
+nSPC,698970,0.002894731095334614
+GOV Trawl,602963,0.0024971254065786013
+Species subsampled and individual lengths recorded.,601868,0.0024925905473580463
+Eight m Beam trawl,517480,0.0021431040634272663
+acoustic telemetry,505174,0.002092139700351329
+SBTL_SWATH_HSU,504891,0.0020909676773746924
+helicopter,472966,0.0019587527179078233
+midwater trawl; http://calcofi.org/publications/calcofireports/v57/Vol57-Sakuma_pages.163-183.pdf,471986,0.001954694122441025
+CalCOFI ichthyoplankton net tow,463655,0.0019201919195492947
+SBTL_FISH_HSU,429998,0.0017808040138084518
+Campelen,417506,0.001729069345878612
+GearType= Bottom trawl,405326,0.0016786268022198347
+Sampling device : Plastic bucket  -  Size filter : generally before 2007 1.2 micrometers and after 2007 0.7 micrometers,401584,0.001663129593814979
+position from GPS data logger deployed on bird,388590,0.0016093159310643917
+"Water filtrated from the hose/bottle. DNA extraction, sequencing, and data processing were describe in https://doi.org/10.1038/s41597-023-02825-5, and the deviations to the original protocol in https://doi.org/10.1101/2024.08.14.607742",368864,0.0015276222023112682
+"Four m Beam trawl, aft - in IrishSea q3 BTS",363788,0.001506600334362832
+Sampling device : Hydrobios bottle  -  Size filter : generally before 2007 1.2 micrometers and after 2007 0.7 micrometers,358026,0.001482737449587637
+"Four m Beam trawl, aft",330838,0.0013701404153516074
+boat - diver,328653,0.001361091404030226
+original transect,309879,0.0012833403108734208
+CTD rosette,307862,0.0012749870587749187
+Trawl,307651,0.0012741132183223735
+Agassiz trawl,280721,0.0011625846714643378
+1,256954,0.0010641554485465907
+Belt Transect (BLT) surveys; https://inport.nmfs.noaa.gov/inport/item/5565.,245157,0.0010152990702590211
+Vigneron-Dahl North Sea type trawl,242777,0.0010054424812682256
+Casual sighting,233437,0.0009667615816152716
+Tow with mobile fishing gear,231457,0.0009585615622027609
+The start location of the next video interval in sequence is the end location of this 30-second video interval,225951,0.0009357588819576683
+,214877,0.0008898967531828489
+Standardized surveys,210074,0.0008700054939715921
+TOWED01,206500,0.000855204044789616
+Analyzed images are targeted to be taken ~30 seconds apart.,204344,0.00084627513476266
+Niskin 5L,200705,0.0008312044930242124
+Niskin,197547,0.0008181258762036526
+photo_plot_surveys,196750,0.0008148251613189197
+"Young-modified Van Veen grab sampler, 0.04 sq m",196020,0.0008118019218385497
+"CREMP sites consist of two to four monitoring stations delimited by permanent markers. Stations are approximately 2m x 22m and are generally perpendicular to the shoreline. Three video transects (benthic survey), a station species inventory (SSI), and a clioniad sponge survey are conducted annually at each station.",193481,0.0008012868464403859
+Coral_demographics,191348,0.0007924531891641812
+Percent seagrass cover measured by 50 cm by 50 cm quadrat,190266,0.0007879721684549204
+ROUTINE,188960,0.00078256346878182
+GearType=pot,184801,0.000765339286591602
+Sampling instrument: 50: Sediment Grab; Seive mesh size: 1.000mm,181858,0.0007531510759193704
+Seven m Beam trawl,163981,0.0006791148400418693
+Bottle,162849,0.0006744267481353228
+"Four m Beam Trawl, port",162193,0.0006717099740269354
+https://dx.doi.org/10.17504/protocols.io.bp2l69y7klqe/v2,160114,0.0006630999536437993
+standard lobster trap baited with mackerel,159233,0.0006594513591476267
+"ROV equipped with a colour camera (570 line/02 Lux, 4:3), analyzed using customizable video annotation software COVER (Ifremer)",151938,0.0006292396714636545
+bucket,144367,0.0005978849507706658
+capture for bio-logging:device type= PTT:device id=,140714,0.0005827563290969783
+"Four m Beam Trawl, starboard",136309,0.0005645133566161151
+Underwater visual survey - 20 x 2m,127344,0.0005273854909428031
+Transecto de punto intercepto,125818,0.000521065678001646
+fukui trap,125075,0.0005179886000099816
+"vertical net tow using 60cm diameter ring net, 200 micron mesh",124449,0.0005153960686199657
+Engels,123342,0.000510811512312062
+Protocolo SIMAC - Cobertura de organismos sésiles,113004,0.000467997471561287
+9 Western IIA trawl,112169,0.0004645393825666171
+Braun-Blanquet method as described in metadata,111209,0.00046056361557873316
+cbs point contact https://marine.ucsc.edu/methods/biodiversity-methods.html#bio-method-pc,111111,0.00046015775603205336
+standard lobster trap baited with herring,108928,0.00045111702755856314
+https://repository.oceanbestpractices.org/handle/11329/1738,102723,0.0004254194919754175
+Gear=otter trawl; TagType=spaghetti tag; TagAttachment=T-bar,101857,0.0004218330188384306
+Throw-trap method as described in metadata,101093,0.00041866897094390625
+"During low tides, percent cover of taxa in quadrats determined using a 20 cm × 20 cm frame divided in 100 squares with monofilament line.",100620,0.00041671007741758427
+https://dx.doi.org/10.17504/protocols.io.bucjnsun,99159,0.0004106594570328984
+visual observation from whale watching boat,97985,0.00040579742532063207
+Research Vessel: GADUS,96324,0.0003989185201468037
+WP II-56 cm,94311,0.0003905818337440846
+Niskin Carrousel,94281,0.0003904575910257132
+Net,93901,0.0003888838499263425
+averaged_sample,92795,0.00038430343504238456
+Underwater Visual Census,92554,0.00038330535187146785
+https://github.com/HakaiInstitute/rocky-subtidal-fish-invertebrate/blob/main/docs/Protocol.pdf,81714,0.0003384123162999452
+SCUBA transects,80990,0.00033541392536324936
+"""Gear: bottom trawl made of four panels, referenced as GOC73, with 10 mm of mesh side in the codend and doors of type Morgére, with 2.5-3 m vertical opening and 16-22, horizontal opening. SCANMAR system is used in each haul to estimate its effective duration and the geometry of the net.""",79763,0.0003303323981818602
+https://github.com/arms-mbon/documentation/tree/main/armsmbon_handbook,79140,0.0003277522910636814
+Niskin bottle,78282,0.0003241989493182601
+Van Veen,76057,0.00031498428103905
+line trasect and photo quadrat; doi:10.1371/journal.pone.0130823,75152,0.00031123629236818023
+SBTL_FISH_CRANE,74882,0.0003101181079028379
+http://purl.org/spc/digilib/doc/fs6ca,73395,0.0003039598104955635
+boat - camera,73099,0.00030273394900763264
