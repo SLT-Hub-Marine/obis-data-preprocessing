@@ -1,0 +1,319 @@
+﻿Aquatic Mammals 2021, 47(4), 349-354, DOI 10.1578/AM.47.4.2021.349
+
+Short Note
+Finally Within Reach: A Drone Census of an Important,  
+But Practically Inaccessible, Antarctic Fur Seal Colony
+
+Douglas J. Krause and Jefferson T. Hinke
+Antarctic Ecosystem Research Division, Southwest Fisheries Science Center, NOAA Fisheries,  
+
+8901 La Jolla Shores Drive, La Jolla, CA 92037, USA
+E-mail: douglas.krause@noaa.gov
+
+Long-term monitoring studies of large marine 2015; Christie et  al., 2016; Durban et  al., 2016; 
+predator populations are fundamental to the con- Johnston, 2019). Drones are relatively inexpen-
+servation and management of marine ecosys- sive, and UAS surveys frequently obtain data less 
+tems (Boyd et al., 2006; Moore, 2008). The body invasively (Krause et  al., 2021) and as or more 
+condition (Costa et al., 1989), foraging behavior accurately than traditional ground-based methods 
+(Trillmich & Dellinger, 1991; Melin et al., 2008), (e.g., Krause et al., 2017; Hodgson et al., 2018). 
+and population dynamics (Merrick et  al., 1995; The goal of this study was to utilize a medium-
+Monson et  al., 2000) of pinnipeds can provide range vertical takeoff and landing (VTOL) UAS 
+useful indices to inform ecosystem-based fisher- to obtain pup counts from the San Telmo Islands 
+ies management (Weise & Harvey, 2008; Melin during late December after most pups have been 
+et  al., 2010). In the rapidly warming Antarctic born but before they suffer substantial predation 
+Peninsula region (Vaughan et  al., 2003; Cook from leopard seals (Hydrurga leptonyx; Krause 
+et al., 2005; Turner et al., 2014), the Antarctic fur et al., 2015, 2020). 
+seal (Arctocephalus gazella) is a key indicator All UAS flights and ground surveys were con-
+species (Agnew, 1997; Boyd & Murray, 2001). ducted within the United States’ Antarctic Marine 
+
+Accurate counts of individuals are fundamental Living Resources Program (U.S. AMLR) study area 
+to population management but can be challenging 
+to obtain for pinnipeds in remote polar environ-
+ments (Taylor et al., 2007; Southwell et al., 2008). 
+The standard census approach for otariids, such 
+as the Antarctic fur seal (hereafter AFS), is to 
+obtain synoptic counts of newborn pups (Bonner, 
+1968; Bengtson et al., 1990). A series of AFS pup 
+surveys throughout the South Shetland Islands 
+over the last 35 years (Figure 1) illustrated that 
+AFS population dynamics in the archipelago are 
+largely driven by pup production from breeding 
+colonies at Cape Shirreff, Livingston Island, and 
+on the adjacent San Telmo Islands. These two col-
+onies produced 68 to 85% of all pups born in the 
+South Shetland Islands between 1987 and 2008. 
+Although annual counts have been conducted Figure 1. Total synoptic pup counts (live and dead) from 
+at Cape Shirreff since the 1990s, surveys of the the South Shetlands archipelago (SSI; gold), and from 
+San Telmo Islands have not been completed since the subset populations at Cape Shirreff (CS; blue) and the 
+2008. Despite the proximity of the San Telmo San Telmo Islands (STI; green), between the 1986-1987 and 
+Islands to Cape Shirreff (~1 km west), surround- the 2018-2019 Antarctic seasons. All seasons are referred to 
+ing reefs make access by sea dangerous and dif- by the year the season ended. Pup counts were taken from 
+ficult (Figure 2). Bengtson et al. (1990), Croll et al. (1992), Aguayo & Torres 
+
+Over the last decade, unoccupied aerial sys- (1993), Meyer et  al. (1996), Torres et  al. (1998), Goebel 
+tems (UAS), or drones, have become common et  al. (2003, 2008), and U.S. Antarctic Marine Living 
+tools for wildlife monitoring (Goebel et  al., Resources (AMLR) (unpub. data, 2013, 2015, 2017).
+
+
+
+350 Krause and Hinke
+
+Figure 2. (A) A satellite image of Cape Shirreff, Livingston Island, and the San Telmo Islands—the yellow dot and concentric 
+circles represent the take-off/landing location and 800 m distance markers, and the red line traces the flight path of the APH-28; 
+and (B) an example of the UAS-captured photomerge for the south island.
+
+around Cape Shirreff, Livingston Island, Antarctica photographs were taken per waypoint at 66 m 
+(62.468º S, 60.775º W). We flew an APH-28 altitude. The clearest image was selected per way-
+(Aerial Imaging Solutions, Old Lyme, CT, USA) point, and a composite photomerge was created 
+battery-powered VTOL UAS for all missions. The for each breeding area using Adobe Photoshop 
+APH-28 is easily transported across rough terrain, CS6 (e.g., see Figure 2). Pups were identified and 
+is low weight (1.6 kg; payload capacity: 1.8 kg) counted using the “Count Tool” in Photoshop. 
+and weatherproof, and features a live-video display To account for potential bias in UAS counts 
+ground station. The field configuration included a due to pups being obstructed by terrain (Reyes 
+downward-facing Olympus E-PM2 digital camera et al., 1999) or otherwise non-uniform availability 
+(16.1 megapixel, micro four-thirds format, 0.23 kg) during the survey (Brack et al., 2018), we con-
+with an Olympus M. Zuiko 25 mm f/1.8 lens, and ducted similar mapping missions on Cape Shirreff 
+a 1, 2, or 3 battery configuration (ThunderPower and coupled these missions with contemporane-
+6s 440 mAmp Li-PO) as payload. The camera ous ground surveys. Four breeding areas (Copi, 
+was set to record large super fine JPEG and RAW Hue, Daniel, and Marko) within the main Cape 
+images, ISO 1250, aspect ratio: 4:3, shutter prior- Shirreff breeding colony were surveyed using 
+ity mode (shutter speed 1/2,000), as described in identical UAS equipment and flight characteris-
+previous studies (Durban et al., 2015; Goebel et al., tics on 31 December 2018 and 1 January 2019. 
+2015). Calibration flights utilizing a medium con- These beaches were chosen because they have 
+trast (8:1) resolution target (RST-704, Series C) similar terrain to the San Telmo Islands in which 
+produced undistorted photographs with a ground- pups may be concealed from overhead UAS imag-
+resolved distance of 1.0 cm at 30 m altitude (NOAA ery (e.g., Franco-Trecu et al., 2019). Ground cen-
+Fisheries, unpub. data, August 2014). suses were conducted in concert with these flights 
+
+A flight crew of four (pilot, ground station oper- by three independent observers. UAS-derived 
+ator, and two spotters) obtained full coverage of counts from the four Cape Shirreff breeding 
+breeding beaches on the San Telmo Islands during colonies were assessed against the “true” ground 
+two consecutive, standardized mapping missions counts, and a correction factor was calculated to 
+(total of 68 waypoints, set to allow ≥ 30% over- adjust UAS-derived pup counts for the San Telmo 
+lap between images) on 31 December 2018. Two Islands. 
+
+
+
+Drone Census of Antarctic Fur Seals 351
+
+Table 1. Antarctic fur seal (Arctocephalus gazella) pup census counts from UAS-captured photographs and concurrently by 
+field biologists in the colony. Error was calculated as % Error = |[1-(UAS Count/Ground Count)]*100 |; mean correction 
+factor = 1+ mean % Error.
+
+AFS colony UAS-derived pup count Ground pup count (±SD) % error
+Daniel 34 34.33 (±0.58) 0.97
+Marko 62 63.00 (±1.00) 1.59
+Copi 65 66.67 (±1.53) 2.50
+Hue 78 79.33 (±1.15) 1.68
+Mean correction factor: 1.017
+
+The APH-28 proved to be a minimally inva- seals control this AFS population from the top 
+sive, robust, and accurate survey tool. The longest down (Boveng et al., 1998; Krause et al., 2020). 
+survey flight reached 1.7 km from the ground sta- However, rapid environmental change within the 
+tion (Figure 2), had a 26.1 min duration, and expe- region is also expected to exert bottom-up con-
+rienced no radio or video signal loss. Visual con- trol on predator populations like AFS (Massom & 
+tact was maintained throughout the flight. While Stammerjohn, 2010). Warming sea-surface tem-
+pup counts were similar between our ground and peratures may be limiting access of AFS to their 
+aerial methodologies (Lowry, 1999), the UAS- main prey, Antarctic krill (Euphausia superba), 
+derived counts consistently underestimated the by shifting its distribution and abundance (Klein 
+“true” ground counts on Cape Shirreff (Table 1), et al., 2018). Further, competition for krill by 
+likely due to the rocky, steep terrain obstructing recovering cetacean populations (Zerbini et al., 
+pups from a top-down view. However, valida- 2019) or a growing fishery (e.g., Watters et al., 
+tion error rates were low (< 3%) and resulted in a 2020) may play a role in determining AFS pup 
+mean correction factor of 1.017 (Table 1). Drone production. A thorough analysis of AFS popula-
+surveys provide a permanent record of the census, tion dynamics, including the effects of potential 
+and a similar UAS-based approach may alleviate environmental factors, is needed for this impor-
+risk and reduce costs for future pinniped surveys tant indicator species.
+in remote areas (Moreland et al., 2015; Sweeney 
+et al., 2015). Acknowledgments
+
+The corrected census count from the San Telmo 
+Islands was 333, which represents a 79% reduc- This short note was improved by editorial sug-
+tion since the most recent survey in 2008 and a gestions from G. Watters and two anonymous 
+90% reduction from the recent peak of produc- reviewers. The financial, infrastructure, and logis-
+tion in 1997 (Figure 1). Pup production on Cape tical support of the U.S. AMLR Program and 
+Shirreff has been similarly reduced since its peak a grant from the NOAA Office of Oceanic and 
+in 2004, suggesting a catastrophic decline to the Atmospheric Research, UAS Program Office, 
+South Shetland population. Such rates of decline funded by the Office of Marine and Aviation 
+are unusually steep for pinniped populations Operations, made this work possible. We are 
+(Hanks, 1981). Given the historical importance grateful to A. Fox, A. Currylow, S. Walden, 
+of Cape Shirreff and the San Telmo Islands to the and L. Brazier for field data collection, and to 
+AFS population dynamics in the South Shetlands M. Goebel and W. Perryman for administrative 
+archipelago, these declines emphasize the need and planning support. Thank you to J. Stocker for 
+to synoptically survey all known and potential creating Figure 2, and to D. LeRoi (Aerial Imaging 
+breeding sites across the region as soon as is Solutions, LLC) for vital and excellent technical 
+practicable. support. All flight operations and surveys were 
+
+Local declines in abundance of large marine conducted in accordance with Marine Mammal 
+predators may arise for several reasons, including Protection Act Permit No. 20599 granted by the 
+emigration, increased mortality, or reduced repro- Office of Protected Resources/National Marine 
+duction. Antarctic fur seals demonstrate high rates Fisheries Service, the Antarctic Conservation 
+of philopatry (Forcada & Staniland, 2009); there- Act Permit No. 2017-012, NMFS-SWFSC 
+fore, it is unlikely that declines like those illus- Institutional Animal Care and Use Committee 
+trated here are due to emigration. A growing body Permit No. SWPI 2014-03R, and all domestic and 
+of research indicates that predation from leopard international flight regulations.
+
+
+
+352 Krause and Hinke
+
+Literature Cited Durban, J. W., Fearnbach, H., Barrett-Lennard, L. G., 
+Perryman, W. L., & Leroi, D. J. (2015). Photogrammetry 
+
+Agnew, D. J. (1997). Review: The CCAMLR ecosystem of killer whales using a small hexacopter launched at 
+monitoring programme. Antarctic Science, 9(3), 235- sea. Journal of Unmanned Vehicle Systems, 1-5. https://
+242. https://doi.org/10.1017/S095410209700031X doi.org/10.1139/juvs-2015-0020
+
+Aguayo, A., & Torres, D. (1993). Análisis de los censos d Durban, J. W., Moore, M. J., Chiang, G., Hickmott, L. S., 
+e Arctocephalus gazella efectuados en el sitio de espe- Bocconcelli, A., Howes, G., Bahamonde, P. A., Perryman, 
+cial interés científico Nº 32, isla Livingston, Antártica W. L., & LeRoi, D. J. (2016). Photogrammetry of blue 
+[Analysis of an Arctocephalus gazella census carried out whales with an unmanned hexacopter. Marine Mammal 
+at site of special scientific interest No. 32, Livingston Science, 32(4), 1510-1515. https://doi.org/10.1111/mms. 
+Island, Antarctica]. Serie Científica INACH, 43, 87-91. 12328
+http://hdl.handle.net/20.500.11894/758 Forcada, J., & Staniland, I. J. (2009). Antarctic fur seal: 
+
+Bengtson, J. L., Ferm, L. M., Härkönen, T. J., & Stewart, Arctocephalus gazella. In W. F. Perrin, B. Würsig, & 
+B. S. (1990). Abundance of Antarctic fur seals in the J. G. M. Thewissen (Eds.), Encyclopedia of marine 
+South Shetland Islands, Antarctica, during the 1986/87 mammals (2nd ed., pp. 36-42). Academic Press.
+austral summer. In K. R. Kerry & G. Hempel (Eds.), Franco-Trecu, V., Drago, M., Grandi, M. F., Soutullo, A., 
+Antarctic ecosystems (pp. 265-270). Springer-Verlag. Crespo, E. A., & Inchausti, P. (2019). Abundance and popu-
+https://doi.org/10.1007/978-3-642-84074-6_30 lation trends of the South American fur seal (Arctocephalus 
+
+Bonner, W. (1968). The fur seal of South Georgia (British australis) in Uruguay. Aquatic Mammals, 45(1), 48-55. 
+Antarctic Survey Scientific Report, 56). British Antarctic https://doi.org/10.1578/AM.45.1.2019.48
+Survey. 82 pp. Goebel, M. E., Vallejos, V. I., Trivelpiece, W. Z., Holt, R. S., 
+
+Boveng, P., Hiruki, L., Schwartz, M., & Bengtson, J. (1998). & Acevedo, J. (2003). Antarctic fur seal pup production. 
+Population growth of Antarctic fur seals: Limitation by a In J. D. Lipsky (Ed.), AMLR 2001/02 field season report 
+top predator, the leopard seal? Ecology, 79(8), 2863-2877. (NOAA Technical Memo SWFSC-350, pp. 139-152). 
+https://doi.org/10.1890/0012-9658(1998)079[2863:PGO Southwest Fisheries Science Center. 
+AFS]2.0.CO;2 Goebel, M., McDonald, B., Freeman, S., Haner, R., Spear, N., 
+
+Boyd, I. L., & Murray, A. W. A. (2001). Monitoring a & Sexton, S. (2008). Pinniped research at Cape Shirreff, 
+marine ecosystem using responses of upper trophic level Livingston Island, Antarctica. In A. Van Cise (Ed.), AMLR 
+predators. Journal of Animal Ecology, 70(5), 747-760. 2007/08 field season report: Objectives, accomplish-
+https://doi.org/10.1046/j.0021-8790.2001.00534.x ments and tentative conclusions (NOAA-TM-NMFS-
+
+Boyd, I. L., Wanless, S., & Camphuysen, C. J. (2006). Top SWFSC-427). Antarctic Ecosystem Research Division, 
+predators in marine ecosystems: Their role in moni- Southwest Fisheries Science Center.
+toring and management. Cambridge University Press. Goebel, M., Perryman, W., Hinke, J., Krause, D., Hann, N., 
+https://doi.org/10.1017/CBO9780511541964 Gardner, S., & LeRoi, D. (2015). A small unmanned aerial 
+
+Brack, I. V., Kindel, A., & Oliveira, L. F. B. (2018). Detection system for estimating abundance and size of Antarctic 
+errors in wildlife abundance estimates from unmanned predators. Polar Biology, 38(5), 619-630. https://doi.
+aerial systems (UAS) surveys: Synthesis, solutions, and org/10.1007/s00300-014-1625-4
+challenges. Methods in Ecology and Evolution, 9(8), Hanks, J. (1981). Characterisation of population condition. 
+1864-1873. https://doi.org/10.1111/2041-210X.13026 In W. Fowler & T. D. Smith (Eds.), Dynamics of large 
+
+Christie, K. S., Gilbert, S. L., Brown, C. L., Hatfield, M., & mammal populations (pp. 47-73). The Blackburn Press.
+Hanson, L. (2016). Unmanned aircraft systems in wildlife Hodgson, J. C., Mott, R., Baylis, S. M., Pham, T. T., 
+research: Current and future applications of a transforma- Wotherspoon, S., Kilpatrick, A. D., Segaran, R. R., 
+tive technology. Frontiers in Ecology and the Environment, Reid, I., Terauds, A., & Koh, L. P. (2018). Drones count 
+14(5), 241-251. https://doi.org/10.1002/fee.1281 wildlife more accurately and precisely than humans. 
+
+Cook, A., Fox, A., Vaughan, D., & Ferrigno, J. (2005). Methods in Ecology and Evolution, 9(5), 1160-1167. 
+Retreating glacier fronts on the Antarctic Peninsula https://doi.org/10.1111/2041-210X.12974
+over the past half-century. Science, 308(5721), 541-544. Johnston, D. W. (2019). Unoccupied aircraft systems in 
+https://doi.org/10.1126/science.1104235 marine science and conservation. Annual Review of 
+
+Costa, D. P., Croxall, J. P., & Duck, C. D. (1989). Foraging Marine Science, 11(1), 439-463. https://doi.org/10.1146/
+energetics of Antarctic fur seals in relation to changes annurev-marine-010318-095323
+in prey availability. Ecology, 70(3), 596-606. https://doi. Klein, E. S., Hill, S. L., Hinke, J. T., Phillips, T., & Watters, G. M. 
+org/10.2307/1940211 (2018). Impacts of rising sea temperature on krill increase 
+
+Croll, D., Bengtson, J., Holt, R. S., & Torres, D. (1992). risks for predators in the Scotia Sea. PLOS ONE, 13(1), 
+Census of Antarctic fur seal colonies of the South e0191011. https://doi.org/10.1371/journal.pone.0191011
+Shetland Islands, 1991-92. In AMLR 1991/92 field Krause, D. J., Goebel, M. E., & Kurle, C. M. (2020). Leopard 
+season report (Administrative Report LJ-92–17, pp. seal diets in a rapidly warming polar region vary by year, 
+82-85). Antarctic Research Group, National Oceanic and season, sex, and body size. BMC Ecology, 20, Article 32. 
+Atmospheric Administration, U.S. AMLR Program. https://doi.org/10.1186/s12898-020-00300-y
+
+
+
+Drone Census of Antarctic Fur Seals 353
+
+Krause, D. J., Goebel, M. E., Marshall, G. J., & Abernathy, craft system (UAS) for surveys of spotted and ribbon 
+K. (2015). Novel foraging strategies observed in a seals in the Bering Sea pack ice. Journal of Unmanned 
+growing leopard seal (Hydrurga leptonyx) popula- Vehicle Systems, 3(3), 114-122. https://doi.org/10.1139/
+tion at Livingston Island, Antarctic Peninsula. Animal juvs-2015-0012
+Biotelemetry, 3, Article 24, 1-14. https://doi.org/10.1186/ Reyes, L. M., Crespo, E. A., & Szapkievich, V. (1999). 
+s40317-015-0059-2 Distribution and population size of the southern sea lion 
+
+Krause, D. J., Hinke, J. T., Goebel, M. E., & Perryman, W. L. (Otaria flavescens) in central and southern Chubut, 
+(2021). Drones minimize Antarctic predator responses Patagonia, Argentina. Marine Mammal Science, 15(2), 478-
+relative to ground survey methods: An appeal for con- 493. https://doi.org/10.1111/j.1748-7692.1999.tb00814.x
+text in policy advice. Frontiers in Marine Science, 8, Southwell, C., Paxton, C. G. M., Borchers, D., Boveng, P., 
+648772. https://doi.org/10.3389/fmars.2021.648772 Rogers, T., & de la Mare, W. K. (2008). Uncommon or 
+
+Krause, D. J., Hinke, J. T., Perryman, W. L., Goebel, M. E., cryptic? Challenges in estimating leopard seal abundance 
+& LeRoi, D. J. (2017). An accurate and adaptable photo- by conventional but state-of-the-art methods. Deep Sea 
+grammetric approach for estimating the mass and body Research Part I: Oceanographic Research Papers, 55(4), 
+condition of pinnipeds using an unmanned aerial system. 519-531. https://doi.org/10.1016/j.dsr.2008.01.005
+PLOS ONE, 12(11), e0187465. https://doi.org/10.1371/ Sweeney, K. L., Helker, V. T., Perryman, W. L., LeRoi, D. J., 
+journal.pone.0187465 Fritz, L. W., Gelatt, T. S., & Angliss, R. P. (2015). Flying 
+
+Lowry, M. S. (1999). Counts of California sea lion beneath the clouds at the edge of the world: Using a hexa-
+(Zalophus californianus) pups from aerial color photo- copter to supplement abundance surveys of Steller sea lions 
+graphs and from the ground: A comparison of two meth- (Eumetopias jubatus) in Alaska. Journal of Unmanned 
+ods. Marine Mammal Science, 15(1), 143-158. https:// Vehicle Systems, 4(1), 70-81. https://doi.org/10.1139/juvs-
+doi.org/10.1111/j.1748-7692.1999.tb00786.x 2015-0010
+
+Massom, R. A., & Stammerjohn, S. E. (2010). Antarctic Taylor, B. L., Martinez, M., Gerrodette, T., Barlow, J., & 
+sea ice change and variability – Physical and ecological Hrovat, Y. N. (2007). Lessons from monitoring trends 
+implications. Polar Science, 4(2), 149-186. https://doi. in abundance of marine mammals. Marine Mammal 
+org/10.1016/j.polar.2010.05.001 Science, 23(1), 157-175. https://doi.org/10.1111/j.1748-
+
+Melin, S. R., DeLong, R. L., & Siniff, D. B. (2008). The 7692.2006.00092.x
+effects of El Niño on the foraging behavior of lactating Torres, D., Vallejos, V., Acevedo, J., Hucke-Gaete, R., & Zarate, 
+California sea lions (Zalophus californianus california- S. (1998). Registros biológicos atípicos en cabo Shirreff, 
+nus) during the nonbreeding season. Canadian Journal isla Livingston, Antártica [Atypical biological records 
+of Zoology, 86(3), 192-206. https://doi.org/10.1139/Z07- from Cape Shirreff, Livingston Island, Antarctica]. Boletin 
+132 Antarctico Chileno, 17, 17-19. http://antarticarepositorio.
+
+Melin, S. R., Orr, A. J., Harris, J. D., Laake, J., DeLong, umag.cl/handle/20.500.11894/271
+R. L., Gulland, F. M. D., & Stoudt, S. (2010). Trillmich, F., & Dellinger, T. (1991). The effects of El Niño 
+Unprecedented mortality of California sea lion pups on Galapagos pinnipeds. In F. Trillmich & K. Ono 
+associated with anomalous oceanographic conditions (Eds.), Pinnipeds and El Niño: Responses to environ-
+along the central California coast in 2009. CalCOFI mental stress (Vol. 88, pp. 66-74). Springer. https://doi.
+Report, 51, 182-194. www.calcofi.org/publications/cal- org/10.1007/978-3-642-76398-4
+cofireports/v51/Vol51_Melin_pg182-194.pdf Turner, J., Barrand, N. E., Bracegirdle, T. J., Convey, P., 
+
+Merrick, R. I., Brown, D. G., Calkins, D. C., & Loughlin, Hodgson, D. A., Jarvis, M., Jenkins, A., Marshall, 
+T. R. (1995). A comparison of Steller sea lion, G., Meredith, M. P., Roscoe, H., Shanklin, J., French, 
+Eumetopias jubatus, pup masses between rookeries with J., Goosse, H., Guglielmin, M., Gutt, J., Jacobs, S., 
+increasing and decreasing populations. Fishery Bulletin, Kennicutt II, M. C., Masson-Delmotte, V., Mayewski, 
+93, 753-758. P., Navarro, F., . . . Klepikov, A. (2014). Antarctic 
+
+Meyer, W., Walker, B., & Holt, R. (1996). Antarctic fur seal climate change and the environment: An update. 
+abundance and distribution in the South Shetland Islands, Polar Record, 50(3), 237-259. https://doi.org/10.1017/
+1996. In J. Martin (Ed.), AMLR 1995/96 field season report S0032247413000296
+(NOAA-AR-LJ 96-15). Antarctic Ecosystem Research Vaughan, D., Marshall, G., Connolley, W., Parkinson, C., 
+Group, Southwest Fisheries Science Center. Mulvaney, R., Hodgson, D., King, J. C., Pudsey, C. J., & 
+
+Monson, D. H., Estes, J. A., Bodkin, J. L., & Siniff, D. B. Turner, J. (2003). Recent rapid regional climate warm-
+(2000). Life history plasticity and population regula- ing on the Antarctic Peninsula. Climatic Change, 60(3), 
+tion in sea otters. Oikos, 90(3), 457-468. https://doi. 243-274. https://doi.org/10.1023/A:1026021217991
+org/10.1034/j.1600-0706.2000.900304.x Watters, G. M., Hinke, J. T., & Reiss, C. S. (2020). Long-
+
+Moore, S. E. (2008). Marine mammals as ecosystem sen- term observations from Antarctica demonstrate that 
+tinels. Journal of Mammalogy, 89(3), 534-540. https:// mismatched scales of fisheries management and preda-
+doi.org/10.1644/07-MAMM-S-312R1.1 tor-prey interaction lead to erroneous conclusions about 
+
+Moreland, E. E., Cameron, M. F., Angliss, R. P., & Boveng, precaution. Scientific Reports, 10(1), 2314. https://doi.
+P. L. (2015). Evaluation of a ship-based unoccupied air- org/10.1038/s41598-020-59223-9
+
+
+
+354 Krause and Hinke
+
+Weise, M. J., & Harvey, J. T. (2008). Temporal variability in 
+ocean climate and California sea lion diet and biomass 
+consumption: Implications for fisheries management. 
+Marine Ecology Progress Series, 373, 157-172. https://
+doi.org/10.3354/meps07737
+
+Zerbini, A. N., Adams, G., Best, J., Clapham, P. J., Jackson, 
+J. A., & Punt, A. E. (2019). Assessing the recovery 
+of an Antarctic predator from historical exploitation. 
+Royal Society Open Science, 6(10), 190368. https://doi.
+org/10.1098/rsos.190368

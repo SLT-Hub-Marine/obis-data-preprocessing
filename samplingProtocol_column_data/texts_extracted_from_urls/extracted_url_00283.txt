@@ -1,0 +1,1607 @@
+﻿Hakai Nearshore Marine Ecology
+Rocky Intertidal Survey Methods
+
+2019 Hakai Institute
+G. Sadlier-Brown, A. Gehman, T. Froese
+
+
+
+Introduction 2
+
+Hakai Rocky Intertidal Research Objectives 2
+
+Hakai Central Coast Rocky Intertidal Study Sites 3
+
+Survey Design 9
+
+Survey Protocol Overview 10
+
+Field Protocols 12
+Point Intercept Plot Monitoring 12
+
+Barnacle Dynamics: Point Intercepts 13
+Mussel Dynamics: Point Intercepts 14
+Fucus Dynamics: Point Intercepts 15
+
+Motile Invertebrates: Biodiversity 17
+Mussel Dynamics: Length and Bed Depth 20
+Surfgrass Community Structure 23
+
+Motile Invertebrates 23
+Length and Density 24
+
+Seastar and Macroinvertebrate Dynamics: Swaths 26
+Mussel Growth Experiment 30
+Surface Water Grab Samples 34
+
+Field Protocols 34
+Lab Protocols 35
+
+Appendix 39
+Appendix A. Data Sheets 39
+
+Appendix A1. Field Cover Sheet 39
+Appendix A2. Point Intercept Plot Survey Data Sheet 40
+Appendix A3. Motile Invertebrates: Biodiversity Data Sheet 42
+Appendix A4. Mussel Dynamics: Length and Bed Depth Data Sheet 43
+Appendix A5. Surfgrass Community Structure: Motile Invertebrate Data Sheet 44
+Appendix A6. Surfgrass Community Structure: Length and Density Data Sheet 45
+Appendix A7. Seastar and Macroinvertebrate Swath Data Sheet 46
+Appendix A8. Leather Chiton Swath Data Sheet 48
+
+Appendix B. Invertebrate Species List 49
+Appendix C. Macroalgae Species List 52
+Appendix D. UCSC Wasting Disease Categories 53
+
+References 56
+
+1
+
+
+
+Introduction
+
+The Hakai Nearshore Research Program documents long term observations of
+ecosystem, community and population change in nearshore habitats, and addresses the
+factors driving spatial and temporal variation in these systems. Rocky shores account
+for more than 33% of the world's coastal shorelines (Johnson, 1988), and are amongst
+the dominant coastal habitats in British Columbia, extending along over 50% of the BC
+coastline (Reshitnyk, pers. comm.). Rocky shore intertidal benches are biodiverse,
+serving as important habitat for sessile invertebrates, nursery and feeding habitat for
+fish and crustaceans (Rilov and Schiel, 2006; Dias et. al, 2016) and feeding and
+roosting ground for birds (Marsh, 1986). Characterized by strong environmental
+gradients and interacting species competing for space and other resources, rocky
+shores provide an excellent backdrop to evaluate climate change effects, scaling
+between individual, population, community and ecosystem level effects. Many rocky
+shore intertidal species are indicators of environmentally driven change to marine
+ecological communities. As such, they act as sentinels to the biological costs of climate
+change (Denny, 1987; Helmuth et. al., 2002, Harley, 2011).
+
+The Hakai Institute Rocky Intertidal Program aims to evaluate the trends and key
+drivers of change within the rocky shore intertidal ecosystem on Calvert Island, BC. We
+are dedicated to documenting annual trends in biodiversity and annual and seasonal
+trends of indicator species abundance to achieve focal research objectives. These data
+provide an essential resource for us to determine changes in the intertidal community
+under continual exposure to a changing climate. This document focuses on methods for
+documenting temporal and spatial dynamics within the rocky intertidal ecosystem.
+
+Hakai Rocky Intertidal Research Objectives
+
+● Track seasonal and annual changes in indicator species productivity and
+biodiversity
+
+● Determine the drivers of change in rocky intertidal ecosystems
+● Assess resilience of rocky intertidal species to disturbance, stress and disease
+● Understand connectivity between rocky intertidal ecosystems and other coastal
+
+ecosystems
+
+Focal Research Questions:
+1. What are the seasonal and interannual drivers of variability in abundance and
+
+distribution of rocky intertidal indicator species (barnacles, mussels, Fucus spp.,
+surfgrass)?
+
+2
+
+
+
+2. Does rocky intertidal habitat complexity drive mobile invertebrate biodiversity?
+3. Are rocky intertidal habitats on Calvert Island resilient to disturbance, stress and
+
+disease?
+4. What are the costs of asteroid idiopathic wasting syndrome for intertidal sea stars
+
+and their community?
+
+Hakai Central Coast Rocky Intertidal Study Sites
+
+Nearshore Marine Ecology rocky intertidal study sites on exposed coast were
+established in 2016 to encompass sufficient habitat in the low, mid and high intertidal
+zones in order to conduct long-term research. Sites were selected to monitor sessile
+invertebrate and macroalgal substrate coverage, surfgrass meadow characteristics,
+macro-invertebrate biodiversity, density, abundance and disease status and water
+chemistry characteristics. Methods were developed with a goal of data comparison
+capability across Hakai Institute projects and habitats. Proximity to the Calvert Island
+Ecological Observatory was also a factor in site selection, as the exposed rocky
+coastline complicates boat access.
+
+Seasonal observations of indicator species abundance and the diversity of their
+associated mobile invertebrate communities were conducted (February, May, June,
+August, November) at rocky intertidal sites (n=3) on Calvert Island (Fig. 1, red squares).
+
+3
+
+
+
+A. B.
+
+C.
+
+Figure 1. Map of rocky intertidal study sites and mussel growth experiments (red) on
+Calvert Island, British Columbia. West Beach (A), North Beach (B) and Fifth Beach (C)
+study sites have been surveyed since 2016, while the mussel growth experiments
+began in 2017.
+
+4
+
+
+
+Figure 2. Map of Fifth Beach rocky intertidal and mussel growth experiment study site
+(51.64068 ° N, -128.156779 ° W) including bolt locations with modeled elevations (m)
+on Calvert Island, British Columbia. Pink lines indicate permanent plots (75cm x 50cm).
+Top right: Overview of full site with species specific survey locations indicated in subset
+boxes. Blue box indicates Fucus spp. permanent plots and temperature logger. Green
+box indicates barnacle permanent plots, surfgrass bolts and Martone Lab permanent
+bolts. Red box indicates mussel permanent plots and mussel experiment. Top left:
+Fucus spp. plots 1-5 and temperature logger location with modeled elevations (m).
+Bottom: Barnacle permanent plots 1-5, surfgrass transect and Martone Lab permanent
+bolts with modeled elevations (m). Bottom inset (red box): Mussel permanent plots
+1-5 and mussel growth experiment locations with modeled elevations (m).
+
+5
+
+
+
+Figure 3. Map of North Beach and Crazytown rocky intertidal and mussel growth
+experiment study site (51.66508° N,  -128.1347° W) including bolt locations with
+modeled elevations (m) on Calvert Island, British Columbia. Pink lines indicate
+permanent plots (75cm x 50 cm). Bottom left: Overview of full site with species specific
+survey locations indicated in subset boxes. Red box indicates Fucus spp. permanent
+plots, temperature logger and Martone Lab permanent bolt locations at North Beach.
+Yellow box indicates barnacle permanent plots. Orange box indicates mussel
+permanent plots, surfgrass transect and mussel growth experiment locations.Top left:
+Barnacle plots 1-5 with modeled elevations (m) at Crazytown. Top right: Fucus spp.
+permanent plots, temperature logger and Martone Lab permanent bolt locations with
+modeled elevations (m) at North Beach. Bottom right: Mussel plots 1-5, surfgrass
+transect and mussel growth experiment locations with modeled elevations (m) at
+Crazytown.
+
+6
+
+
+
+Figure  4. Map of West Beach rocky intertidal and mussel growth experiment study site
+(51.657423 °N, -128.148814°W) including bolt locations with modeled elevations (m) on
+Calvert Island, British Columbia. Pink lines indicate permanent plots (75cm x 50 cm).
+Top right: Overview of full site with species specific survey locations indicated in subset
+boxes. Blue box indicates barnacle and fucus permanent plots, surfgrass transect and
+temperature logger.  Green box indicates permanent mussel plots and mussel growth
+experiment.Top left: Mussel plots 1-5 and mussel growth experiment locations with
+modeled elevations (m). Bottom: Barnacle plots 1-5, Fucus spp. plots 1-5 and
+surfgrass transect bolt locations with modeled elevations (m).
+
+7
+
+
+
+Survey Design
+
+At Hakai Nearshore Marine Ecology rocky intertidal study sites (n=3), field
+technicians conduct plot and transect-level surveys at permanent locations targeting
+specific environmental conditions (e.g. tidal heights, exposure). To evaluate change
+over time, permanent 50cm x 75cm plots (n=15 per site) delineated by bolts drilled into
+intertidal rock have been installed in 3 zones classified by sessile invertebrate and
+macroalgal substrate coverage: barnacle (n=5), mussel (n=5) and Fucus spp. (n=5).
+Surfgrass communities are observed along fixed 10m transects that run parallel to
+shore (n=1 transect per site). Seastar and other macro-invertebrate swath surveys are
+conducted in the high, mid and low intertidal zones within a 30m boundary horizontal to
+the shoreline. Intertidal temperature loggers associated with each habitat type (n=4 per
+site) have been installed to monitor changes in ocean conditions (Figure 5).
+
+Figure 5. Temperature logger installation at Fifth Beach. Protective cages have
+been installed to prevent damage. Temperature loggers record temperature
+every 10 minutes year round. Data is downloaded regularly.
+
+8
+
+
+
+Survey Protocol Overview
+
+During each seasonal rocky intertidal site visit, Hakai Institute field technicians conduct
+plot and transect-level surveys to record sessile invertebrate and macroalgae substrate
+coverage, Phyllospadix spp. meadow characteristics, macro-invertebrate biodiversity,
+density, abundance and disease status and water chemistry characteristics (Table 2).
+
+Table 2. Surveys conducted at rocky intertidal sites and respective metrics obtained.
+Parameters Collected
+
+Survey Frequency Level
+Field Lab
+
+Phyllospadix Record: percent cover, bed
+spp. cover and Seasonal Transect thickness, shoot density,
+biomass flowering shoot density,
+
+epiphytes, canopy height
+Pisaster Seasonal
+ochraceu Annual Swath Record: density, abundance, size,
+
+s wasting disease status
+Katharina
+tunicata Seasonal Swath Record: density, abundance, size
+
+All Macro-
+invertebrates Seasonal Swath Record: density, species,
+
+abundance, size
+Barnacle abundance and diversity of
+abundance and Seasonal Plot Balanus glandula, Semibalanus
+diversity cariosus, and Chthamalus spp.
+
+Mussel Record: abundance, length, bed
+abundance Seasonal Plot depth, growth of Mytilus
+
+californianus
+Prepare
+herbarium
+
+Record: Fucus distichus percent specimens
+Fucus cover & cover and diversity of other algae for
+biomass Seasonal Plot Collect: algal specimens that assistance
+
+technicians are unable to with
+properly identify in the field identificatio
+
+n at a later
+date
+
+9
+
+
+
+Mobile Record: abundance, diversity,
+invertebrate Seasonal Plot patchiness, substrate
+diversity associations in barnacle, mussel,
+
+Fucus and Phyllospadix surveys
+Record: YSI measurements: filter for
+
+Water
+Chemistry Seasonal Site temperature, conductivity, salinity, chlorophyll,
+
+pH do13C,
+Collect: water samples nutrients
+
+10
+
+
+
+Field Protocols
+
+Point Intercept Plot Monitoring
+
+Research Objectives:
+Do Fucus spp., barnacle (Balanus glandula and Chthamalus dalli), and mussel
+coverage change over time (seasonally and annually)?
+
+Equipment
+75 x 50 cm strung quadrat (x2)
+Clipboard (x2)
+Pencils
+Data sheets (barnacles, mussels, fucus)
+Knee pads
+Site and plot number labels
+
+Monitoring Parameters
+● Photographic record of plots
+● Percent cover of macrophytes (understory and overstory)
+● Percent cover of sessile invertebrates (understory and overstory)
+
+Set Up
+At each site, point intercept surveys will be conducted on a total of 15 plots
+
+(target species: barnacle plots (x5), mussel plots (x5), fucus plots (x5)). Each plot is
+marked by 3 corner bolts and zip ties. The plot numbers are labelled by notches (1-5)
+engraved into the corner bolt of each plot, where the number of notches indicates the
+plot number. Each 75 x 50 cm strung quadrat consists of 100 point intercepts where the
+nylon string has been woven through to make a taught grid.
+
+Point Intercept Plot Survey
+
+Surveys require two technicians; an observer and a recorder. These surveys are
+focused on sessile invertebrates and macrophytes, so motile invertebrates are
+not recorded. If a motile invertebrate is present at a point-intercept, record what is
+underneath the motile invertebrate (e.g. rock). Avoid removing organisms from the
+
+11
+
+
+
+surface. Invertebrates such as limpets and chitons have lower survival rates after being
+pried off of rocks.
+Photograph all plots (barnacle, mussel and Fucus; #1-5)
+
+1. Photograph each permanent point intercept plot with the 50 x 75 cm quadrat on
+top. Place the 50 x 75 cm quadrat on top of the three corner bolts that denote the
+plot number for each plot type. The corner bolts should line up with the corners of
+the quadrat.
+
+2. Write the plot number, plot type, site and date on the label plate with the dry
+erase marker. If it is raining, make labels using duracopy paper beforehand.
+Ensure the label is visible in the photo and the long (75 cm) side of the quadrat
+with 2 bolts is at the top of photo frame.
+
+Other field technicians are encouraged to begin sampling while one technician begins
+taking photos.
+
+Barnacle Dynamics: Point Intercepts
+1. Place a 75 cm x 50 cm strung quadrat on top of barnacle point intercept plot #1
+
+so that the 3 corner bolts line up with the corners of the quadrat, with the long (75
+cm) side of the quadrat at the top.
+
+2. Starting at the top left point intercept of the 75 x 50 cm strung quadrat, record the
+understory species that is present directly underneath the intersection of the
+strings for 50 points on the grid. The understory species refers to the
+organism that is attached to the substrate. For barnacle plots, the understory
+species must be a sessile invertebrate or algae (e.g. Balanus glandula,
+Chthamalus dalli, Semibalanus cariosus, Fucus distichus, Pyropia spp. etc.).
+Dead remnants of sessile species are also recorded (e.g. dead Balanus
+glandula). If there is no invertebrate or algae present, record the substrate (eg.
+rock). Do not record the presence of mobile invertebrates (record the substrate
+underneath the organism (eg. rock)), except if mobile invertebrates with limited
+mobility (e.g. limpets and chitons). Do not move mobile invertebrates with limited
+motility, in this case record the organism present as the understory species.
+
+3. If there is another species (sessile invertebrate or macrophyte) growing on top of
+or covering the understory species at a point intercept, record this as the
+overstory species.
+
+It is important to record these data in the correct order so the grid on the data
+sheet matches the grid on the strung quadrat. Record odd point intercepts for
+columns 1, 3, 5, 7 and 9. Record even point intercepts for columns 2, 4, 6, 8 and
+
+12
+
+
+
+10. Start at the top left point intercept and continue on downwards, working to the
+right.
+
+Note: During winter sampling, the number of point intercepts recorded is
+scaled back to 25 points. Record odd point intercepts for columns 1,5 and
+9. Record even point intercepts for columns 3 and 7.
+
+4. Repeat steps 1 and 2 with barnacle point intercept plots #2, #3, #4 and #5.
+
+Figure 6. Barnacle Plot within 50 cm by 75 cm quadrat.
+
+Mussel Dynamics: Point Intercepts
+1. Place a 75 x 50 cm strung quadrat on top of mussel point intercept plot #1 so that
+
+the 3 corner bolts line up with the corners of the quadrat, with the long (75 cm)
+side of the quadrat at the top.
+
+2. Starting at the top left point intercept of the 75 x 50 cm strung quadrat, record the
+understory species that is present directly underneath the intersection of the
+strings for 50 points on the grid. The understory species refers to the
+organism that is attached to the substrate. For mussel plots, the understory
+species must be a sessile species (e.g.. Mytilus californianus, Balanus glandula,
+Chthamalus dalli, Semibalanus cariosus, Pollicipes pollicipes, etc.). Dead
+remnants of sessile species are also recorded (e.g. dead M. californianus).  If
+there is no animal present, record the substrate (eg. rock). Do not record the
+presence of mobile invertebrates (record the substrate underneath the organism
+(eg. rock)). Do not move mobile invertebrates with limited motility (e.g. limpets
+and chitons). In this case, record the organism present as the understory
+species.
+
+It is important to record these data in the correct order so the grid on the data
+sheet matches the grid on the strung quadrat. Record odd point intercepts for
+
+13
+
+
+
+columns 1,3,5, 7 and 9. Record even point intercepts for columns 2,4,6, 8 and
+10. Start at the top left point intercept and continue on downwards, working to the
+right.
+
+Note: During winter sampling, the number of point intercepts recorded is
+scaled back to 25 points. Record odd point intercepts for columns 1,5 and
+9. Record even point intercepts for columns 3 and 7.
+
+3. If there is another species (sessile invertebrate or macrophyte) growing on top of
+or covering the understory species at a point intercept, record this as the
+overstory species (e.g. Endocladia muricata, Fucus distichus, Semibalanus
+cariosus).
+
+4. Repeat with mussel point intercept plots #2, #3, #4 and #5.
+
+Figure 7. Mussel plot within 50 cm by 75 cm quadrat.
+
+Fucus Dynamics: Point Intercepts
+1. Place a 75 x 50 cm strung quadrat on top of fucus point intercept plot #1 so that
+
+the 3 corner bolts line up with the corners of the quadrat, with the long (75 cm)
+side of the quadrat at the top. Do not disturb the algae within the plot prior to
+quantification.
+
+2. Starting at the top left point intercept of the 75 x 50 cm strung quadrat, record the
+overstory species (eg. Fucus spp.) that is present directly underneath the
+intersection of the strings. In the same location, gently move the overstory
+species aside and record the understory species (eg. non-coralline crust,
+Endocladia muricata, Chthamalus spp., rock). The understory species may be a
+macrophyte or a sessile invertebrate. If the point intersect falls on Fucus spp.
+with a stipe or holdfast as the understory, record Fucus spp. as the overstory and
+the understory for this point. Continue recording overstory and understory for all
+100 point intercepts on the strung quadrat. It is important to record this data in
+
+14
+
+
+
+the correct order. Start at the top left point intercept and continue on
+downwards, working to the right.
+
+Note: During winter sampling, the number of point intercepts recorded is
+scaled back to 50 points. Record odd point intercepts for columns 1, 3, 5,
+7 and 9. Record even point intercepts for columns 2, 4, 6, and 8.
+
+3. Repeat with Fucus distichus point intercept plots #2, #3, #4 and #5.
+
+Figure 8. Fucus plot within 50 cm by 75 cm strung quadrat.
+
+Workflow Guidelines
+● The recorder is encouraged to use the program wide species codes, but can use
+
+different codes in the field if the recorder defines them on the data sheet.
+● For mussel and Fucus spp. point intercept plots, the sampler and the recorder
+
+must make sure to communicate that the point intercept locations match the
+locations on the corresponding datasheet for all points on the grid. Check in with
+each other as you go!
+
+● For each point intercept on the datasheet, the overstory species is recorded in
+the top left of the square and the understory species is recorded in the bottom
+right of the square.
+
+● Data management: When entering Rocky Intertidal data post field monitoring, we
+have changed these species codes so they are consistent with other Hakai
+Nearshore Ecology habitat data for data management purposes. Please see the
+“Species Codes” tab on the Rocky Intertidal Data Entry Spreadsheet (in Google
+Drive).
+
+Scoring Guidelines
+1. Record the species code for the top-most organism/substrate first (see rules below for weedy
+
+species and cases where there are >2 layers).
+
+15
+
+
+
+2. Record the species code for the bottom-most organism/substrate second. If there is only a single
+layer, record this species code as the bottom organism/substrate. If the same species occurs in
+the top-most and bottom-most layers (e.g. "Fucus" canopy over "Fucus" holdfast), then record
+Fucus as the bottom and top layers (e.g. Fucus over Fucus)..
+
+3. Only record rock  or sand under a species if you can actually see it. For example Fucus on rock is
+acceptable (as long as you don’t hit a holdfast), but Chthamalus on rock is just recorded as “NA”
+on Chthamalus.
+
+4. If there are >2 layers, record only the uppermost BIOLOGICAL layer (not ephemeral) and
+lowermost Biological species;. Some examples to illustrate how to record data for points with >2
+layers:
+
+a. Fucus on Chthamalus on Mytilus, record top layer=Fucus and bottom layer=Mytilus.
+b. Dead Balanus glandula on Semibalanus on Mytilus, record top layer=Dead Balanus
+
+glandula, bottom layer=Mytilus.
+c. Mastocarpus over Endocladia over Semibalanus, record top layer=Mastocarpus, bottom
+
+layer=Semibalanus.
+5. Do not score mobile invertebrates (e.g. Tegula, Nucella). Instead, score the organism/substrate
+
+underneath them. Exception: large or immovable motile invertebrates such as Pisaster or
+chitons, where the individual takes up too much space for the sampler to be sure what substrate
+is under the animal at that point.
+
+6. Epoxy corner markers and bolts should be scored as “rock”.
+7. When sand is present under a point, if you can identify what is under the sand, then score the
+
+underlying species or substrate; otherwise score as “sand”.
+
+Motile Invertebrates: Biodiversity
+
+Research Objectives:
+Are the infaunal mobile invertebrate communities in Fucus spp. beds, mussel beds and
+barnacle-inhabited substrate changing over time (seasonally and annually)?
+Does the primary substrate holder (i.e. Fucus spp. beds, mussel beds and barnacle)
+alter the invertebrate community size and abundance?
+
+Equipment
+75 x 50 cm quadrat (unstrung)
+20 x 20 cm string quadrat
+Calipers
+Clipboard
+Clickers
+Pencil
+Data sheets (3 per site)
+Knee pads
+
+16
+
+
+
+Parameters
+● Counts and sizes (cm) of mobile invertebrates associated with three substrates
+
+(barnacle, mussel, Fucus)
+
+Set Up
+Motile invertebrate biodiversity counts and measurements will be conducted on a
+
+total of 15 permanent plots (5 barnacle plots, 5 mussel plots, 5 fucus plots) per site.
+
+Motile Invertebrate Biodiversity and Density
+1. Place a 75 x 50 cm quadrat (unstrung) on top of the three corner bolts that
+
+denote the plot number for each plot type. The corner bolts should line up with
+the corners of the quadrat.
+
+2. Count all the motile invertebrates specified in the topmost section of the
+datasheet within the entire 75 x 50 cm quadrat.
+
+3. Count and measure (first 10 encountered only) the species in the second section
+of the datasheet within the entire 75 x 50 cm quadrat.
+
+4. Using the 20 x 20cm string quadrat, subdivide the plot into 3 subsections in the
+top left, middle and bottom right of the 75 x 50 cm quadrat (see diagram for
+approximate locations). Within each subsection, sub-sample all small limpets (<5
+mm) and medium limpets (5-15 mm) and record the counts in the corresponding
+boxes.
+Note: If small and/or medium limpets are extremely abundant in the 20 x 20 cm
+quadrat, subsample a 10 x 10cm subsection within the top left quarter of the 20 x
+20 cm quadrat and note this on the datasheet. Alternatively, if there are no
+limpets in the 20 x 20 cm quadrat and limpets are present in the 75 x 50 cm
+quadrat, count the limpets in entire quadrat.
+
+17
+
+
+
+5. Within each 20 x 20cm subsection, count all Littorina spp. within the top left
+quarter (10 x 10cm area) of the quadrat (visually estimate area for subsample)
+Note: If there are no Littorina spp. in the 10 x 10cm subsection and are present
+in the 20 x 20cm quadrat, count the Littorina spp. 20 x 20cm quadrat and record
+this on the datasheet.
+
+6. Repeat steps 1-6 for all 15 point permanent plots (Fucus spp., mussels and
+barnacles).
+
+Guidelines
+● Take photos and sample point intercept plots prior to conducting mobile
+
+invertebrates survey to prevent rearrangement of foliose algae (especially
+important for fucus plots).
+
+● Mobile invertebrates may be gently removed from the plot for measuring if it is
+too difficult to measure them (be sure to put them back!). Some whelks may be
+lodged in crevices in the rocks.
+
+18
+
+
+
+Figure 9. Mussel, barnacle and Fucus plots within 50 cm by 75 cm unstrung quadrat.
+
+19
+
+
+
+Mussel Dynamics: Length and Bed Depth
+
+Research Objectives:
+Does mussel bed depth change over time?
+Does average mussel size change over time?
+
+Equipment
+50 x 75 cm quadrat (unstrung)
+20 x 20 cm quadrat
+Calipers
+Clipboard
+Pencil
+Data sheet (1 per site)
+Depth measuring skewer
+Knee pads
+Lumber chalk
+
+Parameters
+● Mussel bed depth to approximate biomass
+● Mussel length (subsample)
+
+Set up
+At each site, mussel length and bed depth measurements will be conducted on 5
+
+plots. The same permanent plots for the mussel point intercept surveys will be sampled.
+Each plot is marked by 3 corner bolts and zip ties. The plot numbers are labeled by
+notches (1-5) engraved into the corner bolt of each plot, where the number of notches
+indicates the plot number.
+
+Mussel Length Sampling
+1. Place a 50 x 75 cm quadrat (unstrung) on top of the mussel point intercept plot
+
+#1 so that the 3 corner bolts line up with the corners of the quadrat, with the long
+(75 cm) side of the quadrat at the top (which is denoted by two bolts). Within the
+50 x 75 cm quadrat, place the 20 x 20 cm quadrat in each of the 5 locations
+detailed in the diagram below, moving in order from the top left (1), bottom left
+(2), middle (3), top right (4) then bottom right (5).
+
+2. In each of the 5 locations of the 20 x 20 cm quadrat, measure the length (to the
+nearest cm) of mussel(s) visible directly under each of the 2 designated points
+
+20
+
+
+
+(indicated by stars in diagram below). There will be a total of 10 measurements
+per 50 x 75 cm quadrat. If there is no mussel under a point, measure the length
+of the mussel nearest to the point that can be found within the 50 x 75 cm
+photoplot (also measure bed/patch depth at this mussel- see Mussel Bed Depth
+section). A mussel is only measured once, so if a mussel is also closest to
+another designated point, the next closest non-measured mussel is chosen. Use
+lumber chalk to distinguish measured mussels. For example, if there are only 16
+mussels in a 1 layer clump in the 50 x 75 cm plot, 10 of these 16 mussels would
+be measured no matter where the clump occurs in the plot.
+
+3. To measure a mussel, rest the end of the caliper (A in diagram) against one end
+of the mussel. Slide the caliper open until the tip of the rod (B) reaches the end of
+the mussel. Read mussel length on the scale (C) to the nearest centimeter. For
+extra thick mussel beds, a long rod/skewer and ruler can be used in place of the
+caliper.
+
+4. On the datasheet, tick the box in the “Top” column that accords to the size of the
+mussel.
+
+5. If the bed/patch has multiple layers, also measure any deeper mussel under the
+point that can be reasonably measured without undue disturbance to the bed. On
+the datasheet, tick the box in the “Under” column that accords to the size of the
+mussel (note that all understory measurements are pooled). There is no need to
+indicate whether a mussel is attached to another mussel or to the substrate.
+
+6. Repeat steps #1-5 for mussel photoplots #2, #3, #4 and #5.
+
+NOTE: For plots where mussels are rare or absent, there may be <10 or even 0
+measurements. For plots containing 10 or more mussels, a total of at least 10 length
+measurements will be recorded (more if multiple measureable mussels occur below any
+of the 10 designated).
+
+21
+
+
+
+Mussel Bed Depth Sampling
+1. For all 50 x 75 cm plots with more than 10 mussels, measure the bed depth (to
+
+the nearest cm) of the mussel(s) directly under the upper left point (corner star-
+see diagram). A total of 5 bed depths will be measured per 50 x 75 cm quadrat
+(unless there are fewer than 10 mussels in the 50 x 75 cm quadrat).
+
+2. The measurement is taken perpendicular to the substrate orientation under the
+point, upwards from the substrate to the top of the mussel that lies directly under
+the top point. There is no need to record the layering status. Since the layering
+rod cannot go through the mussels, place it in a nearby gap and project across to
+the point location (a small ruler can help with this projection).
+
+Note: For single layer mussel oriented vertically by the longest length, the mussel
+length and bed depth measurements will be the same. However, since mussels vary in
+orientation, and multilayering may occur, the 2 measurements will rarely be the same.
+If the entire plot is an obvious monolayer, then put a check in the monolayer box, if not,
+leave it blank, but still measure the bed depth.
+
+Guidelines
+● Mussel bed thickness is sampled to approximate population biomass (when
+
+combined with separately scored mussel cover in photoplot). There is no need to
+measure bed depth if less than 10 mussels occur in plot (we can get approximate
+biomass from length measurements).
+
+● In cases where no mussel is present under the designated point (would have
+been previously noted in Mussel Length Sampling), measure bed depth where
+the next closest mussel in the 50 x 75 cm photoplot is located.
+
+22
+
+
+
+Surfgrass Community Structure
+
+Research Objectives:
+Does Phyllospadix coverage change over time?
+Is the Phyllospadix infaunal community changing over time?
+
+Equipment
+50m transect tape
+Tape measure
+25cm x 25cm strung quadrat
+25cm x 25cm unstrung quadrat
+Clipboard
+Pencil
+Datasheets
+
+Monitoring parameters
+● Phyllospadix spp. shoot density
+● Reproductive status of surfgrass (flowering shoot density)
+● Phyllospadix average canopy height
+● Patchiness of Phyllospadix spp. cover
+● Surfgrass epiphyte cover
+● Mobile invertebrate diversity within Phyllospadix spp. bed
+
+Set up
+One permanent surfgrass transect per site is marked by 2 stainless steel bolts at either
+end of a 10m transect. Lay 10m transect tape (refer to site maps to denote 0m bolt at
+each site).
+
+Motile Invertebrates
+1. Place 25cm x 25cm unstrung quadrat on right side of transect at 1.5m mark.
+2. Estimate % cover of Phyllospadix spp.within 25cm x 25cm quadrat
+3. Identify and count all mobile invertebrates within 25cm x 25cm quadrat.
+4. Record presence/absence (P/A) for colonial invertebrates.
+5. Continue steps 1-3 for a total of 5 quadrats along the 10m transect. Prioritize
+
+sampling the 5 quadrats on the right side of the 10m transect (1.5m, 3.5m, 5.5m,
+7.5m, 9.5m). If surfgrass cover within quadrat is less than 50%, sample next
+
+23
+
+
+
+surfgrass quadrat on left and note on datasheet. (Eg. move to left at 2.5m if right
+at 1.5m contains <50% surfgrass). A total of 5 quadrats must be sampled.
+
+Notes:
+If fewer than 5 quadrats on the left and the right contain >50% surfgrass cover,
+randomly select additional quadrat locations on the transect.
+
+To randomly select a distance on the transect, refer to the milliseconds display on
+a digital watch. Pause the watch to determine the meter mark. Pause the watch a
+second time to determine the decimeter mark. Pause the watch a third time to
+determine the centimeter mark. Pause the watch a fourth time to determine
+whether the quadrat will be placed on the left or right side of the transect. If an
+even number is selected, choose the right side. If an odd number is selected,
+choose the left side.
+
+Length and Density
+1. Place 25cm x 25cm strung quadrat on left side of transect at 0.5m mark.
+2. Determine Phyllospadix species (P. torreyi , P. scouleri), count number of shoots
+
+and record number of flowering shoots in 12.5cm x 12.5cm subplot (lower
+corner closest to transect; see diagram). *If shoot density in 12.5cm x 12.5cm
+subplot is very dense, subsampling further is an option. Make sure this is
+recorded on the datasheet!
+
+3. Using retractable tape measure, record average canopy height (height at which
+shoots taper off) of all shoots measured.
+
+4. If present, record epiphyte species and epiphyte species percent cover.
+5. Alternating sides at one meter intervals, repeat steps 1-4.
+
+Distances: 0.5m (L), 1.5m(R), 2.5m(L), 3.5m(R), 4.5m(L), 5.5m(R), 6.5m(L),
+7.5m(R), 8.5m(L), 9.5m(R) (total 10 quadrats)
+
+Notes:
+At 1.5m(R), 3.5m(R), 5.5m(R), 7.5m(R) and 9.5m(R), complete invertebrate
+diversity protocol prior to surfgrass bed dynamics protocol. Mobile invertebrates
+flee from quadrat area in response to disturbance caused by counting and
+measuring shoots.
+Record 0 if no surfgrass observed in a quadrat.
+
+24
+
+
+
+Diagram 1. Surfgrass transect survey design. Along 10m transect, 25cm x 25cm
+quadrat is placed every meter on alternating sides of the transect line. Surfgrass bed
+dynamics are monitored within 12.5cm x 12.5cm subplot (red).
+
+25
+
+
+
+Seastar and Macroinvertebrate Dynamics: Swaths
+
+Research Objectives:
+Is the abundance and size of Pisaster ochraceous changing over time?
+Is the incidence of seastar wasting disease changing over time?
+Is the abundance and size of Katharina tunicata changing over time?
+Are the abundance and sizes of other large invertebrates changing over time?
+
+Equipment
+50 m transect (x7)
+15 cm rulers (1 per technician)
+Clipboard
+Pencil
+Datasheet
+Lumber chalk
+Camera
+Clickers (x3)
+
+Parameters
+● Pisaster ochraceous counts, size distribution (from radius measurements) and
+
+disease status (wasting disease category according to the UCSC classification
+system)
+
+● Katharina tunicata counts and size distribution
+● Counts and sizes of other large invertebrates (other sea star species, urchins,
+
+Cryptochiton stelleri)
+
+Set Up
+At each site, 6 bolts have been permanently drilled into the rock to delineate three 30m
+horizontal transect lines in the high, mid and low intertidal zones. At Fifth Beach and
+North Beach, these are the bolts originally drilled for the Martone Lab annual
+monitoring. Two bolts have been drilled at an approximate distance of 30m in each
+zone. Refer to maps and coordinates to locate bolts.
+
+1. Lay 3 transects horizontally through the two bolts in each zone.
+2. Lay 4 transects vertically from the high zone transect line to the water line
+
+at 0m, 10m, 20m and 30m. The area between the low zone transect line
+and the water line will be searched even though the low zone bolts have
+been drilled above the water line (at approximately 1.0m). In order to
+
+26
+
+
+
+maximize sampling area, search the lower intertidal zone at the time of
+low tide.
+
+By creating a grid, the area searched can be divided into subplots so that technicians
+can be assigned a set search area. The area searched will change with respect to the
+low tide levels during the day of the survey, however the counts of invertebrates/m2 can
+be extrapolated using the bolt locations and the low tide height at the time of the survey.
+
+Figure 9. Diagram of P. ochraceous and K. tunicata swath set up. Grey area indicates K.
+tunicata search area. Searching for all target species will continue above high zone
+transect line and below low zone transect line to water line within 30m swath.
+
+27
+
+
+
+Figure 10. Sea star swath elevation maps of Fifth Beach, North Beach and West Beach.
+
+28
+
+
+
+1. Search within the plot parameter for ochre stars. Assign technicians a set search
+area. In order to maximize sampling area, search the lower intertidal zone at the
+time of low tide. Measure the first 100 encountered individuals (includes juveniles
+and adults for a total of 100 measurements). Measure size to the nearest 10mm
+from the center of the disc to the tip of the longest ray. Sizes may be estimated if
+sea stars are wedged in crevices with rays curved.
+
+2. Record the corresponding disease category (0-4) for each individual (refer to
+UCSC Wasting Disease Categories). Technicians are encouraged to mark the
+substrate next to (not on- to avoid potential for spreading disease) the sea star
+with lumber chalk to ensure individuals are not measured twice. Sea stars should
+never be “straightened” or removed from the rock.
+
+3. After 100 individuals have been measured, count the remainder of the ochre
+stars within the plot parameter. Technicians are encouraged to use clickers.
+Record adults and juveniles separately. Continue to record corresponding
+disease categories for all individuals.
+
+Adults = center of the disc to the tip of the longest ray is greater than
+30mm
+Juveniles = center of the disc to the tip of the longest ray is less than
+30mm
+
+4. Measure all  (to a maximum of 30 per species) other large invertebrates. This
+includes gumboot chitons (Cryptochiton stelleri), Northern Abalone (Haliotis
+kamtschatkana), urchins and other sea stars (eg. Henricia spp., Dermasterias
+spp., Leptasterias spp. and any other species observed). Measure other sea
+stars from the center of the disc to the tip of the longest ray. Measure chitons and
+abalone lengthwise from tip to tip. Measure test diameter of urchins.
+
+5. Report all measurements to the recorder.
+
+Leather Chiton Dynamics: Swaths
+1. Within the middle 10m segment of the plot parameter (see Figure 9), measure 50
+
+leather chitons (Katharina tunicata).
+2. Count all remaining leather chitons within the 10m subplot and report counts to
+
+the recorder. To avoid counting individuals twice, individuals can be marked
+directly with lumber chalk. Technicians are encouraged to use clickers.
+
+29
+
+
+
+Mussel Growth Experiment
+Adapted from: PISCO Intertidal, Oregon State University
+
+Research Objectives:
+Are Mytilus californianus growth rates changing spatially or seasonally?
+
+Equipment (for set up)
+Wood file or dremel
+Vexar mesh
+Zip ties
+Hammer drill
+Bolts (8 per replicate)
+Safety glasses
+
+Set Up
+Outplant mussels at rocky intertidal sites around Calvert Island to monitor their growth
+seasonally and yearly. Mussels are initially strapped to the rock with Vexar cages to
+encourage byssal attachment. Vexar cages are slowly removed following mussel
+attachment. Select experiment locations on sections of bare rock placed within the
+middle of the mussel bed vertical extent at the site (half way between the upper and
+lower limit of the mussel bed). For each replicate, install 8 bolts in order to attach a
+rectangular piece of Vexar mesh (approximately 30cm x 30cm). To monitor yearly and
+seasonal mussel growth outplants will be reset annually in October.
+
+Winter replicates (n=3): Begin protocol in October. Mussels will grow for 6 months over
+winter.
+Summer replicates (n=3): Begin protocol in April. Mussels will grow for 6 months over
+summer.
+
+Mussel Collections
+1. Collect 50 mussels between 4-5 cm in total length. Attempt to limit collections to
+
+the middle range of the mussel bed.
+2. Using a wood file or dremel, notch each mussel along the top of the shell (where
+
+the shell meets, opposite from the umbo). Example here is showing the notch
+after several weeks/months of growth, initial notch will be in the same location,
+but at the edge of the shell..
+
+30
+
+
+
+3. On bare rock approximately mid-mussel band, drill bolt holes for 3 plots to secure
+the Vexar mesh that will cover the mussels (see below). Make sure that the mesh
+is secure to prevent the mussels from falling out, but that it is loose enough to
+allow them to grow.
+
+4. After approximately 4 weeks, loosen the vexar mesh by a few centimetres to
+encourage the mussels to attach more byssal threads and to allow them to grow
+more.
+
+5. After approximately 8 weeks, check if the mussels are securely attached. If they
+are, remove the Vexar mesh. If they are not, return in one week.
+
+6. After approximately 6 months, collect 25 mussels (or half of the surviving
+mussels) from each plot and store them in a freezer @ -20°C. Leave the
+remaining 25 mussels (or other half of the surviving mussels) to grow for another
+6 months.
+
+7. Repeat steps 1-3 for the next treatment.
+8. Repeat steps 3-4 for the three new plots.
+9. At 12 months from initial outplant collect remaining mussels of the first treatment
+
+as well as 25 mussels from each plot of the second treatment. Restart the yearly
+outplant by restarting at step 1.
+
+31
+
+
+
+Lab processing
+
+Equipment
+Gloves
+Lab coat
+Calipers
+Scalpel
+Forceps
+Tray
+Aluminum tins (10 per replicate)
+Pencil
+Data sheet
+
+Monitoring parameters
+● Mussel measurements: total length, initial length, perisoticum lip length, girth,
+
+height
+● Mussel gonad development and sex
+● Mussel total wet tissue weight, dry tissue weight and shell weight
+
+Lab Processing
+1. Remove a bag containing a repliate of mussels (n=25 or less depending on
+
+survival rates) from the freezer and allow them to thaw.
+2. Select a mussel and record the sample ID, site, deployment date (when mussel
+
+was notched), collection date, lab processing date, duration of experiment and
+season.
+
+3. Scrape off any barnacles on the mussel shell with a scalpel and carefully pull off
+the byssal threads.
+
+4. Using calipers, measure the total length (bottom to top; longest length), initial
+length (bottom to top of notch), Perisoticum lip (bottom to the black), girth
+(distance from side to side of shell, in line with the umbo), height (distance from
+ventral side to tallest part on dorsal side) of the mussel shell to the nearest tenth
+of a mm. Refer to mussel measurements images below.
+
+Note: The growth of the mussel will be calculated in excel by subtracting
+the initial length of the mussel shell by the total length of the shell.
+
+5. Cut open the mussel by slicing through the adductor muscle. Place it open side
+down on the tray, and allow any liquid to drain out.
+
+32
+
+
+
+6. Record sex category. See Gonad Color Scoring below and record category.
+1=creamy white
+2=white to peach-ish to orange-ish
+3=dark orange
+
+7. Record gonad development category.
+0 = no gonad visible
+1 = small gonad
+2 = larger gonad confined to visceral mass
+3 = large gonad extending into mantle cavity
+
+8. Record the total wet weight of the mussel in grams – to the nearest hundredth
+of a gram.
+
+9. Record the weights of aluminum tins.
+10.Place the wet tissue in a pre-weighed aluminum tin and record the wet tissue
+
+weight (tin weight + wet tissue weight).
+11. Record the shell weight to the nearest hundredth of a gram.
+12.Repeat step 10-11 for all mussels.
+13.Record the weight of the shell for all mussels in each replicate to the nearest
+
+hundredth of a gram.
+14.Place aluminum tins with wet tissue in drying oven at 60°C.
+15.After a minimum of three days in the drying oven, record the dry weight of the
+
+soft tissues. Be sure that all tissue is crispy.
+
+Mussel Measurements Gonad Color Scoring
+
+Mussel growth with notch
+
+33
+
+
+
+Surface Water Grab Samples
+
+Field Protocols
+
+YSI Measurements
+
+Equipment
+Calibrated YSI unit
+Field Cover Sheet
+
+Monitoring parameters
+● Temperature (°C), specific conductivity, salinity and pH measurements
+
+1. Calibrate the YSI in the lab before going to the study site.
+2. At each site, submerge the YSI probe in the seawater near the surface. Allow
+
+readings to stabilize.
+3. Record: time, temperature (°C), specific conductivity, salinity, pH
+
+Water collection
+
+Equipment
+Weighted carboy and line
+500mL brown Nalgene bottles (x3)
+Nitrile gloves
+
+Monitoring parameters
+● do13C, nutrients, chlorophyll
+
+1. Wearing nitrile gloves, deploy the weighted carboy from the shore and allow it to
+fill with seawater.
+
+2. Using the attached line, bring the carboy back to the shore.
+3. Using the water spigot, rinse one brown 500mL Nalgene 3 times. Fill it
+
+completely with the remaining seawater in the carboy.
+4. Continue steps 1-3 for a total of 3 replicates.
+
+Note: Samples should be processed upon returning to the lab, or within 2 hours from
+time sampled (see lab protocol).
+
+34
+
+
+
+Lab Protocols
+
+Complete ‘Marine Lab’ iPad form with hyper nearshore water sample filtering lab
+protocol.
+
+Processing surface water grab samples
+
+Equipment
+Gloves
+Peristaltic pump
+Flat forceps
+60mL syringe
+250ml beaker
+Squeeze bottle of ethanol
+Squeeze bottle of DI water
+Filter tips (3 per site)
+Non-combusted 47mm GFF filters
+3um filters
+20um filters
+Mesh separators
+Petri dish (x2)
+Black ziplock bag
+Stickers with UIDs (per site: DO13C x3, nutrients x1, Chl a x2)
+Blank sticker labels
+Falcon tubes (14mL) (3x per site)
+Amber borosilicate glass vials (40mL) (3x per site)
+Kimwipes
+Permanent marker
+Safety Glasses (for acidifying DO13C)
+Lab Coat (for acidifying DO13C)
+50mL beaker (x2) (for acidifying DO13C)
+Pipette and tip (for acidifying DO13C)
+Waste acid container (for acidifying DO13C)
+6M HCL (for acidifying DO13C)
+
+35
+
+
+
+Pre-labelling stickers
+1. Sheets of stickers containing UIDs have been pre-printed for each sample type:
+
+nutrients, DO13C and Chl a.
+2. For each site, pre-label 3 amber borosilicate glass vials (40mL) for DO13C
+
+(bottles 1, 2 and 3), 1 falcon tube for nutrients (bottle 1 only) and 6 falcon tubes
+for Chl a (bottles 1 and 2; 3 filter size fractions). Pre-printed labels contain
+sample type, UID, and marine (M) or freshwater (F) designation. Chlorophyll a
+labels also contain filter size fraction. With a permanent marker, circle GFF on 2
+falcon tubes, 3um on 2 falcon tubes and 20um on 2 falcon tubes.
+
+3. On blank sticker labels, write site code, date and bottle number and place on all
+bottles and falcon tubes. See below for samples size and replicates per site.
+
+4. Each amber borosilicate glass vials (40mL) and falcon tube should be labelled
+with sample type, UID, filter size fraction, site code, date and bottle number.
+
+Sample sizes and replicates per site:
+DO13C: n=3
+Nutrients: n=1
+Chl a: n=2
+YSI: n=1
+
+Bottle 1: Bottle 2: Bottle 3:
+DO13C: n=1 DO13C: n=1 DO13C: n=1
+Chl a: n=1 (GFF, 3um, 20um) Chl a: n=1 (GFF, 3um, 20um)
+Nutrients: n=1
+
+Filtering nutrients
+1. Wearing gloves, rinse a 60mL syringe 3 times with DI water.
+2. Attach a filter tip and rinse the 60mL syringe 3 times with seawater from bottle 1.
+3. Fill the 60mL syringe with seawater from bottle 1.
+4. Filter ~10mL of the seawater into the sink to clean out the filter tip.
+5. Rinse a pre-labelled nutrient falcon tube 3 times with the filtered seawater in the
+
+syringe.
+6. Fill the falcon tube to 13 mL with the filtered seawater from the syringe.
+7. Store the falcon tube in the chest freezer in the Griswald Lab.
+
+Filtering DO13C
+1. Wearing gloves, rinse a 60mL syringe 3 times with DI water.
+2. Attach a filter tip and rinse the 60mL syringe 3 times with seawater from bottle 1.
+3. Fill the 60mL syringe with seawater from bottle 1.
+4. Filter ~10mL of the seawater into the sink to clean out the filter tip.
+5. Rinse a pre-labelled DO13C amber borosilicate glass vial 3 times with the filtered
+
+seawater in the syringe.
+
+36
+
+
+
+6. Fill the amber borosilicate glass vial to the bottleneck with the filtered seawater
+from the syringe.
+
+7. Repeat steps 1-6 for bottles 2 and 3.
+8. Acidify samples immediately.
+
+Acidifying DO13C
+1. Wearing gloves, safety glasses and a lab coat, turn on the fume hood in the
+
+Britco Lab.
+2. Fill an acid waste container with fresh water (there is likely already an acid waste
+
+container in the fume hood. This is diluted and emptied regularly by techs from
+other programs that use the lab more frequently).
+
+3. Pour ~20 mL of DI water into a 50mL beaker and place it in the fume hood.
+4. In the fume hood, pour a very small amount (~1mL) of 6M HCL into a 50mL
+
+beaker. Any unused acid cannot be poured back into the acid bottle, so be
+conservative.
+
+5. At the fume hood, remove sample lids. Be sure that lids are organized so that
+they go back on the same bottle.
+
+6. Select the appropriate pipette and pipette tip in order to add 200 μL of 6M HCL.
+7. Carefully pipette 200 μL of 6M HCL into each sample. As long as the pipette tip
+
+does not touch sample water, the same pipette tip can be used for all 3
+DO13C samples.
+
+8. Replace the sample lids and invert the samples to mix the acid.
+9. Rinse the acid tip by pipetting DI water and eject it into the waste acid container 3
+
+times.
+10.Eject the used tip into the “Rinsed acid tips” container in the fume hood.
+11. Pour unused acid in the 50 mL beaker into the waste acid bucket. Rinse the
+
+beaker with DI water.
+12.Mark the DO13C labels with an “A” (for acidified) with a permanent marker and
+
+store them in the Griswald fridge.
+
+Filtering chlorophyll
+1. Wearing gloves, turn on peristaltic pump and rinse filter cups and filter holder with
+
+DI water 3 times. Turn off pump.
+2. Using clean forceps, place a GFF filter on bottom of the peristaltic pump,
+
+followed by a mesh separator in the center of the filter. Place a 3um filter on top
+of the mesh spacer (shiny side up). Place a mesh spacer in the center of the 3um
+filter. Place a 20um filter on top of the mesh spacer (shiny side up).
+
+3. Carefully screw the filter cup onto the pump, preventing the formation of wrinkles
+or air bubbles on the filters.
+
+4. Measure 250mL of seawater from Nalgene bottle 1 into a 250mL beaker.
+5. Turn on the pump (pressure should not exceed -5 Hg). Pour the 250mL of
+
+seawater into the filter cup. Open the filter funnel valve. Avoid letting the filter
+run dry- this will cause phytoplankton cells to rupture.
+
+37
+
+
+
+6. When filtering is complete, close the filter funnel valve. Carefully unscrew and
+remove the filter funnel cup.
+
+7. Using flat forceps, roll up the 20um filter (on top). The filter should be rolled up
+like a burrito with the contents of the sample on the inside. Avoid touching the
+center of the filters with the forceps, only the edges.
+
+8. Place the rolled up filter in a pre-labelled falcon tube. Make sure it is below the
+10mL marking on the falcon tube. Place falcon tube into a black ziplock bag.
+Label bag with site code, date and bottle number.
+
+9. Remove the mesh separator. Place it in petri dish and spray with ethanol until it is
+covered. Move the mesh separator to another Petri dish and rinse with DI water.
+
+10.Using flat forceps, roll up the 3um filter (in middle). Repeat steps 7-9 with the
+3um filter and the mesh separator.
+
+11. Using flat forceps, roll up the GFF filter (on bottom). Repeat steps 7-8 with the
+GFF filter.
+
+12.Screw on filter cup and repeat steps 1-11 with Nalgene bottle 2.
+13.The two black ziplock bags containing 3 falcons tubes from bottle 1 and 3 falcon
+
+tubes from bottle 2 should be stored in the -80°C freezer in the Britco Lab.
+
+38
+
+
+
+Appendix
+
+Appendix A. Data Sheets
+
+Appendix A1. Field Cover Sheet
+
+39
+
+
+
+Appendix A2. Point Intercept Plot Survey Data Sheet
+
+40
+
+
+
+41
+
+
+
+Appendix A3. Motile Invertebrates: Biodiversity Data Sheet
+
+42
+
+
+
+Appendix A4. Mussel Dynamics: Length and Bed Depth Data Sheet
+
+43
+
+
+
+Appendix A5. Surfgrass Community Structure: Motile Invertebrate Data Sheet
+
+44
+
+
+
+Appendix A6. Surfgrass Community Structure: Length and Density Data Sheet
+
+45
+
+
+
+Appendix A7. Seastar and Macroinvertebrate Swath Data Sheet
+
+46
+
+
+
+47
+
+
+
+Appendix A8. Leather Chiton Swath Data Sheet
+
+48
+
+
+
+Appendix B. Invertebrate Species List
+
+Arthropoda
+
+Amphipoda Pagurus hirsutiusculus
+
+Balanus glandula Pagurus spp.
+
+Caprellidae Petrolisthes cinctipes
+
+Chthamalus dalli Petrolisthes spp.
+
+Hemigrapsus nudus Pollicipes polymerus
+
+Idotea spp. Porcellanidae
+
+Oedignathus inermis Pugettia gracilis
+
+Pachycheles rudis Pugettia producta
+
+Pachygrapsus crassipes Pugettia richii
+
+Pagurus beringanus Pugettia spp.
+
+Pagurus granosimanus Semibalanus cariosus
+
+Pagurus hemphili
+
+Chordata
+
+Aplidium solidum Styela spp.
+
+Tunicata
+
+Cnidaria
+
+Abietinaria greenei Anthopleura xanthogrammica
+
+Actiniara Holothuroidia
+
+Anthopleura  elegantissima Hydrozoa
+
+49
+
+
+
+Echinodermata
+
+Cucumaria spp. Mesocentrotus franciscanus
+
+Dermasterias imbricata Pisaster ochraceus
+
+Echinoidea Pseudocnus spp.
+
+Evasterias troschelii Strongylocentrotus droebachiensis
+
+Henricia pumila Strongylocentrotus pallidus
+
+Henricia spp. Strongylocentrotus purpuratus
+
+Leptasterias hexactis Strongylocentrotus spp.
+
+Leptasterias spp.
+
+Mollusca
+
+Acmaea mitra Diodora aspera
+
+Alia carinata Hermissenda crassicornis
+
+Alia spp. Homalopoma spp.
+
+Amphissa spp. Katharina tunicata
+
+Amphissa versicolor Lacuna spp.
+Anomiidae Lepidochitona dentiens
+
+Bittium eschrichtii Lepidochitona spp.
+
+Calliostoma canaliculatum Lepidozona spp.
+
+Calliostoma spp. Leukoma staminea
+
+Ceratostoma nuttali Littorina plena
+
+Crasssodoma gigantea Littorina scutulata
+
+Crepidula spp. Littorina sitkana
+
+Cryptochiton stellerii Littorina spp.
+
+50
+
+
+
+Lottia digitalis Nucella lamellosa
+
+Lottia paradigitalis Nucella ostrina
+
+Lottia pelta Nucella spp.
+
+Lottia scutum Nudibranchia
+
+Lottia spp. Onchidella borealis
+
+Mopalia spp. Polyplacophora
+
+Mytilus californianus Searlesia dira
+Mytilus spp. Tegula funebralis
+
+Mytilus trossulus Tegula pulligo
+
+Nucella canalicuta Tonicella spp.
+
+Annelida
+
+Nemertea
+
+Platyhelminthes
+
+Polychaeta
+
+Spirorbis spp.
+
+Bryozoa
+
+Porifera
+
+Haliclona permollis
+
+51
+
+
+
+Appendix C. Macroalgae Species List
+
+Chlorophyta
+
+Codium fragile
+
+Ulva spp.
+
+Rhodophyta
+
+Ahnfeltia fastigiata Microcladia borealis
+
+Bangiaceae Neorhodomela larix
+
+Callithamnion pikeanum Odonthallia floccosa
+
+Cryptosiphonia woodii Odonthallia spp.
+
+Dilsea spp. Plocamium spp.
+
+Gloiopeltis furcata Polysiphonia spp.
+
+Halosaccion glandiforme Prionitis spp.
+
+Hildenbrandia spp. Pterosiphonia spp.
+
+Mastocarpus spp. Ptilota spp.
+
+Mazzaella spp. Smithora naiadum
+
+Melobesia mediocris Wildemania norrisii
+
+52
+
+
+
+Appendix D. UCSC Wasting Disease Categories
+
+Category 1
+Lesion(s) on 1 arm or body tissue degradation in some of these photos may be the
+result of multiple lesions merging, but it is restricted to a single arm, or single location on
+the oral disk.
+
+53
+
+
+
+Category 2
+Lesions on 2 arms or 1 arm and body, deteriorating arm(s).
+
+Category 3
+Lesions on most of body, 1-2 arms missing.
+
+54
+
+
+
+Category 4
+Severe tissue deterioration/death >/= 3 missing arms
+
+55
+
+
+
+References
+
+Denny, M. W. “Life in the maelstrom: The biomechanics of wave-swept rocky shores.”
+Trends in Ecology and Evolution 2.3 (1987): 61-66.
+
+Dias, M., Roma, J., Fonseca, C., Pinto, M., Cabral, H. N., Silva A., Vinagre, C. “Intertidal
+pools as alternative nursery habitats for coastal fishes.” Marine Biology Research 12:4
+(2016): 331-344.
+
+Johnson, M. E.  "Why Are Ancient Rocky Shores so Uncommon?" The Journal of
+Geology 96.4 (1988): 469-480.
+
+Harley, C. D. G. “Climate Change, Keystone Predation, and Biodiversity Loss.” Science
+334.6059 (2011): 1124-1127.
+
+Helmuth, B., Harley, C. D. G., Halpin, P.M., O’Donnell, M., Hofmann, G. E., Blanchette,
+C. A. “Climate Change and Latitudinal Patterns of Intertidal Thermal Stress.” Science
+298.5595 (2002): 1015-1017.
+
+Marsh, C.P. “Rocky intertidal community organization: the impact of avian predators on
+mussel recruitment.” Ecology 67 (1986): 771–786.
+
+Rilov, G., and D.R. Schiel. “Trophic linkages across seascapes: subtidal predators limit
+effective mussel recruitment in rocky intertidal communities.” Marine Ecology Progress
+Series 327 (2006): 83-93.
+
+56

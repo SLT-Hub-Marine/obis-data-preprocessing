@@ -1,0 +1,3369 @@
+﻿European Marine Omics Biodiversity 
+Observation Network  
+
+(EMO BON) 
+
+Handbook
+
+EMBRC-ERIC, 4 Place Jussieu, Tour 46/00, 75005 Paris 
+www.embrc.eu 
+
+
+
+ 
+
+European Marine Omics Biodiversity Observation Network (EMO 
+BON) – Handbook 
+
+Ioulia Santi1,2, Raffaella Casotti3, Thierry Comtet4, Michael Cunliffe5, Yolanda Koulouri2, Lara Macheriotou6, 
+Fabrice Not4, Matthias Obst7, Christina Pavloudi2, Sarah Romac4, Eric Thiebaut4, Jan Vanaverbeke8, Nicolas 
+Pade1 
+
+1 European Marine Biological Resource Centre (EMBRC-ERIC), Paris, France 
+
+2 Hellenic Centre for Marine Research (HCMR), Institute of Marine Biology, Biotechnology and Aquaculture 
+(IMBBC), Heraklion, Greece 
+
+3 Stazione Zoologica Anton Dohrn, Napoli, Italy 
+
+4 Sorbonne University, CNRS, Biologique de Roscoff, Roscoff, France 
+
+5 Marine Biological Association of the UK, School of Biological and Marine Sciences, University of Plymouth, 
+Plymouth, UK 
+
+6 Marine Biology Research Group, Department of Biology, Ghent University, Ghent, Belgium  
+
+7 Department of Marine Sciences, University of Gothenburg, Göteborg, Sweden 
+
+8 Royal Belgian Institute of Natural Sciences, Operational Directorate Natural Environment (OD Nature), 
+Marine Ecology and Management (MARECO), Brussels, Belgium 
+
+ 
+
+ 
+
+ 
+
+Version 1.0 
+
+April 2021 
+
+ 
+
+Contact: 
+
+Ioulia Santi  
+
+European Marine Biological 
+Resource Centre 
+Paris Headquarters 
+4 Place Jussieu, 
+Tour 46/00, 1er étage, bureau 101 
+75252 Paris Cedex 05 (FR) 
+www.embrc.eu 
+
+Email: ioulia.santi@embrc.eu 
+Phone: +30 2 81 03 37 727 
+Mobile: +30 6 94 51 78 545 
+
+ 
+
+How to cite: 
+
+Ioulia Santi, Raffaella Casotti, Thierry Comtet, Michael Cunliffe, Yolanda Koulouri, Lara Macheriotou, Fabrice Not, Matthias Obst, Christina 
+Pavloudi, Sarah Romac, Eric Thiebaut, Jan Vanaverbeke, Nicolas Pade. European Marine Omics Biodiversity Observation Network (EMO 
+BON) – Handbook. Version 1.0, 2021.  
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 1 
+
+
+
+ 
+
+Table of Contents 
+Summary ........................................................................................................................... 3 
+
+Introduction ....................................................................................................................... 4 
+
+Participation to EMO BON ............................................................................................... 6 
+
+Sampling Protocols .......................................................................................................... 7 
+
+Water Column .......................................................................................................................... 10 
+
+Water Column Standard Operating Procedures 1 ‒ WaSOP 1 (basic) .................................. 10 
+
+Water Column Standard Operating Procedures 2 ‒ WaSOP 2 (optional) .............................. 18 
+
+Water Column Standard Operating Procedures 3 ‒ WaSOP 3 (optional) .............................. 23 
+
+Soft Substrate.......................................................................................................................... 28 
+
+Soft Substrate Standard Operating Procedures 1 ‒ SoSOP 1 (intertidal sediments).............. 28 
+
+Soft substrate Standard Operating Procedures 2 ‒ SoSOP 2 (coastal sediments by diving) . 35 
+
+Soft substrate Standard Operating Procedures 3 ‒ SoSOP 3 (coastal sediments by research 
+vessel) ................................................................................................................................... 36 
+
+Hard Substrate ........................................................................................................................ 43 
+
+Hard Substrate Standard Operating Procedures ‒ HaSOP .................................................... 43 
+
+Sample Labelling ............................................................................................................ 47 
+
+Collection and Documentation of Metadata ................................................................. 49 
+
+DNA extraction ................................................................................................................ 53 
+
+Sequencing ..................................................................................................................... 54 
+
+Replication and Biobanking .......................................................................................... 55 
+
+Calibration efforts ........................................................................................................... 56 
+
+References ...................................................................................................................... 57 
+
+Appendix 1: Materials and equipment .......................................................................... 58 
+
+Specifications of filters and filter holders ................................................................................ 58 
+
+DESS recipe .......................................................................................................................... 58 
+
+Hydrochloric acid (HCl) 10% recipe ....................................................................................... 58 
+
+Bleach (sodium hypochlorite, NaClO) 10% recipe ................................................................. 59 
+
+Appendix 2: Samples Summary .................................................................................... 60 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 2 
+
+
+
+ 
+
+Summary 
+The European Marine Omics Biodiversity Observation Network (EMO BON) is a European initiative 
+from the European Marine Biological Resource Centre (EMBRC) to establish a coordinated, long-
+term biodiversity observatory. Currently there are many ongoing genomic observation stations in 
+Europe. The goal for EMO BON is to support the individual marine biodiversity observatories within 
+EMBRC and connect them under one centrally coordinated network, with shared protocols, data, 
+and metadata standards. EMBRC provides the context and opportunity for partner institutions to 
+participate and complement EMO BON by initiating biodiversity observation stations. EMO BON 
+includes marine stations from Polar regions to the Red Sea that will sample for genomic marine 
+biodiversity at frequent intervals. This network will contribute to the United Nations Decade of Ocean 
+Science for Sustainable Development and aims to be an important European component to the 
+global ocean observation networks. 
+
+Collection of marine water, sediment and organisms will take place at the EMBRC participating 
+observatory stations according to the protocols described in this document – the EMO BON 
+Handbook – setting a minimum standard for participation to the network. DNA extraction and 
+sequencing will be performed at a centralised facility to reduce biases and ensure consistency in 
+the high-quality of sequencing. The data generated within this initiative will follow the FAIR data 
+principles. The life cycle of the EMO BON data will be described in detail in the EMO BON Data 
+Management Plan. Overall, EMBRC aims to build a long-term genomic observatory, generating 
+cost-effective, high-quality, baseline genomic biodiversity data that will be produced in the long term. 
+
+This Handbook contains all the guidelines and procedures from sampling to sequencing that will be 
+followed within EMO BON. The purpose of this document is not only to ensure the rigorous adhesion 
+to the appropriate protocols within EMO BON, but also to provide all the necessary information to 
+potential external participants from the wider scientific community. 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 3 
+
+
+
+ 
+
+Introduction 
+Marine ecosystems are rich and complex, hosting a diverse array of life from the smallest 
+microorganisms to the largest mammals. Together, this biodiversity sustains marine ecosystems 
+and provides services to human society as well as an inherent natural beauty. Restoring and 
+protecting biodiversity is critical today as the wellbeing of humans is tightly linked to fauna, flora, and 
+ecosystem health. The health and status of marine biodiversity is becoming of increasing concern 
+because of a range of impacts, including climate change and pollution. The marine environment and 
+its biodiversity are proving to be even more susceptible than previously believed, with increasing 
+losses of biodiversity observed as temperature increases (Smale et al., 2019; Antão et al., 2020). 
+Eventually, holistic knowledge on marine biodiversity is essential for fully understanding the ocean 
+(Muller-Karger et al., 2018). 
+
+Across the European Union, the political will to allay environmental damage while protecting and 
+restoring natural ecosystems is growing, with promising and ambitious plans proposed to reduce 
+environmental impact and mitigate climate change (European Green Deal), and with pledges to 
+restore degraded ecosystems and biodiversity (European Biodiversity Strategy for 2030).  Policy 
+makers require focused, sustained, consistent, quality-controlled, and transparent information with 
+regional coverage to rapidly detect the impact of their management and policy decisions on 
+biodiversity. Nowadays, at the European level, data on marine biodiversity are fragmented and 
+targeted at specific research questions. Furthermore, with the increased need to understand and 
+minimize anthropogenic impact on the oceans, policy makers need biological monitoring to provide 
+operational input to their decision-making processes. 
+
+To move towards a sustainable and environmentally conscious society, it is urgent that we rapidly 
+develop and organize marine biodiversity observing capabilities to complement the well-organised 
+physio-chemical observation networks (Heymans et al., 2020). There is a need for regional coverage 
+of established long-term biodiversity series, where traditional methods and emerging techniques are 
+combined (Claudet et al., 2020). Finally, biological data need to adopt a rigorous approach to 
+protocols and quality control to ensure the replicability of experiments and models. 
+
+Omics biodiversity defined as the collective identification of the species composition of an ecosystem 
+by using molecular biology omics approaches such as metagenomics and metabarcoding, is a 
+global point of discussion. Recognizing the need to continuously assess biodiversity, many 
+organisations and research infrastructures are expressing interest in establishing such an 
+observation network. 
+
+The core mission of EMBRC is to provide access to marine biodiversity for research and innovation 
+purposes.  As a multi-domain research infrastructure, supporting both environmental and biological 
+research, EMBRC can pave the path to biological observation in the marine environment. Therefore, 
+as a contribution to the global omics observation, in 2021 EMBRC launches the first coordinated, 
+long-term European Marine Omics Biodiversity Observation Network (EMO BON). EMO-BON will 
+provide long-term baseline genomic biodiversity data, supporting biodiversity and EOVs (Essential 
+Ocean Variables) and EBVs (Essential Biological Variables) monitoring, and ensuring continuity 
+between the many current short-term genomics observatory projects. EMO BON will build on robust 
+methodologies and produce cross-checked and quality-controlled datasets following appropriate 
+data and metadata standards. By establishing EMO BON, EMBRC will mobilise a substantial 
+network and bring transformation to the marine biological science landscape. Long-term observation 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 4 
+
+
+
+ 
+
+will provide the backbone of large research projects and initiatives, from ocean science, and climate 
+change to microbiome research and bioprospecting.  
+
+Several EMBRC nodes are already carrying out genomic observation and have brought 
+considerable expertise on the subject. EMO BON will support the individual marine biodiversity 
+observatories present in EMBRC and connect them under one centrally coordinated network, thus 
+creating one of the few operational genomics observatory networks in the world. By widening the 
+distribution of the observatories along the European coastline, EMBRC can ensure a unique and 
+broad coverage of habitats and longitudes from northern Norway to tropical Israel. In addition, 
+EMBRC is involved in the international community, which has been heavily engaged in the 
+conceptualization and development of genomic observation. Therefore, EMBRC observatory will be 
+operational in Europe, but relevant in a global context drawing users of the planned outputs from 
+around the planet. 
+
+To launch the initiative, 2021 and 2022 will serve as pilot years to establish and improve operational 
+procedures, create, and apply a data management plan based on FAIR principles and, build the 
+tools required to publish the produced data in a useful manner to all end users. These two years will 
+serve as the baseline to establish the future operation of EMO BON and its position in the global 
+marine observation roadmap. 
+
+ 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 5 
+
+
+
+ 
+
+Participation to EMO BON 
+EMO BON will initiate in 2021 and operate as a pilot until December 2022. For this period, selected 
+EMBRC partner institutions are invited to establish operational observatories. The selection of 
+partners was done to obtain a broad geographic distribution and to include representatives from 
+each EMBRC node. After the pilot phase, the geographical coverage will be expanded by including 
+additional observatory stations. Observatories are invited to select their sampling sites and provide 
+information to EMBRC by filling in the EMO BON registration form.  
+
+Three different marine habitats will be sampled within the EMO BON: water column, soft substrates, 
+and hard substrates. The observatories are expected to participate by sampling the water column 
+as a minimum and they may also select whether to sample soft and/or hard substrates. Therefore, 
+they may select a water column, a soft substrate, and a hard substrate site to include to their EMO 
+BON observatory. It is recommended that observatories select sampling sites that have been 
+studied in the past and that are well characterized (i.e., include other marine variables such as 
+seawater chemistry and/or biological components). Prior knowledge on the system will help putting 
+EMO BON data in a broader context and will result into an integrated study of the sites. Therefore, 
+in case EMBRC partner institutions run long term time series of biological data, it is recommended 
+that EMO BON sampling is carried out at the same sites. In addition, it is suggested that the sampling 
+sites of the different habitats are located near each other or at least in the same marine area, if 
+possible. 
+
+Participating institutions should decide on a name and a short ID for their observatory that will be 
+maintained for the duration of EMO BON and will characterize all samples collected at this 
+observatory. A contact person should be appointed who will be responsible for any future 
+communication. This person should hold all information regarding sampling campaigns, samples 
+collection, laboratory analyses, shipping, environmental variable measurements and will be the link 
+between EMO BON coordinators and the observatory. The contact person should be reachable for 
+an extended period after sampling. 
+
+An EMO BON Operating Committee (OpCo) will be established and comprise of the EMBRC 
+executive director, the EMBRC EMO BON science officer, one representative from each EMBRC 
+node, and one representative from the e-Infrastructures EMBRC working group. The OpCo will 
+ensure connection and communication with all its national observatories. A member of the EMBRC 
+General Assembly will also follow the OpCo during the pilot phase. The OpCo will be the connection 
+between EMO BON coordinators and the observatories and will be meeting monthly to tackle 
+technical and operational issues. 
+
+ 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 6 
+
+
+
+ 
+
+Sampling Protocols 
+Three different marine habitats will be sampled within the EMO BON: water column, soft substrates, 
+and hard substrates. Considering the diverse interests, experience, and equipment within EMBRC, 
+this handbook contains different sampling modules ranging from simplified to more complex and 
+time demanding. The basic water column procedure is the only prerequisite for participating in the 
+observatories network. All other protocols are included to help guide the decision on future protocols 
+that observatories may wish to add depending on their local interests.  
+
+All modules are based on robust methodologies that generate reliable and versatile data and have 
+been priorly tested either in the EMBRC operating marine stations or through other EMBRC activities 
+[ASSEMBLE Plus: Ocean Sampling Day (OSD) and Autonomous Reef Monitoring Structures 
+(ARMS)]. Considerable effort has been put into making the methodologies as flexible and adaptable 
+as possible to accommodate all the observatories chosen for the pilot phase. The standardization 
+of the sampling procedures is important to avoid biases and to produce comparable results; thus, 
+EMO BON participating observatory stations should adhere to the Standardized Operating 
+Procedures (SOPs) described in this Handbook. Using the protocols in this Handbook will allow for 
+interoperability and comparability between observatory stations. In addition, EMBRC will organize 
+training workshops for its members and beyond, to support users during the sampling and laboratory 
+procedures and to ensure consistency in the implementation of the procedures. 
+
+During the pilot phase in 2021 and 2022, EMO BON will focus on creating and maintaining the 
+network of observatories, applying and testing methodologies and procedures, producing high 
+quality datasets, and generate a robust data management plan based on FAIR principles. In this 
+initial phase it is important to give perspective to this network and make it operational for the ongoing 
+decade. For a successful and cost-effective implementation phase EMO BON will have to 
+concentrate the efforts to a broad geographic coverage and the sampling of diverse habitats rather 
+than the thorough sampling of fewer sites. Therefore, EMO BON will cover the sampling based on 
+one SOP per sampled habitat and a fixed number of ARMS deployments. Particularly for the water 
+column, Water Column Standard Operating Procedures 1 (WaSOP 1 basic) will be covered as 
+a prerequisite for participation to the network. In addition, each observatory may select one of the 
+Soft Substrate Standard Operating Procedures (SoSOPs) to sample the communities of choice 
+(microorganisms and/or meiobenthos and/or macrobenthos). For Hard Substrates Standard 
+Operating Procedures (HaSOP), it will be possible to deploy ARMS three times in one year. The 
+additional SOPs are included in the Handbook not only as future approaches but also to help 
+standardization for any observatory who wishes to establish further operational procedures. 
+Observatories are welcome to follow them and either perform in-house analyses or biobank the 
+samples. This approach will be re-evaluated by the EMO BON OpCo and the EMBRC General 
+Assembly at the end of the pilot phase. 
+
+The different habitats will be sampled at different time intervals; this information is summarized in 
+Table 1. Water column sampling events will take place at the participating operating stations once 
+every two months during daytime hours. There will be three modules for genomic biodiversity 
+sampling of water column. Water Column Standard Operating Procedures 1 (WaSOP 1 basic) 
+will represent the basic module for water column sampling within EMO BON. It includes sequential 
+filtration for the collection of different sized microbial plankton organisms. With equipping the 
+appropriate filtration apparatuses, seawater filtration becomes simplified while ensuring adequate 
+biomass collection at minimum processing time. This protocol will constitute the EMBRC contribution 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 7 
+
+
+
+ 
+
+to European marine genomics observation and is the prerequisite for participating in the network. 
+All EMO BON participating stations are expected to follow this basic protocol.  
+
+In addition to the basic water column sampling (WaSOP 1 basic), EMOBON participating stations 
+may wish to optionally perform WaSOP 2 and/or WaSOP 3. WaSOP 2 and WaSOP 3 target plankton 
+organisms of larger sizes (micro-, meso- and macro-plankton) and include the use of plankton nets. 
+These protocols are included to assist observatories that are interested in sampling larger in size 
+plankton but cannot be covered by EMO BON during the pilot phase. After the pilot phase, the 
+possibilities of covering the costs of further SOPs will be re-evaluated. 
+
+Soft substrate sampling will be based on different modules, depending on the sampling capacities 
+of each operating station. Participating stations that have access to intertidal sediments are 
+encouraged to sample such suitable sites using the Soft Substrate Standard Operating 
+Procedures 1 for intertidal sediments (SoSOP 1). If access to intertidal sediments is limited or 
+unfeasible, operating stations may choose between SoSOP 2 for sampling by diving or SoSOP 3 
+for sampling onboard a research vessel. Operating stations are to select one or more modules for 
+soft substrate sampling and maintain it for the duration of EMO BON. Each of the Soft Substrate 
+SOPs describes the collection of samples to access the microbial community, the meiobenthos and 
+the macrobenthos. Participating stations may sample any of the communities they are interested in. 
+
+Sampling intervals will be different for the various soft substrate communities since the dynamics of 
+each community are different (Table 1). Sampling for sediment microbial communities will take place 
+once every two months, sampling for meiobenthos once every 4 months while macrobenthos 
+sampling will take place twice a year. 
+
+Table 1: Sampling intervals for the different modules and sampled communities  
+
+Water Column Once every two months 
+
+(February, April, June, August, October, December) 
+
+Soft substrate - Microbial community Once every two months 
+
+(February, April, June, August, October, December) 
+
+Soft substrate - Meiobenthos community Once every four months 
+
+(April, June, October) 
+
+Soft substrate - Macrobenthos community Twice a year 
+
+(October, April) 
+
+ARMS deployment / retrieval Flexible timeframe for operating stations 
+
+The Hard Substrates Standard Operating Procedures (HaSOP) describes the passive sampling 
+of hardbottom communities based on the Autonomous Reef Monitoring Structures Marine 
+Biodiversity Observation Network (ARMS-MBON). This module requires the purchase of ARMS 
+units from the Smithsonian Institution (https://www.oceanarms.org/) and their deployment in the sea. 
+The procedures described here have been continuously and successfully employed during the 
+ASSEMBLE Plus ARMS-MBON project (Obst et al., 2020). Operating stations may adopt different 
+sampling strategies for the deployment and retrieval of ARMS for the hard substrate samplings. 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 8 
+
+
+
+ 
+
+However, it is important that the sampling variations are well documented and linked to the dataset 
+as metadata. 
+
+The deployment and recovery of ARMS may be challenging for inexperienced users. Therefore, 
+observatories not familiar with ARMS protocols need to be trained in the deployment, recovery, and 
+data collection. This will be done by participating in a hard substrate sampling in an experienced 
+observatory before being able to apply HaSOP in EMO BON. EMO BON may help bring new and 
+experienced observatories in contact. EMBRC plans to host training events within the pilot phase of 
+EMO BON for additional training on sampling and laboratory procedures. 
+
+  
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 9 
+
+
+
+ 
+
+Water Column 
+
+Water Column Standard Operating Procedures 1 ‒ WaSOP 1 (basic) 
+
+Summary 
+
+Subsurface seawater (0-3 m depth) will be collected from the water column sampling site of each 
+observatory. The exact water sampling depth is not specified as observatories may not be able to 
+sample at a specific depth. In case an observatory can sample at specified seawater depth, then 
+sampling at 1 m depth is recommended. Plankton community will be prefiltered to screen out 
+organisms >200 μm and then concentrated by sequential filtration on polycarbonate (PC) membrane 
+filters. Initially seawater volumes will be filtered through 3 µm polycarbonate membrane filters (142 
+mm in diameter); the outflow seawater will be sequentially filtered through 0.2 µm polycarbonate 
+membrane filters (142 mm in diameter). This will result in collecting 2 different fractions of plankton: 
+3-200 μm and 0.2-3 μm organisms. 
+
+The required seawater volume to ensure adequate biomass collection may vary between geographic 
+locations. The observatories may decide on the filtration volume based on the characteristics of their 
+sampling site and on previous filtration experience in the area. As an indication, in the oligotrophic 
+open-sea, filtration volumes may reach 20 l, while in nearshore coastal areas filtration of 5 l may be 
+adequate. However, it is important that operating stations filter the same seawater volume in every 
+sampling event to obtain consistency among samples from each location. EMBRC can provide 
+further guidance on selecting filtration volumes upon request. 
+
+After filtration, each filter membrane will be cut into two pieces by using a sterile scalpel and each 
+piece will represent one replicate. In total 4 replicates should be collected (more information in 
+Replication and Biobanking section, a diagram representation is available in Figure 11); that is, 2 
+separate sequential filtrations will take place and the cutting of each filter into two will result in 4 
+replicates. Filtration should be performed by delicate pumping either using a peristaltic pump or by 
+manual hand pumping. After filtration, membranes should be left to dry, carefully folded, placed in 
+individual containers with the preservative DNA/RNA shield, flash frozen in liquid nitrogen and stored 
+at -80oC until shipping for further analysis. 
+
+Filtration may initiate in the field immediately after sampling or following the transportation of the 
+sampled seawater to the laboratory. Seawater should remain in a cool dark place during 
+transportation and until filtration. It is important to be consistent to when the filtration takes place 
+among the different sampling events, therefore observatories are expected to either always filter in 
+the field or always transport water and filter in the lab. For a diagram representation of the 
+procedures see Appendix 2. 
+
+Protocol 
+
+A. Materials, equipment, and supplies 
+
+Before starting, ensure all materials equipment, and supplies are available by checking the following 
+table (Table 2). 
+
+ 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 10 
+
+
+
+ 
+
+Table 2: List of materials, equipment, and supplies for WaSOP 1. 
+
+10% HCl 
+
+0.2 μm prefiltered seawater 
+
+Purified water (Milli-Q or Nanopure) 
+
+Gloves 
+
+50 ml screw cap tubes 
+
+Aluminium foil 
+
+Wash bottles 
+
+Forceps 
+
+Scalpel 
+
+Peristaltic pump and pump heads / manual hand pump 1 
+
+Appropriate silicone tubes (adjustable to the pump and the filtration apparatuses) 
+
+Stainless steel filtration apparatuses (tripods), 142 mm (see Appendix 1)  
+
+Polycarbonate hydrophilic membranes, 3 μm pore size, 142 mm in diameter (see Appendix 1) 
+
+Polycarbonate hydrophilic membranes, 0.2 μm pore size, 142 mm in diameter (see Appendix 1) 
+
+5 ml cryotubes 
+
+Permanent marker 
+
+Transparent tape 
+
+Niskin bottle / bucket / hand pump 2 
+
+200 μm mesh 
+
+Sample containers of appropriate volume (carboys or Nalgene-type bottles, depending on the 
+seawater sampling volume at each observatory) 
+
+Funnel 
+
+Parafilm or shrink film 
+
+DNA/RNA Shield 
+
+Pipette (1000-5000 μl) and suitable tips 
+
+Access to liquid N2 
+
+Access to -80oC 
+
+1 The filtration may take place by a peristaltic pump or a manual hand pump. However, filtration 
+using a manual hand pump is feasible only at small seawater volumes. At seawater volumes 
+larger than 2 l, it is highly recommended to use a peristaltic pump. 
+
+2 For the collection of seawater it is recommended to equip Niskin bottles. However, depending on 
+the equipment availability at each observatory, it may also take place using a bucket of a hand 
+pump. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 11 
+
+
+
+ 
+
+B. Preparation and Cleaning 
+
+• Always wear gloves. 
+
+• Prepare 10% HCl. 
+
+• Clean the workspace using 10% HCl. 
+
+• Filter seawater at 0.2 μm to prepare 0.2-prefiltered seawater. Ideally this should be seawater 
+from the sampling site. 
+
+• Prepare a wash bottle filled with 0.2-prefiltered seawater. 
+
+• Prepare a 50 ml screw cap tube filled with 10% HCl and a 50 ml screw cap tube filled with 0.2-
+prefiltered seawater. Soak forceps and scalpel in the HCl tube and then in the 0.2-prefiltered 
+seawater tube before every use. Store forceps in the 10% HCl tube after use. 
+
+• Follow the manufracturer’s instructions for proper cleaning and maintenance of the filtration 
+apparatuses and the peristaltic pump. Clean the peristaltic pump with paper towel humidified 
+with tapwater before and after use. 
+
+• Filtration apparatuses and tubes are cleaned at the end of each sampling event and if allowed 
+to dry and stored properly (i.e., tube ends covered, tripod tube inlets/outlets covered, interior of 
+the tripod does not touch other surfaces, all parts are left to dry) there is no need to clean again. 
+It is recommended to rinse all parts of the filtration apparatuses using 70% ethanol after use and 
+allow them to dry overnight. 
+
+• After each filtration sequence, the system is cleaned by passing purified water (Milli-Q or 
+Nanopure) through. 
+
+• Never touch the filter (not even with gloves on). 
+
+• Avoid touching the inside of the filtration apparatuses. 
+
+• Prepare the appropriate volume of purified water (Milli-Q or Nanopure) to be used as negative 
+control (see below, Negative Controls section).  
+
+• Clean sampling equipment (Niskin bottle and/or buckets) using tap water. Rinse vigorously and 
+make sure material from previous samplings is washed away. Cleaning of sampling equipment 
+(Niskin bottle and/or buckets) may also take place at the end of every sampling event. Make 
+sure that equipment was cleaned and stored properly before using it. 
+
+• Rinse the 200 μm mesh and funnels vigorously with tap water and purified water (Milli-Q or 
+Nanopure). Make sure material from previous samplings is washed away. Cleaning of the 200 
+μm mesh and funnels may also take place at the and of every sampling event. Make sure that 
+materials were cleaned and stored properly before using them. 
+
+• Clean the sample containers (carboys or or Nalgene-type bottles) by incubating overnight with 
+10% HCl. The following day wash twice using distilled water and twice using purified water (Milli-
+Q or Nanopure). Rinse vigorously to ensure all interior surfaces are cleaned and acid is washed 
+away. Cleaning and decontamination of the sample containers (carboys or or Nalgene-type 
+bottles) may also take place at the and of every sampling event. Make sure they were cleaned 
+and stored properly before using them. 
+
+C. Setting up 
+
+Follow the manufacturer’s instructions for fully setting up the filtration apparatuses and the pump. 
+Here, only a brief description is included, considering that a peristaltic pump is used. The equipment 
+set up is described in the following sketch (Figure 1). In addition, a filtration workspace is depicted 
+in Figure 2. 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 12 
+
+
+
+ 
+
+ 
+
+Figure 1: Set up of the water column filtration equipment. The sampled seawater is collected in a container. A peristaltic 
+pump is passing the seawater through the system. Seawater is first passing through a 142 mm filtration apparatus 
+equipped with a 3 μm PC filter and subsequently through a 142 mm filtration apparatus equipped with a 0.2 μm PC filter. 
+The seawater is transported through appropriate tubes that connect the seawater container to the peristaltic pump and the 
+filtration apparatuses. 
+
+Set up the filtration apparatuses (tripods) as described below: 
+
+1. Open the tripod filter holders. Avoid touching the inside of the filter holders. 
+
+2. Humidify filter holder area of filtration tripods using 0.2 µm filtered seawater (Figure 3). 
+
+3. Soak forceps in the HCl tube and then in the 0.2-prefiltered seawater tube before every use. 
+Handle the filter with the forceps not by hand. 
+
+4. Place a PC filter membrane (3 µm pore size; 142 mm diameter) on the first tripod and a 0.2 µm 
+pore size PC filter membrane (142 mm diameter) on the second tripod using forceps (Figure 4). 
+Each PC filter is separated by 2 blue inter-filters in the filter boxes. Make sure to remove the 
+blue inter-filters or the water will not go through. Filters are polarized and both sides can be 
+used. 
+
+5. Close the tripods (Figure 5), tighten the hand knobs and connect the inlet and outlet tubes. 
+
+6. Connect the inlet tube of the first filtration tripod (3 µm filter membrane) to the peristaltic pump 
+and cover it using aluminium foil until filtration.  
+
+7. Connect the outlet tube of the first filtration tripod (3 µm filter membrane) to the inlet of the 
+second filtration tripod (0.2 µm filter membrane). 
+
+8. Connect the outlet of the second filtration tripod (0.2 µm filter membrane) to a tube and place 
+the tube in a waste container or in the sink. 
+
+ 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 13 
+
+
+
+ 
+
+ 
+
+Figure 2: Set up of the water column filtration equipment (peristaltic pump, filtration apparatuses (tripods), tubing system, 
+seawater collection carboys) on the laboratory bench. 
+
+ 
+
+ 
+
+  
+Figure 4: Open filtration tripod with a filter membrane placed 
+
+Figure 3: Open filtration tripod and humidified filter holder. 
+on it. 
+
+ 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 14 
+
+
+
+ 
+
+ 
+Figure 5: Open (left) and close (right) filtration tripods. 
+
+D. Seawater Collection 
+
+1. If a bucket is used to collect seawater, rinse it three times with seawater from the sampling site. 
+The Niskin bottle is washed with seawater while on use.  
+
+2. Rinse the funnel, and the sample containers three times with seawater from the sampling site. 
+
+3. Sample seawater below the sea surface between 0-3 m. Make sure not to sample sea surface 
+water. Collect the appropriate volume of seawater using the Niskin bottles. Seawater may also 
+be collected by hand-pumping or by using a bucket. 
+
+4. The required seawater volume differs among observatories. As two sequential filtrations will 
+take place, sample twice the required volume. For example, if an observatory has decided to 
+sample and filter 10 l of seawater, then 20 l of seawater should be sampled in total and, in step 
+5, transferred in two 10 l containers. 
+
+5. Adjust a large piece of 200 μm mesh on a funnel and place it on the sample container mouth.  
+
+6. Transfer seawater in the sample containers through the mesh and the funnel. Each of the 
+sample containers will be used for a separate filtration sequence. Therefore, each sample 
+container should include the required volume for one filtration. For example, if an observatory 
+has decided to sample and filter 10 l of seawater, then each of the two sample containers should 
+contain 10 l of the 20 l of seawater that was collected (step 3). Wash the 200 μm mesh before 
+filling up the second sample container to remove retained material. 
+
+7. Filtration should initiate as soon as possible after sampling. Sampled seawater may be 
+transported to the laboratory if filtration in the field is not possible. Keep each of the sample 
+containers in a dark and cool place until filtration. 
+
+E. Seawater Filtration and Sample Storage 
+
+1. Mix the sample containers gently by rotating at least 5 times. 
+
+2. Place the inlet tube of the first filtration tripod (3 µm filter membrane) in the first sample container 
+and immerse it in the seawater. 
+
+3. Cover the mouth of the sampling container during filtration. The container does not need to be 
+firmly closed, just enough to ensure that external material will not fall in. For example, cover the 
+container using parafilm or shrink film. 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 15 
+
+
+
+ 
+
+4. Check the pumping speed and the flow direction and turn on the peristaltic pump. Flow rate 
+should be adjusted to ensure a regular gentle continuous seawater flow. 
+
+5. Always initiate the filtration sequence with the filter holder vents open. Wait until all air bubbles 
+get expulsed from the filter holders through the vents and once the water flows regularly through 
+the vents, close them. 
+
+6. Seawater will be filtered sequentially through two filter membranes, first through the 3 μm and 
+subsequently through the 0.2 μm pore size membrane. 
+
+7. Check the tubing system and the filtration tripod connections regularly for overpressure that 
+may damage the cells and/or the filtration system. If pressure is too high, decrease the flow 
+rate. 
+
+8. Check for the presence of bubbles and use the filter holder vents to expulse them. 
+
+9. Ensure membranes always remain moistened during filtration. 
+
+10. After filtration, it is important to allow the filters to dry. To do that: 
+
+a. Keep the pump on and allow the system to pump air. 
+
+b. Disconnect the tube after the second tripod (0.2 μm tripod). 
+
+c. Empty the tube between the pump and the first tripod (3 μm tripod) by lifting it up. 
+
+d. Slowly open the vent of the second tripod (0.2 μm tripod) and empty the tube between the 
+two tripods by “waving it” a few times.  
+
+e. Close the vent of the second tripod (0.2 μm tripod). All the seawater that remained on the 
+second tripod filter will be pushed out by the increasing pressure. 
+
+f. Gently shake each tripod to make sure there is no water trapped in the filter holder.  
+
+g. Slowly open both vents while turning the peristaltic pump off. 
+
+11. Open the tripod filter holders. Avoid touching the inside of the filter holder area. 
+
+12. Use the forceps to handle the filter. Soak forceps in the HCl tube and then in the 0.2-prefiltered 
+seawater tube before every use. 
+
+13. To avoid contaminations, cut rapidly the filter into 2 visually equal pieces by using a sterile 
+scapel, after placing it on a clean, hard surface (e.g. in a Petri dish). 
+
+14. Immediately fold each piece twice and then fold again by rolling the filter in a cylinder. The two 
+filter pieces will be the sample replicates. 
+
+15. Carefully place the filters into separate 5 ml cryotubes and gently push the filters to the bottom 
+of the tube to minimize the space they occupy in the tube. Do not crumble the filter, just try to 
+gently fold it once more while in the tube. 
+
+16. Add 4.5 ml of DNA/RNA Shield by using a pipette and make sure the filter is covered by the 
+solution. 
+
+17. Label the tube appropriately using permanent marker (see Sample Labelling section). Each 
+filtration produces two sample replicates; therefore after 2 filtrations, 4 replicated samples will 
+be produced. The first filtration (for example, filtration A) will produce replicates 1 and 2 when 
+filter A is cut in half. 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 16 
+
+
+
+ 
+
+18. Apply transparent tape firmly on top of the label to avoid bleaching. 
+
+19. Transfer tubes into liquid N2 for flash freezing and subsequently store at -80oC. 
+
+20. Close the tripod and clean the filtration system by passing 2 l of purified water (Milli-Q or 
+Nanopure). Place new filters in the filtration tripods as described in the setting up section and 
+close the tripods. 
+
+21. Repeat steps 1-15 once more to filter all the collected seawater. Each filtration produces two 
+sample replicates; therefore after 2 filtrations, 4 replicated samples will be produced. The first 
+filtration (for example, filtration A) will produce replicates 1 and 2 when filter A is cut in half. The 
+second filtration (for example, filtration B) will produce replicates 3 and 4 when filter B is cut in 
+half.  
+
+22. Store the filter pieces for replicates 3 and 4 in 5 ml cryotubes without the addition of DNA/RNA 
+Shield. Replicates 3 and 4 will be stored for biobanking. 
+
+23. Label the tube appropriately using permanent marker (see Sample Labelling section).  
+
+24. Apply transparent tape firmly on top of the label to avoid bleaching. 
+
+25. Transfer tubes into liquid N2 for flash freezing and subsequently store at -80oC. 
+
+F. Negative Controls 
+
+As samples undergo different procedures at the operating stations and at the centralized sequencing 
+centre laboratories, it is important to check for contaminations. For this reason, blank samples will 
+be collected and processed together with the actual samples to serve as negative controls. The 
+collection of the blank samples will take place after the seawater filtrations to account for the cleaning 
+of the filtration apparatuses between different samples. After the seawater filtration follow the steps 
+bellow to collect and store the negative control sample.  
+
+1. After the second filtration, close the tripod and clean the filtration system by passing 2 l of 
+purified water (Milli-Q or Nanopure). 
+
+2. Place new filters in the filtration tripods as described in the setting up section above (Setting up 
+steps 1-4) and close the tripods. 
+
+3. Filter purified water (Milli-Q or Nanopure). The volume of the purified water (Milli-Q or Nanopure) 
+to be filtered should be equal to the volume of seawater filtered for one filtration. For example, 
+if an observatory has decided to sample and filter 10 l of seawater in one filtration sequence, 
+then 10 l of purified water (Milli-Q or Nanopure) should be filtered for the negative control as 
+well. 
+
+4. Follow filtration procedure as described in the seawater filtration section (E. Seawater Filtration 
+and Sample Storage, steps 6-10). 
+
+5. Open tripod filter holders. Avoid touching the inside of the filter holders. 
+
+6. Fold immediately each filter piece four times and then fold again by rolling the filter like a 
+cigarette paper. 
+
+7. Carefully place the filters into 5 ml cryotubes and gently push the filters to minimize the space 
+they occupy in the tube. Do not crumble the filter, just try to gently fold it once more while in the 
+tube. 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 17 
+
+
+
+ 
+
+8. Add 4.5 ml of DNA/RNA Shield by using a pipette and make sure the filter is covered by the 
+solution  
+
+9. Label the tube appropriately using permanent marker (see Sample Labelling section). 
+
+10. Apply transparent tape firmly on top of the label to avoid bleaching. 
+
+11. Transfer tubes into liquid N2 for flash freezing and subsequently store at -80oC. 
+
+Water Column Standard Operating Procedures 2 ‒ WaSOP 2 (optional) 
+
+Summary 
+
+This protocol aims at collecting plankton organisms sized >20 μm. EMO BON observatories have 
+different characteristics and may already follow specific routines for sampling plankton >20 μm. 
+Therefore, observatories will be allowed to deviate from the WaSOP 2 as long the procedures 
+followed are described in detail and adhere to the data as metadata. 
+
+Here we suggest vertical tows by a 20 µm mesh size plankton net from 100 m depth to the surface 
+of the water column or from bottom to the water column surface in case of a shallower site. The 
+material collected in the cod end should be diluted and separated into 4 subsamples. Each 
+subsample should be filtered through 10 µm polycarbonate membrane filters (47 mm in diameter) 
+under vacuum pressure. After filtration, membranes should be left to dry, carefully folded, placed in 
+individual tubes, preserved in DNA/RNA Shield, and stored in liquid nitrogen or at -80oC until further 
+analyses. 
+
+Filtration may initiate in the field immediately after sampling or after the transportation of sampled 
+seawater to the laboratory. Samples should remain in a cool dark place during transportation and 
+until filtration. It is important to be consistent to when the filtration takes place among the different 
+sampling events, therefore observatories are expected to either always filter at the field or always 
+transport water and filter it in the lab. 
+
+Observatories may deviate from the protocol and opt for horizontal instead of vertical tow, or by 
+introducing prefiltration at different mesh sizes. Nevertheless, it is important that all procedures are 
+documented in detail and kept consistent during EMOBON. For a diagram representation of the 
+procedures see Appendix 2. 
+
+Protocol 
+
+A. Materials, equipment, and supplies 
+
+Before starting, ensure all materials equipment, and supplies are available by checking the following 
+table (Table 3). 
+
+ 
+
+ 
+
+ 
+
+ 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 18 
+
+
+
+ 
+
+Table 3: List of materials, equipment, and supplies for WaSOP 2. 
+
+10% HCl 
+
+70% ethanol 
+
+Distilled water 
+
+0.2 μm prefiltered seawater 
+
+Purified water (Milli-Q or Nanopure) 
+
+Gloves 
+
+50 ml screw cap tubes 
+
+Aluminium foil 
+
+Wash bottles 
+
+Forceps 
+
+Vacuum pump 
+
+Filtration system (47 mm in diameter) 1 and appropriate filter units 
+
+Appropriate tubes (adjustable to the vacuum pump and the filtration system) 
+
+Polycarbonate hydrophilic membranes, 10 μm pore size, 47 mm in diameter (see Appendix 1) 
+
+20 μm plankton net 
+
+2 ml cryotubes 
+
+Permanent marker 
+
+Transparent tape 
+
+2000 μm mesh 
+
+Nalgene-type bottle of 1 l (sample container) 
+
+250 ml graduated containers 
+
+Funnel 
+
+DNA/RNA Shield 
+
+Pipette (500-1000 μl) and suitable tips 
+
+Access to liquid N2 
+
+Access to -80oC 
+
+1 The filtration system may differ from a filtration ramp to Duran-type pressure resistant glass 
+bottles. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 19 
+
+
+
+ 
+
+B. Preparation and Cleaning 
+
+• Always wear gloves 
+
+• Prepare 10% HCl. 
+
+• Disinfect the workspace using 10% HCl. 
+
+• Filter seawater at 0.2 μm to prepare 0.2-prefiltered seawater. Ideally this should be seawater 
+from the sampling site. 
+
+• Prepare a wash bottle filled with 0.2-prefiltered seawater. 
+
+• Prepare a 50 ml screw cap tube filled with 10% HCl and a 50 ml screw cap tube filled with 0.2-
+prefiltered seawater. Soak forceps and scalpel in the HCl tube and then in the 0.2-prefiltered 
+seawater tube before every use. Store forceps in the 10% HCl tube after use. 
+
+• Clean the filtration system: 
+
+− Clean the filtration ramp or the Duran-type pressure resistant glass bottles with tap water 
+and distilled water. 
+
+− Dissasemble the filtration units and rinse with tap water, distilled water, and EtOH 70%. Allow 
+them to dry before reassembling. 
+
+Cleaning of the filtration system may also take place at the end of every sampling event. Make 
+sure it was cleaned and stored properly before using it. 
+
+• Rinse the 20 μm plankton net vigorously inside and outside using tap water and make sure 
+material from previous samplings is washed away. Cleaning of the plankton net may also take 
+place at the end of every sampling event. Make sure it was cleaned and stored properly before 
+using it. 
+
+• Clean the sample containers (Nalgene-type bottles of 1 l) using 250 ml of  10% HCl and incubate 
+overnight. The following day wash twice using distilled water and twice using purified water (Milli-
+Q or Nanopure). Rinse vigorously to ensure all interior surfaces are cleaned and acid is washed 
+away. Cleaning and decontamination of the sample containers may also take place at the and 
+of every sampling event. Make sure the containers were cleaned and stored properly before 
+using them. 
+
+• Rinse funnels vigorously with tap water and purified water (Milli-Q or Nanopure). Cleaning and 
+decontamination of funnels may also take place at the and of every sampling event. Make sure 
+that materials were cleaned and stored properly before using them. 
+
+• Coordinate the appropriate adjustment of the plankton net to the winch cable and the proper 
+towing with the RV sailing personel. 
+
+C. Setting up 
+
+Set up the filtration system as described below. Filtration may take place in parallel depending on 
+the available equipment. The filtration system used may differ from a filtration ramp to Duran-type 
+pressure resistant glass bottles. Filtration units of 47 mm in diameter are adjusted on the ramp or 
+on the bottles. Figure 6 depicts a filtration ramp and the 4 adjusted filtration units. 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 20 
+
+
+
+ 
+
+1. Open the 47 mm filtration unit(s). 
+
+2. Humidify the filter holder area using 0.2-
+prefiltered seawater. 
+
+3. Soak forceps in the HCl tube and then in the 0.2-
+prefiltered seawater tube before every use. 
+Handle the filter with the forceps not by hand. 
+
+4. Place a PC filter membrane (10 µm pore size; 47 
+mm diameter) on the filtration unit. If more than 
+one filtration units are available, for parallel 
+filtration place a filter on each of the filtration 
+units. Each PC filter is separated by 2 blue inter-
+filters in the filter boxes. Make sure to remove the 
+blue inter-filters or the water will not go through. 
+Filters are non-polarized and both sides can be 
+used. 
+
+5. Close the filtration units and cover them using a 
+glove or aluminium foil to avoid contaminations 
+
+ 
+from air particles. 
+
+Figure 6: Set up of the WaSOP 2 and WaSOP 3 
+
+6. Connect the system to a vacuum pump using filtration equipment (filtration ramp and 47 mm 
+filtration units) on the laboratory bench. The 
+
+appropriate tubing system. filtration system is connected to a vacuum pump 
+and filtration takes place in parallel in the 4 filtration 
+
+7. If a filtration ramp is used, place the water outlet units. 
+tube in a waste container or in the sink. 
+
+D. Sample Collection 
+
+1. Perform a vertical tow from 100 m depth to the surface using a 20 µm plankton net. If the total 
+water depth is less than 100 m, plankton net may be towed from the bottom to the surface of 
+the water column (Figure 7). 
+
+2. Towing should be at a speed of ca. 0.5 m/s. 
+
+3. Once the plankton net is back on deck, rinse the net from the outside with seawater to 
+concentrate collected plankton in the cod-end. 
+
+4. If the net is equipped with a flowmeter, record the sampled water volume. 
+
+5. Adjust a 2000 μm mesh on a funnel and place it on the Nalgene-type bottle mouth. 
+
+6. Transfer the plankton gently from the cod-end into a clean 1 l Nalgene-type bottle through the 
+2000 μm mesh. To ensure all material is collected, rinse vigorously using a wash bottles of 0.2 
+μm filtered seawater. Make sure the cod-end is rinsed well, especially the apertures on the sides 
+(if any). 
+
+7. Gently fill the Nalgene-type bottle up to 1 l with 0.2-prefiltered seawater. 
+
+8. Mix the Nalgene-type bottle gently by rotating at least 5 times. 
+
+9. Separate the 1 l of seawater into 4 subsamples of 250 ml in separate graduated containers.  
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 21 
+
+
+
+ 
+
+10. Filtration should initiate as soon as possible after sampling. Subsamples may be transported to 
+the laboratory if filtration at the field is not possible. Keep each of the subsample containers in 
+a dark and cool place until filtration. 
+
+E. Filtration and Sample Storage 
+
+1. Filter subsamples through 10 μm pore size PC filter membranes (47 mm in diameter). 
+
+2. Process each subsample in multiple filtration steps by adding 50 ml to the filtration tower in each 
+step. This is because samples may be rich in plankton and clog the filter. Mix the Nalgene-type 
+bottle gently for each of the 50 ml filtration steps. In case the filter clogs, stop the filtration and 
+record the total volume filtered. 
+
+3. After filtration, allow filters to dry. Recover each membrane using forceps and fold membranes 
+three times. Soak forceps in the HCl tube and then in the 0.2-prefiltered seawater tube before 
+every use. 
+
+4. Place filter membrane into 2 ml cryotube. 
+
+5. Add 1.5 ml of DNA/RNA Shield by using a pipette and make sure the filter is covered by the 
+solution. 
+
+6. Label the tube appropriately using permanent marker (see Sample Labelling section). 
+
+7. Apply transparent tape firmly on top of the label to avoid bleaching. 
+
+8. Transfer tubes into liquid N2 for flash freezing and subsequently store into -80oC. 
+
+9. Repeat steps 1-8 for all 4 replicated subsamples. Vacuum filtrations of the replicates may also 
+take place in parallel if appropriate filtration system is available.  
+
+10. For the third and fourth filter (replicates 3 and 4) skip step 5. Replicates 3 and 4 will be stored 
+for biobanking and DNA/RNA Shield will not be used. 
+
+F. Negative Controls 
+
+As samples undergo different procedures at the operating stations and at the centralized sequencing 
+centre laboratories, it is important to check for contaminations. For this reason, blank samples will 
+be collected and processed together with the actual samples to serve as negative controls. The 
+collection of the blank samples will take place after the seawater filtrations to account for the cleaning 
+of the filtration apparatuses between different samples. After the seawater filtration follow the steps 
+bellow to collect and store the negative control sample. 
+
+1. Filter 250 ml of purified water (Milli-Q or Nanopure) through a 10 μm pore size PC filter 
+membrane (47 mm in diameter). Follow filtration procedure as described above. 
+
+2. After filtration, allow filter to dry. Recover the filter membrane using clean forceps and fold three 
+times. Soak forceps in the HCl tube and then in the 0.2-prefiltered seawater tube before every 
+use.  
+
+3. Place membrane into a 2 ml cryotube. 
+
+4. Add 1.5 ml of DNA/RNA Shield by using a pipette and make sure the filter is covered by the 
+solution. 
+
+5. Label the tube appropriately using permanent marker (see Sample Labelling section). 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 22 
+
+
+
+ 
+
+6. Apply transparent tape firmly on top of the label to avoid bleaching. 
+
+7. Transfer tubes into liquid N2 for flash freezing and subsequently store into -80oC. 
+
+ 
+
+Figure 7: Vertical tow onboard a RV. 
+The WP2 net is clean and about to be 
+towed. 
+
+Water Column Standard Operating Procedures 3 ‒ WaSOP 3 (optional) 
+
+Summary 
+
+This protocol aims at collecting plankton organisms sized >200 μm using WP2 plankton nets. EMO 
+BON observatories have different characteristics and may already follow specific routines for 
+sampling plankton >200 μm. Therefore, observatories will be allowed to deviate from the WaSOP 3 
+as long the procedures followed are described in detail and adhere to the data as metadata. 
+
+Here we suggest vertical tows by a 200 µm mesh WP2 plankton net from 100 m depth to the surface 
+or from bottom to the water column surface in case of a shallower site. The material collected in the 
+cod end should be diluted and separated into 4 subsamples. Each subsample should be filtered 
+through 10 µm polycarbonate membrane filters (47 mm in diameter) under vacuum pressure. After 
+filtration, membranes should be left to dry, carefully folded, placed in individual tubes, preserved in 
+DNA/RNA Shield, and stored in liquid nitrogen or at -80oC until further analyses. 
+
+Filtration may initiate in the field immediately after sampling or following transportation of sampled 
+seawater to the laboratory. Samples should remain in a cool dark place during transportation and 
+until filtration. It is important to be consistent to when the filtration takes place among the different 
+sampling events, therefore observatories are expected to either always filter at the field or always 
+transport water and filter in the lab. 
+
+Observatories may deviate from the protocol and opt for horizontal instead of vertical tow, or by 
+introducing prefiltration at different mesh sizes. Nevertheless, it is important that all procedures are 
+documented in detail and kept consistent during EMOBON. For a diagram representation of the 
+procedures see Appendix 2. 
+
+ 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 23 
+
+
+
+ 
+
+Protocol 
+
+A. Materials, equipment, and supplies 
+
+Before starting, ensure all materials equipment, and supplies are available by checking the following 
+table (Table 4). 
+
+Table 4: List of materials, equipment, and supplies for WaSOP 3. 
+
+10% HCl 
+
+70% ethanol 
+
+Distilled water 
+
+0.2 μm prefiltered seawater 
+
+Purified water (Milli-Q or Nanopure) 
+
+Gloves 
+
+50 ml screw cap tubes 
+
+Aluminium foil 
+
+Wash bottles 
+
+Forceps 
+
+Vacuum pump 
+
+Filtration system (47 mm in diameter) and appropriate filter units 1 
+
+Appropriate tubes (adjustable to the vacuum pump and the filtration system) 
+
+Polycarbonate hydrophilic membranes, 10 μm pore size, 47 mm in diameter (see Appendix 1) 
+
+200 μm WP2 plankton net 
+
+2 ml cryotubes 
+
+Permanent marker 
+
+Transparent tape 
+
+Nalgene-type bottle of 1 l (sample container) 
+
+250 ml graduated containers 
+
+Funnel 
+
+DNA/RNA Shield 
+
+Pipette (500-1000 μl) and suitable tips 
+
+Access to liquid N2 
+
+Access to -80oC 
+
+1 The filtration system may differ from a filtration ramp to Duran-type pressure resistant glass 
+bottles. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 24 
+
+
+
+ 
+
+B. Preparation and Cleaning 
+
+• Always wear gloves 
+
+• Prepare 10% HCl. 
+
+• Disinfect the workspace using 10% HCl. 
+
+• Filter seawater at 0.2 μm to prepare 0.2-prefiltered seawater. Ideally this should be seawater 
+from the sampling site. 
+
+• Prepare a wash bottle filled with 0.2-prefiltered seawater. 
+
+• Prepare a 50 ml screw cap tube filled with 10% HCl and a 50 ml screw cap tube filled with 0.2-
+prefiltered seawater. Soak forceps and scalpel in the HCl tube and then in the 0.2-prefiltered 
+seawater tube before every use. Store forceps in the 10% HCl tube after use. 
+
+• Clean the filtration system: 
+
+− Clean the filtration ramp or the Duran-type pressure resistant glass bottles with tap water 
+and distilled water. 
+
+− Dissasemble the filtration units and rinse with tap water, distilled water, and EtOH 70%. Allow 
+them to dry before reassembling. 
+
+Cleaning of the filtration system may also take place at the end of every sampling event. Make 
+sure it was cleaned and stored properly before using it. 
+
+• Rinse the 200 μm WP2 plankton net vigorously inside and outside using tap water and make 
+sure material from previous samplings is washed away. Cleaning of the plankton net may also 
+take place at the end of every sampling event. Make sure it was cleaned and stored properly 
+before using it. 
+
+• Clean the sample containers (Nalgene-type bottles of 1 l) using 250 ml of  10% HCl and incubate 
+overnight. The following day wash twice using distilled water and twice using purified water (Milli-
+Q or Nanopure). Rinse vigorously to ensure all interior surfaces are cleaned and acid is washed 
+away. Cleaning and decontamination of the sample containers may also take place at the and 
+of every sampling event. Make sure the containers were cleaned and stored properly before 
+using them. 
+
+• Rinse funnels vigorously with tap water and purified water (Milli-Q or Nanopure). Cleaning and 
+decontamination of funnels may also take place at the and of every sampling event. Make sure 
+that materials were cleaned and stored properly before using them. 
+
+• Coordinate the appropriate adjustment of the plankton net to the winch cable and the proper 
+towing with the RV sailing personel. 
+
+C. Setting up 
+
+Set up the filtration system as described below. Filtration may take place in parallel depending on 
+the available equipment. The filtration system used may differ from a filtration ramp to Duran-type 
+pressure resistant glass bottles. Filtration units of 47 mm in diameter are adjusted on the ramp or 
+on the bottles. Figure 6 depicts a filtration ramp and the 4 adjusted filtration units. 
+
+1. Open the 47 mm filtration unit(s). 
+
+2. Humidify the filter holder area using 0.2-prefiltered seawater. 
+
+3. Soak forceps in the HCl tube and then in the 0.2-prefiltered seawater tube before every use. 
+Handle the filter with the forceps not by hand. 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 25 
+
+
+
+ 
+
+4. Place a PC filter membrane (10 µm pore size; 47 mm diameter) on the filtration unit. If more 
+than one filtration units are available, for parallel filtration place a filter on each of the filtration 
+units. Each PC filter is separated by 2 blue inter-filters in the filter boxes. Make sure to remove 
+the blue inter-filters or the water will not go through. Filters are non-polarized and both sides 
+can be used. 
+
+5. Close the filtration units and cover them using a glove or aluminium foil to avoid contaminations 
+from air particles. 
+
+6. Connect the system to a vacuum pump using appropriate tubing system. 
+
+7. If a filtration ramp is used, place the water outlet tube in a waste container or in the sink. 
+
+D. Sample Collection 
+
+1. Perform a vertical tow from 100 m depth to surface using a WP2 200 µm plankton net. If the 
+total water depth is less than 100 m, plankton net may be towed from the bottom to the surface 
+of the water column (Figure 7). 
+
+2. Towing should be at a speed of ca. 0.5 m/s. 
+
+3. Once the plankton net is back on deck, rinse the net from the outside with seawater to 
+concentrate collected plankton to the cod-end. 
+
+4. If the net is equipped with a flowmeter, record the sampled water volume. 
+
+5. Transfer the plankton gently from the cod-end into a clean 1 l Nalgene-type bottle through the 
+2000 μm mesh. To ensure all material is collected, rinse vigorously using a wash bottles of 0.2 
+μm filtered seawater. Make sure the cod-end is rinsed well, especially the apertures on the sides 
+(if any). 
+
+6. Gently fill the Nalgene-type bottle up to 1 l with 0.2-prefiltered seawater. 
+
+7. Mix the Nalgene-type bottle gently by rotating at least 5 times. 
+
+8. Separate the 1 l of seawater into 4 subsamples of 250 ml in separate graduated containers.  
+
+9. Filtration should initiate as soon as possible after sampling. Subsamples may be transported to 
+the laboratory if filtration at the field is not possible. Keep each of the subsample containers in 
+a dark and cool place until filtration. 
+
+E. Filtration and Sample Storage 
+
+1. Filter subsamples through 10 μm pore size PC filter membranes (47 mm in diameter). Filtration 
+should proceed fast. 
+
+2. After filtration, allow filters to dry. Recover each membrane using forceps and fold membranes 
+three times. Soak forceps in the HCl tube and then in the 0.2-prefiltered seawater tube before 
+every use. 
+
+3. Place membranes into 2 ml cryotubes. 
+
+4. Add 1.5 ml of DNA/RNA Shield by using a pipette and make sure the filter is covered by the 
+solution. 
+
+5. Label the tube appropriately using permanent marker (see Sample Labelling section). 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 26 
+
+
+
+ 
+
+6. Apply transparent tape firmly on top of the label to avoid bleaching. 
+
+7. Transfer tubes into liquid N2 for flash freezing and subsequently store into -80oC. 
+
+8. Repeat steps 1-7 for all 4 replicated subsamples. Vacuum filtrations of the replicates may also 
+take place in parallel if appropriate filtration system is available.  
+
+9. For the third and fourth filter (replicates 3 and 4) skip step 5. Replicates 3 and 4 will be stored 
+for biobanking and DNA/RNA Shield will not be used. 
+
+F. Negative Controls 
+
+As samples undergo different procedures at the operating stations and at the centralized sequencing 
+centre laboratories, it is important to check for contaminations. For this reason, blank samples will 
+be collected and processed together with the actual samples to serve as negative controls. The 
+collection of the blank samples will take place after the seawater filtrations to account for the cleaning 
+of the filtration apparatuses between different samples. After the seawater filtration follow the steps 
+bellow to collect and store the negative control sample. 
+
+1. Filter 250 ml of purified water (Milli-Q or Nanopure) through a 10 μm pore size PC filter 
+membrane (47 mm in diameter). Follow filtration procedure as described above. 
+
+2. After filtration, allow filter to dry. Recover the filter membrane using clean forceps and fold three 
+times. Soak forceps in the HCl tube and then in the 0.2-prefiltered seawater tube before every 
+use.  
+
+3. Place membrane into a 2 ml cryotube. 
+
+4. Add 1.5 ml of DNA/RNA Shield by using a pipette and make sure the filter is covered by the 
+solution. 
+
+5. Label the tube appropriately using permanent marker (see Sample Labelling section). 
+
+6. Apply transparent tape firmly on top of the label to avoid bleaching. 
+
+7. Transfer tubes into liquid N2 for flash freezing and subsequently store into -80oC. 
+
+  
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 27 
+
+
+
+ 
+
+Soft Substrate 
+
+Soft Substrate Standard Operating Procedures 1 ‒ SoSOP 1 (intertidal 
+sediments) 
+
+Summary 
+
+Operating stations that have access to intertidal sediments are encouraged to choose such habitats 
+as soft substrate sampling sites. Intertidal soft substrates will be sampled during low tides using 
+sediment corers to ensure the collection of undisturbed sediment. Sediment corers are 
+recommended to be at least 10 cm in diameter so that adequate sediment is collected. The top 5 
+cm of sediment will be sliced and sampled for the collection of microorganisms and meiobenthos. 
+For the collection of macrobenthos, all the sediment in the corers will be used. For each community 
+sampled, 4 replicated samples should be collected. These replicates are designed to represent 
+technical replicates and will be used for different purposes (more information on the Replication and 
+BiobankingReplication and BiobankingReplication and BiobankingReplication and Biobanking 
+section). 
+
+The finer the sampled sediment is, the more care should be given during handling. For example, 
+silty sediment might leak when the corer is retrieved from the sediment. In that case, corers handling 
+should be performed quickly. In case operating stations find it impossible to use sediment corers in 
+their site of choice, it will also be acceptable to use other means for sediment collection. For 
+example, a shovel might be used to dig out sediment from a defined area, or metal frames could 
+define the area from where the sediment will be collected. However, all deviations from the present 
+protocols should be explicitly described and follow the samples as metadata. 
+
+Sediment slicing or sieving may initiate in the field immediately after sampling or following the 
+transportation of the sediment corers to the laboratory. Sediment corers should remain cool and in 
+the dark during transportation and always be kept in a vertical position as retrieved from the field. It 
+is important to be consistent to when the slicing or sieving takes place among the different sampling 
+events, therefore observatories are expected to either always process samples in the field or always 
+transport corers and process in the lab. 
+
+Before shipment for DNA extraction and sequencing, the meiobenthic organisms should be 
+extracted from the sediment. After the meiobenthos extraction, the meiobenthic organisms will be 
+resuspended in the preservative DNA/RNA shield for shipment. 
+
+Sediment collected for macrobenthos sampling will have to be sieved through a 1 mm sieve. Some 
+marine areas, such as the Eastern Mediterranean, or polluted sediments are characterized by 
+smaller macrobenthic organisms. Using a 1 mm sieve alone would result to missing a large part of 
+the macrobenthos for those areas. In such cases, sequential sieving using both 1 mm and 0.5 mm 
+sieves should take place. The organisms retained in the 1 mm and in the 0.5 mm sieves will be 
+handled and stored separately as different fractions. After sieving all organisms will be crushed and 
+homogenized using mortar and pestle to obtain a mixture of tissues. For a diagram representation 
+of the procedures see Appendix 2. 
+
+ 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 28 
+
+
+
+ 
+
+Protocol 
+
+A. Materials, equipment, and supplies 
+
+Before starting, ensure all materials equipment, and supplies are available by checking the following 
+table (Table 5). 
+
+Table 5: List of materials, equipment, and supplies for SoSOP 1 (intertidal sediments). 
+
+Bleach solution 
+
+Distilled water 
+
+Purified water (Milli-Q or Nanopure) 
+
+Gloves 
+
+Aluminium foil 
+
+Plexiglass or PVC sediment corers of at least 10 cm in diameter (microbial and meiobenthos 
+community) 1 
+
+Appropriate rubber stoppers for the 10 cm sediment corers (microbial and meiobenthos 
+community) 
+
+Plexiglass or PVC sediment corers of at least 20 cm in diameter (macrobenthos community) 1 
+
+Appropriate rubber stoppers for the 20 cm sediment corers (macrobenthos community) 
+
+Spatula and/or spoon 
+
+Plunger 
+
+Clean surface for mixing the sediment (e.g., large Petri dish or plastic bowl) 
+
+Pipette (1000-5000 μl) and pre-cut 5000 μl tips (optional for silty sediments) 
+
+1 mm sieve (macrobenthos community) 
+
+0.5 mm sieve (optional; macrobenthos community) 
+
+Mortar and pestle (macrobenthos community) 
+
+15 ml screw cap tubes resistant to liquid N2 (microbial community) 
+
+Ziplock bags (meiobenthos community) 
+
+50 ml screw cap tubes (macrobenthos community) 
+
+Permanent marker 
+
+Transparent tape 
+
+Laboratory balance 
+
+DNA/RNA Shield (microbial and meiobenthos community) 
+
+DESS aqueous solution (macrobenthos community) 
+
+Pipette (500-1000 μl) and suitable tips 
+
+Cotton swabs 
+
+Access to liquid N2 (microbial community) 
+
+Access to -80oC (microbial community) 
+
+Access to -20oC (meiobenthos community) 
+
+Access to 4oC (macrobenthos community) 
+
+1 Alternatively, a multicorer may be used to collect several sediment corers simultaneously. 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 29 
+
+
+
+ 
+
+B. Preparation and Cleaning 
+
+• Always wear gloves. 
+
+• Prepare 10% bleach solution. 
+
+• Prepare DESS aquaous solution (see DESS recipe). 
+
+• Clean sediment corers and sieves using tap water. Rinse vigorously and make sure material 
+from previous samplings is washed away. 
+
+• Desinfect plastic material (large Petri dish and/or plastic bowl) by incubating in 10% bleach 
+solution overnight. Rinse with purified water (Milli-Q or Nanopure) to wash the solution away and 
+cover in aluminium foil to store. 
+
+• Desinfect spatulas, spoons, and other metal tools by briefly soaking in 10% bleach solution. 
+Rinse with purified water (Milli-Q or Nanopure) to wash the solution away and cover in aluminium 
+foil to store. 
+
+C. Negative Control Samples 
+
+As samples undergo different procedures at the operating stations and at the centralized sequencing 
+centre laboratories, it is important to check for contaminations. For this reason, blank samples will 
+be collected and processed together with the sediment samples to serve as negative controls. Once 
+the sediment is collected and before further processing, collect and store a negative control sample 
+as described below: 
+
+Microbial community negative control 
+
+1. Use a cotton swab on the lab bench, the spatulas, and the spoons. 
+
+2. Cut the cotton part of the swab and store it in a 15 ml screw cap tube. 
+
+3. Add 10 ml of DNA/RNA Shield by using a pipette. 
+
+4. Label the tube appropriately using permanent marker (see Sample Labelling section). 
+
+5. Apply transparent tape firmly on top of the label to avoid bleaching. 
+
+6. Transfer tube into liquid N2 for flash freezing and subsequently store at -80oC. 
+
+Meiobenthos community negative control 
+
+1. Use a cotton swab on the lab bench, the spatulas, and the spoons. 
+
+2. Cut the cotton part of the swab and store it in a Ziplock bag. 
+
+3. Label the tube appropriately using permanent marker (see Sample Labelling section). 
+
+4. Apply transparent tape firmly on top of the label to avoid bleaching. 
+
+5. Store the bag at -20oC. 
+
+6. Process the negative control sample together with the sediment samples during the 
+meiobenthos extraction from sediment. 
+
+Macrobenthos community negative control 
+
+1. Use a cotton swab on the spatulas, the spoons, the sieves and the mortar and pestle. 
+
+2. Cut the cotton part of the swab and store it in a 50 ml screw cap tube. 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 30 
+
+
+
+ 
+
+3. Add 20 ml of DESS (see DESS recipe). 
+
+4. Label the tube appropriately using permanent marker (see Sample Labelling section). 
+
+5. Apply transparent tape firmly on top of the label to avoid bleaching. 
+
+6. Store at 4oC. 
+
+D. Microbial Community Sampling 
+
+1. Reach the sampling site during low tide. 
+
+2. Deploy 2 plexiglass or PVC sediment corers of at least 10 cm in diameter. Deploy the different 
+sediment corers in proximity and ensure that the sediment surface is not visually different among 
+the deployment points. 
+
+3. Use appropriate rubber stop to close the upper end of the corer while deployed in the sediment 
+to create vacuum. 
+
+4. Gently bring the corer to surface and place a rubber stop to its lower end. If sampling silt or clay 
+sediment, retrieving corers from the sediment will need extra care as sediment may leak. In that 
+case, the bottom end rubber stop should be placed quickly or, if possible, while the corer is still 
+deployed in the sediment. In case, it seems difficult to adjust the lower stop, loosen the upper 
+stop slightly, adjust the lower stop, and then firmly close the upper stop again. 
+
+5. If available, a multicorer may be used to collect several sediment corers simultaneously (Figure 
+8). In that case, all the necessary corers for microorganisms, meiobenthos and macrobenthos 
+may be collected during the multicorer deployment. 
+
+6. Ideally, the sediment core slicing should take place at the sampling site directly after collection. 
+If this is not possible, corers should be kept in a cool and dark environment until transportation 
+to the lab. Open the top rubber stop during transportation to prevent oxygen consumption which 
+may alter the microbial community. In any case, handle sediment corers carefully and always 
+keep them vertically (surface sediment on top) to avoid mixing surface to deep sediment (Figure 
+9). 
+
+7. Place a plunger in a sediment corer, push the corer to remove seawater and set the sediment 
+at the surface of the corer. 
+
+8. Push the corer to 6 cm and slice sediment at the top 5 cm and using a spoon and spatula place 
+the slice on a clean surface (e.g., Petri dish or plastic bowl). 
+
+9. Repeat steps 7-8 for both collected sediment corers and place the sediment slices on the same 
+surface. 
+
+10. Gently homogenize sediment using a spoon or a spatula.  
+
+11. Pre-weigh a 15 ml screw cap tube and using a spoon and spatula transfer 10 g of sediment in 
+the tube. An alternative, though less accurate, method would be to fill the 15 ml graduated screw 
+cap tubes to approximately 10 ml tube indication. In the case of silty sediment, pre-cut 5000 μl 
+tips might be used to transfer the sediment in the screw cap tubes by careful pipetting. Make 
+sure that the 15 ml screw cap tubes used are resistant to liquid N2. 
+
+12. Fill 4 screw cap tubes with the homogenized sediment. 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 31 
+
+
+
+ 
+
+10. Add 10 ml of DNA/RNA Shield by using a pipette and make sure the sediment is covered by the 
+solution. For the third and fourth tube of replicate samples skip this step. Replicates 3 and 4 will 
+be stored for biobanking and DNA/RNA Shield will not be used. 
+
+13. Label the tube appropriately using permanent marker (see Sample Labelling section). 
+
+14. Apply transparent tape firmly on top of the label to avoid bleaching. 
+
+E. Meiobenthos Community Sampling 
+
+1. Reach the sampling site during low tide. 
+
+2. Deploy 4 plexiglass or PVC sediment corers of at least 10 cm in diameter. Deploy the different 
+sediment corers in proximity and ensure that the sediment surface is visually similar among the 
+deployment points. 
+
+3. Follow steps 3-10 above (Microbial Community Sampling), for deploying and retrieving the 
+corers. 
+
+4. Distribute the homogenised sediment into 4 plastic Ziplock bags and weigh the bags. Flatten 
+the bags to allow stacking of samples. 
+
+5. Label the Ziplock bags appropriately using permanent marker (see Sample Labelling section) 
+and apply transparent tape firmly on top of the label to avoid bleaching. 
+
+6. Store bags at -20oC. Sediment can be stored at -20oC safely for 2 years until meiobenthos 
+extraction from sediment. 
+
+F. Meiobenthos Extraction from Sediment 
+
+Extract meiobenthos from the sampled sediment into purified water (Milli-Q or Nanopure) by density-
+gradient centrifugation with the colloidal silica polymer Ludox HS-40 as a flotation medium, or 
+equivalent (specific density 1.18 g cm−1). The meiobenthos extraction from sediment may take 
+place any time after sampling and within 2 years. Before starting, ensure all materials equipment, 
+and supplies are available by checking the following table (Table 6). 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 32 
+
+
+
+ 
+
+Table 6: List of materials, equipment, and supplies for meiobenthos extraction from 
+sediment. 
+
+Purified water (Milli-Q or Nanopure) 
+
+Gloves 
+
+50 ml centrifuge tubes 
+
+Colloidal silica polymer Ludox HS-40 
+
+32 µm sieve 
+
+Funnel 
+
+Spoon and/or spatula 
+
+Wash bottle 
+
+Centrifuge 
+
+Isothermal box with ice 
+
+Pipette (10 ml) and suitable tips 
+
+Pipette (100-1000 μl) and suitable tips 
+
+1.5 ml centrifuge tube 
+
+Permanent fine-tip marker 
+
+Transparent tape 
+
+DNA/RNA Shield 
+
+Access to -20oC 
+
+1. Bring sediment Ziplock bags at room temperature. 
+
+2. Remove sediment from Ziplock bag and transfer onto 32 µm sieve.  
+
+3. Gently flush with water to thaw and reduce sediment volume.  
+
+4. Using a funnel and a wash bottle containing the Ludox (or equivalent) transfer the sample from 
+the sieve into the large centrifuge tube and homogenize using a spoon or spatula.  
+
+5. Initiate first round of centrifugation (12 min, 1905 rcf, slow brake and acceleration). During 
+centrifugation sediment will reside at the bottom of the large centrifuge tube while meiobenthos 
+will move into the Ludox solution.  
+
+6. Once centrifugation is completed, pour supernatant over 32 µm sieve; using a funnel and a 
+wash bottle containing purified water (Milli-Q or Nanopure) transfer the sample into the 50 ml 
+centrifuge tube trying to minimise the volume of water used. Retain this tube on ice in an 
+isothermal box for the duration of the meiobenthos extraction.  
+
+7. Re-fill the large centrifuge tube with Ludox and homogenize with a spoon or spatula.  
+
+8. Repeat for two more centrifugation rounds.  
+
+9. At the last round, pour the contents of the 50 ml centrifuge tube and that of the large centrifuge 
+tube over the 32 µm sieve and subsequently transfer the entire sample back into the 50 ml 
+centrifuge tube using a funnel and wash bottle containing purified water (Milli-Q or Nanopure). 
+This tube now contains the meiobenthos.  
+
+10. Centrifuge this tube for 10 min at 1905 rcf (slow brake and acceleration), and carefully remove 
+the supernatant using 10 ml pipette.  
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 33 
+
+
+
+ 
+
+11. Resuspend the pellet containing the meiobenthos with 500 μl of DNA/RNA Shield and transfer 
+the sample to a 1.5 ml centrifuge tube.  
+
+12. For replicates 3 and 4 resuspend the pellet containing the meiobenthos with 500 μl of purified 
+water (Milli-Q or Nanopure) and transfer the sample to a 1.5 ml centrifuge tube. Replicates 3 
+and 4 will be stored for biobanking and DNA/RNA Shield will not be used. 
+
+13. Label the tubes appropriately using permanent marker (see Sample Labelling section). 
+
+14. Apply transparent tape firmly on top of the label to avoid bleaching. 
+
+15. Samples are now ready for DNA extraction. Store samples at -20oC until shipment. 
+
+G. Macrobenthos Sampling 
+
+1. Reach the sampling site during low tide. 
+
+2. Deploy 5 plexiglass or PVC sediment corers of at least 20 cm in diameter. Alternatively, deploy 
+10 plexiglass or PVC sediment corers of at least 10 cm in diameter. Deploy the different 
+sediment corers in proximity and ensure that the sediment surface is not visually different among 
+the deployment points. 
+
+3. Follow steps 3-5 above (Microbial Community Sampling), for deploying and retrieving the 
+corers. 
+
+4. Place the total sediment in a 1 mm sieve and sieve it (see step 4 for sequential sieving). Make 
+sure that the amount of remaining sediment in the sieve is minimized as much as possible. 
+
+5. Optional: Perform sequential sieving. This is recommended for stations that usually use smaller 
+sieve size for macrobenthos collection. Place a 1 mm sieve on top of a 0.5 mm sieve and sieve 
+sediment sequentially through both sieves. This way the material that flows through the 1 mm 
+sieve will be sequentially sieved through the 0.5 mm sieve. Make sure that the amount of 
+remaining sediment in both sieves is minimized as much as possible. 
+
+6. Transfer macrobenthic organisms retained in the sieve(s) in a mortar for homogenization. The 
+remaining sediment that may be transferred with the organisms will be removed during the DNA 
+extraction. Sediment homogenization may take place in the field directly after sieving. If this is 
+not possible, macrobenthic organisms may be collected in tubes and kept in a cool and dark 
+environment until transportation to the lab. 
+
+7. Use mortar and pestle to crush and homogenize organisms until a tissue mixture is obtained. 
+
+8. Transfer 10 g of the tissue mixture into a screw cup tube of 50 ml. Repeat this to obtain 4 screw 
+cup tubes of 50 ml each containing 10 g of the tissue mixture. 
+
+9. Fill tubes to 50 ml with DESS (see DESS recipe). 
+
+10. Label the tubes appropriately using permanent marker (see Sample Labelling section). 
+
+11. Apply transparent tape firmly on top of the label to avoid bleaching. 
+
+12. Store tubes at 4oC. 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 34 
+
+
+
+ 
+
+  
+
+Figure 8: Multicorer deployment in an intertidal area. Figure 9: Example of corers that contain soft sediment 
+and overlaying seawater. 
+
+Soft substrate Standard Operating Procedures 2 ‒ SoSOP 2 (coastal 
+sediments by diving) 
+
+Summary 
+
+If there is the capacity, operating stations may choose to sample coastal soft sediment by diving. 
+This will lead to the collection of undisturbed sediment and would increase the precision of the 
+sediment layers collected. Soft substrate sampling by diving will be performed using sediment corers 
+as described above for the intertidal sediments [SoSOP 1 (intertidal sediments)]. 
+
+Slicing and further handling of the sediment will take place upon retrieval of the sediment corers to 
+the surface and transfer to a laboratory either onshore or onboard a research vessel. Sediment 
+corers should remain cool and in the dark during transportation and always kept in a vertical position 
+as retrieved from the field. During transportation, the corers should be open at the top to prevent 
+oxygen consumption which may alter the microbial community composition. It is important to be 
+consistent to when the slicing or sieving takes place among the different sampling events, therefore 
+observatories are expected to either always process samples in the field or always transport corers 
+and process in the laboratory. For a diagram representation of the procedures see Appendix 2. 
+
+Protocol 
+
+Upon divers reach the sampling site, follow the Standard Operating Procedures described in SoSOP 
+1 (intertidal sediments). It is recommended to use plexiglass or PVC sediment corers of at least 10 
+cm in diameter for the macrobenthos as they are easier handled by the diver. Sediment core slicing 
+and sediment sieving should be carried out after diving either directly in the field or after 
+transportation to the lab. For a diagram representation of the procedures see Appendix 2. 
+
+ 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 35 
+
+
+
+ 
+
+Soft substrate Standard Operating Procedures 3 ‒ SoSOP 3 (coastal 
+sediments by research vessel) 
+
+Summary 
+
+Observatories may choose to sample coastal soft substrate onboard a research vessel. Soft 
+substrate will be collected using a van Veen or a Smith-McIntyre grab (0.07–0.1 m2) at the selected 
+site. Sediment collection by grab is suitable for different types of sediment (clay to sandy sediments). 
+The sediment should be brought onboard on a clean surface for subsampling. As the sediment 
+collected in the grab is disturbed, subsampling should be performed carefully, and materials should 
+not be immersed deep into the sediment to ensure the subsampling of surface sediment as much 
+as possible. For each community sampled, 4 replicated samples should be collected. These 
+replicates are designed to represent technical replicates and will be used for different purposes 
+(more information on the Sample Labelling section). Sediment processing will take place onboard 
+after collection. 
+
+In case other sediment sampling equipment is available on the research vessels, as for example a 
+multicorer, a box corer or a multi-box corer, the observatories may use this equipment to collect 
+sediment from the field. Once the sediment is brought onboard, proceed with handling the sediment 
+according to SoSOP 1 (intertidal sediments) if a multicorer was used, or proceed with sampling the 
+top sediment as described below (SoSOP 3). 
+
+Before shipment for DNA extraction and sequencing, the meiobenthic organisms should be 
+extracted from the sediment. After the meiobenthos extraction, the meiobenthic organisms will be 
+resuspended in the preservative DNA/RNA shield for shipment. 
+
+Sediment collected for macrobenthos sampling will have to be sieved through a 1 mm sieve. Some 
+marine areas, such as the Eastern Mediterranean, or polluted sediments are characterized by 
+smaller macrobenthic organisms. Using a 1 mm sieve alone would result to missing a large part of 
+the macrobenthos for those areas. In such cases, sequential sieving using both 1 mm and 0.5 mm 
+sieves will take place. The organisms retained in the 1 mm and in the 0.5 mm sieves will be handled 
+and stored separately as different fractions. After sieving all organisms will be crushed and 
+homogenized using mortar and pestle to obtain a mixture of tissues. For a diagram representation 
+of the procedures see Appendix 2. 
+
+Protocol 
+
+A. Materials, equipment, and supplies 
+
+Before starting, ensure all materials equipment, and supplies are available by checking the following 
+table (Table 7). 
+
+ 
+
+ 
+
+ 
+
+ 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 36 
+
+
+
+ 
+
+Table 7: List of materials, equipment, and supplies for SoSOP 3 (research vessel). 
+
+Bleach solution 
+
+Distilled water 
+
+Purified water (Milli-Q or Nanopure) 
+
+Gloves 
+
+Van Veen or Smith McIntyre grab (0.07–0.1 m2) 1 
+
+10 ml cut-off syringes 
+
+Spatula and/or spoon 
+
+Clean surface for mixing the sediment (e.g., large Petri dish or plastic bowl) 
+
+Pipette (1000-5000 μl) and pre-cut 5000 μl tips (optional for silty sediments) 
+
+1 mm sieve (macrobenthos community) 
+
+0.5 mm sieve (optional; macrobenthos community) 
+
+Mortar and pestle (macrobenthos community) 
+
+15 ml screw cap tubes resistant to liquid N2 (microbial community) 
+
+Ziplock bags (meiobenthos community) 
+
+50 ml screw cap tubes (macrobenthos community) 
+
+Permanent marker 
+
+Transparent tape 
+
+Laboratory balance 
+
+DNA/RNA Shield (microbial and meiobenthos community) 
+
+DESS aqueous solution (macrobenthos community) 
+
+Pipette (500-1000 μl) and suitable tips 
+
+Cotton swabs 
+
+Access to liquid N2 (microbial community) 
+
+Access to -80oC (microbial community) 
+
+Access to -20oC (meiobenthos community) 
+
+Access to 4oC (macrobenthos community) 
+
+1 Alternatively, a multicorer, a box corer or a multi-box corer may be used to collect sediment and 
+bring it onboard. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 37 
+
+
+
+ 
+
+B. Preparation and Cleaning 
+
+• Always wear gloves when handling samples dedicated to microbial community analyses. 
+
+• Prepare 10% bleach solution. 
+
+• Prepare DESS aquaous solution (see DESS recipe). 
+
+• Prepare 10 ml cut-off syringes for subsampling. Use a scalpel to cut off the luer lock end of the 
+syringe so as the suringe is open at this end.  
+
+• Clean sediment grab, shovel, bucket and sieves using tap water. Rinse vigorously and make 
+sure material from previous samplings is washed away. 
+
+• Desinfect plastic materials (cut-off syringes, large Petri dish and/or plastic bowl) by incubating in 
+10% bleach solution overnight. Rinse with purified water (Milli-Q or Nanopure) to wash the 
+solution away and cover in aluminium foil to store. 
+
+• Desinfect spatulas, spoons, and other metal tools by briefly soaking in 10% bleach solution. 
+Rinse with purified water (Milli-Q or Nanopure) to wash the solution away and cover in aluminium 
+foil to store. 
+
+C. Negative Control Samples 
+
+As samples undergo different procedures at the operating stations and at the centralized sequencing 
+centre laboratories, it is important to check for contaminations. For this reason, blank samples will 
+be collected and processed together with the sediment samples to serve as negative controls. Once 
+the sediment is collected and before further processing, collect and store a negative control sample 
+as described below: 
+
+Microbial community negative control 
+
+1. Use a cotton swab on the lab bench, the spatulas, and the spoons. 
+
+2. Cut the cotton part of the swab and store it in a 15 ml screw cap tube. 
+
+3. Add 10 ml of DNA/RNA Shield by using a pipette. 
+
+4. Label the tube appropriately using permanent marker (see Sample Labelling section). 
+
+5. Apply transparent tape firmly on top of the label to avoid bleaching. 
+
+6. Transfer tube into liquid N2 for flash freezing and subsequently store at -80oC. 
+
+Meiobenthos community negative control 
+
+1. Use a cotton swab on the lab bench, the spatulas, and the spoons. 
+
+2. Cut the cotton part of the swab and store it in a Ziplock bag. 
+
+3. Label the tube appropriately using permanent marker (see Sample Labelling section). 
+
+4. Apply transparent tape firmly on top of the label to avoid bleaching. 
+
+5. Store the bag at -20oC. 
+
+6. Process the negative control sample together with the sediment samples during the 
+meiobenthos extraction from sediment. 
+
+Macrobenthos community negative control 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 38 
+
+
+
+ 
+
+1. Use a cotton swab on the spatulas, the spoons, the sieves and the mortar and pestle. 
+
+2. Cut the cotton part of the swab and store it in a 50 ml screw cap tube. 
+
+3. Add 20 ml of DESS (see DESS recipe). 
+
+4. Label the tube appropriately using permanent marker (see Sample Labelling section). 
+
+5. Apply transparent tape firmly on top of the label to avoid bleaching. 
+
+6. Store at 4oC. 
+
+D. Microbial Community Sampling 
+
+1. Collect soft sediment using a van Veen or a Smith-McIntyre grab (0.07–0.1 m2) equipped on 
+the research vessel (Figure 10). 
+
+2. Bring sediment onboard on a clean surface for subsampling. In case a subsampling port is 
+present at the top of the grab, perform subsampling from that port before the grab is opened. 
+
+3. Use 10 ml cut-off syringes to subsample for the sediment microbial community. Collect about 
+10 times a rather full 10 ml cut-off syringe from the same grab. 
+
+4. Transfer the sediment collected in the syringes on a clean surface (e.g., Petri dish or plastic 
+bowl) and homogenize gently using a spoon or a spatula. 
+
+5. Pre-weigh a 15 ml screw cap tube and using a spoon and spatula transfer 10 g of sediment in 
+the tube. An alternative, though less accurate, method would be to fill the 15 ml graduated screw 
+cap tubes to approximately 10 ml tube indication. In the case of silty sediment, pre-cut 5000 μl 
+tips might be used to transfer the sediment in the screw cap tubes by careful pipetting. Make 
+sure that the 15 ml screw cap tubes used are resistant to liquid N2. 
+
+6. In total, fill 4 screw cap tubes with the homogenized sediment. 
+
+7. Add 10 ml of DNA/RNA Shield by using a pipette and make sure the sediment is covered by the 
+solution. For the third and fourth tube of replicate samples skip this step. Replicates 3 and 4 will 
+be stored for biobanking and DNA/RNA Shield will not be used. 
+
+8. Label the tube appropriately using permanent marker (see Sample Labelling section). 
+
+9. Apply transparent tape firmly on top of the label to avoid bleaching. 
+
+10. Add 5 ml of Purified water (Milli-Q or Nanopure) in a 15 ml screw cap tube. Briefly dip a clean 
+spatula in the tube (clean and disinfected as described in the Preparation and Cleaning 
+
+11.  section above). Add 10 ml of DNA/RNA Shield by using a pipette. This tube will be used as 
+negative control sample. 
+
+12. Label the tube appropriately using permanent marker (see Sample Labelling section). 
+
+13. Apply transparent tape firmly on top of the label to avoid bleaching. 
+
+14. Transfer tubes into liquid N2 for flash freezing and subsequently store into -80oC. 
+
+E. Meiobenthos Community Sampling 
+
+1. Collect soft sediment using a van Veen or a Smith-McIntyre grab (0.07–0.1 m2) equipped at the 
+research vessel (Figure 10).  
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 39 
+
+
+
+ 
+
+2. Bring sediment onboard on a clean surface for subsampling. 
+
+3. Use a shovel to transfer approximately half of the grabbed sediment in a clean bucket. 
+
+4. Gently homogenize the sediment in the bucket by stirring it with a large spoon or spatula. 
+
+5. Deploy a plexiglass or PVC sediment corer of 3.6 cm in diameter into the sediment.  
+
+6. Transfer the sediment into a plastic Ziplock bag and weigh it. Flatten the bag before placing it 
+into the freezer to allow stacking of samples. 
+
+7. Repeat steps 5-6 to collect 4 subsamples in total. 
+
+8. Label the Ziplock bags appropriately (see Sample Labelling section). 
+
+9. Store the bags at -20oC. Sediment can be stored at -20oC safely for at least 2 years until 
+meiobenthos extraction. 
+
+F. Meiobenthos Extraction from Sediment 
+
+Extract meiobenthos from the sampled sediment into purified water (Milli-Q or Nanopure) by density-
+gradient centrifugation with the colloidal silica polymer Ludox HS-40 as a flotation medium, or 
+equivalent (specific density 1.18 g cm−1). The meiobenthos extraction from sediment may take 
+place any time after sampling and within 2 years. Before starting, ensure all materials equipment, 
+and supplies are available by checking the following table (Table 8). 
+
+Table 8: List of materials, equipment, and supplies for meiobenthos extraction from 
+sediment. 
+
+Purified water (Milli-Q or Nanopure) 
+
+Gloves 
+
+50 ml centrifuge tubes 
+
+Colloidal silica polymer Ludox HS-40 
+
+32 µm sieve 
+
+Funnel 
+
+Spoon and/or spatula 
+
+Wash bottle 
+
+Centrifuge 
+
+Isothermal box and ice 
+
+Pipette (10 ml) and suitable tips 
+
+Pipette (100-1000 μl) and suitable tips 
+
+1.5 ml centrifuge tube 
+
+Permanent fine-tip marker 
+
+Transparent tape 
+
+DNA/RNA Shield 
+
+Access to -20oC 
+
+1. Bring sediment Ziplock bags at room temperature. 
+
+2. Remove sediment from Ziplock bag and transfer onto 32 µm sieve.  
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 40 
+
+
+
+ 
+
+3. Gently flush with water to thaw and reduce sediment volume.  
+
+4. Using a funnel and a wash bottle containing the Ludox (or equivalent) transfer the sample from 
+the sieve into the large centrifuge tube and homogenize using a spoon or spatula.  
+
+5. Initiate first round of centrifugation (12 min, 1905 rcf, slow brake and acceleration). During 
+centrifugation sediment will reside at the bottom of the large centrifuge tube while meiobenthos 
+will move into the Ludox solution.  
+
+6. Once centrifugation is completed, pour supernatant over 32 µm sieve; using a funnel and a 
+wash bottle containing purified water (Milli-Q or Nanopure) transfer the sample into the 50 ml 
+centrifuge tube trying to minimise the volume of water used. Retain this tube on ice in an 
+isothermal box for the duration of the meiobenthos extraction.  
+
+7. Re-fill the large centrifuge tube with Ludox and homogenize with a spoon or spatula.  
+
+8. Repeat for two more centrifugation rounds.  
+
+9. At the last round, pour the contents of the 50 ml centrifuge tube and that of the large centrifuge 
+tube over the 32 µm sieve and subsequently transfer the entire sample back into the 50 ml 
+centrifuge tube using a funnel and squeezing bottle containing purified water (Milli-Q or 
+Nanopure). This tube now contains the meiobenthos.  
+
+10. Centrifuge this tube for 10 min at 1905 rcf (slow brake and acceleration), and carefully remove 
+the supernatant using 10 ml pipette.  
+
+11. Resuspend the pellet containing the meiobenthos with 500 μl of DNA/RNA Shield and transfer 
+the sample to a 1.5 ml centrifuge tube. 
+
+12. For replicates 3 and 4 resuspend the pellet containing the meiobenthos with 500 μl of purified 
+water (Milli-Q or Nanopure) and transfer the sample to a 1.5 ml centrifuge tube. Replicates 3 
+and 4 will be stored for biobanking and DNA/RNA Shield will not be used. 
+
+13. Label the tubes appropriately using permanent marker (see Sample Labelling section). 
+
+14. Apply transparent tape firmly on top of the label to avoid bleaching. 
+
+15. Samples are now ready for DNA extraction. Store samples at -20oC until shipment. 
+
+G. Macrobenthos Sampling 
+
+1. Collect soft sediment using a van Veen or a Smith-McIntyre grab (0.07–0.1 m2) equipped at the 
+research vessel (Figure 10).  
+
+2. Bring sediment onboard and place it in a 1 mm sieve (see step 4 for sequential sieving). 
+
+3. Sieve sediment. Make sure that the amount of remaining sediment in the sieve is minimized as 
+much as possible. 
+
+4. Optional: Perform sequential sieving. This is recommended for stations that usually use smaller 
+sieve size for macrobenthos collection. Place a 1 mm sieve on top of a 0.5 mm sieve and sieve 
+sediment sequentially through both sieves. This way the material that flows through the 1 mm 
+sieve will be sequentially sieved through the 0.5 mm sieve. Make sure that the amount of 
+remaining sediment in both sieves is minimized as much as possible. 
+
+5. Transfer macrobenthic organisms retained in the sieve(s) in a mortar for homogenization. The 
+remaining sediment that may be transferred with the organisms will be removed during the DNA 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 41 
+
+
+
+ 
+
+extraction. Sediment homogenization may take place in the field site directly after sieving. If this 
+is not possible, microbenthic organisms may be collected in tubes and kept in a cool and dark 
+environment until transportation to the lab. 
+
+6. Use mortar and pestle to crush and homogenize organisms until a tissue mixture is obtained. 
+
+7. Transfer 10 g of the tissue mixture into a screw cup tube of 50 ml. Repeat this to obtain 4 screw 
+cup tubes of 50 ml each containing 10 g of the tissue mixture. 
+
+8. Fill tubes to 50 ml with DESS (see DESS recipe). 
+
+9. Label the tubes appropriately using permanent marker (see Sample Labelling section). 
+
+10. Apply transparent tape firmly on top of the label to avoid bleaching. 
+
+11. Store tubes at 4oC. 
+
+ 
+
+Figure 10: Grab deployment from a 
+RV. 
+
+ 
+
+  
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 42 
+
+
+
+ 
+
+Hard Substrate 
+
+Hard Substrate Standard Operating Procedures ‒ HaSOP 
+
+Summary 
+
+The passive sampling of hard substrate communities will take place using ARMS units. More details 
+on purchasing ARMS units, deployment and sample collection are available from the ARMS-MBON 
+(http://www.arms-mbon.eu/).  
+
+Different sampling strategies may be followed while setting up an ARMS observatory. Here are some 
+strategies that have been implemented in past: 
+
+1. Short-term surveys that aim at seasonal investigations and monitoring of alien species. ARMS 
+are deployed for a period of 2-3 months usually during spring to summer season. 
+
+2. Long-term surveys that aim at continuous biological monitoring and ecological research. ARMS 
+are deployed for a period of 12 months and at the time of retrieval the next ARMS unit is 
+deployed. 
+
+3. Survey on community succession of macro-organisms. In this case 3 or more ARMS units are 
+deployed on the same date and retrieved sequentially (i.e., 1 ARMS unit retrieved every 4 
+months) to investigate the succession of settled organisms over time.  
+
+Participating stations may opt for one of the sampling strategies or for a different sampling design 
+depending on their scientific interests. However, if an observatory station has not performed ARMS 
+deployment in the past, it is recommended to contact one of the current ARMS-MBON observatory 
+stations to discuss possible sampling strategies. The sampling strategies usually reflect the internal 
+research needs of the observatory stations. 
+
+Deployment and retrieval of ARMS in EMO BON will follow the standards and protocols of the 
+Smithsonian Institution (https://www.oceanarms.org/) and the additional guidelines of ARMS-MBON 
+(http://www.arms-mbon.eu/). Selecting the location of the ARMS observatory is of great importance 
+both for short-term and for long-term surveys. EMO BON recommends, if possible, that ARMS 
+sampling sites are located near the water column and/or soft substrate sampling sites, as well as 
+near long term monitoring sites. More information on the ARMS locations can be found in the ARMS-
+MBON Handbook (http://www.arms-mbon.eu/). Deploying more than one ARMS unit, will give a 
+better representation of the biodiversity in the area. It is recommended that three ARMS units per 
+sampling site are deployed in close proximity. 
+
+Sample processing after retrieval will follow the standards and protocols of the Smithsonian 
+Institution (https://www.oceanarms.org/) and the additional guidelines of ARMS-MBON 
+(http://www.arms-mbon.eu/); here only a brief description of the procedures may be found. After 
+ARMS retrieval, units should be transferred in the laboratory where the disassembly and 
+photography of ARMS plates will take place. Using scalpel and tweezers, sessile organisms are 
+collected from each ARMS plate and placed in a collection tube. Motile fractions should be recovered 
+from the ARMS bin using a 2 mm sieve on top of a 0.5 mm on top of a 0.1 mm. Seawater and 
+sediment in the ARMS bin should gently pass sequentially through the three sieves (2 mm, 0.5 mm, 
+and 0.1 mm) and the bin should be rinsed thoroughly to ensure the collection of all organisms. The 
+material collected on the 0.5 mm sieve may be concentrated using a 40 μm nytex mesh. The material 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 43 
+
+
+
+ 
+
+collected in the sieves should be photographed prior to storage. All sievings should be carefully 
+performed to avoid overflow.  
+
+In addition to the sessile fraction retrieved by plate scraping, each sieve will collect a different fraction 
+of the motile organisms: a) motile fraction sieved with 2 mm (organisms >2 mm), b) motile fraction 
+sieved with 0.5 mm (2 mm > organisms > 0.5 mm), and c) motile fraction sieved with 0.1 mm (0.5 
+mm > organisms > 0.1 mm). The material in motile fraction a (organisms >2 mm) will be processed 
+only for optical identification by photographing the individual specimens. The sessile together with 
+the motile fractions b (2 mm > organisms > 0.5 mm) and c (0.5 mm > organisms > 0.1 mm) will be 
+homogenized and processed for DNA extraction and sequencing.  
+
+All tissues and material to be processed for sequencing (sessile fraction, b and c motile fractions) 
+should be homogenized. The sessile fraction homogenization is a straightforward procedure 
+performed using a blender. The motile fraction homogenization requires washing steps, and the 
+grinding is performed using mortar and pestle. The procedures are described in detail by the 
+Smithsonian Institution (https://www.oceanarms.org/). After thorough homogenization, the mixtures 
+are stored in DESS at 4oC. 
+
+At least 4 technical replicates should be collected from each sampling site, therefore material from 
+the sessile fraction and the motile fractions should be stored in 4 individual tubes. In case the 
+material is not enough to collect 4 technical replicates, collect as many as possible; make sure to 
+indicate the number of collected replicates in the metadata. In many cases, biomass of a few species 
+may dominate the community in ARMS. This may cause biases during DNA amplification and 
+sequencing and to decrease this bias it is recommended to reduce the amount of biomass included 
+during tissue homogenization (http://www.arms-mbon.eu/). 
+
+Protocol 
+
+All procedures regarding ARMS assembly, deployment, retrieval, disassembly, and sample 
+processing are described in detail by the Smithsonian Institution (https://www.oceanarms.org/). 
+Before starting, ensure all materials equipment, and supplies are available by checking the following 
+table (Table 9). 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 44 
+
+
+
+ 
+
+Table 9: List of materials, equipment, and supplies for HaSOP. 
+
+Bleach solution 
+
+90% ethanol 
+
+0.2-prefiltered seawater 
+
+Gloves 
+
+Elbow long gloves 
+
+ARMS unit 
+
+Crate to cover up the ARMS unit during retrieval 
+
+Recovery bin for retrieving the AMRS unit 
+
+Tie wraps of different sizes 
+
+Buckets 
+
+Wrenches 
+
+Forceps 
+
+Spatulas and/or spoons 
+
+Scalpels 
+
+Kimwipes 
+
+Wash bottle with 0.2-prefiltered seawater 
+
+Wash bottle with 90% ethanol 
+
+2 mm sieve 
+
+0.5 mm sieve 
+
+0.1 mm sieve 
+
+Mortar and pestle or Blender 
+
+50 ml screw cap tubes 
+
+Laboratory balance 
+
+Permanent marker 
+
+Pencil 
+
+Transparent tape 
+
+Parafilm 
+
+DESS aqueous solution 
+
+Access to -20oC 
+
+Camera with housing and photo tray 
+
+Sorting trays 
+
+Plate tags 
+
+15 ml screw cap tube 
+
+Cotton swab 
+
+Access to 4oC 
+
+ 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 45 
+
+
+
+ 
+
+Negative control sample 
+
+As samples undergo different procedures at the operating stations and at the centralized sequencing 
+centre laboratories, it is important to check for contaminations. For this reason, blank samples will 
+be collected and processed together with the ARMS samples to serve as negative controls. Once 
+the ARMS unit is brought in the laboratory and before samples processing, collect and store a 
+negative control sample as described below: 
+
+1. Use a cotton swab on the lab bench, the spatulas, the spoons, and the sieves. 
+
+2. Cut the cotton part of the swab and store it in a 15 ml screw cap tube. 
+
+3. Add 10 ml of DESS. 
+
+4. Label the tube appropriately using permanent marker (see Sample Labelling section). 
+
+5. Apply transparent tape firmly on top of the label to avoid bleaching. 
+
+6. Store at 4oC. 
+
+  
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 46 
+
+
+
+ 
+
+Sample Labelling 
+Correct labelling is of extreme importance when collecting samples and especially for a network of 
+more than ten operational stations running in the long-term. Proper labelling will ensure that samples 
+collected are organized and processed appropriately, that data and metadata produced in EMO 
+BON will be properly catalogued and analysed in the future, and that the data produced can be 
+correctly assigned to the sampling sites. 
+
+Participating institutions should decide on a name and a short ID for their observatory that will be 
+maintained for the duration of EMO BON and will characterize all samples collected at this 
+observatory. The name and ID of the observatory should be unique whether an observatory station 
+samples for all three habitats (Wa: Water column, So: Soft substrate, Ha: Hard substrate) or for just 
+one. For example, if “SMN99” is sampling water column 1 mile offshore and hard substrates in a 
+marina, the observatory ID should be “SMN99” for both water column and hard substrate samplings. 
+The different sampling sites of each observatory will be distinguished by the suffix “Wa” for water 
+column, “So” for soft substrates and “Ha” for hard substrates. Therefore, if observatory “SMN99” is 
+sampling all three habitats, it will include three different sites: “SMN99 Wa” (water column sampling 
+site), “SMN99 So” (soft substrate sampling site) and “SMN99 Ha” (hard bottom sampling site). 
+
+Five terms will constitute the label of each sample:  
+
+1. Project (“EMO BON”) 
+
+2. Sampling Site ID; that is the Observatory ID (for example “SMN99”) supplemented with the 
+sampling site indicator (“Wa” for water column, “So” for soft substrates and “Ha” for hard 
+substrates) 
+
+3. Sampling Campaign Date formated as YYMMDD.For example “220315” would be the campaign 
+on 15 March 2022. Especially for Hard substrates, both the deployment and retrieval dates have 
+to be recorded formated as YYMMDD-YYMMDD. 
+
+4. Size fraction (Wa: “3 μm” / “0.2 μm” / “20 μm” / “200 μm”) or organisms collected (So: “micro” for 
+microorganisms, “meio” for meiobenthos and “macro” for macrobenthos) or ARMS fraction (Ha: 
+“SF” for sessile fraction, “MF05” for motile fraction sieved through 0.5 mm, “MF01” for motile 
+fraction sieved through 0.1 mm) 
+
+5. Replicate (number 1-4). For labelling the negative control, this term will be replaced by the 
+notation “blank” in parenthesis. 
+
+A few examples of sample labelling may be found in Table 10. It is recommended to avoid hyphens, 
+commas, underscores and to separate easily confused digits (for example 1 and 7, 0 and O). The 
+combination of these terms will be unique for each individual sample within EMO BON. This unique 
+Sample ID created from the combination of those terms will follow the sample and the generated 
+data and metadata during all procedures and analyses.  
+
+Permanent markers should be used for labelling the tubes and Ziplock bags and transparent tape 
+should be applied firmly on top of the label to avoid bleaching. Samples that are not properly labelled 
+will be discarded prior to DNA extraction. 
+
+ 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 47 
+
+
+
+ 
+
+Table 10: Sample labeling examples 
+
+Sample Description Sample ID 
+
+EMO BON 
+Replicate 1 from a water column sampling at the SMN99 Wa 
+SMN99 observatory collected on 15 March 2022 on a 
+3 μm filter 220315 
+
+3 μm (1) 
+
+EMO BON 
+
+Replicate 3 from a soft substrate meiobenthos sample JIJO41 So 
+at the JIJO41 observatory collected on 28 August 2021  210828 
+
+meio (3) 
+
+EMO BON 
+Replicate 2 from a hard substrate sample at the 
+RFF055 observatory that was collected from an ARMS RFF055 Ha 
+
+unit deployed on 2 October 2022 and retrieved on 2 221002-221202 
+December 2022, and sieved at 0.5 mm 
+
+MF05 (2) 
+
+EMO BON 
+Negative control sample from a water column sampling JIJO41 Wa 
+at the JIJO41 observatory collected on 15 March 2022 
+on a 3 μm filter 220315 
+
+3 μm (blank) 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 48 
+
+
+
+ 
+
+Collection and Documentation of Metadata 
+The collection of rich and detailed metadata is of great importance for the longstanding life cycle of 
+the data collected in EMOBON. Metadata are necessary in all the principles of FAIR data 
+management. To assure the correct data FAIRification, metadata should be considered even before 
+the collection of the biodivarsity data. EMO BON will adhere to the FAIR data principles for all data 
+generated within the network; therefore, the collection of metadata during sampling and laboratory 
+procedure is essential and mandatory. More details on the data and metadata life cycle will be 
+provided in the EMO BON Data Management Plan (DMP). EMO BON DMP will describe in detail 
+the handling of the data and their processing towards FAIRification.  
+
+Observatories will collect and document all information related to the data from sampling to 
+sequencing and quality control. There will be 5 categories of metadata that will adhere to the data: 
+
+1. Observatory Metadata 
+Here, all information regarding the observatory station, the sampling sites, their characteristics, and 
+the contact people will be included. This information will be provided with the registration form that 
+will confirm participation to EMO BON (see also Participation to EMO BON 
+
+ section and the Registration Form document). Observatory Metadata refer to the observatory and 
+will not change among sampling events. Observatory Metadata will be digitalized and submitted as 
+described in the DMP. 
+
+2. Sampling Metadata 
+All information related to each sampling event will be documented as Sampling Metadata. This will 
+include date and time of sampling, sample handling details, deviation from protocols and other 
+characteristics of the sampling events. These metadata will be recorded in log sheet provided by 
+EMO BON during each sampling event and will be digitalized and submitted as described in the 
+DMP. 
+
+3. Measured Metadata 
+Observatories will have to measure additional variables that will make the sequencing dataset 
+relevant to its ecological context. Some variables are characterized as mandatory and are to be 
+measured during every sampling event. Observatories may choose to additionally measure any of 
+the recommended variables. The more environmental variables connect to the dataset, the more 
+relevant and reusable the dataset will be. Information regarding the sampling and laboratory 
+methodologies of the measured variables will be documented here. EMO BON will not give specific 
+instructions for the methodologies of the environmental variables measured, as observatory stations 
+are already equipped with specific instruments and follow specific procedures for their sampling 
+sites. However, it is important that the same procedure is followed for each variable for all EMO 
+BON samplings and the procedure is adequately described. Environmental variables are listed in 
+Table 11 for each habitat (Water column, Soft substrate, Hard substrate). The DMP will describe all 
+procedures to handle Measured Metadata after documentation. 
+
+ 
+
+ 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 49 
+
+
+
+ 
+
+Table 11: List of Measured Metadata for EMO BON sampling. Different variables are listed for each of 
+the three habitats. Mandatory Environmental Variables are to be measured and recorded for every 
+sampling event. Observatories may choose to additionally measure any of the Recommended 
+Environmental Variables. Star symbol (*) indicates which variables have been characterized as 
+Essential Ocean Variables by The Global Ocean Observing System (GOOS). 
+
+Habitat Mandatory Environmental Variables Recommended Environmental Variables 
+
+Sea Surface Temperature * Dissolved Organic Carbon * 
+
+Subsurface Temperature * (at the sampled Inorganic Carbon * 
+depth) 
+
+Sea Surface Salinity * Nutrients Concentration *: nitrate (NO -
+3 ), 
+
+nitrite (NO -
+2 ), ammonium (NH +
+
+4 ), phosphate 
+(PO 3-
+
+4 ) and silicic acid (Si(OH)4) 
+
+Subsurface Salinity * (at the sampled Nitrous Oxide (N2O) Concentration * 
+depth) 
+
+Chlorophyll-a Concentration * Oxygen Concentration * 
+
+ Particulate Matter * 
+
+ pH 
+
+Water Column 
+ Bacterial Abundance and Biomass 
+
+(Wa) 
+(*emerging) 
+
+ Other picoplankton Abundance and Biomass 
+(*listed as phytoplankton by GOOS) 
+
+ Nanoplankton Abundance and Biomass 
+(*listed as phytoplankton by GOOS) 
+
+ Microplankton Abundance and Biomass 
+(*listed as phytoplankton by GOOS) 
+
+ Mesoplankton Abundance and Biomass 
+(*listed as zooplankton by GOOS) 
+
+ Macroplankton Abundance and Biomass 
+(*listed as zooplankton by GOOS) 
+
+ Primary Productivity * 
+
+Sediment temperature at the top 0-5 cm Sediment Granulometry (median grain size) 
+
+Soft Substrates 
+Sea Surface Temperature * Sediment Granulometry (percentage content 
+
+(So) 
+of each fraction of clay, silt, sand, gravel, 
+cobbles, and boulders) 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 50 
+
+
+
+ 
+
+Habitat Mandatory Environmental Variables Recommended Environmental Variables 
+
+pH Porosity 
+
+Redox potential (Eh) Wet Bulk Density 
+
+ 
+Dry Weight 
+
+ Oxygen Concentration 
+
+ Sulphide Concentration (H2S) 
+Soft Substrates 
+
+(So) 
+ Sulphate Concentration (SO 2-
+
+4 ) 
+
+ Organic Matter Content 
+
+ Chlorophyll-a Concentration 
+
+ Bacterial Abundance and Biomass 
+
+ Phytobenthos Abundance and Biomass 
+
+Sea Surface Temperature * Images of the specimens from the plates 
+
+Subsurface Temperature * (at the sampled Images of the habitat and surrounding 
+depth) environment 
+
+Hard Substrates 
+Sea Surface Salinity * Images of the sampling event 
+
+(Ha) 
+
+Subsurface Salinity * (at the sampled  
+depth) 
+
+Images of the ARMS plates  
+
+4. Molecular Work Metadata 
+This category will include information on all the procedures followed during the molecular work after 
+the sample’s shipment. The sequencing centre will provide information on the DNA extraction, 
+cleaning, sequence library preparation and sequencing. This information will be submitted as 
+described in the DMP. 
+
+5. Post-sequencing Metadata 
+All information regarding the procedures performed on the raw sequences dataset to obtain a quality 
+controlled processed dataset. Post-sequencing Metadata will be submitted as described in the DMP 
+and will apply only to the processed dataset. 
+
+EMO BON will provide e-log-sheets to document the metadata. The e-log-sheets will specify all the 
+metadata that need to be collected and documented. All the described metadata will be mandatory 
+with the only exception being the Recommended Environmental Variables of Measured Metadata. 
+EMBRC will closely assist observatories during the metadata collection, documentation, and 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 51 
+
+
+
+ 
+
+submission. Samples for which metadata are incomplete or improperly documented will be rejected 
+from the observatory network. 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 52 
+
+
+
+ 
+
+DNA extraction 
+DNA extraction will be performed at a centralized facility to minimize biases. It is important that all 
+EMO BON samples are processed in the same laboratory, under the same conditions and using the 
+same equipment to minimise operator bias in the study. As the laboratory analyses of samples will 
+take place at different time intervals, it is essential that the procedures followed are as standardized 
+as possible. DNA extraction will be performed using commercialized kits, as the standardized 
+solutions of the kits will minimize extraction deviations among samples. 
+
+For DNA extraction of the water column filter samples the NucleoSpin Plant II Mini kit (Macherey-
+Nagel) will be used. This kit has been previously tested by EMBRC partners and was found to 
+perform well for DNA extraction from filters. 
+
+DNA extraction from sediment samples will be performed using the commercially available DNeasy 
+PowerSoil Pro kit (Qiagen). This kit has been tested multiple times for sediment DNA extraction by 
+EMBRC partners and has been found to result in high yields. During EMO BON preparation phase, 
+the DNeasy PowerSoil Pro kit was tested for DNA extraction from meiobenthos samples (Soft 
+Substrates) and results indicated that the kit performs well and can be used within EMO BON. The 
+DNeasy PowerSoil Pro kit will also be used for DNA extraction from macrobenthos tissues (Soft 
+Substrate) and the tissue mixtures from the Hard Substrates. This kit was used for DNA extraction 
+from tissues during ARMS-MBON. 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 53 
+
+
+
+ 
+
+Sequencing 
+Sequencing will also be performed at a centralized sequencing facility to reduce biases as much as 
+possible. The Water Column WaSOP1 and the Soft sediment samples for microorganisms will be 
+analysed using metagenomics. All other samples will be analysed using DNA metabarcoding 
+methodologies. Samples and analyses details are summarized in Table 12. 
+
+Table 12: Sequencing details for samples. 
+
+Protocol Sample Analyses Details Primer references 
+
+Microorganisms 
+-150 bp fragments 
+
+(3 μm fraction) 
+-paired reads 
+
+Metagenomes  
+-50 M reads per 
+
+Microorganisms 
+sample 
+
+(0.2 μm fraction) 
+WaSOP 1 
+
+Microorganisms 
+(3 μm fraction) -ITS amplicon 
+
+ITS1F (Bruns and Gardes, 1993) and 
+Metabarcodes -paired reads 
+
+-1 M reads per sample ITS2 (White et al., 1990) 
+Microorganisms 
+(0.2 μm fraction) per amplicon 
+
+WaSOP 2 Plankton >20 μm -18S v4 region 
+-COI amplicon -18S v4 region: to be decided 
+
+Metabarcodes -paired reads -COI: mlCOIintF and jgHCO2198 
+WaSOP 3 Plankton >200 μm -1 M reads per sample (Leray et al., 2013)  
+
+per amplicon 
+
+-150 bp fragments 
+Microorganisms Metagenomes -paired reads  
+
+-1 M reads per sample 
+
+SoSOP 1 
+Meiobenthos -18S v1-v2 region: SSU_FO4 
+
+SoSOP 2 -18S v1-v2 region (Fonseca et al., 2010) and SSU_R22 
+-COI amplicon 
+
+SoSOP 3 (Blaxter et al., 1998) or SSU_R22mod 
+Metabarcodes -paired reads (Sinniger et al., 2016) 
+
+Macrobenthos -50 M reads per 
+sample per amplicon -COI: mlCOIintF and jgHCO2198 
+
+(Leray et al., 2013)  
+
+Sessile fraction -18S v1-v2 region: SSU_FO4 
+-18S v1-v2 region (Fonseca et al., 2010) and SSU_R22 
+
+Motile 0.5 mm -COI amplicon (Blaxter et al., 1998) or SSU_R22mod 
+HaSOP fraction Metabarcodes -paired reads (Sinniger et al., 2016) 
+
+-1 M reads per sample 
+Motile 0.1 mm per amplicon -COI: mlCOIintF and jgHCO2198 
+
+fraction (Leray et al., 2013)  
+
+ 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 54 
+
+
+
+ 
+
+Replication and Biobanking 
+The replicates collected within EMO BON are technical replicates, not true statistical replicates. They 
+represent identical samples and are to be used for different purposes. All 4 replicates per sample 
+are collected following the exact same procedures as described in the Sampling Protocols section. 
+
+Two of the replicates will be processed for the extraction of DNA and subsequently sequencing. The 
+replication of processed samples will allow the recognition of false or accidental laboratory practices 
+and ensure the highest data quality. Additionally, 1 replicate per sample will be provided as a service 
+from EMBRC to external users. The purpose of this service provision is to encourage the 
+collaboration among marine institutions, to give the chance for biodiversity information comparisons 
+across the globe and to allow samples to be analysed using different methodologies and under 
+alternative foci. 
+
+EMO BON aims to be part of global research effort in marine biodiversity and to interact with other 
+scientific entities and disciplines. It will contribute to the UN Decade of the Ocean not only by 
+producing accurate and complete time-series data on marine biodiversity but also by preserving 
+material samples for re-analyses at the end of the decade or beyond. Particularly, one replicate will 
+be collected and biobanked for decadal storage. Decadal samples will be stored at -80oC organized 
+in containers dedicated only to decadal preservation. All marine operating stations are required to 
+keep detailed records of the preserved samples. 
+
+ 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 55 
+
+
+
+ 
+
+Calibration efforts 
+The cross-validation of the generated data and the calibration of methods is of high importance for 
+EMO BON. Data produced within EMO BON will be a contribution to the United Nations Decade of 
+Ocean Science for Sustainable Development and to the marine science community. As data will 
+follow FAIR principles, will be reusable and will help reply to different scientific questions over the 
+years. Data may be analysed several times during the coming decade as different scientists may 
+access them. Therefore, it is essential that the quality of the data produced is high and that there is 
+the capacity to validate the sequencing results in various ways. 
+
+For this reason, during all samplings two of the technical replicates collected will be processed. DNA 
+extraction and sequencing of the replicates will take place under the same conditions and all followed 
+procedures will be the same. Results of the two processed replicated will be integrated to produce 
+final quality control datasets. In addition, a mock community comprised of eukaryotic 
+microorganisms and a mock community comprised of bacteria will be created at EMBRC culture 
+collections. The mock communities will be processed together with the samples and serve as 
+positive controls. As the diversity of the mock communities will be known, the sequencing results 
+will be validated by examining the sequencing reads of the mock communities 
+
+During sampling blank samples will be collected to serve as negative controls during DNA extraction 
+and sequencing. This will help detect contamination during sampling or laboratory processing. In 
+case a contamination is detected, it will be possible to go back to the sampling and processing of 
+samples and revise the procedures. Furthermore, the sequencing reads of the blank samples will 
+allow for corrections during the final dataset refining. 
+
+A sampling calibration exercise is planned to take place during EMO BON. The personnel 
+responsible for sampling will be exchanged among observatories. Personnel will participate in a 
+sampling event at one or more different observatories. The idea behind this is to standardize the 
+methods between EMO BON operating stations and to exchange expertise. In combination to the 
+training workshops planned, the sampling methods used in EMO BON will be harmonized among 
+the different observatories. 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 56 
+
+
+
+ 
+
+References 
+Antão, L. H., Pöyry, J., Leinonen, R., and Roslin, T. (2020). Contrasting latitudinal patterns in 
+
+diversity and stability in a high-latitude species-rich moth community. Glob. Ecol. Biogeogr. 
+29, 896–907. doi:10.1111/geb.13073. 
+
+Blaxter, M. L., De Ley, P., Garey, J. R., Llu, L. X., Scheldeman, P., Vierstraete, A., et al. (1998). A 
+molecular evolutionary framework for the phylum Nematoda. Nature 392, 71–75. 
+doi:10.1038/32160. 
+
+Bruns, T. D., and Gardes, M. (1993). Molecular tools for the identification of ectomycorrhizal fungi 
+— taxon‐specific oligonucleotide probes for suilloid fungi. Mol. Ecol. 2, 233–242. 
+doi:10.1111/j.1365-294X.1993.tb00013.x. 
+
+Claudet, J., Bopp, L., Cheung, W. W. L., Devillers, R., Escobar-Briones, E., Haugan, P., et al. 
+(2020). A Roadmap for Using the UN Decade of Ocean Science for Sustainable Development 
+in Support of Science, Policy, and Action. One Earth 2, 34–42. 
+doi:10.1016/j.oneear.2019.10.012. 
+
+Fonseca, V. G., Carvalho, G. R., Sung, W., Johnson, H. F., Power, D. M., Neill, S. P., et al. (2010). 
+Second-generation environmental sequencing unmasks marine metazoan biodiversity. Nat. 
+Commun. 1, 1–8. doi:10.1038/ncomms1095. 
+
+Heymans, J. J., Bundy, A., Christensen, V., Coll, M., de Mutsert, K., Fulton, E. A., et al. (2020). 
+The Ocean Decade: A True Ecosystem Modeling Challenge. Front. Mar. Sci. 7, 766. 
+doi:10.3389/fmars.2020.554573. 
+
+Leray, M., Yang, J. Y., Meyer, C. P., Mills, S. C., Agudelo, N., Ranwez, V., et al. (2013). A new 
+versatile primer set targeting a short fragment of the mitochondrial COI region for 
+metabarcoding metazoan diversity: Application for characterizing coral reef fish gut contents. 
+Front. Zool. 10, 1–14. doi:10.1186/1742-9994-10-34. 
+
+Muller-Karger, F. E., Miloslavich, P., Bax, N. J., Simmons, S., Costello, M. J., Pinto, I. S., et al. 
+(2018). Advancing marine biological observations and data requirements of the 
+complementary Essential Ocean Variables (EOVs) and Essential Biodiversity Variables 
+(EBVs) frameworks. Front. Mar. Sci. 5, 25. doi:10.3389/fmars.2018.00211. 
+
+Obst, M., Exter, K., Allcock, A. L., Arvanitidis, C., Axberg, A., Bustamante, M., et al. (2020). A 
+Marine Biodiversity Observation Network for Genetic Monitoring of Hard-Bottom Communities 
+(ARMS-MBON). Front. Mar. Sci. 7, 572680. doi:10.3389/fmars.2020.572680. 
+
+Seutin, G., White, B. N., and Boag, P. T. (1991). Preservation of avian blood and tissue samples 
+for DNA analyses. Can. J. Zool. 69, 82–90. doi:10.1139/z91-013. 
+
+Sinniger, F., Pawlowski, J., Harii, S., Gooday, A. J., Yamamoto, H., Chevaldonné, P., et al. (2016). 
+Worldwide analysis of sedimentary DNA reveals major gaps in taxonomic knowledge of deep-
+sea benthos. Front. Mar. Sci. 3, 92. doi:10.3389/fmars.2016.00092. 
+
+Smale, D. A., Wernberg, T., Oliver, E. C. J., Thomsen, M., Harvey, B. P., Straub, S. C., et al. 
+(2019). Marine heatwaves threaten global biodiversity and the provision of ecosystem 
+services. Nat. Clim. Chang. 9, 306–312. doi:10.1038/s41558-019-0412-1. 
+
+White, T. J., Bruns, T., Lee, S., and Taylor, J. (1990). “Amplification and direct sequencing of 
+fungal ribosomal RNA genes for phylofenetics,” in PCR Protocols: A Guide to Methods and 
+Applications, eds. M. A. Innis, D. H. Gelfland, J. J. Sninsky, and T. J. White (San Diego: 
+Academic Press), 315–322. 
+
+ 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 57 
+
+
+
+ 
+
+Appendix 1: Materials and equipment 
+Specifications of filters and filter holders 
+
+• Polycarbonate hydrophilic membranes, 0.2 μm pore size, 142 mm (WaSOP 1) 
+
+− For example the following items may be used: 
+
+MERCK - GTTP14250 
+
+Sterlitech - PCT0214220 
+
+• Polycarbonate hydrophilic membranes, 3 μm pore size, 142 mm (WaSOP 1) 
+
+− For example the following items may be used: 
+
+MERCK - TSTP14250 
+
+Sterlitech - PCT3014220 
+
+• Polycarbonate hydrophilic membranes, 10.0 pore size, 47mm (WaSOP 2 and 3) 
+
+− For example the following items may be used: 
+
+MERCK TCTP04700 
+
+Sterlitech - PCT10047100 
+
+• Stainless steel filter holder, 142 mm (WaSOP 1) 
+
+− For example the following items may be used: 
+
+MERCK - YY3014236 
+
+Sterlitech - 301900 
+
+Sterlitech - 302000 
+
+Sterlitech - 302100 
+
+Sterlitech - 302200 
+
+DESS recipe 
+
+The recommended composition of DESS aqueous solution is 20% dimethyl sulfoxide (DMSO), 0.25 
+M ethylenediaminetetraacetic acid (EDTA), and saturated sodium chloride (NaCl) (Seutin et al., 
+1991). The pH of the DESS solution should be adjusted to 8. 
+
+Hydrochloric acid (HCl) 10% recipe 
+
+Hydrochloric acid aquatic solution is usually found at 37% w/w concentration (density 1.2 g/mL at 
+25°C and molecular weight 36.5 g/mol). That corresponds to 12 M. To prepare 1 l of 10% HCl, add 
+270 ml of 37% HCl to 600 ml of distilled water. Stir gently to make sure the acid is evenly mixed. 
+Add distilled water to the final volume of 1 l and stir again gently. It is important to add acid to water, 
+never the opposite. Make sure to take all necessary precautions before working with acid (lab coat, 
+fume hood, safety goggles). Read the specifications of the HCl aquatic solution before starting. 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 58 
+
+
+
+ 
+
+Bleach (sodium hypochlorite, NaClO) 10% recipe 
+
+Sodium hypochlorite aquatic solution is usually found at 5-8.25% concentration. It is recommended 
+that to use a solution of at least 0.5% for disinfection. To prepare 10% bleach solution dilute the 
+stock solution at a ratio 1:10, that is add 1 part of bleach solution to 9 parts of distilled water. For 
+example, to prepare 1 l of 10% bleach, add 100 ml of bleach into 900 ml of distilled water. Make 
+sure to take all necessary precautions before working with bleach (lab coat, fume hood, safety 
+goggles). Read the specifications of the bleach solution before starting. 
+
+  
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 59 
+
+
+
+ 
+
+Appendix 2: Samples Summary 
+
+ 
+
+Figure 11: Diagram summarizing the WaSOP1 procedures, the samples collected, and the destination of the samples after 
+collection. 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 60 
+
+
+
+ 
+
+ 
+
+Figure 12: Diagram summarizing the WaSOP2 procedures, and the samples collected. 
+
+ 
+
+Figure 13: Diagram summarizing the WaSOP3 procedures, and the samples collected. 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 61 
+
+
+
+ 
+
+ 
+
+Figure 14: Diagram summarizing the SoSOP1 and SoSOP2 procedures, the samples collected, and the destination of the 
+samples after collection. The dashed lines and boxes in the macrobenthos collection diagram indicate the sequential 
+sieving performed optionally by the stations that usually use smaller sieve size for macrobenthos collection. 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 62 
+
+
+
+ 
+
+ 
+
+Figure 15: Diagram summarizing the SoSOP3 procedures, the samples collected, and the destination of the samples after 
+collection. The dashed lines and boxes in the macrobenthos collection diagram indicate the sequential sieving performed 
+optionally by the stations that usually use smaller sieve size for macrobenthos collection. 
+
+ 
+
+European Marine Omics Biodiversity Observation Network  
+(EMO BON) 63

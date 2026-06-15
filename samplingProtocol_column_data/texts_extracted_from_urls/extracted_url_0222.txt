@@ -1,0 +1,2648 @@
+﻿Manual sobre técnicas de manejo y 
+conservación de las tortugas marinas en 
+playas de anidación de Centroamérica
+
+(Propuesta Base)
+
+
+
+Redacción: 
+	 Didiher Chacon
+	 Belinda Dick
+	 Emma Harrison
+	 Laura Sarti
+	 Marco Solano
+Participantes:
+ 
+Taller de Capacitación sobre Técnicas de Manejo y Conservación de Tortugas Marianas en Playas de 
+Anidación en la Región Centroamericana realizada en Tortuguero, Costa Rica 31 de agosto al 4 de 
+septiembre del 2008.
+ 
+José Quirós, Costa Rica	 Diego Amorocho, Colombia
+Eduardo Chamorro, Costa Rica	 Mauricio Vásquez Jandres, El Salvador
+Manuel Campbell Web, Costa Rica	 Manuel Antonio Monte, El Salvador
+Didiher Chacón, Costa Rica  	 Eduardo Mérida, Guatemala
+Claudio Quesada, Costa Rica 	 José Martínez, Guatemala
+Emma Harrison, Costa Rica	 Fernando Sotelo, Honduras
+Dagnia Nolasco, Costa Rica 	 Norman Flores, Honduras
+Xavier Debade, Costa Rica	 Ana Barragan, México
+Maria Jose Escalona, Costa Rica	 Aimeé Leslie, México
+Gloriana Guzman, Costa Rica	 Pedrarias Davila, Nicarágua
+Jorge Abadía, Panamá	 Lyneth Córdoba, Panamá
+ Marco Solano, CIT	 Belinda Dick, CIT
+
+Diagramación:
+	 Héctor Gamboa
+
+Publicado por: 
+Secretaria Pro Tempore de la Convención Interamericana para la Protección y Conservación de las Tortugas 
+Marinas (CIT), San José, Costa Rica. 
+http://www.iacseaturtle.org, contact@iacseaturtle.org
+
+
+
+Contenido
+
+INTRODUCCION......................................................................................................................................................... 5
+OBJETIVOS................................................................................................................................................................. 6
+ANTECEDENTES......................................................................................................................................................... 7
+LAS TORTUGAS MARINAS DE CENTROÁMERICA.................................................................................................... 8
+PROTOCOLO PARA EL MANEJO DE TORTUGAS MARINAS EN PLAYAS DE ANIDACIÓN..................................... 18
+MONITOREO DE LA ANIDACIÓN............................................................................................................................ 19
+Delimitación del área de estudio........................................................................................................................... 19
+Periodicidad y horarios del monitoreo del censo de nidos.................................................................................. 20
+Capacitación de los monitores............................................................................................................................... 21
+Estudios en playas con arribadas............................................................................................................................ 22
+OBTENCIÓN DE DATOS Y METODOLOGIAS SUGERIDAS PARA El MONITOREO DE LA ANIDACIÓN.................. 23
+Para cada estudio (cada temporada)..................................................................................................................... 23
+Para cada hembra anidadora observada (ver Anexo 1)........................................................................................ 23
+Para cada censo de nidos (ver Anexo 1)................................................................................................................ 24
+Identificación de huellas y nidadas........................................................................................................................ 25
+Marcado de tortugas marinas................................................................................................................................ 27
+Aplicación de marcas metálicas.............................................................................................................................. 27
+Aplicación de microchips (marcas PIT -transmisores pasivos integrados-)........................................................... 29
+Medición de las tortugas marinas.......................................................................................................................... 30
+PROTECCIÓN DE NIDADAS..................................................................................................................................... 32
+Reubicación de nidadas en la playa....................................................................................................................... 33
+Reubicación de nidadas a un vivero o corral......................................................................................................... 33
+Protección de los huevos contra depredadores.................................................................................................... 36
+CONSTRUCCION Y OPERACIÓN DEL VIVERO O CORRAL...................................................................................... 37
+Selección del sitio.................................................................................................................................................... 38
+Tratamiento de la arena......................................................................................................................................... 38
+Matriz de ordenamiento y densidad de nidos...................................................................................................... 39
+Dinámica del litoral................................................................................................................................................. 40
+Humedad de la arena y temperatura.......................................................................................................................... 40
+Control de la temperatura de incubación................................................................................................................... 42
+MANIPULACIÓN Y LIBERACIÓN DE TORTUGUILLOS................................................................................................... 44
+EVALUACIÓN DEL ÉXITO DE INCUBACIÓN................................................................................................................. 45
+GLOSARIO................................................................................................................................................................. 49
+REFERENCIAS............................................................................................................................................................. 50
+ANEXOS:................................................................................................................................................................... 51
+
+
+
+ÍNDICE DE CUADROS
+Cuadro 1: Descripción de la especie Dermochelys coriacea.................................................................................. 12
+Cuadro 2: Descripción de la especie Chelonia mydas........................................................................................... 13
+Cuadro 3: Descripción de la especie Eretmochelys imbricata............................................................................... 14
+Cuadro 4: Descripción de la especie Caretta caretta............................................................................................. 15
+Cuadro 5: Descripción de la especie Lepidochelys olivacea.................................................................................. 16
+
+ÌNDICE DE TABLAS
+Tabla 1: Frecuencia de estudio de día de por medio............................................................................................ 21
+
+ÍNDICE DE FIGURAS
+Figura 1.Clave para la identificación de las especies presentes en la región Centroamericana.......................... 9
+Figura 2. Morfología general de las tortugas marinas......................................................................................... 10
+Figura 3. Dimorfismo sexual en individuos de la familia Cheloniidae................................................................. 10
+Figura 4. Ciclo de vida generalizado para las tortugas marinas.......................................................................... 11
+Figura 5. Ejemplar de tortuga Dermochelys coriacea anidando en Playa Gandoca, Costa Rica........................ 12
+Figura 6: Espécimen de Chelonia mydas anidando............................................................................................... 13
+Figura 7. Ejemplar de tortuga Eretmochelys imbricata........................................................................................ 14
+Figura 8. Ejemplar de Caretta caretta.................................................................................................................... 15
+Figura 9. Espécimen de Lepidochelys olivacea...................................................................................................... 16
+Figura 10. Morfología de los neonatos de las especies en la región Centroamericana..................................... 17
+Figura 11. Los mojones pueden ser piezas de madera o árboles que son enumerados, ................................... 19
+Figura 12: Distribución espacial de los mojones.................................................................................................... 20
+Figura 13: Etapas del desove de la tortuga marina y su factor de perturbación........................................... 24-25
+Figura 14. Tipos de rastros simétricos y asimétricos.............................................................................................. 26
+Figura 15. A) Colocación de marcas más recomendada para Dermochelys coriacea.
+B) Ejemplo de colocación de marcas en miembros de la familia Cheloniidae (Barragán, 1998). ...................... 28
+Figura 16. Cicatrices que se consideran como posible evidencia de marcado previo en 
+la tortuga Dermochelys coriacea.  (Barragán, 1998)............................................................................................. 28
+Figura 17. A. Revisión de la presencia del PIT en el hombro derecho de una tortuga 
+Dermochelys coriacea. B. Sitio de aplicación de la marca PIT en D.c. (McDonald & Dutton, 1994) 
+ C. Aplicación de marca en la familia Cheloniidae (Foto: Matthew Godfrey)..................................................... 30
+Figura 18. LCCn-s (largo del caparazón nucal- supracaudal).  Bolten, 2000........................................................ 31
+Figura 19. Largo del caparazón de la tortuga Dermochelys coriácea (Bolten, 2000.......................................... 31
+Figura 20. Ancho curvo del caparazón (ACC)........................................................................................................ 31
+Figura 21. Criterios que se debe tener en cuenta para reubicar un nido............................................................ 32
+Figura 22. Formas y profundidades de los nidos de las distintas especies, distancia entre 
+la superficie media de la arena y una profundidad promedio............................................................................ 35
+Figura 23. Defensa que se le da a los nidos para evitar la depredación por insectos y otros animales............ 36
+Figura 24. Diagrama de un vivero cerrado (sin techo).......................................................................................... 37
+Figura 25. Esquema genérico y no estricto de los sitios de anidación seleccionados por las 
+diferentes especies de tortugas marinas............................................................................................................... 38
+Figura 26. Densidad máxima recomendada de nidos es 2 /m2 para la familia Cheloniidae, 
+la mínima recomendada es de 1 nido/m2 para D. c.............................................................................................. 39
+Figura 27. A. Modelo de distribución de nidos para nidadas de la familia Cheloniidae, dejando 
+cada tercera línea un pasillo libre de nidos; B. Modelo de distribución de nidos de D.c. con 
+una densidad de un nido por metro cuadrado. ................................................................................................... 39
+Figura 28. Pluviómetro usado en los proyectos de conservación y  protección de tortugas marinas................ 41
+Figura 29. Sombra que se usa en algunos viveros donde la temperatura es elevada........................................ 43
+Figura 30. Diferentes estadios de desarrollo de los embriones durante el proceso de incubación................... 46
+
+
+
+INTRODUCCIÓN
+
+En las Américas se encuentran seis especies cuyo metabolismo y desarrollo está gobernado 
+de tortugas marinas de las siete que aún por la temperatura ambiental y cuyas áreas de 
+existen en el mundo: Lepidochelys olivea- anidación y alimentación son altamente sensi-
+
+cea, Caretta caretta, Chelonia mydas, Dermo- bles a cambios en variables oceanográficas, las 
+chelys coriacea, Eretmochelys imbricata, y Lepi- tortugas marinas son particularmente vulnera-
+dochelys kempii. De ellas, solo la especie Lepido- bles al cambio climático.
+chelys kempii no tiene una amplia distribución Debido a su naturaleza migratoria, las tortugas 
+mundial, pues es endémica del Golfo de Méxi- marinas representan recursos compartidos entre 
+co. La Lista Roja de Especies Amenazadas de la diversas naciones. Los esfuerzos de conservación 
+Unión Internacional para la Conservación de la de una población de tortugas realizados por un 
+Naturaleza (UICN), clasifica como “Vulnerable” Estado, pueden perjudicarse o beneficiarse a 
+a la tortuga Lepidochelys oliveacea,   “En Peligro causa de las actividades en otro país. Por lo tan-
+de extinción” a Caretta caretta y Chelonia mydas to, la cooperación internacional es un requisito 
+y “En Peligro Crítico de Extinción” a Dermochelys para su conservación y manejo. Esta cooperación 
+coriacea, Eretmochelys imbricata, y Lepidochelys deberá reconocer interconexiones tanto entre 
+kempii. hábitats como con las poblaciones de tortugas 
+
+El incremento de las amenazas antrópicas du- marinas y los seres humanos, haciendo uso de la 
+rante el siglo pasado, como la pérdida de hábitat mejor evidencia científica disponible. Para pro-
+por desarrollos turísticos y urbanísticos, la con- porcionar esta evidencia, los países tienen que 
+taminación marina y el incremento del esfuer- superar varios desafíos tales como el idioma y las 
+zo pesquero que ocasiona captura incidental; particularidades de la legislación de cada país. 
+así como la pesca dirigida (legal o ilegal), han Para llegar a una cooperación efectiva, es ne-
+puesto en peligro de extinción a todas las espe- cesario contar con técnicas estandardizadas de 
+cies de tortugas marinas del mundo. Aunado a conservación y manejo, utilizando los mismos 
+lo anterior,  las tortugas marinas tienen un ciclo términos y metodologías científicas que permi-
+de vida muy complejo, utilizan varios hábitats tan comparar los resultados obtenidos de los 
+de desarrollo, realizan migraciones de miles de programas de conservación entre naciones y re-
+kilómetros entre las zonas de alimentación y las giones. Además, el uso de técnicas y términos 
+playas de desove, pueden vivir por muchos años estandarizados facilita la evaluación precisa de 
+y presentan una edad de madurez sexual tardía. los tamaños y las tendencias de las poblaciones 
+Estas características hacen difícil su protección y de tortugas marinas, su distribución y el estado 
+las exponen a presiones diversas en una escala de su hábitat crítico, la protección y prevención 
+geográfica muy amplia. Por tratarse de reptiles contra amenazas.  
+
+*Nota: Sobre las palabras que están resaltadas en negrita, se puede encontrar mayor información en 
+la sección del glosario.
+
+5
+
+
+
+OBJETIVOS
+
+Ofrecer un manual básico que promueva la 
+estandardización de las técnicas utilizadas en el 
+manejo y conservación de las tortugas marinas ¿QUÉ ES LA CIT?
+en playas de anidación en Centroamérica.
+
+La Convención Interamericana para 
+Los objetivos específicos son: la Protección y Conservación de las 
+
+Tortugas Marinas (CIT) es un tratado 
+-	 Ofrecer a los programas nacionales de tortugas intergubernamental que provee el 
+
+marinas una herramienta para capacitar a los marco legal para que los países del 
+Hemisferio Occidental tomen acciones a 
+
+líderes de proyectos encargados del manejo 
+favor de estas especies.
+
+de las playas de anidamiento a nivel de la 
+región. El objetivo de la CIT es promover la 
+
+protección, conservación y recuperación 
+-	 Fortalecer la capacidad de instituciones de las poblaciones de tortugas marinas 
+
+locales y nacionales en la implementación  de y los hábitats de los cuales dependen, 
+programas de conservación en playa. basándose en la mejor evidencia 
+
+científica disponible y considerando 
+-	 Promover el uso de metodología y terminología las características ambientales, 
+
+socioeconómicas y culturales de las 
+estandardizada en la conservación de las 
+
+Partes.
+tortugas marinas en la región.
+
+-	 Promover la implementación de los objetivos 
+de la Convención Interamericana (CIT). 
+
+6
+
+
+
+ANTECEDENTES
+
+Aunque las tortugas marinas se han adaptado ser comparable entre los distintos proyectos para 
+a la vida marina, ellas dependen de la tierra para obtener un escenario regional, situación que hoy 
+completar una de las etapas más críticas de su día no es del todo posible. 
+ciclo de vida: su reproducción. Anidan en playas En un inicio se planteó realizar este proyecto 
+tropicales y subtropicales, ya que éstas poseen para todos los países de América; sin embargo, 
+las características adecuadas para el desarrollo el costo del mismo fue sumamente alto, lo que 
+de sus nidos. En las costas tropicales de América constituyó una de las principales limitantes. La 
+existen gran cantidad de playas donde anidan región Centroamericana presenta una serie 
+6 de las 7 especies de tortugas del mundo. En de limitaciones en el manejo de las diversas 
+varias de ellas, se desarrollan diversos proyectos playas de anidación y se han recibido solicitudes 
+de protección y manejo; de estos, un gran técnicas sobre el manejo y conservación de 
+porcentaje están en manos de pobladores de tortugas marinas  por parte de los gobiernos 
+las comunidades locales.  Hay que reconocer y los organismos que trabajan en las playas de 
+que el esfuerzo que realizan estas personas por anidación. Esto nos motivó a retomar el proyecto 
+proteger a las hembras, huevos y crías, no es una para esta región. Como parte de este esfuerzo, 
+tarea fácil, ya que muchas de ellas no cuentan se procedió a elaborar un manual sobre técnicas 
+con los conocimientos técnicos básicos ni con de manejo de playas de anidación, dirigido a 
+los recursos humanos y económicos que les representantes de los países centroamericanos. El 
+ayuden a lograr mejores resultados utilizando objetivo de este manual es que pueda ser utilizado 
+las metodologías de conservación apropiadas. en cada uno de los países como un documento 
+En el campo técnico se ha avanzado mucho en de base, para adaptarlo a la legislación y a las 
+algunos proyectos en la región; sin embargo, condiciones propias. Mientras no suceda esta 
+este conocimiento no ha llegado a todos los adaptación, se puede utilizar como documento 
+proyectos por diversas razones, entre ellas, la de referencia internacional en las labores de 
+falta de recursos financieros. La capacitación conservación de las tortugas marinas. 
+en técnicas de conservación así como en la De igual forma, queda abierta la posibilidad 
+adopción de manuales únicos permitirá contar de que un país fuera del área de trabajo 
+con métodos estandarizados en los sistemas de pueda retomar este manual y adaptarlo a sus 
+trabajo, resultando en información que puede condiciones.
+
+7
+
+
+
+LAS TORTUGAS MARINAS DE 
+CENTROAMERICA 
+
+Todas las tortugas marinas derivan de un 
+mismo ancestro clasificado en el suborden En la región Centroamérica existen cinco 
+Cryptodira, cuyos miembros más antiguos de las siete especies de tortugas marinas:
+datan de unos 150 millones de años atrás  
+(Pritchard, 1997). Las tortugas marinas actuales 1.	 La tortuga baula, baule o tora (Der-
+se caracterizan por poseer adaptaciones a la mochelys coriacea)
+vida marina: cuerpo hidrodinámico, glándulas 2.	 La tortuga verde, blanca o negra 
+que les permiten excretar los excesos de sal en 
+
+(Chelonia mydas)
+el cuerpo, extremidades planas en forma de 
+remos, sistemas internos que las capacitan para 3.	  La tortuga carey (Eretmochelys im-
+bucear a grandes profundidades y permanecer bricata)
+ahí por lapsos relativamente largos. Además, se 4.	 La tortuga cabezona o caguama (Ca-
+diferencian de otros grupos de tortugas por su retta caretta) 
+incapacidad de retraer la cabeza y extremidades 
+dentro del caparazón, por cerrar este y pasar 5.	 La tortuga paslama, parlama o lora 
+
+largos períodos fuera del agua (Meylan y Meylan, (Lepidochelys olivacea)
+
+2000).
+
+Las tortugas marinas siguen relacionadas con 
+su ancestro terrestre por poseer escamas como Las figuras 1 y 2 ilustran algunas de las estruc-
+
+otros reptiles y  desovar e incubar sus huevos en turas morfológicas externas, utilizadas para la 
+tierra; además, no tienen cuidado parental con identificación de tortugas marinas a nivel de es-
+sus crías. La mayoría de sus estadios inmaduros pecie.
+tienen hábitos pelágicos. Conforme maduran, 
+se acercan a zonas costeras; esto sucede cuando 
+alcanzan longitudes de entre 20-40 cm, según la 
+especie (Meylan y Meylan, 2000).
+
+8
+
+
+
+Clave
+Caparazón osea
+
+Caparazón flexible -sin quillas o crestas 
+-con 7 quillas o crestas -con escudos o placas grandes
+-sin escudos o placas
+
+6 o más pares de escudos 
+laterales 5 (ocasionalmente 6) 
+
+(líneas gruesas) pares de escudos laterales
+(líneas gruesas)
+
+Golfina o lora
+Lepidochelys olivacea
+
+Cabezona o caguama
+4 pares de escudos Caretta caretta
+
+laterales
+(líneas gruesas)
+
+Baula o Laúd
+Dermochelys coriacea
+
+2 pares de escamas Carey
+perifrontales Eretmochelys imbricata 1 par de escamas 
+
+perifrontales
+Verde, blanca o 
+
+negra
+Chelonia mydas
+
+Figura 1. Clave para la identificación de las especies presentes en la región Centroamericana.
+
+9
+
+
+
+Escamas
+Escudo precentral o prefrontales
+
+nucal
+
+Escudos centrales o Escudo intergular
+vertebrables Escama mandibular
+
+Escudos laterales o Escudos postcentrales o
+costales supracaudales Escudo gular 
+
+Escudo humeral
+
+Escudos marginales
+Escudos axilares
+
+Escudo pectoral
+
+Escudos 
+Escudo abdominal inframarginales
+
+Escudo femoral
+
+Escudo anal Escudo Interanal
+
+Figura 2. Morfología general de las tortugas marinas.
+
+Las tasas de crecimiento indican que son animales están lejos de las playas de anidación.  Sólo 
+de crecimiento muy lento; alcanzan su madurez presentan dimorfismo sexual en etapa adulta o 
+sexual entre los 10 y 50 años, dependiendo de subadulta. Los machos tienen una uña delantera 
+las especies y la zona geográfica; normalmente más desarrollada y la cola más grande que las 
+ellas permanecen la mayor parte de sus vidas hembras (Fig.3).
+en áreas de alimentación, las cuales usualmente 
+
+Macho Hembra
+Una uña más Una uña más 
+desarrollada pequeña
+
+Cola más grande
+Cola corta
+
+  Figura 3. Dimorfismo sexual en individuos de la familia Cheloniidae
+
+Las dietas son particulares para cada especie: en pastos marinos como fanerógamas y algas; 
+Dermochelys coriacea se alimenta principalmente Lepidochelys olivacea tiene una preferencia 
+de medusas y zooplancton (animales de cuerpo por los camarones y otros crustáceos pequeños, 
+suave). La dieta de Eretmochelys imbricata está mientras que Caretta caretta consume crustáceos 
+basada principalmente en esponjas de arrecifes y moluscos.
+coralinos; la dieta de Chelonia mydas se sustenta 
+
+10
+
+
+
+Durante los periodos reproductivos, el una sola nidada pueden presentar paternidad 
+apareamiento puede suceder durante la múltiple. Cada hembra muestra la capacidad de 
+migración hacia las áreas de anidación, el cual anidar varias veces en la misma temporada; a 
+tiene su origen en los sitios de alimentación y este fenómeno se le denomina reanidación. La 
+en las zonas frente a las playas de desove. Cada reanidación puede suceder varias veces (de dos o 
+especie tiene un modelo propio de cortejo, más veces, según la especie) en una temporada. 
+apareamiento y desove.  Dermochelys coriacea puede reanidar hasta 11 
+
+En algunas especies, las hembras pueden veces, desovando unos 900 huevos en total. 
+guardar por más de una temporada el esperma Las hembras que anidan por primera vez en su 
+en sus cuerpos; además, pueden ser receptivas vida se les llama neófitas o  primerizas. Cuando 
+a varios machos, de manera que los huevos de una hembra regresa a anidar en temporadas 
+
+Figura 4. Ciclo de vida generalizado para las tortugas marinas.
+
+11
+
+
+
+subsecuentes, se le denomina remigrante. fijación de sitio. Este proceso se da cuando los 
+Estas remigrantes pueden tener ciclos anuales, tortuguillos emergen del nido y se desplazan hacia 
+bienales, trienales e incluso más largos. No será el mar; estos registran un grupo de parámetros 
+posible determinar si una hembra es neófita o que se imprimen en su memoria y los capacitan 
+remigrante si no se cuenta con un buen programa para reconocer la misma playa o región donde 
+
+de marcado de hembras a saturación. La Figura nacieron. Con esta información, al alcanzar la 
+
+4 demuestra un ciclo de vida generalizada de las madurez sexual, la tortuga adulta regresa a la 
+playa para anidar. Los parámetros que influyen 
+
+tortugas marinas.
+en este proceso aún no están totalmente claros 
+
+Las hembras recuerdan su playa natal por para la ciencia, pero se cree que pueden ser 
+medio de un proceso denominado impronta o olfatorios, auditivos y magnéticos, entre otros.
+
+Cuadro 1: Descripción de la especie  Dermochelys coriacea
+Nombres comunes Laúd, Baula, Tora, Canal, Baule
+Estado de conservación Peligro critico de extinción (Lista Roja UICN)
+Longitud promedio del largo curvo del caparazón  150 cm 
+Frecuencia de puesta promedio 5-7 veces/temporada
+Intervalo de puesta 9-10 días
+Intervalo de remigración promedio Usualmente 3 años, pero pueden ser 2 o más de 3.
+Tamaño de nidada promedio 60-90 huevos (con yema) 
+Profundidad/ancho de nido promedio Aprox. (70/40) cm
+Tiempo de incubación promedio 50-70 días
+Temperatura pivote 29-29.95 °C
+Ancho de la huella 150-230 cm
+Simetría de huella Simétrica
+
+Características generales
+Es la más grande de todas las especies de tortugas marinas; puede llegar a medir hasta 3,0 m de largo total 
+y pesar 1000 Kg.  Existen algunas diferencias de tamaño entre las que se encuentran en el Caribe con las del 
+Pacífico, siendo estas últimas un poco más pequeñas (130 - 140 cm).  El “caparazón” no es duro, más bien 
+blando, sin escudos o escamas y tiene una coloración negra con manchas blancas a lo largo del mismo con 
+una mancha rosa sobre la cabeza. También se distinguen por tener 7 “quillas” (Gulko y Eckert, 2004). 
+
+Amenazas principales
+
+Las amenazas principales son la pesca incidental, la explotación insostenible de huevos y la captura dirigida 
+de tortugas, así como la destrucción o alteración de su hábitat de anidación por desarrollos costeros 
+urbanísticos o turísticos y el cambio climático. Esta especie come desechos marinos de baja degradación, 
+especialmente bolsas de plástico que puede ser confundidas con medusas, lo que ocasiona su muerte.
+
+Figura 5. Ejemplar de tortuga Dermochelys 
+coriacea, anidando en Playa Gandoca, Costa 
+
+Rica (Foto: J. Madeira)
+
+12
+
+
+
+Cuadro 2: Descripción de la especie  Chelonia mydas* 
+Nombres comunes Verde, Blanca, Negra, Torita
+Estado de conservación Peligro de extinción (Lista Roja UICN)
+Longitud promedio del largo curvo del caparazón  100 cm 
+Frecuencia de puesta promedio 3 veces/temporada o más
+Intervalo de puesta 12-14 días
+Intervalo de remigración promedio 2-3 años o más
+Tamaño de nidada promedio 115 huevos
+Profundidad/ancho de nido promedio Aprox. (60/35) cm
+Tiempo de incubación promedio 60 días
+Temperatura pivote 28.6 °C
+Ancho de la huella 100-130 cm
+Simetría de huella Simétrica
+
+Características generales
+El tamaño promedio de un adulto puede ser de unos 100 cm y contar con un peso desde los 100 hasta los 
+225 Kg. Su caparazón tiene un color verduzco y negro con cuatro escudos laterales, las escamas que el mismo 
+posee no son traslapadas y el plastrón es amarillento. Posee una uña en cada aleta interior. En la parte 
+frontal de la cabeza tiene un solo par de escamas (prefrontales) y cuatro detrás de sus ojos (postorbitales) 
+(Gulko y Eckert, 2004). 
+
+*Las tortugas de este género en el Pacífico son más pequeñas, así como su tamaño promedio de nidada y son 
+más oscuras que las del Atlántico, de ahí que todavía existe cierta controversia de si son especies diferentes, 
+subespecies o poblaciones distintas. Investigaciones publicadas recientemente sobre su morfología, genética 
+y composición bioquímica exhiben resultados contradictorios, por lo que en el presente manual se le considera 
+como parte de la especie Chelonia mydas.
+
+Amenazas principales
+Una de las amenazas más significativas que enfrenta la tortuga verde es la caza intencional de los adultos y 
+la recolección intensiva de sus huevos. La carne de la tortuga verde es considerada como un manjar exótico, 
+por esta razón se explota comercialmente. La captura incidental en las pesquerías marinas, la degradación 
+del hábitat y las enfermedades, son otras amenazas prejudiciales para esta especie.
+
+Figura 6. Espécimen de Chelonia mydas 
+anidando. Foto: WWF-Canon Juergen FREUND. 
+
+13
+
+
+
+Cuadro 3: Descripción de la especie Eretmochelys imbricata
+Nombres comunes Carey 
+Estado de conservación Peligro critico de extinción (Lista Roja UICN)
+Longitud promedio del largo 80 cm
+curvo del caparazón  
+Frecuencia de puesta promedio 3-5 veces/temporada
+Intervalo de puesta 14-16 días
+Intervalo de remigración 2-3 años
+promedio
+Tamaño de nidada promedio 160 huevos
+Profundidad/ancho de nido Aprox. (55-30) cm
+promedio
+Tiempo de incubación promedio 60 días
+Temperatura pivote 29.32 °C
+Ancho de la huella 70-85 cm
+Simetría de huella Asimétrica
+
+Características generales
+Es conocida por su cabeza alargada y la forma de pico de su mandíbula superior. La carey puede 
+llegar a medir entre 65 y 90 cm y tener un peso de entre 45 y 70 kg.  Los escudos del caparazón se 
+sobreponen y tiene cuatro pares de escudos laterales. Su caparazón tiene colores entre amarillo y 
+negro, pasando por los naranjas y distintas tonalidades de rojo. Sus aletas frontales, por lo general, 
+tienen dos uñas y en la parte frontal de su cabeza se pueden distinguir dos pares de escamas y tres 
+escamas detrás de sus ojos (Gulko y Eckert, 2004). 
+
+Amenazas principales
+La amenaza principal es la explotación comercial de los juveniles y los adultos por la belleza de su 
+caparazón, con el cual se elaboran artesanías y otros productos a nivel local. Internacionalmente 
+se presentan problemas a pesar de la prohibición del comercio de esta especie en la Convención 
+sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres (CITES). Otras 
+amenazas pueden ser directas, tales como la recolección de sus huevos, o indirectas, como la 
+destrucción de hábitats críticos para su supervivencia a causa del cambio climático y los aumentos 
+en sedimentos y nutrientes, que afectan negativamente a los arrecifes de coral.
+
+Figura 7. Ejemplar de tortuga Eretmochelys 
+imbricata. (Foto: D. Chacón).
+
+14
+
+
+
+Cuadro 4: Descripción de la especie Caretta caretta 
+Nombres comunes Cabezona, Caguama
+Estado de conservación Peligro de extinción (Lista Roja UICN)
+Longitud promedio del largo curvo del 80 cm
+caparazón  
+Frecuencia de puesta promedio 4 veces/temporada
+Intervalo de puesta 15 días 
+Intervalo de remigración promedio 2-3 años
+Tamaño de nidada promedio 100 huevos 
+Profundidad/ancho de nido promedio Aprox. (45-30) cm
+Tiempo de incubación promedio 60 días 
+Temperatura pivote 27.74 °C
+Ancho de la huella 70-80 cm
+Simetría de huella Asimétrica
+
+Características generales
+Es conocida por su cabeza grande (aproximadamente 25 cm en adultos). El tamaño del caparazón 
+va desde los 75 a los 100 cm  y pesa en promedio unos 150 kg. Este es alongado con cinco escudos 
+laterales (no se traslapan unos con otros), tiene una “joroba” en el quinto escudo vertebral y 
+su escudo nucal está en contacto con la primera placa costal. El color del caparazón es oscuro, 
+tendiendo a café rojizo y su plastrón es amarillo crema (Gulko y Eckert 2004).
+
+Amenazas principales
+Las amenazas principales son el desarrollo costero, la contaminación marina, las pesquerías 
+comerciales, principalmente camaroneras de arrastre, así como alteraciones del hábitat por el 
+cambio climático.
+
+Figura 8. Ejemplar de Caretta 
+caretta. (Foto: TAMAR).
+
+15
+
+
+
+Cuadro 5: Descripción de la especie Lepidochelys olivacea
+Nombres comunes Lora, Golfina, Paslama, Paslama, Carpintera 
+Estado de conservación Vulnerable (Lista Roja UICN)
+Longitud promedio del largo 65 cm
+curvo del caparazón  
+Frecuencia de puesta promedio 2-3 veces/temporada
+Intervalo de puesta 14-28 días (anidación solitaria y por arribada 
+
+respectivamente)
+Intervalo de remigración 1-2 años
+promedio
+Tamaño de nidada promedio 100 huevos 
+Profundidad/ancho de nido Aprox. (45-30) cm
+promedio
+Tiempo de incubación promedio 50 días 
+Temperatura pivote 29.13 °C
+Ancho de la huella 70-80 cm
+Simetría de huella Asimétrica
+
+Características generales
+Esta es la especie más numerosa de todas las tortugas marinas. Es una tortuga pequeña, mide 
+aproximadamente 65 cm y los adultos pueden alcanzar entre 35 y 45 Kg. El caparazón es casi 
+redondo, de color verde oscuro. Tiene 5-9 pares de escudos laterales a veces impares y dos pares de 
+escamas prefrontales en la cabeza. Cada aleta delantera tiene dos uñas (Gulko y Eckert, 2004). Esta 
+especie presenta anidaciones de forma masiva y sincronizada conocidas como arribada, arribazón 
+o morriña. En las playas donde existe este tipo anidación se han observando concentraciones de 
+entre 5,000 a 150,000 hembras durante solo unas cuantas noches. 
+
+Amenazas principales
+La captura directa de los adultos y sus huevos, la captura incidental en pesquerías comerciales, 
+especialmente las camaroneras, y la pérdida de hábitat de anidación, son las principales amenazas 
+a esta especie.
+
+Figura 9. Espécimen de 
+Lepidochelys olivacea 
+
+(Foto: D. Chacón).
+
+16
+
+
+
+La morfología de los neonatos de las especies 
+no es muy diferente de su estado adulto.
+
+Figura 10. Morfología de los neonatos de las especies en la región Centroamericana (A. 
+Dermochelys coriacea, B. Eretmochelys imbricata, C. Caretta caretta, D. Chelonia mydas, E. Lepidochelys 
+
+olivacea).
+
+17
+
+
+
+Protocolo para el manejo de tortugas 
+marinas en playas de anidación
+
+Según Eckert (2000), la meta general de un •	 Contar con un programa de educación e in-
+plan de conservación para tortugas marinas es formación pública.
+promover la supervivencia de las poblaciones de •	 Sistemas de divulgación sobre la problemáti-
+tortugas a largo plazo, la sustentabilidad del re- ca y la importancia de desarrollar medidas de 
+curso y la protección de los hábitat críticos, in- protección y manejo de tortugas marinas y sus 
+cluyendo también las necesidades de las comu- hábitats.
+nidades humanas con las que ellas interactúan. •	 Diseño, establecimiento y seguimiento a me-
+Un programa de conservación está determinado didas de adaptación al cambio climático.
+por la naturaleza de las poblaciones locales de •	 Fortalecer e integrar esfuerzos locales y nacio-
+tortugas, así como por otras consideraciones de nales dirigidos a la conservación de tortugas 
+tiempo, dinero y recursos humanos (Pritchard et marinas. 
+al. 1983). Los objetivos específicos de cada pro-
+grama de conservación pueden variar, pero de- Este protocolo tiene como finalidad guiar y es-
+ben incluir aspectos como: tandarizar la obtención de información básica 
+
+necesaria en las playas de desove de tortugas 
+•	 Identificación de los sitios donde se encuen- marinas en Centroamérica, con la intención de 
+
+tran las diferentes especies. valorar la tendencia de la anidación como un 
+•	 Tamaño de las poblaciones locales y regiona- cambio en la abundancia a través del tiempo y 
+
+les. tener un mejor manejo de las tortugas.  Así, los 
+•	 Estimación del estado de conservación de la valores obtenidos por medio de este protocolo 
+
+población, identificando todas las áreas cla- reflejarán la tendencia del segmento de la po-
+ves de reclutamiento (especies y sitios de ani- blación que está utilizando el hábitat donde se 
+dación). ejecuta el protocolo. El protocolo indica también 
+
+•	 Monitoreos regulares de las poblaciones y del los procedimientos para mejorar las perspectivas 
+estado de conservación de su hábitat. de supervivencia de embriones y tortuguitas por 
+
+•	 Estimación de la mortalidad anual. medio de medidas concretas de manejo, y para 
+•	 Conocimiento de la naturaleza y el grado de la toma de datos que permitan dar seguimiento 
+
+explotación humana, lo mismo que otros fac- a la calidad del hábitat de anidación a la luz del 
+tores que pueden afectar las poblaciones de cambio climático. Es importante seguir las nor-
+tortugas marinas. mas establecidas en cada país, especialmente en 
+
+•	 Protección y monitoreo efectivo de las playas lo que respecta a permisos, restricciones, proce-
+de anidación, zonas de alimentación y conoci- dimientos y el formato para reportar la informa-
+miento de los recorridos migratorios. ción recolectada.
+
+•	 Regulación del comercio ilegal doméstico e 
+internacional de productos y partes de las tor- Para obtener permisos de investigación; es de-
+tugas marinas. cir, para realizar actividades intelectuales y expe-
+
+•	 Conducir y eliminar amenazas tales como de- rimentales de modo sistemático con el propósito 
+sarrollos no apropiados, iluminación costera, de aumentar los conocimientos sobre una deter-
+drenajes o cualquier otro foco de impacto. minada materia, hay que seguir los requisitos de 
+
+•	 Lograr y mantener el apoyo del público para ley establecidos en cada país.
+cumplir con las metas y objetivos. 
+
+18
+
+
+
+Monitoreo de la anidación 
+
+Los programas de monitoreo usualmente enfa- cadores o mojones con una distribución ideal a 
+tizan la fase terrestre del ciclo de vida: hembras cada 50 metros y a un máximo de 100 metros 
+anidando, huevos y neonatos; razón por la cual (Fig.11). Se deben ubicar estos marcadores en la 
+dichas investigaciones están  supeditadas a po- línea de la vegetación a suficiente distancia para 
+cos meses durante las temporadas de anidación. que las mareas y el oleaje no los remuevan. Hay 
+Los censos de nidos o hembras en las playas de que tener en cuenta que puedan ser leídos por 
+anidación se han constituido en una herramien- las personas que recorren la playa. Se deben re-
+ta muy utilizada en la evaluación y conocimiento visar y reemplazar los marcadores al inicio y du-
+de las tendencias de las poblaciones de tortugas rante la temporada para corroborar la posición 
+marinas. Estas valoraciones son necesarias para correcta de estos. Para ello, se puede utilizar una 
+conocer los efectos de las actividades de conser- cinta métrica con la longitud apropiada y apo-
+vación y recuperación de estas especies. Un di- yarse con el uso de un Sistema de Posicionamien-
+seño apropiado del censo de nidos, en conjun- to Geográfico (GPS), dependiendo de lo que se 
+to con los estudios de las hembras anidadoras, quiera o qué tanta exactitud se requiera (el mo-
+proporciona información sobre el número de ni- tivo por el cual se utilizarán los datos) (Fig. 12).
+dadas depositadas anualmente (Schroder y Mur-
+phey, 2000).
+
+Delimitación del área de estudio
+
+La definición y delimitación del área de estu-
+dio es un componente importante para estable-
+cer un programa de monitoreo de la anidación 
+a largo plazo en una playa donde esta ocurre. 
+Se debe mantener la misma área, con el fin de 
+poder realizar comparaciones año tras año con 
+los datos generados.  Es útil dividir la playa en 
+segmentos iguales, para manejar los datos en 
+una escala aún más detallada. Esto permitirá de-
+terminar la distribución espacial de la anidación Figura 11. Los mojones pueden ser piezas de 
+
+madera o árboles que son enumerados según 
+y así analizar la tendencia espacial. Se recomien- el protocolo, de manera creciente en sentido 
+da una demarcación de la playa con postes, mar- norte-sur.
+
+19
+
+
+
+50 m 50 m 50 m
+
+Figura 12: Distribución espacial de los mojones.
+
+Sin embargo, si no tienen los recursos ni el tiem- Las playas que no han sido previamente estu-
+po adecuado para mantener los postes, se pue- diadas, o para las que la temporada de anida-
+de delimitar el área con puntos geográficos tales ción no ha sido definida, requerirán estudios de 
+como ríos, rocas, lagunas, esteros o incluso lími- prospección para identificar el pico de la anida-
+tes de propiedades o construcciones a la orilla de ción, los índices de pérdida y saqueo de nidos 
+la playa. Se recomienda apoyarse con el uso del antes de establecer un periodo de conteo de los 
+GPS debido a la posibilidad de que estos puntos mismos.  Los estudios de prospección deberán 
+se muevan o cambien. ser conducidos por un período mínimo de tres 
+
+años, tiempo durante el cual deberá ser estudia-
+da la temporada completa de anidación (CITES, 
+
+Periodicidad y horarios del 2002).
+Monitoreo del Censo de Nidos La frecuencia del estudio (número de días por 
+
+semana en los cuales el conteo de nidos es rea-
+El lapso empleado para el conteo de nidos debe lizado) depende de cada proyecto de investiga-
+
+abarcar el período máximo de anidación de la ción; sin embargo, se sugiere que se realice dia-
+temporada de desove y se debe diseñar para riamente durante toda la temporada y a lo largo 
+tener en cuenta los cambios en el “pico” de la de toda la playa o área de estudio, año tras año, 
+temporada de anidación de un año a otro. Ideal- con el fin de establecer comparaciones. No obs-
+mente, debería abarcarse la totalidad de la tem- tante, algunas consideraciones logísticas podrían 
+porada de anidación, no obstante, el período impedir los recorridos cotidianos. En este caso, 
+mínimo del estudio será de 8 semanas. Periodos se puede aplicar una frecuencia de estudio de 
+más cortos pueden ser apropiados dependiendo “día de por medio” (un día sí, un día no) como el 
+de las condiciones locales y de un completo en- requisito mínimo para reducir el error de mues-
+tendimiento de la variabilidad de la temporada treo (Tabla 1). En playas de anidación remotas y 
+de anidación (CITES, 2002). aisladas, donde la logística impide los estudios 
+
+20
+
+
+
+con esa frecuencia, una reducción de 2-3 veces Capacitación de los monitores
+uniformemente espaciados a través de la sema-
+na puede ser suficiente, para lo cual se debe El personal de campo debe someterse a un 
+ajustar la capacitación de los monitores con el proceso de capacitación antes de iniciar sus ac-
+fin de que sean capaces de realizar esta actividad tividades como monitores en el área de estudio. 
+(CITES, 2002). La capacitación debe incluir la observación di-
+
+recta de las tortugas en anidación, esto asegura 
+Tabla 1: Frecuencia de estudio de día de por medio.
+
+que las personas responsables de la recolecta 
+
+L M M J V S D de información y del  trabajo con las tortugas, 
+
+       tengan  una perfecta comprensión del compor-
+tamiento de estos animales durante el proceso 
+de anidación. De igual forma, debe incluir la 
+
+Los recorridos ideales son diarios, empezando observación de los rastros en la playa con el fin 
+desde el anochecer (al menos a las 8:00 p.m.) y de identificar las características de las huellas y 
+hasta antes del amanecer (4:00 o 5:00 a.m.) o de los nidos. Esto último es clave para distinguir 
+bien, considerando el ritmo de las mareas, de correctamente entre un nido y una salida sin 
+tal manera que se cubra el segmento de obser- anidación. También deben recibir capacitación 
+vación una vez por hora. Si estos recorridos son práctica en diferentes actividades como marca-
+adecuados, no es necesario hacer un recorrido do de hembras (si se cuenta con un programa de 
+por la mañana; sin embargo, si se quiere con- marcado de este tipo y recolección de datos. 
+firmar el conteo hecho por la noche, se podrán Como parte del proceso de capacitación, es im-
+realizar recorridos inmediatamente después de portante brindar conocimientos sobre la biolo-
+la salida del sol, ya que el ángulo bajo del sol gía, la ecología y el estado actual de las especies 
+en las primeras horas de la mañana hace que las de tortugas marinas y sobre los planes de ma-
+huellas sean muy visibles y estas no se han se- nejo de las colonias anidadoras que integran las 
+cado todavía. Por efectos de estandarización y poblaciones de tortugas marinas; asimismo, se 
+generación de información sobre la abundancia deben dar a conocer aspectos relevantes sobre 
+de nidos, es importante mantener el esfuerzo en los antecedentes, objetivos y avances del pro-
+tiempo (horas por noche y noches de la tempo- grama de conservación de tortugas marinas. 
+rada) y longitud de playa o reportar cualquier 
+cambio de estos.
+
+21
+
+
+
+Estudios en playas con arribadas
+
+En Centroamérica, la  especie L. olivacea es la comportamiento de anidación sincrónico. Las 
+única que anida en concentraciones mayores a técnicas convencionales de monitoreo no son 
+cualquier otra especie. Pueden observarse con- eficaces para emplearse en el caso de las arriba-
+centraciones que van desde 5,000 a 150,000 ni- das, por lo tanto en este manual no las vamos 
+dadas durante solo unas noches. Esta conducta discutir. Para más detalles sobre la metodología 
+de anidación masiva (conocida como arribada) por aplicar en playas de arribadas ver Estudios 
+se caracteriza por una gran concentración de de Poblaciones en Playas de Arribadas de (Val-
+hembras, una alta densidad de anidación y un verde y Gates, 2000). 
+
+22
+
+
+
+Obtención de datos y metodologías sugeridas 
+para el monitoreo de la anidación
+
+La recolecta apropiada de datos va a permi- Para cada estudio (cada temporada)	
+tir sobrevaluar la abundancia, tendencias y la 
+situación de las poblaciones de tortugas mari- •	 Nombre del responsable, afiliación institu-
+
+cional y campo de acción o especialidad.
+nas. Actualmente, uno de los graves problemas 
+
+•	 Datos de contacto (teléfono, fax, correo 
+que se enfrentan en el manejo de las tortugas electrónico y sitio web).
+marinas, es el uso de diferentes metodologías •	 Área del monitoreo: nombre del sitio, espe-
+para la  recolecta de datos en los proyectos de cies, descripción física de los límites, ubica-
+
+ción geográfica (lat/long), extensión (km o 
+investigación, lo cual tiene como consecuencia ha) y categoría de protección.
+el no poder hacer comparaciones válidas de los •	 Permisos otorgados.
+resultados obtenidos entre los distintos proyec- •	 Fechas de inicio y finalización del monitoreo 
+tos.  Esto se manifiesta en proyectos tanto a nivel (temporada).
+
+•	 Número de días muestreados por semana.
+local como regional.  Por esta razón es muy im-
+
+•	 Descripción narrativa de cambios significati-
+portante el uso de metodologías y terminologías vos ocurridos en la playa que podrían influir 
+estandarizadas que permitan una comparación en la anidación.
+de la información obtenida en cada proyecto, •	 Las series de marcas usadas (si aplica).
+
+•	 Otros datos de importancia para la interpre-
+contando de esta forma con una herramienta tación de información sobre la anidación.
+sólida que brinde apoyo a la toma de decisiones 
+en la  conservación, protección y posible uso de Para cada hembra anidadora observada (Ver 
+las tortugas marinas. Anexo 1) 
+
+•	 Nombre de la playa de estudio.
+La toma veraz de los datos en el campo debe •	 Fecha.
+
+realizarse evitando al máximo el impacto o es- •	 Hora de primera observación.
+trés al animal. Para esto es necesario trabajar •	 Actividad de la tortuga.
+con rapidez, conocer las diferentes etapas del •	 Nombre del monitor u observador o respon-
+
+sable del dato. 
+desove y su factor de perturbación, de preferen- •	 Especie, se recomienda utilizar el nombre 
+cia usar luz roja y contar con personal capacitado científico empleando siglas (Dermochelys 
+y calificado. La figura 13 presenta un resumen coriacea = D.c.). 
+de las diferentes etapas del desove y su factor de •	 Ubicación (poste, mojón o referencia geográ-
+
+fica) y descripción de la zona de anidación 
+perturbación. (ej. zona entre mareas o entre vegetación).
+
+•	 Identificación de la tortuga (número de serie 
+Los datos mínimos que se deben registrar son de la marca, tipo de la misma y localización) 
+
+los siguientes: o señal de marcas previas en la tortuga (des-
+cripción).
+
+23
+
+
+
+ETAPAS DEL DESOVE:
+1.   Sale del mar 2.  Escarba el hueco 3. Construye la 4. Desova 5.  Cubre los huevos 6. El regreso al mar
+ para el cuerpo cámara de 
+La tortuga sale del mar La tortuga  reposa La hembra inicia su 
+y se dirige con (fosa corporal) incubación silenciosamente, con Con sus aletas traseras, regreso al mar ubicando 
+precaución hacia la sonidos o ronquidos la hembra cubre los la pendiente de la playa 
+playa, se detiene Con sus aletas delan- Con sus aletas traseras, periódicos y con huevos con arena y orientándose hacia las 
+frecuentemente para teras, la tortuga tira saca y tira arena hacia movimientos leves de húmeda, deteniéndose olas.
+descubrir señales de vigorosamente la arena adelante, pero no tan sus aletas traseras cada cierto tiempo a (5 a 10 minutos)
+peligro. hacia atrás. Así forma vigorosamente como en deposita en pequeños compactar la arena  
+(15 a 20 minutos) una fosa poco profunda la etapa anterior. La grupos los huevos. arriba de la nidada. 
+ para el cuerpo. parte trasera de su (20 a 30 minutos) Luego con sus aletas 
+
+(30 a 50 minutos) cuerpo sube y baja con  delanteras, tira arena 
+ el trabajo continuo de hacia atrás para cubrir y 
+
+sus aletas posteriores, camuflar el nido.
+delicadamente le da (30 a 60 minutos)
+forma y profundidad al  
+nido en su parte más 
+profunda.
+(15 a 25 minutos)
+ 
+
+FACTORES DE PERTURBACIÓN DE LA TORTUGA
+ 
+
+1.       Muy Alto: 2.       Muy Alto: 3. Alto-Moderado: 4. Bajo: 5. Moderado: 6.  Alto: 
+Cualquier acercamiento a  
+
+La menor luz o menos de 10 metros o Puede aproximarse Una vez que la tortuga La tortuga vuelve a ser No intercepte las tortugas 
+movimiento asustará a la cualquier  fuente de luz silenciosamente a la comienza a desovar es muy sensible a movimien- cuando van hacia el mar, 
+tortuga y regresará al mar. blanca asustará a la tortuga desde atrás. menos sensible a las tos y luz, así que se deles paso libre; tampoco 
+Si ve una tortuga, tortuga que regresará al Manténgase a una perturbaciones, motivo perturba su compor- intente ayudarles si 
+deténgase y agáchese mar. Existe el peligro de distancia aproximada de 3 por el cual se puede tamiento, cuando está encuentran obstáculos en 
+inmediatamente para tropezar con una tortuga metros de la tortuga. No la acercarse. El guía o líder cubriendo el nido. Respete la playa. En caso que 
+observarla. Si ella continua cuando esta se encuentre toque ni tampoco manejará la única luz roja las distancias. NO TOME observe este regreso al 
+subiendo hacia la playa, abajo en las irregulari- encienda luces. Espere por con la que se podrá FOTOS. mar de día es posible 
+espere hasta que pueda dades de la playa. Muévase lo menos  5 minutos desde observar el desove. Nadie tomar fotografías siempre 
+deslizarse detrás de ella sin con precaución y busque el momento en que ve a la puede proyectar la luz y cuando la legislación lo 
+ser visto. Manténgase las zonas de arena tortuga dejar de moverse hacia la cabeza de la permita.
+siempre detrás de la removida usualmente más para averiguar si está tortuga. NO TOME FOTOS.  
+tortuga. Pueden transcurrir obscura producto del desovando.  Si su objetivo 
+varios minutos hasta que la movimiento de la tortuga en la playa es la investi-  
+tortuga vuelva a moverse. o de su actividad de gación o monitoreo de la 
+NO TOME FOTOS. anidación. Recuerde anidación encienda una 
+
+mantenerse detrás de la pequeña luz roja y 
+tortuga. NO TOME FOTOS. enfóquela hacia el nido 
+
+para evaluar el proceso de 
+desove. NO TOME FOTOS.
+
+Adaptado de Salm y Salm (1991).
+
+Figura 13: Etapas del desove de la tortuga marina y su 
+factor de perturbación.
+
+24
+
+
+
+ETAPAS DEL DESOVE:
+1.   Sale del mar 2.  Escarba el hueco 3. Construye la 4. Desova 5.  Cubre los huevos 6. El regreso al mar •	 Neófita o remigrante (neófita: tor- Identificación de huellas y 
+ tuga sin marca o señal de marcado 
+
+para el cuerpo cámara de nidadas
+La tortuga sale del mar La tortuga  reposa La hembra inicia su previo. Remigrante: tortuga con 
+y se dirige con (fosa corporal) incubación silenciosamente, con Con sus aletas traseras, regreso al mar ubicando marca o señal de marca previa).
+precaución hacia la sonidos o ronquidos la hembra cubre los la pendiente de la playa •	 Medidas (ej. largo curvo del capara- La evaluación de huellas es una ta-
+playa, se detiene Con sus aletas delan- Con sus aletas traseras, periódicos y con huevos con arena y orientándose hacia las zón).
+frecuentemente para teras, la tortuga tira saca y tira arena hacia movimientos leves de húmeda, deteniéndose olas. •	 Hora de puesta. rea difícil y se pueden cometer erro-
+descubrir señales de vigorosamente la arena adelante, pero no tan sus aletas traseras cada cierto tiempo a (5 a 10 minutos) •	 Número total de huevos puestos res al diferenciar entre una especie y 
+peligro. hacia atrás. Así forma vigorosamente como en deposita en pequeños compactar la arena  (con yema). otra, al identificar anidaciones exito-
+(15 a 20 minutos) una fosa poco profunda la etapa anterior. La grupos los huevos. arriba de la nidada. •	 Observaciones, se refiere a aspectos 
+ para el cuerpo. parte trasera de su (20 a 30 minutos) Luego con sus aletas sas (aquellas que contienen una ni-
+
+(30 a 50 minutos) cuerpo sube y baja con  delanteras, tira arena morfológicos: cicatrices, deformida-
+des, parásitos, tumores y cualquier dada dentro del nido construido por 
+
+ el trabajo continuo de hacia atrás para cubrir y 
+la hembra) de aquellas que emergie-
+
+sus aletas posteriores, camuflar el nido. otro.
+delicadamente le da (30 a 60 minutos) ron y construyeron un nido sin haber 
+forma y profundidad al  Para cada censo de nidos (ver Anexo 1) desovado (sin nidada) o emergieron 
+nido en su parte más 
+profunda. pero no construyeron un nido (ras-
+
+•	 Nombre de playa de estudio. 
+(15 a 25 minutos) tro, media luna), así como al distin-
+
+•	 Fecha de muestreo.
+ •	 Hora de inicio y finalización del mo- guir entre huellas “frescas” o “vie-
+
+nitoreo. jas”. Los monitores deberán estar lo 
+•	 Nombre del monitor. suficientemente capacitados para 
+•	 Número total de nidos (incluyendo evaluar estas características y confir-
+
+las nidadas robadas y depredadas) 
+
+F mar las nidadas. 
+ACTORES DE PERTURBACIÓN DE LA TORTUGA por sector y especie.
+
+•	 Número de rastros sin nidos, por Aunque todas las huellas de tortu-
+ sector y especie.
+
+1.       Muy Alto: 2.       Muy Alto: 3. Alto-Moderado: 4. Bajo: 5. Moderado: 6. gas marinas tienen características 
+  Alto: •	 Comentarios u observaciones.
+
+Cualquier acercamiento a  similares, cada especie tiene ciertas 
+La menor luz o menos de 10 metros o Puede aproximarse Una vez que la tortuga La tortuga vuelve a ser No intercepte las tortugas características propias, tales como el 
+movimiento asustará a la cualquier  fuente de luz silenciosamente a la comienza a desovar es muy sensible a movimien- cuando van hacia el mar, Cada proyecto puede incluir sus propias 
+tortuga y regresará al mar. blanca asustará a la tortuga desde atrás. menos sensible a las tos y luz, así que se deles paso libre; tampoco ancho, profundidad de la cama (so-
+
+variables; sin embargo, deberá tener 
+Si ve una tortuga, tortuga que regresará al Manténgase a una perturbaciones, motivo perturba su compor- intente ayudarles si mera vs. profunda) y las huellas tie-
+deténgase y agáchese mar. Existe el peligro de distancia aproximada de 3 por el cual se puede tamiento, cuando está encuentran obstáculos en presente que para lograr una estanda-
+inmediatamente para tropezar con una tortuga metros de la tortuga. No la acercarse. El guía o líder cubriendo el nido. Respete la playa. En caso que nen patrones simétricos o asimétri-
+observarla. Si ella continua cuando esta se encuentre toque ni tampoco manejará la única luz roja rización de datos, se deberá considerar 
+
+las distancias. NO TOME observe este regreso al cos (ver Cuadros 1 al 5). Una huella 
+subiendo hacia la playa, abajo en las irregulari- encienda luces. Espere por con la que se podrá FOTOS. mar de día es posible las variables indicadas en los puntos an-
+espere hasta que pueda dades de la playa. Muévase lo menos  5 minutos desde observar el desove. Nadie tomar fotografías siempre simétrica se genera cuando las aletas 
+
+teriores, con el propósito de facilitar la 
+deslizarse detrás de ella sin con precaución y busque el momento en que ve a la puede proyectar la luz y cuando la legislación lo delanteras se articulan de manera 
+ser visto. Manténgase las zonas de arena tortuga dejar de moverse hacia la cabeza de la permita. elaboración de los informes y actualizar 
+siempre detrás de la removida usualmente más para averiguar si está tortuga. NO TOME FOTOS.  sincrónica al jalar las tortugas sobre 
+tortuga. Pueden transcurrir obscura producto del desovando.  Si su objetivo la base de datos del proyecto por parte 
+
+la superficie de la arena, ocasionan-
+varios minutos hasta que la movimiento de la tortuga en la playa es la investi-  del ente responsable.  
+tortuga vuelva a moverse. o de su actividad de gación o monitoreo de la do una huella donde las marcas de 
+NO TOME FOTOS. anidación. Recuerde anidación encienda una las aletas derecha e izquierda apa-
+
+mantenerse detrás de la pequeña luz roja y 
+tortuga. NO TOME FOTOS. enfóquela hacia el nido recen casi como imágenes reflejadas 
+
+para evaluar el proceso de una de la otra. Una huella asimétrica 
+desove. NO TOME FOTOS.
+
+se forma cuando las aletas delante-
+
+Adaptado de Salm y Salm (1991). ras se mueven de manera alterna-
+da al arrastrar a la tortuga (Fig. 14) 
+(Pritchard y Mortimer, 2000).
+
+25
+
+
+
+2,50 1,00
+1,50 1,20 1,50
+
+2,00 1,00 1,00 0,90 1,00
+
+D. coriacea C. mydas L. olivacea E. imbricata C. caretta
+
+Simétrica Asimétrica
+
+Figura 14. Tipos de rastros simétricos y asimétricos
+Aunque la única manera de determinar si un cualquiera de las señales siguientes: 1) un rastro 
+
+nido contiene (o contuvo) huevos es solo por ob- extensivo, muy poco o nada de perturbación en 
+servación o confirmación directa, existen varias la arena, sin cama ni excavación de nido, 2) ras-
+señales que ayudan a identificar una anidación tro en forma de U hasta la línea de marea alta, 
+exitosa. Siga el rastro donde emergió la tortu- 3) rastro muy evidente con formación de cama 
+ga del mar y busque las siguientes evidencias: 1) y nido, este último sin cubrir, 4) marcas en un 
+arena esparcida o tirada hacia atrás de la huella sitio donde la longitud relativa de las huellas 
+de salida, 2) cavidad, cama secundaria, excava- de emergencia y retorno son casi las mismas y 
+ción y arena dispersa alrededor y 3) arena hú- 5) gran perturbación en la arena, formación de 
+meda: la arena salpicada durante la construcción cama y excavación poco profunda de la cámara 
+de la cama y la que cubre al nido generalmente para huevos, colapsada o sin cubrir (Schroeder y 
+tienen un contenido de humedad más alto que Murphy, 2000). 
+la arena seca de la superficie. Si todavía surge duda para reconocer si el ras-
+Para identificar una salida sin anidación o ras- tro resultó o no en una puesta, la presencia o 
+
+tro, observe cuidadosamente la huella y busque ausencia de los huevos deberá ser verificada por 
+
+26
+
+
+
+una excavación manual. Se recomienda el uso de marca usada;  la técnica de aplicación, el tamaño 
+varilla o punzón solamente por personas experi- y la especie de tortuga; la localización geográfica 
+mentadas debido al potencial riesgo de destruc- y el carácter del ambiente marino; la habilidad y 
+ción de huevos. experiencia de la persona que aplica la marca; y 
+En el caso de nidadas depredadas, generalmente el número de marcas aplicadas a cada tortuga. 
+
+se caracterizarán por la presencia de cáscaras de 
+huevo o huevos dispersos parcialmente consumi- Aplicación de marcas metálicas
+dos. Durante el censo de nidos, deben contarse 
+los nidos depredados y las anidaciones exitosas, Las marcas metálicas siempre deben tener ta-
+pero registre a los depredados como tales. maños correspondientes con la especie; no se 
+
+deben aplicar marcas muy pequeñas a animales 
+
+Marcado de tortugas marinas que son grandes o que crecerán, debido a que 
+éstas provocarán estrangulamiento y necrosis 
+en el tejido, situación que además de lastimar 
+
+El marcado de tortugas marinas permite identi- al animal, llevará a la pérdida de la marca. Se 
+ficar individuos de una población, reconocer rutas 
+
+recomiendan las marcas Inconel, con un tama-
+migratorias y entender ciertos aspectos sobre su 
+
+ño de 2.0 cm a 4.2 cm (Pritchard et al. 1983), las 
+biología reproductiva (intervalos de remigración 
+
+cuales tienen la ventaja de ser rectangulares u 
+y frecuencia de puesta (o reanidación), tamaño y 
+tendencias poblacionales.  Además, ayuda a com- ovaladas, lo que evita que se peguen o enreden 
+
+parar factores de gran importancia en la toma de en alguna superficie.
+
+decisiones para su conservación y manejo, tanto El sitio recomendado para el marcado con mar-
+en el ámbito nacional como en el internacional. cas metálicas (monel o inconel) para todas las es-
+Para la aplicación de marcas se requiere contar pecies de tortugas marinas de la familia Chelonii-
+con un programa que asegure una excelente cali- dae es en la aleta anterior, proximal y adyacente 
+dad en la información, una nula pérdida de mar- a la primera escama grande del borde posterior 
+cas, un fuerte programa de recuperación de la de la aleta. Sin embargo, diferentes investigado-
+información de las recapturas, y que sea un pro- res y proyectos han logrado éxito utilizando si-
+grama de marcado a saturación. Las marcas más tios de marcado adicionales o alternativos, como 
+comunes utilizadas en la región son las fabrica- los ubicados entre la primera y segunda escama 
+das de metal, con una serie de letras o números grande de los bordes posteriores de las aletas an-
+únicos, las cuales son aplicadas externamente en 
+
+teriores, directamente sobre la primera, segunda 
+las aletas. Existen también marcas internas como 
+
+(ver Fig.15 B) o tercera escama, en las aletas tra-
+los microchips (transmisores pasivos integrados 
+
+seras, por lo cual es importante revisar toda la 
+–PIT, por sus siglas en inglés-), que algunas veces 
+se aplican adicionalmente o en lugar de las mar- tortuga antes de colocar una marca nueva. Para 
+
+cas externas. los especimenes de la familia Dermochelyidae, el 
+
+Según Balazs (2000), el grado de éxito del mar- sitio más recomendable es el pliegue proximal 
+
+cado en términos de retención de la marca y el del tejido más delgado entre la cola y las aletas 
+
+reconocimiento de las tortugas  puede ser alta- traseras (Fig. 15 A). 
+
+mente variable debido a múltiples factores, entre Para evaluar la tasa de pérdida de marcas, lo 
+
+los que se pueden incluir los siguientes: el tipo de mejor es utilizar el doble marcado o emplear 
+
+27
+
+
+
+B
+A Figura 15. A) 
+
+Colocación de 
+marcas más 
+recomendada 
+para Dermochelys 
+coriacea.
+B) Ejemplo 
+de colocación 
+de marcas en 
+miembros de la 
+familia Cheloniidae 
+(Barragán, 1998). 
+
+marcas PIT, además de marcas metálicas (las mar- alcohol o Vanodine1 antes de ser entregadas a los 
+cas PIT tienen índices de retención más altos que monitores, debido a que están impregnadas de 
+las metálicas). Sin embargo, es importante ano- un lubricante que puede ser un agente de infec-
+tar evidencias de la existencia de un marcado ción en el punto de aplicación (Eckert y Begge 
+anterior como cicatriz de marca (CM). Este pue- 2006). Antes de colocar las marcas en las tortugas, 
+de observarse en forma de huecos completos o tanto el sitio de aplicación como la marca deben 
+desgarrados, lo cual puede deberse a marcas mal ser limpiados profundamente con Vanodine. 
+puestas o a que el animal haya sufrido algún en-
+
+1	  Vanodine: Es un ioduro cuaternario de amplio espectro 
+ganche a causa de estas. (Fig. 16). desinfectante, usado para combatir hongos, bacterias u otros 
+
+microorganismos. Su acción antiséptica es mejor y más rápida que el 
+Las marcas metálicas deben de ser limpiadas con alcohol. Se degrada con la exposición a la luz.
+
+CICATRIZ DE MARCA TIPO CICATRIZ DE MARCA TIPO RASGADURA 
+HOYO  (huecos completos)– (desgarrados)–ESTE TIPO DE CICATRIZ SUELE 
+ESTE TIPO DE CICATRIZ SER DEJADA POR MARCAS METÁLICAS QUE 
+SUELE SER DEJADA POR QUEDAN APRETADAS Y NECROSAN EL TEJIDO, 
+MARCAS MAL CERRADAS O, QUE SE ROMPLE, Y LA MARCA TERMINA POR 
+BIEN, POR ROTOMARCAS O CAERSE. 
+MARCAS PLÁSTICAS.
+
+Figura 16. Cicatrices que se consideran como posible evidencia de marcado previo en la 
+tortuga Dermochelys coriacea.  (Barragán, 1998).
+
+28
+
+
+
+Procedimiento para aplicar marcas externas Aplicación de Microchips (marcas 
+•	 Antes de marcar a la hembra, buscar eviden- PIT -transmisores pasivos 
+
+cias de marcado previo, tanto en aletas de- integrados-) 
+lanteras como traseras; luego anotar infor-
+mación en una hoja de datos.  
+
+La marca PIT es una cápsula de vidrio de 10 mm 
+•	 Si la tortuga no tiene marcas o tiene una sola, 
+
+debe ser marcada solamente cuando esté cu- de largo por 2 mm de diámetro.  Esta marca es 
+briendo el nido después de anidar (nota: una un dispositivo electromagnético con un chip inte-
+tortuga sólo debe portar un par de marcas grado que posee un único número, el cual es in-
+externas como máximo). yectado subcutáneamente o intramuscularmen-
+
+•	 Antes de colocar las marcas en las tortugas, te. Este tipo de marca presenta una retención de 
+tanto la marca como el sitio de aplicación casi un 100% (Mc Donald y Dutton, 1994).  
+deben ser limpiados profundamente con Va- Para que el microchip sea leído se requiere de 
+nodine. un lector o escáner. Los PITs tienen la ventaja de 
+
+•	 Se colocará la marca con el número menor en estar protegidos por un cristal y ligados al tejido 
+la izquierda y el mayor en la derecha (haga de la tortuga, razón por la cual la marca no se 
+las adaptaciones del caso si anteriormente desgasta, corroe o pierde, proporcionando una 
+esto no se ejecutó de esa manera). retención más confiable para la identificación de 
+
+•	 Las marcas deben tener una distancia de 0.5 los individuos por muchos años. Tampoco afecta 
+– 1 cm entre el borde de la piel y el borde a las tortugas como puede ocurrir con las marcas 
+de la marca, de modo que pueda haber mo- externas, que son más propensas al desgaste y 
+vimiento sin causar fricción. Con una distan-
+cia menor a 0.5 cm, la fricción puede causar pérdida por necrosis o desgarre.
+infecciones; posteriormente, necrosis y final- La desventaja del uso de PITs es su alto costo, 
+mente, la pérdida de la marca. Una distancia así como del equipo requerido. Cada PIT cuesta 
+mayor a 1 cm aumenta la probabilidad de entre $4 y $10 y el lector tiene un costo de $300 
+que algo se enganche en ella. a $1250 cada uno. Por lo tanto, muchas playas 
+
+•	 Las marcas deberán ser leídas y dictadas tres de anidación importantes no cuentan con esta 
+veces y anotadas en el registro. tecnología y por tratarse de una marca interna, 
+
+•	 Las marcas deberán ser leídas por detrás para es imposible reconocer una tortuga marcada an-
+anotar la dirección. teriormente de no contarse con el respectivo lec-
+
+•	 Todas las marcas que estén colgando en la tor. Otra gran desventaja es que existen diversas 
+
+piel a punto de caerse deberán ser reempla- marcas de pits y lectores. No todas las marcas de 
+zadas y se deberá anotar la información per- lectores leen todas las marcas de PIT, por lo que 
+tinente. en un programa de marcado regional se debe de 
+
+•	 En caso de que remueva o cambie una pla- acordar la marca por utilizar en toda la región 
+ca, es importante registrar el evento, justifi- geográfica.
+cando la causa y reportando el número de la 
+marca cambiada. Indicar el número del reem-
+plazo y  la fecha. Esto, para saber que se trata 
+del mismo animal.
+
+29
+
+
+
+A B C
+
+Figura 17. A. Revisión de la presencia del PIT en el hombro derecho de una tortuga 
+Dermochelys coriacea. B. Sitio de aplicación de la marca PIT en D.c. (McDonald & Dutton, 
+1994)  C. Aplicación de marca en la familia Cheloniidae (Foto: Matthew Godfrey)
+Procedimientos para aplicar microchips registro, además de cualquier calcomanía o 
+(marcas PIT) información dada por la compañía.
+
+•	 Nunca se aplica el PIT cuando ya terminó la 
+•	 Cuando la tortuga está excavando el nido, puesta y la tortuga ya se encuentra en movi-
+
+se revisa con el lector cuidosamente un área miento.
+poco amplia en ambos hombros de la tortuga •	 Los riesgos de hacer daño a la tortuga o a la 
+para ver si ya tiene una marca interna (PIT) persona misma (ej. quebrando la aguja dentro 
+(Fig. 17 A). del espécimen o incrustándola en la persona), 
+
+•	 Si no tiene un PIT, se debe aplicar en el hom- son altos al hacerlo fuera del lapso correcto.
+bro derecho (Fig. 17 B). Solamente hay que •	 Los números de los PITs instalados deben re-
+aplicar una marca a cada tortuga.  portarse en los informes de cada temporada 
+
+•	 Antes de inyectar a la tortuga, el sitio de apli- que se presentan a las entidades correspon-
+cación debe ser limpiado con Vanodine y se dientes. 
+aplica la marca utilizando una pistola o jerin- •	 La batería del escáner debe de estar siempre 
+ga estéril. bien cargada para evitar que los PITs no sean 
+
+•	 Para la Familia Dermochelyidae se introduce leído por falta de energía.
+la jeringa cuando la tortuga está desovando. 
+Se espera que la tortuga inhale y muestre el Medición de las tortugas marinas
+complejo de los músculos tríceps para sentir-
+los e inyectar la marca en esa zona. La jeringa 
+se introduce hasta el fondo, de manera per- Existen diversos tipos de medidas que se pue-
+pendicular al hombro, y se presiona el émbolo den registrar de las tortugas marinas y los da-
+hasta el fondo para que el PIT salga y quede tos que se toman dependen de los objetivos de 
+entre el músculo del animal (aplicación intra- cada proyecto. Se debe tomar como mínimo dos 
+muscular). medidas del caparazón: largo y ancho, utilizan-
+
+•	 En el caso de las especies de la Familia Che- do el sistema métrico. Se recomienda que todas 
+loniidae, se espera el mismo momento pero las medidas realizadas sean en curvo (con una 
+la marca se introduce en la aleta frontal (iz- cinta métrica flexible2) aunque se puedan rea-
+quierda) en posición horizontal (Fig. 17 C). lizar en recto (con calibrador3). Siempre deben 
+
+•	 Después de la aplicación, puede mantener 
+presión con un algodón con Vanodine en el 2	  Recuerde que las cintas métricas son fabricadas de fibra de vidrio 
+
+caso de que esté sangrando. y tienden a estirarse con el uso. Verifique su longitud anualmente y 
+deseche las que muestran daños o inexactitud.
+
+•	 Luego la marca deberá ser leída con el lector, 3	  Debe revisar el calibrador con cierta frecuencia. Este puede aflojarse 
+y ocasionar que alguno de los extremos pierdan su posición correcta 
+
+dictada tres veces y anotada en el formato de (totalmente perpendicular al eje horizontal o bazo largo).
+
+30
+
+
+
+usarse instrumentos calibrados, ya que la medi- esté rota o incompleta, y esta puede modificar 
+da es milimétrica. Para mejorar la precisión de el resultado de la medida, es necesario anotarlo. 
+las mediciones y luego reportar sobre ellas, cada Las medidas curvas se hacen por un lado de la 
+medición debe hacerse tres veces y registrarse. quilla central. El largo curvo no se mide sobre la 
+El momento recomendado para medir las tortu- cresta de la quilla debido a las irregularidades de 
+gas es justo cuando está desovando, ya que no esta y a lo difícil que es mantener la cinta métrica 
+se mueve. sobre la quilla. El extremo de la cinta métrica se 
+Largo estándar: en las tortugas de la familia debe sujetar fuertemente en la unión de la piel 
+
+Cheloniidae, se recomienda registrar el largo cur- con el caparazón a la altura de la quilla central, 
+vo del caparazón -nucal-supracaudal- (LCCn-s) y la cinta se debe tensar hasta la proyección cau-
+(utiliza la cinta métrica flexible). Este se obtiene dal, permitiendo que la cinta siga una posición 
+midiendo desde el punto medio anterior (escudo “natural” a lo largo de la quilla (Bolten, 2000). 
+nucal) al extremo de los escudos supracaudales Ancho del caparazón: se recomienda registrar 
+(Fig. 18). Cuando los extremos de los escudos su- el ancho curvo del caparazón (ACC), utilizando la 
+pracaudales no son simétricos, por consistencia cinta métrica flexible. No hay referencia anató-
+se debe usar las supracaudales que den la mayor mica para esta medida, sino que es el punto más 
+longitud (Bolten, 2000). Si existen epibiontes o amplio del caparazón (Fig. 20). En el caso de la 
+los caparazones están incompletos, es necesario Dermochelys coriacea, se puede medir el punto 
+anotarlo en la hoja de datos. más amplio donde inician las quillas laterales (la 
+Para la familia Dermochelyidae se debe regis- 1ra y la 7ª, respectivamente).
+
+trar el largo curvo del caparazón (LCC). Este se Además de la medición, existen otros datos bio-
+obtiene a partir de la muesca nucal (borde ante- métricos de interés científico, tales como el peso 
+rior del caparazón en la parte media) al extremo de las hembras y el tamaño o peso de huevos y 
+posterior de la proyección caudal (Fig. 19). Si la neonatos. Cada proyecto debe seleccionar y usar 
+proyección caudal es asimétrica, por consisten- consistentemente los métodos apropiados, según 
+cia las mediciones se deben hacer hasta el punto el estudio, y definir claramente las especificacio-
+más largo. En el caso de que la proyección caudal nes para cualquier medida que se utilice. 
+
+Figura 18. LCCn-s 
+(largo del caparazón 
+nucal- supracaudal).  
+Bolten, 2000.
+
+Figura 19. Largo 
+del caparazón de la 
+
+tortuga Dermochelys 
+coriácea (Bolten, 
+
+2000 Figura 20. Ancho curvo del caparazón (ACC)
+
+31
+
+
+
+Protección de las nidadas
+
+Las hembras regresan al mar una vez que han protecciones sobre el nido o la playa, o reubicar 
+desovado;  los huevos y futuras crías se quedan la nidada a un sitio más seguro de la playa o a un 
+sin cuidados maternos. En esta etapa de la vida vivero. Sin embargo, la mejor opción es la que 
+están expuestos a muchas amenazas tales como implica la menor manipulación de las nidadas; 
+la recolección ilegal de huevos,  la depredación la recolección y el trasplante de huevos debe 
+por animales salvajes o introducidos, la erosión ser siempre la última elección. A continuación, 
+de la playa y el paso de vehículos, entre otros. se describirán los criterios que se debe tener en 
+Aunado a esto, los desarrollos costeros con ilumi- cuenta para reubicar una nidada (Fig. 21), iden-
+nación artificial o actividades recreativas pueden tificar nidadas de alto riesgo y emplear técnicas 
+tener un efecto negativo en la sobrevivencia de para trasladarlas a sitios seguros en la playa o al 
+huevos y crías. Es por esta razón que los proyec- vivero, así como protegerlas de depredadores. El 
+tos de manejo y conservación de tortugas mari- vivero siempre es el último recurso utilizado en 
+nas aplican técnicas especialmente desarrolladas los casos donde la protección in situ o reubica-
+para reducir estas amenazas, como intensificar ción en la playa sea imposible.
+la vigilancia, borrar las huellas y el nido, utilizar 
+
+Situación de la nidada Destino (uso) final de la nidada
+
+Sitio seguro Nidada incubándose en condición natural 
+(In situ).
+
+Alto1 Nidada reubicada a vivero.
+NIDADA
+
+Sitio inseguro Mediano2 Nidada  reubicada a  vivero o a otro sitio 
+de la playa.
+
+Somero3 Nidada  reubicada a otro sitio de la playa  
+o nido camuflado.
+
+1.	 Alta probabilidad de perderse por situaciones antrópicas o naturales, tales como depredación, erosión, inunda-
+ción o sobrecalentamiento.
+
+2.	 Probabilidad media de que el nido sea destruido, situado a distancias cortas de desembocaduras de ríos, márge-
+nes de lagunas, sitios de alta visitación, contaminación sónica y lumínica, accesos vehiculares, exposición solar y 
+otras situaciones que puedan provocar la pérdida del nido en por lo menos el 50%.
+
+3.	 Baja probabilidad (30% o menos) de que sean destruidos por la marea, escorrentía, oleaje, apelmazamiento de 
+la arena y otras razones tanto naturales como antrópicas.
+
+Figura 21. Criterios que se debe tener en cuenta para reubicar un nido.
+
+32
+
+
+
+Reubicación de nidadas en la playa de los operadores, según los antecedentes de la 
+playa, aspecto que debe estar claramente defi-
+nido en el plan de manejo y autorizado por el 
+
+Las nidadas depositadas en las áreas de alto Estado.  
+riesgo de erosión (la erosión es muy alta y pre-
+decible) o aquellas que se encuentran muy cerca 
+del mar (están en riesgo de inundación) se pue- Reubicación de nidadas a un vivero o 
+den reubicar en zonas de la playa más estables corral
+y seguras. Las lluvias extremas pueden causar 
+una elevación del nivel freático y la consecuente Un vivero (o corral) es un área delimitada de 
+inundación del nido. La reubicación del nido a la playa para reubicar nidadas que son recolec-
+zonas más altas de la playa puede mitigar esta tadas en la misma y que están bajo un sistema 
+amenaza. En el caso de alta probabilidad de de manejo tipo zoocriadero. Allí se incuban los 
+saqueo de huevos, se pueden reubicar en otro huevos de las tortugas marinas y luego se liberan 
+sitio, incluso muy cerca del nido original, fuera tortuguitas (recién nacidas) al mar, con la finali-
+del área de la huella y la cama. En cuanto a las dad de lograr una mejor probabilidad de super-
+nidadas en riesgo de ser depredadas, no tienen vivencia. El porcentaje de eclosión en el vivero al 
+que ser reubicadas necesariamente, sino que se trasladar las nidadas de alto riesgo, debe garan-
+puede colocar una malla de alambre tratado o tizar un porcentaje similar o mejor al obtenido 
+plástico por debajo de la superficie de la arena en condiciones naturales. 
+o formar una jaula sobre el nido para impedir su 
+excavación.  En el caso de que alguna tortuga El tamaño del vivero deberá estar en relación 
+marina durante la construcción de su nido saque directa con la cantidad de nidadas depositadas 
+huevos de un nido anterior, se recomienda to- por las diferentes especies durante la temporada. 
+marlos, seguir el procedimiento para huevos con Se debe calcular un área suficiente que respete 
+horas de desovados y reubicarlos en un nuevo la densidad no menor a 1 nido/m2 y que pueda 
+nido. Los sitios escogidos para reubicar nidadas almacenar el total de nidadas que se requiera 
+no deben estar cerca de las raíces de las plantas proteger (este total debe quedar a juicio de los 
+rastreras de la playa, sitios que presentan basura operadores, según los antecedentes de la playa, 
+de deriva (madera o plástico), o cerca de las des- aspecto que debe estar claramente definido en 
+embocaduras de los cauces de ríos permanentes el plan de manejo y autorizado por el Estado). 
+o temporales, entre otros.  Es importante resal-
+tar que para la especie D. coriacea, se recomien-
+
+Procedimiento para recolectar y reubicar 
+da un manejo más cuidadoso de las nidadas.
+
+huevos
+Dependiendo de los riesgos para las nidadas Cuando recolecte los huevos directamente de la 
+
+en cada playa, se puede establecer la práctica de tortuga hay que respectar las siguientes normas 
+reubicación como algo rutinario o no, pero de- de comportamiento para no alterar la anida-
+
+ción: 
+berá ser el último método seleccionado y que se 
+haya determinado como el mejor para eliminar a.	 Usar ropa oscura y observar la anidación en 
+los riesgos en la playa. Esto debe quedar a juicio silencio.
+
+33
+
+
+
+b.	 No permitir luz blanca, solo luz roja o infra- e.	 La boca de la bolsa debe estar abierta alre-
+rroja (focos, linternas, cámaras4, etc). dedor de la cloaca de la hembra para reco-
+
+c.	 Permanecer a una distancia prudente en la ger los huevos. Con este mecanismo, nunca 
+parte trasera de la tortuga. los huevos tocarán la arena, el mucus que los 
+
+d.	 Promover la circulación de personas en la acompaña los ayuda a mantener la hume-
+parte baja de la playa (zona entre mareas). dad de la nidada. Cuando la hembra inicia 
+
+e.	 Prohibir las fogatas o cualquier otra fuente los movimientos de cubrimiento del nido, es 
+de humo y calor, así como el fumado entre tiempo de sacar la bolsa. Hay que hacerlo con 
+los observadores de las hembras y la anida- rapidez y con cuidado para que no se rompa 
+ción. o se quede atrapada. Revise el nido con la 
+
+f.	 No aceptar y desestimular la manipulación de mano para sacar cualquier huevo que haya 
+huevos y tortuguitas por parte de visitantes quedado dentro.
+y/o personas sin experiencia para hacerlo. f.	 Si es imposible sacar la bolsa, proceda rápida-
+
+g.	 No promover el contacto físico con las tortu- mente a cerrarla y amarrarla con una cinta, 
+gas. mecate o piola lo suficientemente larga, para 
+
+h.	 Desestimular el uso de repelentes, perfumes que quede expuesta en la superficie mientras 
+y sustancias similares. la tortuga cubre y camufla el nido; de esta 
+
+forma, se marca la posición exacta del nido, 
+Para recolectar los huevos desde un nido natural siempre sujetando el otro extremo de la cin-
+y reubicarlos en uno artificial, se debe proceder ta con la mano o con una estaca.
+como sigue: g.	 Cuando la hembra se mueva hacia otro sitio 
+
+de la playa, proceda a escarbar y sacar la bol-
+a.	 Medir la profundidad y ancho del nido natu- sa cuidadosamente; nunca deje los huevos 
+
+ral para aplicar luego en la construcción del dentro de las bolsas en de los nidos. 
+nido artificial; si es imposible, usar los valo- h.	 En el caso de que llegue después de que la 
+res promedio del nido 
+natural para la especie Bolsas de recolección: estas bolsas no son bolsas para basura 
+respectiva. ni podrán tener impregnado ninguna clase de químico o 
+
+b.	 Siempre usar guantes de aromatizante. Después de usarse pueden ser recicladas 
+látex (se usan una sola lavándolas con agua y cloro y enjuagándolas para luego 
+vez) cuando se manipule ponerlas en una solución de cloro (1:1000) por  6 horas en la 
+los huevos. oscuridad (el cloro se degrada en presencia de luz directa). 
+
+c.	 Si la tortuga no ha em- Luego se les debe dar un enjuague abundante y ser  secadas 
+pezado a desovar, co- en un medio donde las moscas y otros insectos no tengan 
+locar una bolsa dentro contacto con ellas. Otro químico que puede ser usado para 
+del nido en el momento desinfectarlas es el Vanodine.
+en que la tortuga da se-
+ñales de estar lista para 
+desovar. Colocar la bol- tortuga empieza a poner y no puede reco-
+sa cuidadosamente justo por debajo de la lectar los huevos con bolsa ni con la mano, 
+cloaca para permitir que los huevos caigan marque con una cinta que sujetará del otro 
+directamente en ella. Para esto se debe sacar extremo el lugar exacto donde la tortuga 
+suficiente arena de la boca del nido (parte está ovipositando, hasta que la tortuga ter-
+trasera) para que la bolsa tenga un espacio mine el proceso. Luego retire los  huevos y 
+suficiente para salir al final de la postura. deposítelos en una bolsa.  
+
+d.	 Si no se puede aplicar este método, se puede i.	 Siempre mantenga la boca de la bolsa cerra-
+recoger los huevos con la mano antes de que da hasta que se inicie la reubicación, preferi-
+caigan al nido5 utilizando guantes.
+
+cámara de incubación mientras la tortuga desova e incluso tomarlos 
+4	  Recuerde que en muchos países se requiere un permiso para filmar o de un nido recientemente cubierto por la hembra. Debe tomarse 
+
+tomar fotografías, especialmente en áreas protegidas. las previsiones para no molestar a la hembra o causarles daño a los 
+5	  De acuerdo con la situación, es aceptable sacar los huevos de la huevos. 
+
+34
+
+
+
+blemente en un radio no menor de 200 me- del nido, especialmente en playas con pro-
+tros alrededor del nido. El transporte de los blemas de saqueo ilegal. En ningún momen-
+huevos debe ser extremadamente cuidadoso. to use luz. 
+La distancia entre el sitio de anidación y el si- m.	 Los huevos deben reubicarse en el transcurso 
+tio de reubicación en la playa o el vivero es de 0-5 horas después de haber sido desova-
+determinante para el éxito de eclosión6. dos. Después de 5 horas, el movimiento del 
+
+j.	 El hueco para resembrar los huevos debe te- huevo es el principal enemigo para la sobre-
+ner la forma correcta, con la profundidad y vivencia del embrión, debido a que se pueden 
+el ancho respectivos (ver Fig. 22). Solamen- romper las membranas internas y matarlo. 
+te construya el hueco en el momento de la n.	 Es importante llevar la nidada completa. Al 
+llegada de los huevos y no antes para evitar, ir incubándose todos generan calor, lo que 
+entre otras cosas, desecación, insectos y con- induce a un microambiente particularmen-
+taminación. Una vez construido, se procede a te cómodo y adecuado para los embriones. 
+dejar los huevos en el orden en que los puso Este medio no existe si lo que se tiene son 
+la tortuga. Por eso, se coloca la bolsa un poco fracciones del nido. El juntar fracciones de ni-
+inclinada sobre la playa y se sacan los hue- dos diferentes tampoco es la mejor decisión 
+vos con la mano muy cuidosamente de abajo debido a que el carácter diferente de cada 
+hacia arriba, y luego se colocan poco a poco uno puede implicar huevos contaminados. 
+en el hueco. Nunca permita el contacto de la Tampoco deben juntarse huevos de especies 
+arena seca con los huevos. Hay que contar los diferentes, ya que cada una tiene sus propios 
+huevos y apuntar los datos necesarios en la tiempos de incubación, lo que puede ser un 
+hoja de datos (Ver anexo 1). problema para la otra especie e implicar pro-
+
+k.	 El nido se cubre con la misma arena húmeda blemas de manejo. 
+que se sacó en el momento de construir el En casos donde se reciban huevos que tienen 
+nido. Todo el procedimiento de colocación 
+
+más de 5 horas de haber sido recolectados o se 
+de huevos debe hacerlo invariablemente con 
+el uso de guantes de látex. presenta la necesidad de mover una nidada con 
+
+l.	 Se debe borrar toda evidencia de remoción varias horas o hasta varios semanas de estar en la 
+de arena o señales que indiquen la posición playa (por ejemplo, una amenazada por la ero-
+
+6	 Cuanta más distancia, el riesgo de “batido” de los huevos aumenta, sión), es vital que los huevos no se giren, batan o 
+además de que el enfriamiento de los mismos progresa al pasar 
+el tiempo, aun cuando se puedan transportar en contenedores roten verticalmente. Siga este procedimiento: 1) 
+térmicos, situación que repercute en el aumento de la mortalidad de marque la parte superior del huevo con un lápiz 
+los huevos.
+
+Lora (40-45 cm)
+Carey (45-55 cm)
+
+Verde, negra 
+y cabezona (50-60 cm)
+
+Baula (65-70 cm)
+
+Figura 22. Formas y profundidades de los nidos de las distintas especies, distancia entre la 
+superficie media de la arena y una profundidad promedio.
+
+35
+
+
+
+(no use marcadores o algún elemento que libe-
+“capucha o camisa”
+
+re químicos o solventes); 2) mantenga la marca de cedazo fino
+
+siempre hacia arriba. No gire verticalmente el 
+huevo; 3) transfiera el huevo a un recipiente Cilindro de 
+
+cedazo
+duro como una cubeta. Nunca utilice bolsas plás-
+ticas o sacos en estos casos; 4) en el momento 
+de colocar los huevos en el nido, hágalo siempre 
+manteniendo la marca del lápiz hacia arriba; 5) 
+hágalo rapidísimo; y 6) que no le de la luz del 
+sol a los huevos. También es importante anotar 
+información sobre la procedencia de estos, el 
+manejo previo y posterior y riesgos de infección. Figura 23. Defensa 
+
+Cámara de 
+En el último caso, cuando se reciben huevos de que se le da a los incubación en 
+
+una procedencia y manipulación dudosa, es im- nidos para evitar el nido
+
+perativo hacer la advertencia que de ponerse en la depredación por 
+insectos y otros 
+
+el vivero, estos podrían propagar infecciones por 
+animales.
+
+bacterias y hongos. Los huevos muertos son foco 
+de atracción de depredadores, por esto se reco- eclosionadas. Un mejor sistema de “anclajes” 
+mienda tener la certeza del manejo o capacitar a ayudará a detener perros, gatos y algunos ma-
+los recolectores para reducir estos riesgos.  míferos silvestres, de manera que la canasta no 
+
+podrá ser volcada o movida del lugar. En algunas 
+playas se rocía pimienta sobre el nido durante 
+
+Protección de los huevos contra la primera noche para desalentar la depredación 
+depredadores por perros. 
+
+ Existen mecanismos para proteger a los hue- Otro nivel de defensa es un forro externo de ce-
+vos amenazados por depredadores, que se pue- dazo fino o antiáfido  (plástico o fibra de vidrio) 
+den aplicar en la playa o el vivero. Lo más común de malla de 0,5 mm o menos. Se coloca alrede-
+es un cilindro (canasta) de cedazo galvanizado dor del cilindro y su función principal es dete-
+(de 0,5 cm x 0,5 cm) con un diámetro que va ner el ingreso de moscas saprófagas que se sabe 
+entre 60-70 cm y una altura de 50 a 60 cm. Se atacan los nidos en sus primeros días dentro de 
+coloca la malla directamente sobre el nido y se la arena, atraídas por el mucus, o en sus últimos 
+entierra unos 10 cm dentro de la arena. Debido días, al salir el líquido neonatal de los huevos. 
+a que las crías quedan atrapadas al emerger, este Este mecanismo puede también detener a cierto 
+tipo de protección requiere vigilancia las 24 ho- tipo de hormigas, coleópteros, ácaros y cucara-
+ras cuando se acerca la fecha de nacer. Se puede chas, entre otros insectos (Fig. 23). Para controlar 
+tapar este cilindro para detener el ataque de pe- la depredación de cangrejos, se puede usar un 
+queños mamíferos y aves. Si se utiliza malla an- cilindro alto con tapa en la parte inferior, que se 
+tiáfida, y ésta se entierra en la arena, cubriendo entierra en la arena hasta 80 cm. También puede 
+totalmente el cilindro, también se evita el paso usar malla doble y más fina detrás de la ciclónica 
+de la mosca, cuyas larvas atacan a las crías recién para detener espacialmente a los artrópodos.
+
+36
+
+
+
+Construcción y operación del vivero o corral
+
+Existen varios modelos de viveros (abiertos, se- El modelo de vivero más común es el vivero ce-
+mi-cerrados o cerrados) y estos responden a con- rrado (sin techo), donde se usan defensas en los 
+diciones particulares que existen en la playa. To- cuatro costados para impedir el ingreso de hu-
+dos los viveros deben ser estructuras temporales, manos y animales. Se requiere de vigilancia las 
+nunca construidos de ladrillo o muros de concre- 24 horas, no sólo para persuadir a los depreda-
+to, debido a que hay que cambiar la ubicación dores y visitantes indeseados, sino también para 
+de los mismos cada temporada. La defensa o liberar a las crías. La altura de las defensas no 
+paredes del vivero deben permitir la circulación debe ser menor a 1.2 m sobre la superficie de la 
+de aire y la caída libre de la lluvia. No construya arena y deben estar al menos a 30 cm por debajo 
+con un techo sólido o parcialmente cubierto sin de la arena.  Un material común para la estructu-
+tener las pruebas científicas de que se necesita ra de este tipo de vivero es la madera de deriva o 
+sombra. bambú y para las defensas, malla, sarán, cedazo 
+
+Si la playa es larga y la anidación se distribuye o malla ciclón. Todos, de material galvanizado, 
+en toda su longitud, se evalúa la posibilidad de madera o aluminio que impida su corrosión en 
+construir uno o más viveros. Los viveros solamen- el corto plazo (Fig. 24). El vivero debe tener una 
+te estarán en operación hasta el último día de barrera de sacos de al menos 50 cm de altura so-
+la temporada establecida por cada proyecto, de bre la superficie de la arena; esto, con la finali-
+manera que la última nidada eclosiona antes de dad de protegerlo del oleaje y las mareas. 
+terminar sus actividades. 
+
+Figura 24. Diagrama de un vivero 
+cerrado (sin techo)
+
+37
+
+
+
+Selección del sitio áreas industriales propensas a liberar desechos 
+
+Todas las especies de tortugas marinas seleccio- al mar; zonas altamente iluminadas; áreas alta-
+
+nan un sitio particular de la playa para anidar, lo mente transitadas; áreas propensas a la erosión 
+
+cual generalmente no está al alcance de las altas o construcciones con sistemas sépticos. La distan-
+
+mareas, las raíces de la vegetación o la erosión cia mínima sugerida debe ser de 200 metros si 
+
+de los ríos (Fig. 25).  El  vivero debe colocarse en el potencial impacto es indirecto o más de 500 
+
+una zona con estas características. También, el si- metros, si el impacto es directo.
+
+tio seleccionado debe  reducir las distancias y los 
+tiempos de reubicación, disminuyendo el riesgo Tratamiento de la arena
+de pérdida e incrementando el porcentaje de 
+éxito en la incubación de los huevos. Así, la selec- Cuando las crías abren la cáscara del huevo, el 
+ción del sitio necesitará del estudio concienzudo líquido amniótico se derrama en la arena. Este 
+de la distribución espacial de los nidos. Para ello fluido es un medio excelente de cultivo para el 
+debe contarse con una base de antecedentes de desarrollo de microorganismos como hongos y 
+la playa, como por ejemplo el comportamiento bacterias, además de un medio atracción de in-
+de mareas, la dinámica de las desembocaduras y vertebrados como moscas saprófagas, hormigas 
+drenajes naturales, el impacto de la erosión y las y cucarachas (Gautreau, 2007). Aun cuando to-
+distribuciones de anidación pasadas durante las das las cáscaras sean retiradas, los fluidos se fil-
+lluvias. Nunca la selección del sitio debe respon- tran a través de la arena quedando impregnados 
+der a las facilidades de los operarios respecto a la dentro del área de trabajo del vivero. Por esta 
+vigilancia o a lo cercano de los servicios básicos. razón, no es recomendable usar el mismo sitio 
+El vivero es una herramienta para apoyar la pro- continuamente debido a la pérdida de la calidad 
+tección de los huevos, mejorando sus posibilida-
+
+sanitaria de la arena. Todo vivero debe usar un 
+des de sobrevivencia y no para dar solución a las 
+
+sitio diferente en cada temporada; solo se regre-
+limitaciones logísticas de quienes lo operan. Los 
+
+sa al mismo lugar en un tiempo no inferior a dos 
+Estados no deben apoyar la creación de viveros 
+
+años.  Aunque la recomendación del manual es 
+cuyo objetivo sea solamente recolectar el 100% 
+
+no crear viveros fijos, en los casos donde existen 
+de las nidadas.
+
+Los sitios que no deben ser escogidos para la limitaciones realmente insalvables (ausencia de 
+
+ubicación de viveros son: los cercanos a cana- más de un sitio apto para construcción y alta 
+
+les, mareas, desembocadura de ríos y lagunas; erosión, entre otros) y el vivero no puede ser ro-
+tado, se debe tratar la arena antes de empezar 
+la temporada. En este caso, Chacón y Machado 
+
+Grafica 07: Vea las figuras que le 
+a(d2jun0to0 la6s s)ig larse quceo apmarecieen ndan el cambio de la arena cada 
+son los
+nombres científicos de las espe-
+
+Cm, Ei cdiesoCms  (Caheñlonoiasm ycdaos-vner dte)r, atamiento cada año después de 
+Ei
+
+Lo, Cc (lEaret mtoechmelyspimobrricaatad-caare;y ), se trae la arena de la misma zona 
+Dc (Dermochelys coriacea-baula), 
+
+Dc Leo cológica donde anida naturalmente la especie, 
+(Lepidochelys olivacea- Lora), Cc 
+(sCaere ttta acamrettai,z caagu ahmaa).sta un metro, se aplica cloro de no-
+che por dos días, se expone al sol durante una 
+semana haciendo al menos tres revuelcos totales 
+
+Figura 25. Esquema genérico y no estricto y se aplica una prueba de Ph para asegurar la 
+de los sitios de anidación seleccionados por desaparición del cloro.
+las diferentes especies de tortugas marinas.
+
+38
+
+
+
+Matriz de Ordenamiento y no se provoquen cambios de temperatura en los 
+
+Densidad de Nidos nidos “vecinos”. De ser posible en cuanto a espa-
+cio, se recomienda que después de cada dos filas 
+de nidos, se deje una fila “vacía” (sin nidadas) 
+
+El metodo más comun para ordernar los nidos 
+para que sirva de pasaje (Fig. 27 A y B). 
+
+en el vivero es el método de matriz (columnas y 
+Todos los nidos comenzarán a ser colocados 
+
+líneas). Estas se construyen sobre el piso del vive-
+desde la primera fila hacia atrás; los nidos de tor-
+
+ro con cuerda o mecate preferiblemente de color 
+tuga carey y verde deberán ser colocados en la 
+
+claro y plástico resistente a la luz. Cada línea de 
+línea trasera del vivero, más cerca de la vegeta-
+
+cuerda se extiende en espacios de 50 cm, mien-
+ción; esto, porque dicha zona presenta las con-
+
+tras que cada columna se cruza sobre las líneas 
+diciones más cercanas a las naturales para esas 
+
+dejando la misma distancia. Al final lo que se ob-
+especies. Además, se pone un cilindro sobre cada 
+
+serva es un cuadriculado con espacios disponibles 
+nido como se ha establecido en la sección de pro-
+
+para los nidos (Fig. 26). A las líneas se les coloca 
+tección de nidos de depredadores. Esto no so-
+
+una letra mientras que a las columnas, un núme-
+lamente los protege de depredadores, sino que 
+
+ro o  viceversa, de modo que cada espacio tenga 
+también facilita la recolección de los tortuguillos 
+
+un código constituido por la combinación de una 
+al nacer, lo que permite llevar orden en el vivero 
+
+letra con un número. Al asignársele un código a 
+y hacer un cálculo exacto del porcentaje de eclo-
+
+cada nido, este se copia en el libro del vivero sin 
+sión del nido. Hay que llevar estadísticas del vi-
+
+la necesidad de colocar la información en cada 
+vero para conocer los resultados del mismo. Este 
+
+nido por medio de una etiqueta.
+tema se discutirá más adelante en la sección so-
+
+Se colocan las nidadas de nido de por medio 
+respetando un espacio vacío entre ellos para que bre la obtención de datos de nidos y su análisis. 
+
+A
+50cm
+
+1m
+
+B
+
+Figura 26. Densidad máxima recomendada Figura 27. A. Modelo de distribución 
+de nidos es 2 /m2 para la familia de nidos para nidadas de la familia 
+
+Cheloniidae, la mínima recomendada es de Cheloniidae, dejando cada tercera línea 
+1 nido/m2 para D. c. un pasillo libre de nidos; B. Modelo de 
+
+distribución de nidos de D.c. con una 
+densidad de un nido por metro cuadrado. 
+
+39
+
+1m
+50cm
+
+
+
+Dinámica del litoral Humedad de la arena y 
+temperatura
+
+El tamaño, forma y ubicación de la playa de 
+anidación puede modificarse en el tiempo por La humedad en la arena y la temperatura son 
+diversas razones, incluyendo patrones de desa- factores muy importantes en el desarrollo de los 
+rrollo costero, alteraciones en corrientes marinas, embriones; por lo tanto, a la hora de seleccionar 
+eventos meteorológicos extremos, elevación o el sitio del vivero debe verificarse que tenga simi-
+hundimiento de la costa por procesos tectónicos lares condiciones al lugar natural de anidamien-
+y aumento del nivel del mar debido al cambio to, según la especie. Si está demasiado cerca de 
+climático, entre otros. Es conveniente mantener la vegetación, la arena puede ser más caliente 
+un registro de la ubicación, forma y tamaño de y más seca; sin embargo, si hay grandes cons-
+la playa para identificar zonas de alta vulnerabi- trucciones esta temperatura puede variar por la 
+lidad para los nidos, así como cambios graduales sombra generada. Si el único sitio para poner el 
+que perjudiquen o favorezcan la anidación. El vivero es dentro de la vegetación y no hay otra 
+avance de la playa tierra adentro a medida que alternativa, se recomienda realizar pruebas de 
+aumenta el nivel del mar puede verse bloqueado contenido de humedad en la zona donde ocu-
+por infraestructura (ej. carreteras, muros y/o filas rren la mayoría de las anidaciones, a la profundi-
+de edificaciones) o acantilados naturales, lo cual dad de la especie, y buscar la manera de replicar 
+puede conllevar a una pérdida del área disponi- esas condiciones en el vivero, cosa poco sencilla y 
+ble para anidar. muy específica para cada playa. Una manera cua-
+
+La caracterización del litoral y de una playa de litativa (a la vista) de estimar la humedad correc-
+anidación en particular, puede hacerse con he- ta es que la arena del nido se toma con la punta 
+rramientas topográficas sofisticadas, fotografía de los dedos; si ésta se cae fácilmente, está de-
+aérea y/o imágenes remotas de alta resolución masiado seca; si se queda en la mano formando 
+georeferenciadas, entre otros. Por lo menos se pequeños grumos (pelotitas), tiene la humedad 
+debe llevar un registro periódico de la distancia necesaria; pero si la arena está muy compacta y 
+de varios puntos de la playa (ej. puntos extremos al ser presionada por los dedos libera agua, está 
+y líneas de marea alta y baja) respecto a pun- demasiado húmeda.  Sin embargo, las condicio-
+tos fijos de la costa, tales como edificaciones y nes y cantidades en las cuales se deben regar los 
+mojones. Como alternativa, se pueden utilizar nidos o protegerlos del agua, son diferentes en 
+sistemas de posicionamiento global diferencial cada sitio y esta situación debería ser definida en 
+(implica dos “GPS”, uno de los cuales tiene ubi- el plan de manejo del vivero.
+cación fija y calibrada), cuya alta precisión per- Para conocer la cantidad de lluvia, se debe-
+mite detectar cambios oportunamente para la rá instalar un pluviómetro que se revisará cada 
+eventual toma de acciones correctivas. Estos re- 24 horas y cuyos valores se anotarán en el libro 
+gistros son necesarios para diseñar la inclusión de datos respectivo para su posterior análisis 
+de retiros (zonas libres de infraestructura detrás (Fig.28). 
+de la playa) en los planes reguladores del uso de Eventos de precipitación extrema en la playa o 
+la tierra, como medida de adaptación al aumen- en la parte alta de la cuenca pueden provocar un 
+to del nivel del mar. 
+
+40
+
+
+
+umbral para producir hembras o temperatura 
+umbral para producir machos). Los embriones 
+en desarrollo al alcanzar el segundo tercio del 
+periodo de incubación, se ven influenciados por 
+estas temperaturas y todos aquellos embriones 
+que se  desarrollen durante el segundo tercio en 
+un medio con temperatura superior a la pivote, 
+producirán hembras y, por el contrario, a tempe-
+
+Figura 28. raturas por debajo de ésta, producirán machos. 
+Pluviómetro usado También existen valores mínimos y máximos que 
+en los proyectos detienen el desarrollo de los huevos hasta pro-
+de conservación 
+y  protección de ducir la muerte, lo cual está definido entre 24 °C 
+
+tortugas marinas. y 34 °C (Ackerman, 1997). 
+Se pueden monitorear temperaturas por me-
+
+aumento del nivel freático que inunde los nidos dio de termopares o termosensores o alguna 
+
+desde abajo. El nivel freático se puede medir in- otra tecnología calibrada adecuadamente. Al 
+
+sertando una cinta métrica en un agujero en la inicio, se debe hacer un muestreo de 48 horas, 
+
+arena hasta la superficie del agua. Es necesario cada hora, para determinar el momento de las 
+
+conocer su profundidad, así como su dinámica a temperaturas máxima y mínima, asegurándose 
+
+lo largo y ancho de la playa y de la temporada de de incluir un día soleado. Una vez que se sabe 
+
+anidación, para realizar reubicaciones de nidos a qué hora se presentan, se deberá registrar la 
+
+en función de su vulnerabilidad. El cambio climá- temperatura en dichas horas. El muestreo cada 
+
+tico está generando aumentos en la frecuencia e 48 horas debe repetirse cada mes para determi-
+
+intensidad de eventos de precipitación extrema nar si el patrón ha cambiado y poder ajustar el 
+
+y tormentas, razón por la cual los proyectos de momento de la lectura de los termosensores. Los 
+
+conservación de tortugas marinas deben consi- sensores se deben colocar en las zonas de frente, 
+
+derar esta variable como parte de su esquema a la mitad y detrás de la playa y del vivero, para 
+
+de adaptación. anotaciones control. Los sensores deben cubrir, 
+
+Es importante monitorear la temperatura de la además, a lo largo de la playa, el rango de tem-
+
+arena debido a que el sexo de las tortugas ma- peraturas a las que se ven expuestos los nidos. 
+
+rinas está determinado por la temperatura del Esta caracterización del perfil de temperaturas 
+
+medio donde se incuban. Estudios pertinentes de la playa es primordial para inferir el aporte a 
+
+han demostrado la existencia de un punto tér- la población de neonatos machos y hembras por 
+
+mico de equilibrio denominado temperatura parte de la playa en cuestión. A la luz del calen-
+
+pivote. Este es el valor de la temperatura a la tamiento global es esencial identificar los sitios 
+
+cual se produce un número igual de machos y que producen machos, pues estos constituyen 
+
+hembras (Gulko y Eckert 2004). Además, existen refugios térmicos de importancia para mantener 
+
+temperaturas “umbral”.  La umbral es aquella la capacidad reproductiva de la población. Igual-
+
+a partir de la cual se producen solamente hem- mente, el buen conocimiento del perfil térmico 
+
+bras o solamente machos (existe temperatura de la playa permite anticipar los nidos con mayor 
+
+41
+
+
+
+vulnerabilidad al sobrecalentamiento y efectuar algunos machos en algún lugar del conjunto de 
+las reubicaciones del caso. Es menester poner a playas aledañas7. 
+disposición los datos de temperatura de cada 
+playa para análisis regionales sobre la vulnera- Toda playa tiene un ángulo con respecto a las 
+bilidad de la población al calentamiento global, emisiones solares y en alguna parte del día la 
+con el fin de tomar con eficiencia y pertinencia sombra de la vegetación costera alcanza la pla-
+las medidas correctivas del caso. ya, pero en las zonas donde la deforestación ha 
+
+Todos los instrumentos de medición de la tem- alcanzado la vegetación de la costa y la sombra 
+peratura deben ser calibrados adecuadamente no existe, los nidos son particularmente vulne-
+para su buen funcionamiento. En el libro de da- rables a sobrecalentamiento. Es aquí cuando 
+tos hay que anotar la fecha, hora, temperaturas debe hacerse un análisis concienzudo de cuál es 
+registradas por sitio (N), equipo utilizado, valo- el porcentaje concreto de sombra necesario y su 
+res del pluviómetro y nombre del operador. Los ubicación a lo largo de la playa, para evitar el 
+valores anotados se presentan con promedios y nacimiento de tortugas de un solo sexo. Hay que 
+desviaciones estándar. tomar en cuenta que durante la temporada las 
+
+condiciones varían, ocasionando cierto porcen-
+taje de uno u otro sexo, pero generalmente con 
+
+Control de la temperatura de un sesgo hacia las hembras. 
+incubación La recuperación de la franja arbórea costera 
+
+original, mediante su reforestación con espe-
+Durante la época de cielos despejados y esca- cies nativas, puede ser una medida para evitar 
+
+sa precipitación (el “verano”) las temperaturas el sobrecalentamiento de nidos in situ en ciertos 
+de algunas playas alcanzan el umbral letal su- tramos de la playa. A la luz del calentamiento 
+perior para los tortuguillos, provocando altas global es inminente la necesidad de preparar a 
+mortalidades. Bajo condiciones menos adversas, tiempo las playas para reducir la mortalidad de 
+pueden darse, sin embargo, temperaturas que embriones por sobrecalentamiento y asegurar la 
+sesguen totalmente la producción hacia tortu- producción tanto de machos como de hembras. 
+guitas hembras. Estas tendencias se exacerban Se podrá colocar sobre el vivero una sombra 
+con el cambio climático en ciertas localidades. artificial si maneja el problema de altas tempe-
+El control de la temperatura, tanto in situ como raturas. Esta sombra se establece con el tendi-
+ex situ es en tales circunstancias un paso necesa- do de un “paño” de sarán con una luz de malla, 
+rio para asegurar la producción de tortuguitas que puede ir del 25% al 50% de sombra. Esta 
+que, una vez reclutadas en la población adulta, estructura lo que hace es “suavizar” el aumento 
+mantengan viable la reproducción. Las nidadas o la caída de la temperatura. Con el monitoreo 
+pueden ser protegidas añadiendo sombra por diario asegure que esta sombra no cause el ses-
+medio de vegetación, instalando sombras artifi- go total hacia uno u otro sexo de los embriones; 
+ciales y/o recurriendo a irrigación. El objetivo de recuerde que la determinación sexual se da du-
+esta intervención es minimizar la mortalidad por 7	  En la actualidad hay un sesgo generalizado hacia hembras en 
+sobrecalentamiento y asegurar, de manera pre- los nacimientos de tortugas marinas. Dado el estado incompleto 
+
+del conocimiento sobre el papel de tal sesgo en su biología, es 
+cautoria, que haya producción de por lo menos precautorio no prescribir que el control de temperatura apunte a una 
+
+tasa de sexos balanceada. 
+
+42
+
+
+
+rante el segundo tercio de la incubación. Bajo En zonas con alta desecación y temperaturas 
+estas circunstancias, se recomienda manejar un cercanas o superiores a los umbrales letales, mu-
+vivero con el 50% del área sombreada y el 50% chas veces provocadas por la rampante deserti-
+sin sombra (Fig.29). ficación y/o el avance del calentamiento global, 
+
+puede hacer irrigación del piso del vivero apli-
+cando 3 galones de agua dulce por m2 cada 24 
+horas, máximo 3 veces por semana, para lo que 
+debe usar aspersores o irrigadores. No use cho-
+rros directos o de un solo punto. El monitoreo de 
+la temperatura de incubación en el vivero duran-
+te la época de anidación permite anticipar picos 
+de calor y, de esta forma, la aplicación puntual 
+de irrigación para proteger a los embriones del 
+sobrecalentamiento.
+
+Figura 29. Sombra que se usa en algunos 
+viveros donde la temperatura es elevada.
+
+43
+
+
+
+Manipulación y liberación de tortuguillos
+
+En la naturaleza, normalmente los tortuguillos su playa natal, así como de ejercitar sus pulmones 
+nacen en las primeras horas de oscuridad cuando antes de entrar al agua.
+baja la temperatura, de esta forma han recorri- Tal es el caso, en la práctica, de dejar cantidades 
+do hasta el amanecer bastante distancia hacia el de tortuguillos en estanques o piletas con fines 
+mar, lejos de la costa, antes de quedar expuestos muy variados, que van desde actividades educati-
+a los muchos depredadores.  Además, ellos pasan vas hasta atracciones turísticas. Estas actividades 
+por un  proceso de suma importancia para la per- usualmente “educativas” incluyen: carreras, libe-
+petuación de su especie: la impronta. Mediante ración durante el día, manipulación por visitantes 
+este proceso, el neonato imprime los parámetros y liberación directamente en el agua, entre otras. 
+necesarios para retornar a su playa natal cuando Estas prácticas, que además podrían afectar la 
+sea el momento de la reproducción. Toda activi- impronta, se deben prohibir o evitar.
+dad que implique la retención de los tortuguillos Rara vez las entidades que operan sitios con 
+por más de 1 hora y su liberación directa en el tanques para tortugas evalúan la presencia y 
+agua, afecta su capacidad de retorno y su capaci- propagación de patógenos, aspectos de medicina 
+dad para evitar depredadores. preventiva, hábitat de calidad para las tortugas, 
+
+Cuando los tortuguillos nacen en viveros, hay dieta balanceada y una manipulación sanitaria 
+que seguir un procedimiento para su manipula- de calidad. Todo ello está en detrimento de la su-
+ción y liberación. Una vez que emergen, deben pervivencia de los tortuguillos, más aún cuando 
+ser contados y manipulados con guantes de látex no se tienen criterios sobre la densidad (neonato 
+o, en su defecto, con las manos lavadas con abun- por metro cúbico de agua) que deben idealmen-
+dante agua y jabón. Se recolectan de la canasta a te mantenerse en estos sistemas cerrados. La li-
+un recipiente limpio, normalmente de plástico, y beración de las tortugas contagiadas con agentes 
+se llevan a sitios lejos del vivero (100-500 metros patógenos y que no presentan síntomas, puede 
+o más), variándose este cada vez y se liberan en significar la propagación de estos agentes en la 
+grupo. También se debe limpiar diariamente el población silvestre y generar un desastre biológi-
+recipiente para recoger a los tortuguillos. Ellos co. La tenencia de los tortuguillos y/o juveniles de 
+deben ser liberados inmediatamente después tortuga marina en ambientes artificiales y de po-
+de su nacimiento. No deben ponerse los tortu- bre calidad, ha sido ampliamente criticada y, más 
+guillos en agua pues van a nadar instintivamente aún, cuando después del periodo de cautiverio, 
+malgastando energía que requieren para poder las tortugas son liberadas, obviando la secuencia 
+cruzar la zona de rompiente de las olas.  Es im- de conducta y eventos que siguen a la eclosión en 
+portante recordar la necesidad de la impronta, condiciones naturales. Por lo tanto, es deseable 
+por lo que los tortuguillos se deben liberar arriba la presencia o asesoría de especialistas de vida sil-
+de la línea de marea alta en la playa y se les debe vestre en los viveros del país, así como una sólida 
+dejar llegar solos al agua. De esta manera, se está capacitación del personal a cargo de la manipula-
+asegurando que ellos tienen el tiempo de reco- ción de los huevos y de la gestión del vivero.
+lectar los parámetros necesarios para regresar a 
+
+44
+
+
+
+Evaluación del éxito de incubación
+
+Es necesario evaluar el éxito de incubación de situ, se puede volver a enterrar los desechos en 
+las nidadas, sean éstas incubadas in situ o reubi- el mismo hueco. En el caso del vivero, se reco-
+cadas en otro sitio de la playa, para comprender mienda usar una fosa ubicada en la zona con-
+la adecuación de la playa (o vivero) como sistema tigua a la playa, de una profundidad no menor 
+de incubación, la salud general de la población a 1.5 metros, aunque el uso de una o más fosas 
+anidadora o los métodos de manejo empleados. dependerá del número de nidos; además se apli-
+
+Una vez que han pasado tres días como máxi- can capas de cal para desecar los desechos.
+mo desde la primera emersión, o una vez que 
+
+La información que debe obtenerse de una ni-
+han salido el 50% de las crías con respecto a los 
+
+dada que ha completado su periodo de incuba-
+huevos dentro del nido, o 2-3 días después que 
+
+ción es la siguiente (anexo 2):
+ha pasado la fecha estimada de emersión y no 
+ha salido ninguna cría, los nidos deben ser abier-
+
+•	 Número de nido.
+tos y sacado su contenido para evaluación. Esto •	 Especie. 
+último, se debe hacer con sumo cuidado, ya que •	 Fecha de puesta (fp).
+las crías pueden venir retrasadas. Si esto es así, el •	 Fecha de emersión (fe).
+nido debe taparse nuevamente de manera inme- •	 Número de huevos en el nido. 
+diata con la misma arena que ha sido extraída. •	 Tortuguillos en superficie vivos. 
+
+Esta revisión del contenido del nido, huevos, •	 Tortuguillos en superficie muertos. 
+•	 Tortuguillos dentro del nido vivos. 
+
+embriones y crías muertas se hace con fines de •	 Tortuguillos dentro del nido muertos. 
+estudio. Si se realiza con dos días de retraso: •	 Cáscaras o cascarones: es igual a la suma de 
+
+ los tortuguillos vivos más los muertos y los 
+1.	 Las crías que estén vivas y que no salgan por que están dentro del nido vivos o muertos. 
+
+debilidad u otra razón, se van a morir. Cuan- Hay que contar solo aquellas cáscaras com-
+to antes las destapemos, las podremos sacar pletas o que representan más del 50% del 
+y liberar al mar. cascarón completo. 
+
+2.	 El contenido del nido se va a podrir muchísi- •	 Huevos eclosionados con tortuguitas en pro-
+mo más y será más difícil revisar. Si no se saca ceso de salida (abiertos):
+como se sugiere, es mejor dejar el nido más a.	 vivas 
+tiempo para que se seque bien y esté menos b.	 muertas 
+podrido. •	 Huevos no eclosionados (cerrados):
+
+c.	 Sin desarrollo embrionario aparente. 
+Después de exhumar un nido, es importante d.	 Con desarrollo embrionario evidente. 
+
+•	 Huevos depredados. 
+tratar los desechos del mismo. Si el nido está in 
+
+45
+
+
+
+Estadio I: embrión cubre de 0 a 25% de la cavidad amniótica del huevo.
+Estadio II: embrión cubre del 26% al 50% de la cavidad amniótica del huevo.
+Estadio III: embrión cubre del 51% al 75% de la cavidad amniótica del huevo.
+Estadio IV: embrión cubre del 76% al 100% de la cavidad amniótica del huevo.
+
+I. II. III. IV.
+
+Figura 30. Diferentes estadios de desarrollo de los embriones durante el proceso de 
+incubación.
+
+Los embriones se pueden clasificar (Fig.30): to de la incubación son: la cantidad de crías que 
+Se deberán hacer observaciones particulares rompen el cascarón (eclosión), la cantidad de 
+
+como la presencia de colonias de hongos o bac- crías que llegan al mar (liberación) y el periodo 
+terias, raíces, hormigas o larvas, luego de esta- de incubación. Si es necesario reubicar todas las 
+blecer el estadio correspondiente a cada huevo, nidadas a viveros, será importante dejar algunas 
+presencia de embriones malformados y tipo de nidadas in situ para tomarlas como control.
+malformación. Las fórmulas que deberán utilizarse son las si-
+
+Los parámetros utilizados para evaluar el éxi- guientes:
+
+# CASCARONES
+Porcentaje de eclosión 1 = x 100
+
+TOTAL DE HUEVOS INCUBADOS
+
+# CASC + #CRÍAS ECLOSIONANDO
+Porcentaje de eclosión 2 = x 100
+
+TOTAL DE HUEVOS INCUBADOS
+
+Dónde:
+
+#CASC = número de cáscaras vacías (es igual a la suma de crías vivas y crías muertas).
+#CRÍAS ECLOSIONANDO = crías que han roto el huevo pero no han logrado salir completamente de 
+
+él cuando la nidada es exhumada. Las crías pueden estar vivas o muertas.
+TOTAL DE HUEVOS INCUBADOS= es el total de huevos que fueron incubados en ese nido. Si este 
+
+dato no se conoce, resulta de la suma de cascarones, las crías eclosionando, los huevos no 
+eclosionados (con desarrollo embrionario aparente o sin él) y los huevos depredados). 
+
+46
+
+
+
+Dado que este valor puede ser reportado de diferentes 
+maneras, se recomienda presentar ambas fórmulas.
+
+# CRÍAS LIBERADAS
+Porcentaje de liberación = x 100
+
+TOTAL DE HUEVOS INCUBADOS
+
+Dónde:
+
+# CRÍAS LIBERADAS = al total de crías que llegan al mar. Éstas pueden provenir de las crías 
+vivas en superficie, las crías vivas dentro del nido, las crías vivas eclosionando y los 
+embriones vivos, si estos se recuperan y pueden ser liberados días después.  Si se 
+trata de nidos in situ y el total de crías vivas en superficie no se conoce, este va-
+lor se obtiene de restar el total de crías muertas encontradas, tanto en superficie 
+como dentro del nido, al total de cascarones contados.
+
+Periodo de incubación (reportado en días):
+                                           Fecha de emersión – fecha de puesta
+Dónde:
+     La fecha de emersión es la fecha en la que emerge el primer tortuguillo.
+     La fecha de puesta es la fecha en la que la hembra ha desovado la nidada.
+
+Es importante reportar también el total de hue-
+vos incubados y el total de crías liberadas por 
+especie. De estos parámetros se obtendrá el por-
+centaje de liberación total:
+
+TOTAL DE CRÍAS LIBERADAS
+% de liberación total = x 100
+
+TOTAL DE HUEVOS INCUBADOS
+
+Estos datos deberán anotarse en la hoja de ciertos resultados determinados en la exhuma-
+campo de anidación para relacionar la nidada ción (ej. altos niveles de embriones en estadio). 
+con una hembra cuando sea posible, aunque en Pueden usarse otros métodos de clasificación 
+el vivero se puede usar una libreta y después pa- de los remanentes de la incubación al exhumar, 
+sar la información a una hoja de Excel o base de pero deben estar plenamente explicados en el 
+datos, donde la computadora podrá calcular los plan de manejo presentado a las entidades res-
+diferentes parámetros y hacer el análisis estadís- ponsables. 
+tico correspondiente, mostrando por lo menos el En el caso de que los datos (número de hue-
+promedio, la desviación estándar y el número de vos sembrados) no coincidan con los huevos 
+datos analizados (N). revisados, hay que ajustarlos o, si son muchos, 
+
+Usando los parámetros ambientales registra- no incluirlos dentro del análisis estadístico pero 
+dos (ej. temperatura de incubación, lluvia, dis- reportar los números originales (huevos sembra-
+tancia de recorrido al vivero, etc.), se pueden dos) y la cantidad de tortuguillos liberados en 
+analizar las razones por las cuales se encuentran sus respectivos lugares. 
+
+47
+
+
+
+Glosario
+
+de evaluación de la incubación o limpieza 
+Anidación: acción y efecto de anidar. del nido. Esto se realiza después de haber 
+Anidación solitaria: anidación que no se da en salido el 50% de las crías respecto al total de 
+
+grupos sincrónicos y masivos. huevos, o luego de transcurrir 2-3 días de la 
+Anidar: construir un nido. fecha esperada de emersión. 
+Cáscara o cascarón: corteza o cubierta exterior Frecuencia de puesta: el número de veces que 
+
+de los huevos. una tortuga pone huevos durante una mis-
+Crías eclosionando: crías encontradas vivas o ma temporada.
+
+muertas durante la exhumación, que han Huella, rastro: impresión o marca sobre la su-
+roto la cáscara del huevo pero que no aca- perficie de la arena, que dejan las tortugas 
+baron de salir del mismo. cuando salen a la playa.
+
+Crías emergidas: toda cría o neonato que salió Media luna, rastro sin cama o sin nido: huella 
+del nido hasta la superficie de la playa por que deja una tortuga que no anida.
+si sola. Huella asimétrica: es aquella impresión sobre la 
+
+Crías liberadas: número de crías o neonatos que superficie de la arena donde las hendiduras 
+son soltados para que lleguen al mar. de las aletas delanteras están a diferente 
+
+Crías muertas dentro del nido: todas las crías que nivel, lo que demuestra que la tortuga se 
+son encontradas muertas en la cámara del arrastra moviendo cada aleta a diferente 
+nido, cuando se realiza la excavación o ex- tiempo, con movimientos intercalados. 
+humación. Huella simétrica: es aquella impresión sobre la su-
+
+Crías vivas dentro del nido: toda cría que se en- perficie de la arena donde ambas hendidu-
+cuentra viva dentro de la cámara del nido. ras de las aletas delanteras están al mismo 
+
+Desovar, ovipositar, poner: cuando la tortuga de- nivel, lo que demuestra que la tortuga se 
+posita los huevos en la cámara o hueco que arrastra moviendo ambas al mismo tiempo. 
+hace en la arena. Huevos no eclosionados: huevos que no han sido 
+
+Doble marcado: colocación de dos marcas funcio- abiertos por la cría.  Pueden tener o no un 
+nales en partes diferentes de la tortuga (por embrión evidente.
+ejemplo, una en cada aleta). Huevos sembrados: número de huevos reubica-
+
+Eclosión: acción de romper la cáscara del huevo, dos en un hueco o nido diferente al que 
+nacer. hizo la tortuga.
+
+Estaca: señal dentro del vivero para ubicar un Impronta: hipótesis que explica el fenómeno por 
+nido. el cual las tortugas regresan a la región en 
+
+Evidencia de marca previa: cicatriz, hueco o corte la que nacieron para anidar, registrando pa-
+en un área usualmente definida para mar- rámetros o características de la playa. 
+cado que demuestra que la tortuga portó In situ: “En el sitio o lugar”. Se refiere a la incu-
+marcas alguna vez. bación de la nidada en el ambiente natural 
+
+Exhumación: acción de sacar la nidada para fines donde la depositó la tortuga.
+
+48
+
+
+
+Marca interna: señalización o instalación de dis- ción espacial de la anidación.
+tintivo por debajo de la piel, que permite Prospección: exploración que permite definir las 
+particularizar la identificación de cada or- características principales de una playa de 
+ganismo. anidación que se trabaja por primera vez.
+
+Marca externa: señalización o instalación de dis- Puesta exitosa: nido con huevos.
+tintivo sobre la superficie de la piel o por Recaptura: cuando la tortuga encontrada ani-
+medio de un aparejo, con la intención de dando tiene una marca previa. 
+particularizar la identificación de cada indi- Reanidar: capacidad de una hembra de anidar 
+viduo. varias veces en una temporada.
+
+Marcado a saturación: marcado del total de hem- Remarcado: reemplazo de una marca externa 
+bras anidadoras en la población. dañada o a punto de caerse.
+
+Neonato: tortuga recién eclosionada. Remigrante: hembra que regresa a anidar en 
+Neófita o primeriza: hembra que llega por prime- temporadas subsecuentes. Se reconoce por 
+
+ra vez a anidar. tener evidencia de marcado  previo (cicatri-
+Nidada: conjunto de los huevos puestos por una ces o marcas).
+
+hembra en un nido. Subcutáneo: por debajo de la piel.
+Nidada depredada: grupo de huevos que han Temperatura pivote – temperatura umbral: mu-
+
+sido tomados por depredadores, sean éstos chos autores las consideran sinónimos pero 
+animales domésticos (perros, cerdos, gatos) la correcta es temperatura pivote, la cual 
+o silvestres (mapachines, zorras, etc). está definida como la temperatura de incu-
+
+Nidada saqueada: grupo de huevos que han sido bación a la cual se obtiene una proporción 
+tomados (robados), solo aplicable a huma- de sexos de la nidada de 1:1; es decir, 50% 
+nos. machos y 50% hembras (Mrosovky & Ynte-
+
+Nidada trasplantada, reubicada: nidada trans- ma, 1980; Yntema & Mrosovky, 1982).
+portada con fines de protección a un lugar Temperaturas letales: son definidas como tem-
+diferente al nido en el que la puso la tortu- peraturas a las cuales los huevos ya no son 
+ga, incluyendo el traslado a viveros. viables y, por lo tanto, no habrá eclosión 
+
+Nido artificial: nido construido por seres huma- (Wilhoft, Hotaling y Franks, 1983). El límite 
+nos, ya sea en el vivero, en la playa o en una mínimo de temperatura para la eclosión es 
+caja de incubación. de 25 ° C y el límite máximo es de 35° C. 
+
+Nido: lugar que la tortuga construye para poner Termocopla (termocople, termopar o termosen-
+sus huevos. El nido está constituido por la sor): dispositivo para medir temperaturas 
+cama y la cámara. Lo que se ve exteriormen- que consiste en un cable formado por dos 
+te es la cama. Para fines de conteo se consi- aleaciones de metal, que permanece en el 
+dera una cama como un nido, aunque no se nido durante todo el periodo de incuba-
+compruebe la presencia de huevos. ción.
+
+Oviposición: denominación del proceso de poner Tortuga marcada: tortuga que porta una o más 
+huevos en la playa. Sinónimo de desove o marcas externas o PIT´s que la identifican de 
+puesta. manera individual.
+
+Porcentaje de eclosión: parámetro que cuantifica Varamiento: aparición en la playa de un organis-
+el resultado de la incubación de un nido. mo moribundo o muerto. 
+
+Porcentaje de emergencia: parámetro que cuan- Vivero, corral: área de la playa delimitada y cer-
+tifica la producción de crías de un nido. cada total o parcialmente, destinada para 
+
+Porcentaje de éxito en la puesta: parámetro que sembrar las nidadas que son recolectadas en 
+relaciona el total de nidadas contra el total la playa para protegerlas de depredadores 
+de nidos. humanos y no humanos, incubándolas has-
+
+Fracaso en la puesta: total de nidos sin nidada ta la emersión de los neonatos.
+(porque la tortuga no desovó). 
+
+Poste o mojón: marcas físicas con una distancia 
+continua que permiten conocer la distribu-
+
+49
+
+
+
+Referencias
+
+Ackerman, R. 1997. The Nest environment and the Gulko, D. y Eckert K. 2004. Sea Turtles: An ecological 
+embryonic development of Sea Turtles. En: Lutz, P guide. Mutual Publishing, Honolulu, HI. 128 pp.
+y J. Musick (editors). The biology of Sea Turtles. CRC Mac Donald, D.L., y Dutton P.H. 1994.  Tags Retention 
+marine science series. 83-107 p. Leatherback Sea Turtle (Dermochelys coriacea) at 
+
+Balazs, G. 2000. Factores a considerar en el marcado Sandy Point, ST. Croix. USVI, In: Schoroeder, B.A., 
+de Tortugas marinas. En: Eckert et al. (editores) and Whiterington, B.E. Prosedings of the Thirte-
+Técnicas de Investigación y Manejo para la Con- enth Annual Symposium on Sea Turtle Biology and 
+servación de las Tortugas Marinas. UICN/CSE Grupo Conservation NOAA, Technical Memorandum.  p. 9.
+Especialista en Tortugas marinas Publicación N° 4. Meylan A. y Meylan P. 2000. Introducción a la evo-
+106-126 p. lución, historia de vida y biología de las tortugas 
+
+Barragán, A. 1998. Monitoring Program for the Lea- marinas. En: Eckert et al. (editores) Técnicas de In-
+therback sea Turtle (Dermochelys coriacea) at Tortu- vestigación y Manejo para la Conservación de las 
+guero.  Nicaragua. Mimeografiado. 30 p. Tortugas Marinas. UICN/CSE Grupo Especialista en 
+
+Bolten, A. 2000. Técnicas para la Medición de Tortu- Tortugas marinas Publicación N° 4.
+
+gas Marinas. En: Eckert et al. (editores) Técnicas de Pritchard, P.; P. Bacon; F.Berry; A. Carr; J. Fletmeyer; R. 
+Investigación y Manejo para la Conservación de las Gallagher; S. Hopkins; R. Lankford; R. Márquez M.; 
+Tortugas Marinas. UICN/CSE Grupo Especialista en L. Ogren; W. Pringle, Jr.; H. Reichart y r. Witham. 
+Tortugas marinas Publicación N° 4. 126-131 p. 1983. Manual sobre técnicas de investigación y con-
+
+Chacón, D. y Machado, J. 2006. Informe de Activida- servación de las tortugas marinas, Segunda Edición. 
+
+des, temporada 2006. Programa para la Conserva- K.A. Bjorndal Y G.H. Balasz (editores). Center for 
+
+ción de las Tortugas Marinas, Caribe Sur, Nicaragua. Enviromental Education, Washington, D.C. p.130.
+
+Asociación ANAI. 53 p Pritchard, P. C.H. 1997. Evolution, Phylogeny, and Cu-
+
+CITES. 2002. Report to the range States on the de- rrent Status. The Biology of Sea Turtles. pp: 1-28. 
+
+velopment of hawksbill (Eretmochelys imbricata) PL Lutz and JA Musick (editores) CRC Press. Boca 
+
+population monitoring protocols for the Wider Raton, Florida.
+
+Caribbean. Working group on the development of Pritchard P. y Mortimer J. 2000. Taxonomía, Morfolo-
+standardized population monitoring protocols and gía Externa e Identificación de las EspeciesEn: Ec-
+the identification of index sites. Second CITES wi- kert et al. (editores) Técnicas de Investigación y Ma-
+der Caribbean hawksbill turtle dialogue meeting, nejo para la Conservación de las Tortugas Marinas. 
+Grand Cayman (Cayman Islands), 21–23 May 2002. UICN/CSE Grupo Especialista en Tortugas marinas 
+HTB 2. Document 8. 11 pp. Publicación N° 4. 23-41 p.
+
+Eckert, K. y Begge J. 2006. Marine turtle tagging; a Schroeder B. y Murphy S. 2000. Prospecciones Po-
+manual of recommended practices. WIDECAST Te- blacionales (Terrestres y Aéreas) en Playas de 
+chnical report n° 2. Revised Edition. Beaufort, Nor- Anidación. En: Eckert et al. (editores) Técnicas de 
+th Carolina. 40 pp. Investigación y Manejo para la Conservación de las 
+
+Eckert, K. 2000. Diseño de un Programa de Conser- Tortugas Marinas. UICN/CSE Grupo Especialista en 
+
+vación. En: Eckert et al. (editores) Técnicas de In- Tortugas marinas Publicación N° 4. 51-63 p.
+
+vestigación y Manejo para la Conservación de las Valverde R. y Gates C. 2000.  Estudios de Poblaciones 
+Tortugas Marinas. UICN/CSE Grupo Especialista en en Playas de Arribadas. En: Eckert et al. (editores) 
+Tortugas marinas Publicación N° 4. 6-8 p. Técnicas de Investigación y Manejo para la Conser-
+
+Gautreau, 2007.- vación de las Tortugas Marinas. UICN/CSE Grupo 
+Especialista en Tortugas marinas Publicación N° 4. 
+64-69 p.
+
+50
+
+
+
+ANEXOS:
+Anexo 1. Formularios sugeridos para censo de nidos y hembras anidadoras.
+
+Un formato sugerido para el censo de nidos en la mañana: 
+Playa Fecha Observador
+Hora de inicio Hora final
+Localización Especie Nido o rastro Destino o uso Observaciones
+(mojón o poste) del nido
+
+Un formato sugerido para cada hembra anidadora observada (incluyendo censo de ni-
+dos de noche):
+
+PLAYA Definiciones de los campos: 
+Actividad: lo que hace la tortuga la primera vez que es vista 
+
+LOCALIZACIÓN (POSTE O MOJÓN) en la noche. 
+FECHA HORA A: hora de la primera observación
+ACTIVIDAD HORA B: hora a la que pone los huevos (hora de puesta), solo 
+
+si la puesta es observada. 
+HORA A
+
+HORA C: hora a la que los huevos están resembrados. 
+HORA B
+
+Nido o rastro: Si la tortuga hace un nido (= NIDO); si solo 
+HORA C deambula por la playa sin hacer cama (=RASTRO)
+ESPECIE Uso o destino: si la nidada se queda in situ, o si se lleva a otro 
+TOTAL DE HUEVOS PUESTOS lado, o lo que le pase a los huevos de esa nidada 
+
+NIDO O RASTRO NO. NIDO: si el nido es señalado y se le da algún numero para 
+su seguimiento y posterior evaluación de la incuba-
+
+USO O DESTINO DEL NIDO ción. 
+NO. NIDO ID TORTUGA: si la tortuga tiene una marca o se le coloca una 
+ID. TORTUGA se deberá escribir el número de serie de dicha marca. 
+MARCA NUEVA, VIEJA O REEMPLAZO MARCA NUEVA (si es aplicada por primera vez), VIEJA (si la 
+
+tortuga tiene una marca puesta cuando la encontra-
+CICATRICES DE MARCADO PREVIO
+
+mos), REEMPLAZO (si se le quita la marca que trae por-
+LARGO CENTRAL CURVO ESTÁNDAR que esta está mal colocada, se esta cayendo o algo así, 
+CONDICIÓN DEL CUERPO y se le coloca otra). 
+
+OBSERVACIONES GENERALES. CICATRÍZ DE MARCA PREVIA: si la tortuga ha perdido una 
+marca previa y ha dejado una cicatriz (decir sí o no).  
+
+51
+
+
+
+ANEXO 2. Formato de cuaderno de campo sugerido para evaluar el 
+éxito de incubación 
+
+CS CDN CECL EMBRIONES
+NIDO SP FP FE HS V M V M CASC V M I II III IV
+
+V M
+
+% % % 
+HSDA HD Responsable Observaciones
+
+ECL1 ECL2 LIBERA
+
+Definiciones de los campos:
+NIDO: número de nido.
+SP: especie. 
+FP: fecha de puesta. 
+FE: fecha de emersión. 
+HS: número de huevos en el nido (sembrados).
+CS-V: tortuguillos en superficie vivos. 
+CS-M: tortuguillos en superficie muertos. 
+CDN-V: tortuguillos dentro del nido vivos. 
+CDN-M: tortuguillos dentro del nido muertos. 
+CASC: cáscaras o cascarones. Es igual a la suma 
+
+de los tortuguillas vivos más los muertos 
+y los que están dentro del nido vivos o 
+muertos. 
+
+CECL-V: huevos eclosionados con tortuguillos en 
+proceso de salida - abiertos (vivos).
+CECL-M: huevos eclosionados con tortuguillos en 
+
+proceso de salida - abiertos (muertos).
+EMBRIONES: huevos no eclosionados (cerrados), 
+
+con desarrollo embrionario evidente y su 
+estadio.
+
+HSDA: huevos no eclosionados (cerrados), sin 
+desarrollo embrionario aparente. 
+HD: huevos depredados. 
+
+52
+
+
+
+ANEXO 3: Recomendaciones del grupo de trabajo sobre los Datos Básicos Mínimos para 
+recolectar por proyecto. Taller de Capacitación, Tortuguero, Costa Rica. 31 de agosto al 4 
+
+de septiembre del 2008
+
+Formulario Registro de Monitoreo de Playas de Anidamiento de Tortugas Marinas
+
+País
+
+Vertiente
+
+Lugar Área protegida - región, municipio  PNN Gorgona 
+
+Playa Nombre de la playa monitoreada Playa Palmeras
+
+Longitud de la playa
+2° 55’ 45’’ - 3° 00’ 55’’N y 78° 09’ - 78° 14’ 
+
+Coordenadas inicial Donde inicia el área de estudio 30’’W 
+2° 55’ 45’’ - 3° 00’ 55’’N y 78° 09’ - 79° 11’ GPS Mapa (Escala)
+
+Coordenadas final Donde termina el área de estudio 12’’W GPS Mapa (Escala)
+
+Responsable del proyecto Quien suministra la información Carlos Garrido 
+
+Información Contacto Correo electrónico, teléfono, fax, dirección
+
+Organización Entidad /institución
+
+Longitud del transecto Distancia entre mojones o postes
+
+            Desove # Huevos Desovados
+
+LCC 
+Localización (cm) 
+
+Fecha (Día/ Marca Marca 
+(sector de Especie (Min Si No Desconocido Verdadero Vano
+
+Mes/ Año) izquierda derecha
+playa) o 
+
+Std)
+
+19/04/2008   E.   70          
+imbricata  
+
+N    
+
+Promedio    
+
+Desv. Est.    
+
+Max    
+
+Min    
+
+Lugar Incubación     Resultados de exhumación
+
+Observación
+Ex # neonatos # neonatos # huevos 
+
+In Ex situ Num. De # de % Exito % Éxito Neonatos 
+situ en dentro del sin 
+
+situ vivero Nido cascarones eclosión emergencia liberados
+playa superficie nido eclosionar
+
+     
+                 
+
+N              
+
+Promedio              
+
+Desv. Est.              
+
+Max              
+
+Min              
+
+
+
+Formulario único para el registro y seguimiento de nidos de tortugas marinas
+
+Código de Ingreso 1050Número interno de ingreso a base de datos 
+Registro 34-2008Número de formulario diligenciado
+Lugar PNN Gorgona Área protegida - región, municipio  
+Playa Playa PalmerasNombre de la playa monitoreada
+Coordenadas inicial 2° 55’ 45’’ - 3° 00’ 55’’N y 78° 09’ - 78° 14’ 30’’WDonde se inicia el monitoreo 
+Coordenadas final 2° 55’ 45’’ - 3° 00’ 55’’N y 78° 09’ - 79° 11’ 12’’WDonde termina el monitoreo
+Responsable Carlos Garrido Quien toma la información 
+
+(marque con una X) 
+
+Relocalización ex situ  
+
+Relocalización ex situ en 
+corral  
+
+Seguimiento in situ X
+
+Formulario de registro de nidos
+Fecha (Día/ Hora siembra Especie Marca / GPS Prof.inicial- Prof. final- Fecha Días de # 
+Mes/Año) (24h) original (cm) trasladado (cm) eclosión incubación huevos
+19/04/2008 2:00 L.o. WQ4543 45 45 07/06/2008 48 90
+
+                 
+                 
+                 
+
+#  huevos # neonatos # neonatos % Eclosión % Emergencia Observador Observaciones
+eclosionados emergentes liberados (nombre/ apellido)
+
+85 70 70 94 78 Pepe García  
+             
+             
+             

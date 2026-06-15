@@ -1,0 +1,2202 @@
+﻿REef REsources Assessment Tools
+
+uNDERwATER vISuAL FIsH
+CEnSuS SuRvEyS
+
+Proper use and implementation 
+
+Pierre Labrosse, SPC Principal Reef Fisheries Scientist, Noumea
+Michel Kulbicki, IRD Research Officer, Noumea
+
+Jocelyne Ferraris, IRD Research Officer, Noumea
+
+Secretariat of the Pacific Community 
+Noumea, New Caledonia 
+
+2002
+
+This document has been produced with the financial assistance of the European Community and France.
+
+The views expressed herein are those of SPC and can therefore in no way be taken to reflect the official opinion of 
+the European Community and France.
+
+
+
+© Copyright, Secretariat of the Pacific Community (SPC), 2002
+
+Original text: French
+
+Secretariat of the Pacific Community cataloguing-in-publication data
+
+Labrosse, Pierre
+Underwater visual fish census surveys: Proper use and implementation by
+Pierre Labrosse, Michel Kulbicki and Jocelyne Ferraris
+
+(REAT: Reef resources assessment tools)
+
+I. Fish stock assessment - Oceania - Handbooks, manuals, etc
+2. Diving--Handbooks, manuals, etc
+
+I.Title  2. Secretariat of the Pacific Community 3. Series 4. Kulbicki, Michel 5.
+Ferraris, Jocelyne
+
+ISBN 982-203-878-X AACR2
+
+Secretariat of the Pacific Community
+BP D5
+
+98848 Noumea Cedex
+New Caledonia
+
+Telephone: +687 26 20 00
+Facsimile: +687 26 38 18
+
+Email: spc@spc.int
+http://www.spc.int
+
+Prepared for publication and printed at the Secretariat of the Pacific Community
+Noumea, New Caledonia
+
+ii
+
+
+
+TABLE OF CONTENTS
+ACKNOWLEDGEMENTS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .V
+
+FOREWORD  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .VI
+
+I - INTRODUCTION  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1
+I.1 - Why assess resources?  Assessment and management . . . . . . . . . . . . . . . . .1
+I.2 - What kinds of assessment methods are available to fisheries 
+
+management personnel?  Role of underwater visual census surveys . . . . .2
+
+II - BACKGROUND INFORMATION ON UNDERWATER VISUAL FISH 
+CENSUS SURVEYS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .5
+II.1 - Basic principles  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .5
+II.2 - Which types of data for exactly what kind of information?  . . . . . . . . . . . . .6
+
+II.2.1 - Status of fish stocks  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .7
+II.2.2 - Environmental factors  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .10
+
+II.3 - Sources of error  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .11
+II.3.1 - Sources of error due to the diver  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .11
+II.3.2 - Sources of error due to fish  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .13
+II.3.3 - Sources of error due to sampling  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .13
+
+II.4 - How to limit sources of error  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .16
+II.4.1 - Observer training  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .16
+II.4.2 - Basic rules for designing sampling surveys and selecting transects
+
+or stationary points . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .20
+
+iii
+
+
+
+III - SETTING UP VARIABLE DISTANCE UNDERWATER VISUAL FISH
+CENSUS SURVEYS  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .26
+III.1 - Review of safety rules for diving work  . . . . . . . . . . . . . . . . . . . . . . . . . . . . .26
+III.2 - Equipment  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .28
+III.3 - Transects  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .29
+III.4 - Stationary points  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .33
+
+IV - USING THE DATA COLLECTED  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .37
+IV.1 - Entering and formatting data  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .37
+IV.2 - Calculating densities, biomass and stock (numeric and weighted)  . . . . . .37
+IV.3 - Calculating the accuracy of density and biomass estimates . . . . . . . . . . . .40
+IV.4 - Mean composition of substrate and living organism cover  . . . . . . . . . . . .42
+IV.5 - Initial analysis of results  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .42
+
+IV.5.1 - Comparing results  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .42
+IV.5.2 - Correlations between fish and environmental factors  . . . . . . . . . . . . . .45
+
+V - CONCLUSIONS  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .47
+
+APPENDICES  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .49
+Appendix 1 - Outlines of the major fish families that are of food 
+
+and/or commercial interest  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .49
+Appendix 2 - List of fish species that are of food and/or commercial interest  . . . . .50
+Appendix 3 - Fish census record sheet  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .51
+Appendix 4 - Environmental factors record sheet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .52
+
+TO FIND OUT MORE …  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .53
+
+iv
+
+
+
+ACKNOWLEDGEMENTS
+This handbook is the result of a team effort and so we would like to thank all those who
+
+contributed to it.
+
+The SPC Publications Section played a major role in this work. Our warm thanks to
+Muriel Borderie who handled the lay out, Jipé Le Bars who designed its illustrations and
+Kim Des Rochers who edited the manuscript.
+
+We should not overlook the proof-readers, who made significant improvements to the
+manuscript: Marie-Thérèse Bui, Ben Ponia and Sheryl Mellor and Gilles Kaboha who
+translated the handbook into English.
+
+Finally, we would like to express our special thanks to Mireille Harmelin-Vivien who gave
+us permission to take our inspiration from a document about underwater visual census
+surveys published in 1985 (see ‘To Find Out More…’ section).
+
+This document is dedicated to Pierre Thollot.
+
+v
+
+
+
+FOREWORD
+
+T his document is the first in a series of publications that respond to requests from fish-
+ery services in Pacific Island countries and territories for tools and practical advice on
+
+implementing reef fish resource assessment methods. This series is open to all authors and
+is part of a process of standardising assessment and monitoring methods for reef and
+lagoon fishery resources and activities at the regional level.
+
+A variety of manuals and publications have dealt with underwater visual census survey
+methods and their applications, as well as data processing and analysis. For this reason, this
+handbook will simply review their major aspects. Its main purpose is to introduce an
+underwater visual census survey method that has been developed and enhanced by the
+French Institute of Research for Development (IRD). This method has been tested in a
+number of different locations, including New Caledonia,Tonga and Fiji Islands. It can also be
+adapted for and has applications in the assessment of invertebrate resources.This booklet
+is a companion document to the ReACT-FishUVC software, which makes it possible to
+both enter the data acquired during surveys using this method and carry out initial calcula-
+tions on them.
+
+vi
+
+
+
+I - Introduction
+
+I.1 – Why assess resources? most part, fragile due to their scarcity or
+Assessment and management their biological and ecological characteristics.
+
+Due to their high market value, reef fisheries
+
+Asteady rise in many Pacific Island popu- are also prone to destructive practices (e.g.
+lations, particularly those in urban areas cyanide or dynamite fishing), which endanger
+
+and capitals, is causing an ever-increasing fishermen, coral reefs and their inhabitants.
+demand for protein. Given the limited land
+available to small islands and the developing Despite the risks inherent in such activities,
+nature of most island economies, it is unlikely reef resources represent a source of nutri-
+that this nutritional demand will be satisfied tion and income and a significant develop-
+by either agriculture or imports in the near ment opportunity for Pacific Island countries.
+future. Pressure on fisheries, especially These communities and their governments
+nearshore reef fisheries, will inevitably must try to balance conflicting demands,
+increase. development, and maintain ecological integri-
+
+ty; however, available information and
+In addition to local needs, there is a growing resources are still insufficient.
+demand in Asia and other areas for speciality
+reef fishery products, and Pacific Island Managing means looking ahead. Managing
+exporters are finding new markets on a reg- also involves adapting existing resources to
+ular basis. One such example is the market meet the objectives set for the medium- or
+for live reef food and aquarium fish. As with long-term (i.e. beyond three years). Good
+all fishing, exploitation has an effect on the management practices are based on having
+reef ecosystem, but the potential risks from as much information as possible about the
+this particular fishery are quite high.This context and environment the practices will
+market demands species that are, for the be applied to. For that reason, data collection
+
+1
+
+
+
+methods that make it possible to describe as Acquiring this information involves:
+closely as possible the situation at a given 1) designing sampling strategies that provide a
+point in time, must be determined. Ideally, as reliable picture of the resource for an
+part of the precautionary approach, acceptable level of effort both in terms of
+management plans should be designed from cost and time; and
+baseline information and include monitoring 2) implementing adequately tested methods
+measures so that action can be taken to provide high quality information that can
+whenever human-induced changes become be compared in both space and time,
+noticeable. thereby allowing reliable measurement of
+
+any changes that occur.
+This information should include:
+
+I.2 – What kinds of assessment
+estimates of total and exploitable fishery methods are available to
+stocks; fisheries management personnel?
+
+Role of underwater visual
+analysis of the main structures of these census surveys
+populations (size, trophic and population
+structures);
+
+Many types of reef and lagoon resource
+assessment methods exist. None of them
+
+the health status of the reef and associat-
+are perfect and all have advantages and dis-
+
+ed ecosystems; and
+advantages. They all have one point in
+common: they are based on the study of a
+
+a good grasp of the dynamics of the fishery.
+section or subgroup of the population in
+question. For that reason, they require the
+use of sampling techniques, which can be
+
+Such information should make it possible divided into three categories: capture
+to adapt management measures to each methods, mixed methods and non-capture
+new situation encountered. methods.
+
+2
+
+
+
+Capture methods mainly involve record- ture methods. In particular, they include
+ing information on fish captured in traps capture-tag-recapture methods, which are
+(and, more generally, with bait), in nets by difficult to assess qualitatively or quantita-
+trawling, and with lines. These methods are tively. On the other hand, mixed methods
+based on an analysis of the catch per unit are very effective in determining age,
+of effort (CPUE), which is considered to be growth, movement and behaviour in reef
+an index of the study population’s density. fish populations.
+Capture methods can be used at any time
+and at considerable depths. Moreover, they Due to hyperdiversity1 and the wide
+can be implemented on a wide scale and at range of reef and lagoon environments,
+low cost using scientifically unskilled staff. capture methods are often inadequate.
+On the other hand, gear design and selec- The most effective capture method is
+tivity, the effect of baits, and the capturability destructive and/or disruptive (e.g.
+of certain species are all factors that have dynamite, rotenone), but can occasionally
+an effect on the comprehensiveness and be useful for calibrating methods based
+accuracy of these methods, which remain on observation. This justifies the
+low to moderate. One exception, however, development of true non-capture or
+is fishing with explosives or poisons (e.g. ‘fishery independent’ methods,
+rotenone), which gives comprehensive which include visual censuses and
+results, particularly in terms of species rich- hydroacoustic techniques.These two
+ness, but whose destructive effects are a techniques are especially useful for
+major disadvantage, particularly for repeat- assessing pelagic or semi-pelagic fish
+ed sampling. stocks comprising a limited number of
+
+species.They are, however, poorly adapted
+‘Mixed’ methods are somewhere to highly diverse benthic populations,
+between capture methods and non-cap- although certain applications are possible,
+
+1 The term ‘hyperdiversity’ refers not only to very high species diversity, but also to very high diversity of biotopes, ecological niches,
+behaviours, genomes and uses.
+
+3
+
+
+
+particularly for behavioural studies.The measure fish and invertebrate
+clarity of tropical water is a factor that has abundances.They were then used to
+contributed to the growing use of on-site study the dynamics of exploited and
+visual assessments.These methods are unexploited populations, and the ecology
+also more comprehensive, more accurate and management of natural resources and
+and non-destructive. Underwater visual environments.The use of UVC requires
+censuses (UVC) were first used to qualified and trained staff.
+
+Summary of the various sampling method categories
+
+Sampling techniques Quality of data Needs
+Comprehen- Accuracy Coverage Bias linked to Staff training Costs
+
+siveness life cycle
+
+Capture Low* Low to High Yes Low Low
+moderate
+
+Mixed (combined) Low Moderate Moderate Yes High High
+
+Non-capture High High Low No High Moderate
+
+* except for explosives and poisons
+
+4
+
+
+
+II - Background information on
+underwater visual fish census surveys
+
+II.1 – Basic principles 3. the diver’s physiology in the aquatic
+environment, in the case of
+
+underwater visual census methods are snorkeling. In those cases when they
+based on on-site visual counts of are not able to conduct the census
+
+organisms. Census methods can be done from the surface, observers are
+in a variety of ways, the most common of limited by their inability to remain
+which is by either snorkelling or scuba div- underwater without breathing. Use of
+ing. In certain instances, cameras, video scuba equipment involves depth and
+cameras or submersible gear can be used time limits that cannot be surpassed
+to get around the constraints linked to without endangering the diver. Divers
+sampling by divers. are also limited by their inability to
+
+withstand cold and fatigue.
+Use of underwater visual censuses is limit-
+ed by: For all these reasons, underwater visual
+1. visibility, which must be adequate to censuses involving snorkelling or scuba are
+
+record useful information. If the water best carried out in clear, calm and shallow
+is too turbid (e.g. around rivers estuar- water (generally between the surface and a
+ies, mangroves, mining areas, etc.) depth of 20 m).
+and/or there is minimum light (e.g.
+during night diving, or limited light pen- Censuses can be conducted in three ways:
+etration into the water), this method is along random paths (chosen by chance),
+difficult, if not impossible, to use; using quadrats (grids moved along a tran-
+
+2. the state of the ocean and, more sect by divers) or transects, or from sta-
+generally, weather conditions; and tionary points. Only the latter two fish
+
+5
+
+
+
+census methods are discussed in this man- II.2 – Which types of data for exactly
+ual; the other method is rarely used and what kind of information?
+can generate other problems related to
+resource assessments. The data collected and the sampling strate-
+
+gy used determine the type of information
+A transect is a rectangular area whose that can be obtained. This can differ accord-
+length and width is clearly defined.The cen- ing to whether a qualitative or quantitative
+sus, or count, is carried out within the inventory of fisheries resources is required.
+boundaries of the transect, which is general-
+ly denoted out by a flexible graduated tape Information of interest to reef fisheries
+measure, which is rolled out on the seafloor. management can be divided into two
+Counting is conducted on either side of this categories.
+tape within a set area. This is one of the 1. The state and size of food and/or
+most commonly used methods, and is well commercial fish stocks, or those of
+suited to population studies, particularly interest due to their ecological
+those assessing fisheries resources for com- aspects (biological indicator). This
+mercial or food purposes. includes analysis of the populations’
+
+structure.
+Censuses can also be done by counting 2. The state of the reef habitat, which
+from stationary points. In this case, the supports the resource, including
+observer begins counting from a deter- associated living organisms.
+mined point while slowly turning in a circle.
+This method is quicker than laying a tran- This information is mainly designed to:
+sect. It is particularly recommended for 1. make it possible to carry out compar-
+studying a species or small group of isons in space (resource location and
+species, especially in very heterogeneous determination of its characteristics
+environments, and for isolated complex depending on site, biotope or zones
+structures or large-size formations (coral subject to unequal fishing pressures)
+heads, large boulders). and/or time (resource monitoring,
+
+6
+
+
+
+changing trends and detecting by fishing activities and so, in certain cases,
+changes); and are a reflection of fishing intensity.
+
+2. determine correlations between the
+resource and its environment. Counting can be conducted in a fixed rec-
+
+tangular area (transect) or a circular area
+II.2.1 – Status of fish stocks2 (stationary points), where respective
+
+a – Identifying and counting species lengths, widths or diametres have been
+Identifying and counting species provides previously determined (fixed distance
+an estimate of species richness (i.e. the counting). The observer counts the fish
+number of species), particularly for envi- within the area laid out. For a given
+ronmental inventories. This can be limited species, the estimate of the mean density
+to a sector of the population for food D on a transect of width d and length L is
+and/or commercial purposes or else can expressed as:
+be conducted from an ecological point of
+
+p
+view.This is an important parameter to
+consider. Any appreciable attack on the Σni
+
+D = i=1     where ni: number of fish seen
+environment, such as the destruction of Ld
+coral, usually brings about a decrease in
+species richness, which is an indication of In the case of stationary points, density is
+biodiversity (i.e. number of species, and expressed as:
+their percentage in the population).
+
+p where ni: number of fish seen
+b – Counting individuals Σni r : radius chosen for observation.
+Individuals are counted to estimate abun- D = i=1     
+
+Πr2
+
+dance (number of fish) and density (the
+number of fish per surface area unit) (e.g.
+individuals per square metre). Abundance
+and density are factors that can be affected
+
+2 The term ‘stock’ is not used in the fisheries sense but rather as a definition of the quantity (in numbers or weight) of fish that
+exists in a given environment. 7
+
+
+
+Correctly estimating densities by this afterwards. The observer assesses and
+method assumes: records the perpendicular distance of fish
+
+the observer does not overlook any as viewed from the transect or stationary
+fish in the set surface area, an unat- point. In the case of schools of fish, two
+tainable but desirable goal; and distances are taken into consideration: the
+individuals are counted only once distance from the transect (or stationary
+(see Section II.3). point) to the fish closest to it; and the dis-
+
+tance from transect (or stationary point)
+This method should especially be used for to the fish farthest away from it.
+counting populations of fairly sedentary
+fish (where there is a low risk of error As with the first method, correct estima-
+due to rapid individual movement).This tion of density is based on certain
+method tends to bring about an under- assumptions.
+assessment of density and biomass. The 1. Fish are not counted twice;
+width selected for a transect also has an 2. The fish’s distance is determined at
+effect on results. The wider the transect, the position where it was first
+the lower the density estimate, which is observed;
+logical given that the farther away fish are, 3. The probability of detecting fish with-
+the less chance they have of being in the transect is equal to 1, which
+observed. This relationship varies accord- means it is presumed that all individ-
+ing to species and groups of species, and uals along the tape measure have
+is fairly significant for large individuals and been seen and counted.
+more mobile species. This method provides good coverage for
+
+less mobile species and also limits errors
+Counting can also be conducted by taking due to rapid movements or fish fleeing
+into account the fish’s distance from the when encountered during fixed-distance
+transect or stationary point at the time of counts (see Section II.3.2). For this rea-
+observation (variable distance counting). son, it is better adapted to resource
+In this case, surface areas are calculated assessment.
+
+8
+
+
+
+BASIC CONCEPTS OF
+THE SAMPLING-BY-DISTANCE THEORY
+
+Counting individuals while estimating their distance from the transect or stationary point is
+based on the fact that not all detectable fish are necessarily seen.  It is founded on the theo-
+ry that detectability — the probability of detecting a fish — decreases with observation dis-
+tance.  In other words, the farther away from the transect or stationary point an individual
+is, the lower the chances are that it will be observed.  Calculating densities depends on the
+detectability function g(x).  From these observations, it is possible to extrapolate for a given
+species, family or population, a curve showing the probability of sighting the fish based on
+its distance from the transect.  Estimated density D is expressed as follows:
+
+p
+
+Σni dmax
+
+D = i=1     where a =  g(x)dx
+La 0
+
+ni : number of fish
+L: length of transect 
+dmax: perpendicular distance from the transect to the limit of detectability
+
+c – Assessing individual size stock present in the environment:
+Size assessment allows estimation of: total weight for a given sampled area.
+
+mean sizes;
+mean weights (from existing As with abundance and density, mean fish
+size–weight ratios); sizes and biomasses are parameters that
+biomass, which is fresh weight per are affected by fishing activities, particular-
+surface area unit (e.g. g/m2 or kg/ha); ly with regards to the most heavily target-
+this is calculated using the individual ted species. For example, in the specific
+mean weights and abundances; case of untouched, or unexploited stock,
+
+9
+
+
+
+the introduction of fishing activities will a – Constant factors (or those that vary
+rapidly lead to a decrease in mean size only slightly)
+and biomass for the largest and most Location of the site (geographic
+long-lived species. coordinates + name of site and pos-
+
+sibly landmarks)
+II.2.2 – Environmental factors Type of environment or biotope
+
+Depending on the research question and (barrier, intermediate or fringing reef)
+the resources available to observers, one Reef section (slope, forereef, etc.)
+or more environmental factors can be Prevailing wind direction
+recorded. The morphology of the study Depth (min. and max.)
+area has an effect on the population’s Substrate
+organisation, so it is particularly important Type of activity (e.g. regulated or
+to determine the relationships between unregulated fishing area, reserve, eco-
+habitats (substrate, covering organisms, tourism site)
+etc.) and the parameters that describe
+the resource (species richness, density, b – Variable factors
+biomass). Date and time (beginning and end)
+
+Visibility
+Environmental factors can be divided into Current
+two categories: constant factors and vari- Salinity
+able factors. Water temperature
+
+Substrate-covering organisms
+Associated organisms (invertebrates)
+
+10
+
+
+
+SUMMARY TABLE
+DATA INFORMATION
+
+Number of species Species richness
++
+
+Number of individuals Density
+and allowance for distances
+
+(fixed or variable)
++
+
+Size estimates Mean sizes,
+mean weights,
+
+biomass
+
+Fish/habitat    correlations
+
+Environmental factors:
+- constant Mean substrate composition
+- variable Living organism cover
+
+II.3 – Sources of error minimising them, and taking them into
+account during analysis and interpretation
+
+No assessment method is perfect of the results.
+and underwater visual censuses also
+include sources of error. Errors mainly II.3.1 – Sources of error due to the diver
+come from one of three sources: the These can be linked to the observer,
+observer, fish behaviour, and the and/or to interactions between observers
+sampling method. Understanding these and fish. The methods used can also be a
+sources of error is vital for both source of error.
+
+11
+
+
+
+a – Errors caused by the observer fish). As a result, environmental, psycholog-
+Due to diving time limits and the often shy ical, and physical conditions of observers’
+nature of the animals surveyed, observers work should have as little influence on
+must be able to record information as them as possible. This means that
+quickly as possible, and rapidly identify and observers should master diving techniques
+estimate sizes and distances with a reason- and not be subject to disturbances that
+able level of accuracy. The slightest hesita- reduce the acuity of their eyesight and/or
+tion will result in a loss of data. Observers their motor skills.
+may pay more attention to one group of
+fish or a part of the population that inter- b – Observer – fish interaction
+ests them more, and this also constitutes a Such interactions mainly involve changes
+systematic error. Observers may also have in fish behaviour due to the diver’s pres-
+a tendency to over or underestimate sizes ence. These changes vary and may result
+and/or distances. Moreover, there is always in either the fish fleeing away from, or
+a risk of counting the same fish several being attracted to, the diver. For example,
+times. Finally, in the case of variable dis- some species, such as those from the
+tance counts, consideration must be given Plectropomus (coral trout) genus, tend to
+to the fact that fish detectability tends to be attracted to observers and follow
+increase with size for almost all species, and them around. In contrast, spangled
+with the size of the school for certain fish emperors (Lethrinus nebulosus) tend to
+(number of individuals in a school). keep away by remaining at the limit of vis-
+
+ibility. Such behaviour also depends on
+Hesitation, inattention or paying too much the individuals’ activity cycle (diurnal vs
+attention to a certain area, are all increased nocturnal), age and location. The simulta-
+when the conditions under which the cen- neous trajectories of the fish and observ-
+sus is being conducted worsen (e.g. due to er can bring about either negative or pos-
+strong currents, fatigue or cold) or when itive biases in size estimation, depending
+the quantity of information to be recorded on whether they are swimming in the
+is too great (too many species, too many same direction or in opposite directions
+
+12
+
+
+
+with an angle of vision that differs more it is difficult to make a comprehensive
+than 90° from the transect. assessment of fish populations. It should
+
+also be noted that populations seen and
+The diver’s movement as well as the sampled only account for a portion of all
+method used, also has an influence on fish the species that live in the study area.
+behaviour (e.g. the noise from air bubbles
+coming out of scuba diving equipment). The various biological and ecological char-
+Regular visits to a site, particularly for mon- acteristics of fish influence measurements
+itoring, tend to decrease attraction or flee- and estimates. Any interpretation of results
+ing reactions, thus minimising these biases. must take into account that not all species
+
+are perceived (and therefore estimated) in
+II.3.2 – Sources of error due to fish the same way.
+
+The main sources of error due to fish
+come from the distribution of species in II.3.3 – Sources of error due to sampling
+time and space. This depends on different Most sampling errors arise because results
+parameters associated with habitat, behav- depend not only on the elements (all tran-
+iour and activity cycles. sects or stationary points) that make up the
+
+sample (n), but also on the method itself.
+Certain sedentary species living in rock or
+coral crevices during the day, coming out A sample is a limited subset of a popula-
+only at night, may not be detected by tion, from which the results obtained from
+observers. The same is true for those fish the observed data are based. For techni-
+that only come out of their hiding places cal, economic or simply logistical reasons
+briefly, or those that are highly mobile or (destruction of specimens, as when fish are
+which colonise certain biotopes during cer- caught by experimental fishing), it is nor-
+tain seasons. The probability of encounter- mally not possible to collect data on the
+ing species and thus being able to count entire population. Study of a limited set
+them, is influenced by their behaviour and makes it possible to increase both the
+their home range or territory. This is why number of measurements and their degree
+
+13
+
+
+
+of accuracy. Extrapolation of the findings study period). Samples that are not taken
+obtained from sampling generally results in according to a strict sampling plan (random
+estimates for the entire population, which or reasoned) will not be representative of
+have a reasonable level of acuracy. If two the target fish population. The sample is
+samples composed of a given number of considered to be equal to the statistical
+elements (set of transects or stationary population (n=N).
+points) are observed, the measurements
+calculated for each will be different, but will A transect’s position and orientation can
+result in comparable estimates of popula- be considered sources of error associated
+tion parameters.The statistical population with sampling. It is better to have a tran-
+is defined as all the N elements from sect that covers an homogeneous environ-
+which conclusions are based (i.e. the N ment, rather than one covering several dif-
+surface area units corresponding to all pos- ferent environments. Transitional areas
+sible transects in which censuses can be between different biotopes should, there-
+conducted in the selected zone during the fore, be strictly avoided.
+
+IN BRIEF
+
+Total error = 
+
+observation errors (due to the observer)
+
++ target population coverage errors 
+(due to observer – fish interactions and to fish)
+
++ sampling errors 
+(systematic error + random error)
+
+14
+
+
+
+REMEMBER…
+The accuracy of population estimates depends on the size of the sample (number of transects) and variability (dif-
+ferences between the measurements for each transect).This variability in individual measurements or random error
+(dispersion) must not be mistaken for systematic error (bias).
+
+In the figures below, the centre of the target represents the parameter to be estimated and the black dots corre-
+spond to measurements made in the transect. Four model situations are given:
+
+Low bias Low bias High bias High bias
+Low dispersion High dispersion Low dispersion High dispersion
+
+Lack of accuracy can be linked to high bias and/or high dispersion.The ideal situation is shown in the
+first picture (low bias, low dispersion).
+
+Sampling-related bias can be reduced by randomly selecting sample elements.
+
+Errors in observation and representativity do not decrease when the size of the sample increases.
+
+Dispersion depends on the population’s heterogeneity. It is measured by variance.
+
+When dispersion is high (i.e. there are significant differences between transects), better estimates will
+be gained by stratifying the population (e.g. by biotope).
+
+15
+
+
+
+II.4 – How to limit sources of error Acanthuridae (surgeonfish)
+Siganidae (rabbitfish)
+
+II.4.1 – Observer training Kyphosidae (drummer, chub)
+While it is relatively difficult, if not impossi- Holocentridae (squirrelfish)
+ble, to minimise errors due to fish, it is eas- Haemulidae (sweetlips)
+ier to limit those due to observers through Chaetodontidae (butterflyfish), act as
+proper mastery of diving and counting ecological indicators of coral reef
+techniques. This comes about through fol- health and can also be added to this
+
+lowing certain rules during on-site use of list.
+
+the method (see Section III) and by keep-
+ing in mind that divers should have regular The first key to identifying fish is their
+
+training to minimise errors caused by poor shape, which is generally the same for
+
+diving techniques. almost all the species in a given family
+(Appendix 1).
+
+a – Identifying fish
+This is the first step of training. Most reef The visual morphological characteristics
+
+fish of interest for marketing and/or con- that identify a species within a family are
+
+sumption belong to about 15 families, the shape, colour of markings, and any dis-
+
+main ones are listed below. tinctive traits such as spots, lines or
+Serranidae (grouper, rockcod, stripes, and their location on the body
+seabass) and/or fins. Behaviour and preferred
+Carangidae (trevally, jack) biotopes are also useful information for
+Lutjanidae (snapper and seaperch) identification.These must all be learned
+Caesionidae (fusiliers, bananafish) and memorised, which is perhaps the
+Lethrinidae (sea bream and most tedious part of training. The
+emperor) appearance of some fish changes over
+Mullidae (goatfish) the life cycle; for example, many wrasse
+Labridae (wrasse) and parrotfish have different coulours
+Scaridae (parrotfish) during their juvenile and adult phases.
+
+16
+
+
+
+In the same way, colours for a single b – Counting individuals
+species can differ according to sex. Difficulties counting fish are mainly due to the
+Parrotfish are a good illustration. limitations of the human eye, which can only
+
+count four objects at any one time.
+Training in fish identification involves Moreover, precise counting cannot be carried
+classroom-learning using available tools out on more than 10 to 20 individuals in the
+(see ‘To Find Out More’ section), and on- case of a relatively sedentary school. Taking
+site exercises during dives. In order to into account these limits, and in order to
+avoid confusion over the use of common compensate for them, the most commonly
+names, it is preferable to use each used technique for counting schools is the
+species’ scientific name, which is always so-called group-counting method.This con-
+made up of a genus name (e.g. Lethrinus, sists of counting a ‘group’ of 10 to 20 fish.This
+the genus name for certain breams and group becomes the basic counting unit and
+emperorfish) followed by a species name the observer judges how many groups there
+(e.g. nebulosus; thus forming the name are in the entire area occupied by the school
+Lethrinus nebulosus, or spangled emperor). of fish. For large schools (> 200 individuals),
+In practice, it is best to begin learning it may be useful to combine groups into
+about 50 species that are easily identifi- super-groups, containing 5 to 10 base groups.
+able. A list of fish, which are of food and
+commercial interest, is given in Appendix In more complex instances where a school
+2. If fish from a certain family cannot be of fish is made up of several different
+precisely identified during a dive, the species (multispecies school), observers are
+observer must be able to rapidly note its encouraged to begin counting the most
+main features (e.g. shape, colours, mark- abundant (or most numerous) species. The
+ings) so as to identify it through books same applies to schools with a range of
+afterwards. The use of simple sketches to sizes. During training, taking photographs is
+illustrate and record specific marks on a good way to evaluate errors made, and to
+the body is invaluable. find out at what level they occurred.
+
+17
+
+
+
+c – Estimating individual sizes Once back on land, the diver’s estimates are
+In order to obtain acceptable results, size compared with the real sizes; this compari-
+estimates must reach a certain level of accu- son allows the diver’s performance to be
+racy.The relative difference in sizes must not evaluated and shows how much progress
+be more than 20% and should be closer to has been made. The simplest way is to
+10% whenever possible. Numerous factors make a dot graph with the various estimat-
+can affect estimates, including the magnifying ed values recorded on the ‘y’ axis, and the
+effect of water (or mask magnification), the real sizes of the cut-outs on the ‘x’ axis. The
+angle the fish is viewed from, water clarity,
+and the fish’s shape. Visual effects linked to 
+
+the shape of fish
+One of the most commonly used training
+methods consists of making cut-outs of fish These fish are the same in length and yet the
+of various shapes and sizes corresponding bottom one appears longer!
+to the main families to be assessed (see
+Appendix I). These cut-outs can be easily
+made using marine plywood or PVC. They
+are attached to a 150 m weighted line
+dropped in the water and moored at both
+ends. The sizes of the cut-outs must cover
+the entire range of likely fish lengths, from
+10 to 100 cm. The diver swims along the
+line at a preset distance (generally three Acanthuridae
+
+metres at the beginning of training). He
+then notes the number, and estimates the
+size of each cut-out. At the beginning of
+training, a few reference cut-outs, with the
+true size indicated, can be used as reference
+points for estimating the sizes of the others. Mullidae
+
+18
+
+
+
+dots should adhere as closely as possible to Calibration line used to measure 
+the straight line where ‘x’ is equal to ‘y’, (i.e. an observer’s ability to estimate sizes.
+where the estimated values correspond to
+the real values). Dots situated above this
+straight line show that the observer overes- 100 -
+
+timated the sizes of the cut-outs. On the 90 -
+
+other hand, when the dots are below the Overestimated sizes
+80 -
+
+line, the diver has understimated the sizes.
+Generally, it is not useful to analyse each 70 -
+
+separate dot, but rather to note the overall 60 -
+
+trend in order to see whether the observer 50 -
+has a general tendency to overestimate or
+
+40 - Underestimated sizes
+underestimate sizes and in which range this
+occurs. Observers may make preferential 30 -
+
+errors, such as systematically underestimat- 20 -
+ing the size of larger fish while correctly esti-
+
+10 -
+mating the sizes of smaller ones. 10 20 30 40 50 60 70 80 90 100
+
+Real sizes (in cm)
+To go into further detail, performances can
+
+The results of observations recorded on this
+be subjected to statistical analysis (t test on graph must come as close as possible to the
+the correlation between estimated sizes straight line.
+and real sizes). In order to ensure a correct
+estimate of fish sizes, training must be d – Estimating distances (in the case of
+repeated until reported sizes are close variable distance counts)
+enough to real sizes (margins of error As with sizes, observers must pay careful
+under 20%). For confirmation, a few fish attention when estimating distances
+can be caught during sampling campaigns, because water has a tendency to magnify
+measured and their sizes compared with objects. Water clarity can also lead to
+estimates. assessment errors. For that reason, when
+
+19
+
+Estimated sizes (in cm)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+
+
+the water is clear, there is a tendency to II.4.2 – Basic rules for designing sampling sur-
+underestimate distances, whereas distances veys and selecting transects or 
+are overestimated in turbid waters. stationary points
+
+Training in estimating distances perpendicu- A. Methodological approach
+lar to the transect can be conducted by It is difficult, if not impossible, to eliminate
+laying out two tape measures. These all the problems associated with sampling.
+measures serve as reference points at pre- A successful sampling campaign comes
+determined distances on either side of the from following a methodological approach
+transect, along with objects whose distance comprised of specific stages.
+from the transect is also known… to
+everyone but the diver in training. As with a) Thorough planning
+fish sizes, results obtained by observers can The planning phase is indispensable for
+be compared with the real distances. The determining justifiable choices. Proper plan-
+exercise can be repeated, taking into ning allows bias to be minimised, increases
+account errors (under or overestimation) the study’s accuracy, and avoids problems
+until the margin of error is reduced. associated with sampling, which are too
+
+often only noted once data have already
+The ability to correctly estimate sizes been collected.
+and distances decreases with time; for
+that reason, training or sampling The best way to validate
+
+must be carried out on a regular basis so as measurements and verify data is 
+to maintain an acceptable level of to use and interprete them!
+performance.
+
+The planning phase must answer the fol-
+lowing questions:
+
+Which exact organisms will be
+observed  in order to respond to
+the problem? For example, this can
+
+20
+
+
+
+involve counting all the fish or only Which measurement method
+counting those fish of commercial should be used? In our case, this
+interest; involves the underwater visual census
+Which approach should be used? survey method.
+The approach can be experimental Which type of sampling strategy
+(the cause of the phenomenon to be should be selected? This can involve
+studied is induced, by closing and a simple random sampling, one which
+opening a fishing area) or descriptive is stratified by biotope, systematic,
+(the phenomenon is described etc.
+through sampling the study popula- Which parameters are to be esti-
+tion: this is the case for sampling in mated? This can be the mean or
+areas subject to different fishing total of a quantitative variable (num-
+intensities); ber of fish, density, biomass), or the
+What constitutes the basic element percentage of a qualitative variable
+on which observations will be (% of species), etc.
+made? In our case, this means either
+transects or stationary points. b) Acquiring high quality data
+What is the study population? This This depends on how collection is carried
+covers all the elements (transects or out and on the sampling strategy.
+stationary points) and is defined by
+four factors: its nature (e.g. transect), c) Rational use of the data
+specific characteristics (e.g. transect This includes processing and interpretation
+length), location (e.g. southwest but also the conclusions/decisions and the
+lagoon) and the date on which it is result formulation phase.
+observed (e.g. August 2001);
+Which variables should be consid-
+ered? These are the element’s attrib-
+utes. Variables can be quantitative Planning for both sampling and data
+(e.g. number of fish in the transect, processing must be carried out
+fish size, density, biomass) or qualita- simultaneously so as to better justify
+tive (fish species). ‘why’ and ‘how’ the collection will be made.
+
+21
+
+
+
+B. Sample size observation (each transect), the number of
+Sample size refers to the number of tran- transects can be found by:
+sects needed to arrive at a mean assess-
+ment representative of the population; this n=C/c
+must include at least two elements in
+order to measure dispersion. But two is C. Sampling plan
+not enough; the more heterogeneous the The sampling plan is the strategy for defin-
+population is, the greater the sample size ing the population to be assessed. The sam-
+must be.To estimate a population parame- ple selection method (choice of elements),
+ter to within 10% (p=0.1) — 5 chances formulation of the estimator, and the char-
+out of 100 of making a mistake in setting acteristics of the study population will all be
+the value of this parameter (alpha=5%) — determined by this plan. Bias, cost and
+the theoretical sample size is found by: accuracy criteria should be considered dur-
+
+the mean: n0=t2S2/P2 ing the selection of a sampling plan.
+a percentage of an infinite population
+(N>10,000): n0=P(100-P)t2/P2 Randomly selecting sample units ensures
+a finite population (N<10,000): that selection of one individual does not
+n = n0 / (1+n0 / N) influence selection of others. This means
+
+that study staff should not be given any lat-
+itude in selection. Random selection can
+
+Where S2: sample variance (see definition of
+be conducted in a number of ways such as
+
+variance on page 24);
+by a computerised selection of geographic
+
+P: percentage of a modality of a qualitative
+coordinates, selecting squares in a gridded
+
+variable (e.g. percentage of females in the ‘sex’ variable,
+area, or by simply pointing a pencil at a
+
+which comprises two modalities, males and females)
+map…blindfolded!
+
+The sample size can also be calculated It is sometimes difficult to define a random
+based on cost. If you take the total study sample. Non-random sampling can give
+budget (C) and the unit cost (c) per useful results, providing the selection of
+
+22
+
+
+
+DEFINING VARIANCE
+
+Variance is a measurement of dispersion in the study population. In the theoretical example
+below, the measurements of a sample’s (n) elements are considered to be weights laid out on a
+horizontal bar, with each weight associated with an individual value.
+
+X = 8.6
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+
+X1 X2 X3 X4 X5 X6 X7
+
+The mean (X) corresponds to a point at which it becomes possible to balance negative and
+positive differences:
+
+X X
+= 1 + X2 + X3 + X4 + X5 + X6 + X7
+
+n
+By replacing each measurement with its numerical value, the formula becomes:
+
+X= 2 + 4 + 5 + 8 + 11 + 14 + 16 = 8.6
+7
+
+Variance (S2) is equal to the mean of the square of the sum of the differences between the
+measurement (Xi ) and the mean (X):
+
+n
+Σ (X
+
+S2 i - X)2
+
+= i
+n
+
+Using the values in the example, we get:
+
+(2 - 8.6)2 + (4 - 8.6)2 + ......+ (16 - 8.6)2
+
+S2 = 7 = 24
+
+23
+
+
+
+elements can be controlled (reasoned stratification factor or factors and the
+choice) and by carefully avoiding any hasty characteristic studied. This means that
+generalisations. It often represents the most the structure of the population must
+economical method for exploratory studies. already be known and understood.
+
+Cluster sampling (in varying
+A difference must be made between a degrees): involves carrying out a ran-
+
+dom sampling composed of units
+probability sample survey — where each
+
+which are themselves sub-groups of
+individual of the population has a previously the population (or clusters). The
+known probability of belonging to the sam- combined units within each sub-
+ple (scientifically thorough with a mathemat- group are always representative of
+ical theory to support it) — and an empiri- the population.
+cal sampling survey, which does not allow Systematic sampling: consists of sys-
+calculation of the probability of individual tematically sampling an ‘n’ number of
+inclusion (quotas, standard units). The latter elements separated by a constant
+survey is less thorough but its use is often interval (interval of time, space, num-
+dictated by budgetary considerations. ber of lines, etc.). The first element
+
+must be chosen on a random basis.
+This type of sampling is frequently
+
+The main probability sample survey plans
+used in underwater visual census
+
+are:
+Simple random sampling: where all resource assessments.
+
+elements of the population have the
+The estimates presented below involve sim-
+
+same probability of belonging to the
+sample. ple random sampling plans. They can be
+
+Stratified sampling: consists of dividing extrapolated from systematic sampling (on
+the population into more homoge- the condition that the first element, say a
+neous sub-groups. In each stratum, a transect, is chosen at random). This can be
+random sampling is taken. In order to applied at different scales and allows com-
+benefit from stratification, a strong parisons in space (e.g. between biotopes)
+correlation must exist between the and/or time (e.g. between two dates).
+
+24
+
+
+
+IN BRIEF …
+
+A sampling strategy comprises several aspects:
+
+1) Selecting the population to which the study's conclusions will be applied 
+(particularly with regards to space and/or time limits).
+
+2) Selecting the sample size, which is determined by cost constraints and the level 
+of accuracy desired.
+
+3) Selecting the (n) elements of the sample (sample design).
+
+4) Determining how information about the sample will be gathered 
+(sampling technique = underwater visual census survey).
+
+25
+
+
+
+III – Setting up variable distance
+underwater visual fish census 
+surveys 
+
+The methods presented in this section 4) proper surface security measures and
+are based on the distance sampling safety conditions are followed on the
+
+theory. For that reason, they take into boat;
+account the fish’s distance from the tran- 5) vital safety equipment functions
+sect or stationary point. properly (e.g. VHF radio, emergency
+
+oxygen supply, first aid kit, list of
+III.1 – Review of safety rules for diving medical staff and services to be con-
+
+work tacted in the case of an emergency).
+Diving is an activity involving a certain
+number of risks that can be minimised by You must be in good physical and
+following some basic rules, reviewed mental condition before each dive.  
+below. Do not dive if you have a cold, are
+
+tired, have recently eaten a heavy meal,
+Before each dive, make certain: or have consumed alcohol within the last
+1) your diving medical fitness certificate 12 hours.
+
+is still valid (to be renewed annually);
+2) you get an up-to-date weather During the dive:
+
+report, if possible; 1) NEVER DIVE ALONE (there should
+3) your equipment is in good condi- always be a minimum of 2 divers)
+
+tion and operates properly, particu- 2) Keep visual contact with your dive
+larly your buoyancy vest, tank and partner(s) at all times and, if possible,
+regulator ; do not move away from them.
+
+26
+
+
+
+3) If you lose your dive partner(s), stay 6) In general, try to stay under the time
+for a minute where you are and turn limit beyond which decompression is
+around in a circle (360°); then, slowly necessary.
+ascend looking for the other diver’s 7) Always ascend slowly (do not go
+air bubbles. Near the surface turn faster than the speed of the small air
+completely around (360°). As soon bubbles).
+as you arrive at the surface, inflate
+your vest and make an OK sign to After the dive:
+the dive master. NEVER GO BACK 1) Record your diving parameters (sites,
+DOWN ALONE. Wait for the oth- maximum depths reached, total time,
+ers. length of pauses, specific facts).
+
+4) Avoid going up and down (‘yoyo’ 2) Carefully rinse your equipment with
+movement). fresh water and check its condition.
+
+5) For dives whose maximum depth is 3) Avoid any strenuous physical effort
+greater than 10 m, systematically or free diving for eight hours follow-
+make a three-minute safety pause at ing your final dive.
+three metres before coming to the 4) Do not take a plane within 24 hours
+surface. after your final dive.
+
+It is worth noting that in almost all recorded diving accidents over the past few years, one
+or more of these rules was not followed.  Following them would have undoubtedly helped
+
+save many lives.  Never forget that all divers are responsible for both their own safety and
+that of their fellow divers.
+
+27
+
+
+
+III.2 – Equipment
+
+On the boat be sure there are:
+ID books (see ‘To Find Out More…’
+section)
+different coloured pocket folders (1
+for the blank record sheets, 1 for
+completed sheets)
+1 portable GPS + spare batteries
+erasers
+pencil sharpener
+
+Fifty-metre measuring tape 
+HINT
+
+In order to keep books dry and ensure that
+they do not get damaged, keep them covered
+with plastic, and keep water- and moisture-
+sensitive materials in a waterproof container
+(such as a cooler or eski).
+
+For working underwater, you should
+have:
+
+3 fifty-metre measuring tapes 
+1 hard plastic board with clips (at
+least two) per diver 
+record sheets (at least 3 station
+sheets and 5 fish record sheets)
+pencils (at least 2 per diver : 1 in the
+sleeve of the diving suit or knife Hard plastic clip board 
+
+28
+
+
+
+sheath + 1 attached by string to the During the dive:
+board) Before descending, make a final
+waterproof watch check with your buddy to ensure
+depth gauge nothing has been forgotten (double
+
+verification).
+HINT Descend.
+
+Once you arrive at the bottom,
+It is better to use wood-free synthetic resin determine the starting point for the
+pencils, as these have the advantage of not transect.
+splitting and having stonger lead. Attach one end of the measuring
+
+tape to a rock, or in the sand, using a
+metal stake and lay the other two
+
+III.3 – Transects measuring tapes next to it.
+Determine the direction for laying
+
+The method presented below uses stan- out the measuring tape.
+dard 50-metre-long transects. Wait two or three minutes to give
+
+the fish time to calm down and get
+On the boat before the dive: use to your presence.
+
+fill in the top part of the station Begin counting the fish.
+sheet with general information about One of the divers unrolls the meas-
+the station (e.g. station number, GPS uring tape as the count progresses.
+position, brief description, etc) (see
+Appendix 4). Do the same thing on
+the fish data record sheet (see
+Appendix 3).
+
+29
+
+
+
+50 m
+
+40 m
+
+30 m
+
+Diver 1 Main transect
+
+20 m
+
+10 m
+
+Diver 2
+
+3-D view of a visual census survey using transects
+
+30
+
+
+
+RULES TO FOLLOW DURING THE COUNT
+
+1) It is best to work in sections of about three metres each as this helps avoid counting the same
+fish more than once.
+
+2) In cases where each diver counts on one side of the transect, care must be taken to ensure
+divers proceed at the same rate.  If only one diver is conducting the count, he must first
+count on one side and then on the other.  The tape is then unrolled by the other diver, who
+stands by while the observer continues to work.
+
+3) Do not stay in any one spot too long and do not count fish who enter your field of vision too
+long a time after you have stopped.  If they must be counted, then situate them at the outer
+limit of visibility.
+
+4) If possible, begin by counting the most abundant species.
+5) Given the theories related to variable distance censuses (see Section II.2.1), systematically
+
+give greater importance to fish that are near the transects.  In practical terms, it is important
+at each stop to begin counting in the immediate vicinity of the transect and then pay atten-
+tion to species farther away (i.e. carry out observations from the transect towards the limit of
+visibility).
+
+6) Always fill out the dive sheet in the same way.  Mark the name of the fish (see remark
+below), then the number, size and finally the perpendicular distances to the transect.
+
+7) Scientific names are sometimes long and tedious to write underwater, so don't hesitate to use
+abbreviations when these are easily understandable and can be immediately recalled after-
+wards.  For example, you might write Acant xant for Acanthurus xanthopterus, or Sc riv for
+Scarus rivulatus.
+
+31
+
+
+
+1) Stay close to the measuring tape HOW TO ESTIMATE VISIBILITY?
+and do not move away from it in
+order to avoid distorting estimates A simple method consists of placing a clip-
+of the perpendicular distances of board vertically at some point along the main
+fish from the transect. transect.  On your way back to wind up the
+
+2) Don't forget that the transect is 50 metres tape or record the substrate, note the distance
+long.  Care must be taken to not go over on the tape when the clipboard first becomes
+one end or the other. Imagine perpendicu- visible to you.
+lar lines on the transect at 0 and 50
+metres, which constitute the count bound-
+aries.  When two divers conduct the For each of the three transects and
+count, both must count within the bound- in every 10-metre section, identify
+aries set out by the transect (i.e. the 50 m once every metre the nature of the
+tape measure).  If in doubt about whether substrate and the living organism
+a fish has already been counted by your cover just below the measuring tape.
+team mate, ask. Record your observations on the
+
+station sheet by putting check marks
+Once the fish count is done, leave in the corresponding headings (see
+the main transect in place and unroll Appendix 3)
+the other two tape measures about In the one-metre strips on either
+three metres on either side of the side of each transect, count the num-
+
+3
+main transect . ber of associated organisms (inverte-
+Record the visibility, current and brates).
+other known parameters for this sta- On the back of the station sheet,
+tion in the top part of the station record any special remarks about
+sheet (see Appendix 4). that station.
+
+3 In the case of fixed distance counting, the three tape measures can be laid out three metres apart at the beginning of the dive.
+32
+
+
+
+d 1 = d 2
+Diver 1
+
+d 2
+d 1 3  m
+
+50 m
+0          1          10   m                  2                      2 0   m                   3                       30   m                  4                        4 0  m           5 3  m
+
+( Sectors )
+
+Ancilliary transect (substrate + living organism cover)
+
+Diver 2 Main transect (count fish + substrate + living organism cover)
+
+2-D view of a visual census survey using transects
+
+Make sure the sheets have been filled On land:
+out fully and accurately. Rinse the sheets one by one in fresh
+Roll up the three tape measures. water, then place them separately to
+Begin your ascent (see recommenda- dry.
+tions for diving work). Once they are dry, take the sheets
+
+and finish or correct them, as need-
+After the dive: ed.
+
+Begin data entry.
+On the boat:
+
+Proceed with initial discussions III.4 – Stationary points
+immediately, then complete and cor-
+rect the sheets, if necessary. The steps to follow before getting into the
+Take the sheets off the clipboards water are exactly the same as those men-
+and put them into the corresponding tioned for transect counting. This also
+plastic pocket folders. applies to the after-diving rules and the
+
+33
+
+
+
+important points to follow during the dive. Record the results of your observa-
+The specific characteristics associated with tions on the station sheet by putting
+stationary point counts are as follows: check marks in the corresponding
+
+4
+While treading water, visually deter- sections (see Appendix 4) .
+mine the observation point. Once identification is done, move the
+Without standing on the bottom, outer two tape measures 2 metres
+come upright in the water and count farther on, repeating the same oper-
+the number of fish within the central ation for the two new transects.
+circle (i.e. in a one-metre radius In each of the transects you have
+around the observation point). now laid out, count the number of
+Once you are done counting within associated organisms (invertebrates)
+the central circle, stand on the sea found within a one-metre strip on
+floor at the observation point and either side of the tape measures.
+identify a reference radial so as to
+continue the census.
+Continue counting from this refer-
+ence point while slowly turning in a
+complete circle (360°). Follow the
+same rules as for transects.
+Once the fish count is done, unroll a
+10-m tape measure, centring it on
+the observation point. Then unroll
+the other two 10-m tape measures
+two metres apart on either side of it.
+In each of the three transects laid
+out in this way, identify once every
+metre the type of substrate and the
+living organism cover below the tape.
+
+4 Each transect corresponds to a different section on the data entry sheet.
+
+34
+
+
+
+Stationary observation point
+Reference radius
+
+0°
+C e n t r a l c i r c l e
+
+d 1 = d 2
+
+180° d 1
+d 2
+
+3-D view of a visual census survey using stationary points
+
+35
+
+
+
+10 m
+
+0
+
+2 m
+Substrate + living organism cover transects
+
+(1 reading per meter)
+
+e n
+t r a l c i r c l
+
+d 1 = d 2
+
+d 1
+
+d 2
+
+180°
+
+Vertical view of a stationary point visual census survey
+
+WORK DOUBLES AS TRAINING…
+You should seize every possible opportunity to calibrate your measurements and improve your
+size and distance estimation skills.
+
+1) When a fish is stationary on the sea floor, note the land marks corresponding to the ends of
+its head and tail, then measure how far apart they are with the ruled edge of your clip-
+board.
+
+2) When moving down the transect, make it a habit to estimate the distance to the next stopping
+point and then compare this estimate to the real distance as shown by the tape measure.
+
+3) When you move away from the transect to identify a species, try to measure the distance sep-
+arating the fish from the transect by using as a reference, say, the length of your own body.
+In this case, be careful not to record any fish that were not observed from the transect.
+
+36
+
+C
+
+e
+
+
+
+IV – using the data collected
+IV.1 – Entering and formatting data IV.2 – Calculating densities, biomass
+
+and stock (numeric and weighted)
+Special attention must be paid to data
+entry, coding and formatting of data. The For variable distance transects or stationary
+results of the assessment will depend on points, the density and biomass estimates
+how well this work is done. presented below are based on the calcula-
+
+tion of a mean weighted distance (dm) of
+The main purpose of data entry is to allow the individuals in the transect or at the sta-
+rapid computer processing of data. The tionary point. For most species, this pro-
+risks inherent in this operation arise mainly duces results that are comparable to other
+from the additional source of error it rep- methods that require adjusting a mathemati-
+resents. In those cases where data are cal function to the fish detectability curve in
+entered directly into a spreadsheet pro- order to estimate the parameter (a) (see
+gramme, double entry is strongly advised, if Section II.2.1).This calculation method also
+possible by two different operators. The has the advantage of being simple.
+two sheets can then be compared for veri-
+fication purposes, thereby making it possi- In order to do this, either side of the tran-
+ble to limit the sources of error associated sect is divided into one-metre-wide corri-
+with transferring data into the computer. dors, the closest at 0 to 1 metres, the sec-
+
+ond at 1 to 2 metres, etc. Depending on
+HINT the fish’s distance at the time of observa-
+
+In order to facilitate data entry, it is better tion, it will then be associated with one of
+to have each entry line correspond to an these corridors and given its median value
+observation and to make a column for each (i.e. the middle of that category). For
+parameter in the order in which they appear example, if an indiviudal is recorded at a
+on the site record sheet whenever possible
+
+perpendicular distance of 2 metres from
+(see Appendix 3).
+
+the transect, it will be considered to have
+
+37
+
+
+
+been seen in the 2 to 3 metre corridor.The The biomass estimate is obtained through
+distance value used in the calculation will be 2 the use of length-weight ratios:
++ 0.5 = 2.5 metres, which corresponds to the
+
+p
+median of the 2 to 3 metre category. Σnij . Wij
+
+B i=       
+i = 1        (3)
+
+For that reason, the mean weighted distance dmjL
+of a species is given by:
+
+where Wi: estimated weight of fish i using length–weight
+p ratios
+Σnij (dij + 0.5)
+
+dmj = i=1                      (1) Calculations can be made for each
+Σnij separate species, or all the fish from a
+
+single family, or the study
+where p: total number of observations (occurrences) of population using data from one or more
+species j (one observation can comprise several individu- transects.  The best overall estimates are
+als) obtained by considering all the species taken
+
+nij: number of fish in observation (occurrence) i
+as a whole and not by calculating the sum of
+
+(generally i = 1, but it can take on a higher value in the
+event of schools) the per species estimates.  Differences
+
+dij: perpendicular distance of fish i from the tran- between these two types of estimates can be
+sect. In the case of schools, it becomes: fairly large, especially when the number of
+
+(d1+d2) species is high.
+dij = 2
+
+The stock estimate (Q) is made by multiplying
+The estimated density can then be obtained the biomass B by the stock distribution surface
+by: area:
+
+p Q
+Σ j = Bj.A (4)
+
+nij
+D where A: surface area of the biotope or zone where the
+
+j = i=1     (2)
+dm L
+
+j biomass B estimate was made.
+
+38
+
+
+
+Number Length Distance 1 Distance 2 striatus were recorded on both sides of the tran-
+(in cm) (in m) (in m) sect: (see table opposite)
+
+1 8 4 4
+2 10 1 2 By applying Equation (1), the weighted distance is
+2 22 2 2 equal to:
+7 12 2 4 dmj = 1(4+0,5) + 2(0,5+1,5) +....+ 7(7+0,5) = 4,23 m
+2 18 4 6 64
+3 22 4 4
+4 18 3 4
+
+The mean density estimate for this transect can,
+3 15 5 6
+2 20 3 4 then, be obtained by using Equation (2) which pro-
+4 15 3 4 duces:
+2 22 3 4 64  
+4 15 5 6 D = = 0,151 individuals/m2
+
+1 17 4 4 2 x 4,23 x 50
+
+2 15 5 6
+6 11 2 4 Note: If the same operation had been carried out
+1 18 4 4 using a transect with a fixed five-metre width, densi-
+10 15 0 3 ty would have been equal to:
+1 20 3 3 48   
+7 13 6 8 D = = 0,096 individuals/m2
+
+64 = Total number of fish 2 x 5 x 50
+48 = Total number of fish between 0 - 5 m 
+
+This value is underestimated compared with that
+obtained by variable distance counting.
+
+Example of calculating the weighted mean
+distance, density and biomass: For this species, using the length – weight ratio W =
+The selected example comes from the results of 0.0254L3.027 obtained by Letourneur et al. (1999), it
+observations made during a dive on 28 November is possible to calculate the mean weight for each
+1998 at Station #4 in the Namoui Marine Reserve individual or group of individuals. The result of this
+on Niue. A total of 64 individuals of Ctenochaetus calculation is presented in the following table.
+
+39
+
+
+
+Number Length Individual Weight IV.3 – Calculating the accuracy of
+(n) (in cm) weight (W) density and biomass estimates
+
+(in g) (in g)
+
+1 8 14 14 It is difficult to simply estimate the accuracy
+2 10 27 54 of a measurement by taking into account all
+2 22 294 588 the sources of error while at the same time
+7 12 47 329 integrating all the sources of variability into a
+2 18 160 320 single clear calculation. It is, however, possible
+3 22 294 882 to approach estimate accuracy through an
+4 18 160 641
+3 15 92 277 initial descriptive analysis of the samples. In
+
+2 20 220 441 cases such as ours, where the sampling unit
+4 15 92 369 is a transect, dispersion (or variance)
+2 22 294 588 between transects can be calculated for any
+4 15 92 369 given biotope and/or point in time.This
+1 17 135 135 makes it possible to calculate the standard
+2 15 92 184 deviation for density or biomass measure-
+6 11 36 216 ments and thus establish comparisons for
+1 18 160 160 the sample between prospected biotopes
+10 15 92 922 or two points in time.This calculation gives
+1 20 220 220
+
+an idea of the accuracy of estimates on the
+7 13 60 419
+
+Total weight = 7127 scale of the target population.
+
+By applying Equation (3), the biomass is equal to: Inter-transect variance (S2) for density is
+found by (see definition of variance on
+
+B = 7127       = 16.9 g/m2 page 24):
+2 x 4.23 x 50 n
+
+2 Σ ( - )
+= i Di D 2
+
+SD (5)
+n     
+
+40
+
+
+
+where Di: density in transect i mated density and biomass values for each transect
+D: mean density of transects for a given biotope and all observed species combined are given in the
+n: number of transects
+
+following table:
+
+For the biomass, it equals:
+n
+
+2
+S Σ ( - )
+
+= i Bi B 2
+
+B (6) Sub-intertidal reef flat Fringing reef slope
+n     Transect Density Biomass Transect Density Biomass
+
+no. (ind/m2) (g/m2) no (ind/m2) (g/m2)
+
+where Bi: biomass in transect i 3 0.194 24.8 1 0.197 41.7
+B: mean density of transects for a given biotope 4 0.327 42.7 2 0.257 61.5
+n: number of transects 5 0.449 53.0 6 0.245 32.6
+
+8 0.782 98.0 7 0.305 67.4
+The square root of the variance (standard devi- 9 0.355 66.1 10 0.389 69.3
+ation) is used so that work can be carried out 12 0.281 52.1 11 0.560 99.9
+in the same measuring unit as that used for the 13 0.315 71.1 14 0.217 29.9
+
+16 0.419 66.5 15 0.455 61.3
+mean. Standard deviation for density is
+
+Average 0.390 59.3 Average 0.328 57.0
+obtained by:
+
+SD =  √S2 (7)
+D
+
+For biomass, standard deviation equals: Density variance on the sub-intertidal reef flat was
+SB =  √S2 (8) calculated by applying Equation (5). It equalled:
+
+B
+
+(0.194-0.390)2 + (0.327-0.390)2+ ... +(0.419-0.390)2 
+
+Model calculation S2= = 0.027
+8
+
+During a duty travel in 1998, a census on fish of
+interest for consumption and marketing was con- Standard deviation for the density measurement
+ducted in the Namoui Marine Reserve on Niue.Two was calculated through variance by applying
+biotopes were selected, the sub-intertidal reef flat Equation (7), which gave:
+and the fringing reef slope. A total of 16 transects
+were made (i.e. eight for each biotope). The esti- SD =  √0.027 = 0.165 individus/m2
+
+41
+
+
+
+The estimated density for the sample was equal to IV.5 – Initial analysis of results
+the mean of the measurements plus or minus stan-
+dard deviation (i.e. 0.390 ± 0.165 individuals/m2). IV.5.1 – Comparing results
+
+Biotope Sub-intertidal reef flat Fringing reef slope a) Density and biomass
+Parameter Density Biomass Density Biomass An initial interpretation of the results can
+Variance 0.027 411.2 0.014 462.0 easily be conducted by plotting on a graph
+Standard deviation 0.165 20.3 0.120 21.5
+
+the means and standard deviation values
+for the biomasses and densities obtained
+
+IV.4 – Mean composition of substrate from different environments or at different
+and living organism cover times. In the figure below, the mean bio-
+
+mass values have been calculated for the
+A total of 150 features are recorded for various reef biotopes that make up the
+transects and 50 features for stationary eastern and western lagoons of the
+points. For each category of substrate and Northern Province of New Caledonia.
+living organism cover, the mean composi- These means are symbolised by dots or
+tion is expressed as a percentage of the triangles and the confidence intervals by
+total number of observations. It is bars whose ends indicate the minimum
+obtained by: and maximum values on either side of the
+
+mean. On small island reefs, the fact that
+CM nr   
+
+= x100
+NR the bars overlap suggests that biomasses
+
+are not significantly different. On the other
+Where: nr : number of readings for each category hand, for the other two environments
+
+of substrate or covering organism (fringing and barrier reefs), the values
+NR: total number of readings obtained on the west coast are significantly
+
+For the mean substrate composition, higher than those on the east coast.This
+the sum of the percentages from all same graphic exercise can be conducted
+categories must equal 100%. using the results obtained in the model cal-
+
+culation in Section IV.3.The sample does
+
+42
+
+
+
+not show any differences in density or bio- b) Mean composition of the substrate and
+mass between the values estimated for covering organisms
+either the sub-intertidal reef flat or the
+fringing reef slope.This type of analysis can Initial comparisons can be made by simply
+allow simple initial comparison of biotopes converting the values into bar graphs. In
+or sampled areas as well as comparisons the figures below, the values for each
+between regular time intervals within a sin- component of the substrate and covering
+gle environment (resource monitoring). organisms were estimated on the slopes
+Differences can be validated statistically at and flats of two sections of the fringing
+a later time. reef around the island of Niue (Avatele
+
+and the Namoui Marine Reserve). These
+400 results were expressed in terms of per-
+350 centages and then displayed as bar graphs,
+
+and show there were no significant differ-
+300
+
+ences in the mean composition of the
+250 substrate and the living organism cover
+200 between the sites and biotopes. The sub-
+
+strate was composed mainly of hard bot-
+150
+
+tom with a high predominance of rock
+100 (more than 80%). Living organism cover
+
+Fringing reefs Small island reefs Barrier reefs
+was about 50% of the total surface area,
+
+Eastern zone
+Western zone mainly in the form of small branching
+
+corals. Coral heads, encrusting corals and
+Graphic representation of biomass by reef types studied in the large branching corals accounted for
+
+eastern and western lagoons of the Northern Province of
+New Caledonia.The bars correspond to standard deviations lower percentages.
+
+around the mean (dots or triangles)
+
+43
+
+Biomass (in g/m2)
+
+
+
+Namoui Marine Reserve Avatele (outside reserve)
+
+Coral
+100 1000
+
+Slab
+
+80 Rock 80
+Large boulders
+
+60 Small boulders 60
+
+Debris
+40 40
+
+Gravel
+
+Coarse sand
+20 20
+
+Fine sand
+
+Mud
+0 0
+
+Slope Flat Slope Flat
+
+Graph of the mean substrate’s composition on two sites of the island of Niue
+
+Namoui Marine Reserve Avatele (outside reserve)
+
+600 60
+Sponges
+
+500 Millepora coral 50
+
+400 Coral head or encrusting coral
+40
+
+Small branch coral
+300
+
+Large branch coral 30
+
+200 Alcyonaria 20
+Brown seaweed
+
+100
+Green seaweed 10
+
+0 Seagrass 0
+Slope Flat Slope Flat
+
+Graph of the living organism cover (in %) at two sites of the island of Niue
+
+44
+
+
+
+IV.5.2 – Correlations between fish and environ- most of them, thereby revealing a trend.
+mental factors This initial analysis can be strengthened by
+
+analysing the correlation between parame-
+Analysing correlations between fish and ters taken in pairs and then trying to arrive
+environmental factors makes it possible to at a curve which passes through a maxi-
+determine possible links between the mum number of dots (e.g. by carrying out
+parameters of the population or section of a regression through the least-squares
+the population (mean species richness, den- method). A correlation coefficient can
+sity or biomass) and certain basic elements then be calculated and tested statistically.
+of the habitat and environment (substrate
+or living organism cover components).
+
+An initial empirical approach can be devel-
+oped very simply. This consists of analysing
+on a graph the dispersion of dots denoting
+estimated values of selected population
+parameters (e.g. mean species richness,
+density or biomass) for a group of stations
+(each dot represents the results from one
+station) on the ‘y’ ordinate in relation to
+the percentage of a component of the
+substrate or a category of covering organ-
+isms on the ‘x’ axis. Two cases are possible.
+In the first instance, the scatterplot is dis-
+persed and does not reveal any kind of
+correlation. In the second instance, the
+dots seem to be non-randomly distributed
+and it is possible to make a curve with
+
+45
+
+
+
+1st case 2nd case
+(R = 0.20) (R = 0.93)
+
+x x
+Substrate component or living organism cover 
+
+category (e.g. coral cover)
+
+Theoretical representations of estimated fish population parameters by the nature of the sub-
+strate and covering organisms. First case: dispersed scatterplot, no trend; second case: the scat-
+
+terplot shows a trend demonstrated by the straight line.
+(R = correlation coefficient)
+
+46
+
+y
+Species richness
+biomass density
+
+y
+
+
+
+V - CONCLUSIONS
+
+The use of variable distance underwater prove possible, do not hesitate to request
+visual census survey methods can pro- the advice of specialists, who can always
+
+vide appropriate responses to questions process the data if they are of adequate
+raised during the assessment of reef and quality.
+lagoon fish resources.
+
+IN SUMMARY…
+However, implementing these methods Always remember that information collection
+involves paying attention to certain rules and processing are two sides of the same coin
+and precautions in order to obtain usable and are, therefore, interdependent.
+and, therefore, acceptable results. These
+rules can seem too numerous or too com-
+plicated, but this is not the case at all. They
+can be learned easily and gradually.
+Thereafter, training and regular practice are
+the only way of guaranteeing that the skills
+are acquired and maintained. Any skill will
+become rusty if it is not practiced on a
+regular basis.
+
+As for data processing, a large range of
+possible statistical processing and analysis
+techniques exists. Depending on the infor-
+mation sought and the questions raised by
+the assessment, it is always possible to
+refer to specialised works in order to
+begin using them. But if this should not
+
+47
+
+
+
+48
+
+
+
+Appendix 1. Outlines of the major fish families that are of food 
+and/or commercial interest
+
+Acanthuridae
+
+Kyphosidae Mullidae
+
+Carangidae
+
+Labridae Scaridae
+
+Caesionidae
+
+Lethrinidae Serranidae
+
+Haemulidae
+
+Holocentridae Lutjanidae Siganidae
+
+Source: Fishes of the Great Barrier Reef and Coral Sea. Randall et al. 1997
+
+49
+
+
+
+Appendix 2. List of fish species that are of food and/or 
+commercial interest
+
+ACANTHURIDAE Epinephelus fuscoguttatus LETHRINIDAE Parupeneus barberinus
+Acanthurus achilles Epinephelus hexagonatus Gnathodentex aureolineatus Parupeneus bifasciatus
+Acanthurus albipectoralis Epinephelus howlandi Gymnocranius euanus Parupeneus ciliatus
+Acanthurus blochii Epinephelus macrospilos Gymnocranius grandoculis Parupeneus cyclostomus
+Acanthurus dussumieri Epinephelus maculatus Lethrinus atkinsoni Parupeneus dispilurus
+Acanthurus lineatus Epinephelus malabaricus Lethrinus erythracanthus Parupeneus heptacanthus
+Acanthurus mata Epinephelus merra Lethrinus genivitattus Parupeneus indicus
+Acanthurus nigricans Epinephelus ongus Lethrinus harak Parupeneus multifasciatus
+Acanthurus nigricauda Epinephelus polyphekadion Lethrinus kallopterus Parupeneus pleurospilos
+Acanthurus nigrofuscus Epinephelus rivulatus Lethrinus lentjan Parupeneus pleurostigma
+Acanthurus olivaceus Epinephelus suilus Lethrinus nebulosus Parupeneus spilurus
+Acanthurus pyroferus Epinephelus tauvina Lethrinus obsoletus Upeneus tragula
+Acanthurus triostegus Plectropomus laevis Lethrinus olivaceus Upeneus vittatus
+Acanthurus xanthopterus Plectropomus leopardus Lethrinus rubrioperculatus
+Ctenochaetus binotatus Plectropomus maculatus Lethrinus variegatus SIGANIDAE
+Ctenochaetus striatus Variola louti Lethrinus xanthochilus Siganus argenteus
+Naso annulatus Monotaxis grandoculis Siganus corallinus
+Naso brachycentron SCARIDAE Siganus doliatus
+Naso brevirostris Bolbometopon muricatum LUTJANIDAE Siganus fuscescens
+Naso hexacanthus Cetoscarus bicolor Aprion virescens Siganus lineatus
+Naso lituratus Chlorurus bleekeri Lutjanus adetii Siganus oramin
+Naso tuberosus Chlorurus sordidus Lutjanus argentimaculatus Siganus puellus
+Naso unicornis Hipposcarus longiceps Lutjanus bohar Siganus punctatus
+Naso vomer Scarus altipinnis Lutjanus fulviflamma Siganus spinus
+Paracanthurus hepatus Scarus chameleon Lutjanus fulvus Siganus vulpinus
+Zebrasoma flavescens Scarus flavipectoralis Lutjanus gibbus
+Zebrasoma scopas Scarus forsteni Lutjanus kasmira HAEMULIDAE
+Zebrasoma veliferum Scarus frenatus Lutjanus lutjanus Diagramma pictum
+
+Scarus ghobban Lutjanus monostigma Plectorhinchus chaetodonoides
+SERRANIDAE Scarus globiceps Lutjanus quinquelineatus Plectorhinchus diagrammus
+Anyperodon leucogrammicus Scarus longipinnis Lutjanus rivulatus Plectorhinchus gibbosus
+Cephalopholis argus Scarus microrhinos Lutjanus russelli Plectorhinchus goldmanni
+Cephalopholis boenack Scarus niger Lutjanus sebae Plectorhinchus obscurum
+Cephalopholis miniata Scarus oviceps Lutjanus vitta Plectorhinchus orientalis
+Cephalopholis sexmaculata Scarus psittacus Macolor macularis Plectorhinchus picus
+Cephalopholis sonnerati Scarus quoyi Macolor niger Pomadasys argenteus
+Cephalopholis urodeta Scarus rivulatus Pristipomoides multidens
+Cromileptes altivelis Scarus rubroviolaceus Symphorus nematophorus CAESIONIDAE
+Epinephelus areolatus Scarus schlegeli Caesio caerulaurea
+Epinephelus caeruleopunctatus Scarus spinus MULLIDAE Caesio cuning
+Epinephelus coioides Mulloides flavolineatus Pterocaesio trilineata
+Epinephelus cyanopodus Mulloides vanicolensis Pterocaesio tile
+Epinephelus fasciatus Parupeneus barberinoides
+
+50
+
+
+
+Appendix 3. Fish census record sheet
+
+LOCATION: PAGE:
+
+DATE LAT. LONG. TRA. DI.
+
+REC. SCIENTIFIC NAME CODE NUM LGT ST D1 D2
+
+Key: LAT: latitude; LONG: longitude;TRA: transect or stationary point number; DI: diver identification number;
+REC: record number (optional); CODE: fish code; NUM: number of fish seen; LGT: estimated length (in cm); ST:
+observation sector (from 0 to 4); D1: distance 1 (in m); D2: distance 2 (in m).
+
+51
+
+
+
+Appendix 4. Environmental factors record sheet
+
+Site no.: __________         Site name: _______________________ Visibility (m): __________
+Latitude (deg/min/sec): __________ Longitude (deg/min/sec): __________
+Date (day/month/year): ______ Current (none: 0, weak: 1, strong: 2): ____
+Fringing reef:_________  Middle reef:_______ Barrier reef: ______ Seagrass bed: ______
+Others (explain): _____________  Windward: ___________________ Leeward:___________
+Site description (15-20 words) :___________________________________________________
+
+S Depth. Substrates % Living Organisms % Other No
+
+0 Min: Mud  . . . . . . . . . . . . . . . . . . Seagrass  . . . . . . . . . . . . . . . . . . . . . Diadema . . . . 
+............... Sand . . . . . . . . . . . . . . . . . . . Brown algae  . . . . . . . . . . . . . . . . . sea urchins . . . . 
+
+Gravel and debris . . . . Other algae  . . . . . . . . . . . . . . . . . 
+2 mm-5 cm  . . . . . . . . . . . . Alcyonaria (soft coral)  . . . . . . . . . Other sea . . . . 
+
+Max: Small boulders 5-30 cm . . . . Encrusting coral  . . . . . . . . . . . . . . urchins . . . . 
+............... Large boulders 30-100 cm . . . . Massive or sub-massive coral . . . . 
+
+Rock  . . . . . . . . . . . . . . . . . . Branch coral  . . . . . . . . . . . . . . . . . Sea . . . . 
+Slab  . . . . . . . . . . . . . . . . . . . Table coral  . . . . . . . . . . . . . . . . . . cucumbers 
+Dead coral  . . . . . . . . . . . . . Leaf coral  . . . . . . . . . . . . . . . . . . . Other . . . . 
+
+Millepora  . . . . . . . . . . . . . . . . . . . . 
+Mushroom coral  . . . . . . . . . . . . . . 
+
+1 Min: Mud  . . . . . . . . . . . . . . . . . . Seagrass  . . . . . . . . . . . . . . . . . . . . . Diadema . . . . 
+............... Sand . . . . . . . . . . . . . . . . . . . Brown algae  . . . . . . . . . . . . . . . . . sea urchins . . . . 
+
+Gravel and debris Other algae  . . . . . . . . . . . . . . . . . 
+2 mm-5 cm  . . . . . . . . . . . . Alcyonaria (soft coral)  . . . . . . . . . Other sea . . . . 
+
+Max: Small boulders 5-30 cm . . . . Encrusting coral  . . . . . . . . . . . . . . urchins . . . . 
+............... Large boulders 30-100 cm . . . . Massive or sub-massive coral . . . . 
+
+Rock  . . . . . . . . . . . . . . . . . . Branch coral  . . . . . . . . . . . . . . . . . Sea . . . . 
+Slab  . . . . . . . . . . . . . . . . . . . Table coral  . . . . . . . . . . . . . . . . . . cucumbers 
+Dead coral  . . . . . . . . . . . . . Leaf coral  . . . . . . . . . . . . . . . . . . . Other . . . . 
+
+Millepora  . . . . . . . . . . . . . . . . . . . . 
+Mushroom coral  . . . . . . . . . . . . . . 
+
+2 Mud  . . . . . . . . . . . . . . . . . . Seagrass  . . . . . . . . . . . . . . . . . . . . . Diadema . . . . 
+Sand . . . . . . . . . . . . . . . . . . . Brown algae  . . . . . . . . . . . . . . . . . sea urchins . . . . 
+
+52
+
+
+
+To find out more…
+… about tropical fish and invertebrates
+
+In English
+Fishes of the Great Barrier Reef and Coral Sea. John E. Randall, Gerald R. Allen and Roger C.
+Steene. University of Hawai’i Press, 2840 Kolowalu Street, Honolulu, Hawaii 96822.
+ISBN 0-8248-1895-4 (1997).
+
+Coral Reef Fishes, Indo-Pacific and Caribbean. Ewald Lieske and Robert Myers. Harper Collins pub-
+lishers, 77-85 Fulham Palace Road, London W6 8JB, UK. ISBN 0-00-219974-2 (1994).
+
+Micronesian Reef Fishes. Robert F. Myers. Coral Graphics, P.O. Box 21153, Guam Main Facility,
+Barrigada,Territory of Guam 96921, USA. ISBN 0-3621564-5-0 (1999).
+
+Tropical Pacific Invertebrates. Patrick L. Colin and Charles Arneson. Coral Reef Press, 270 North
+Canon Drive, Suite 1524, Beverly Hills, California 90210, USA. ISBN 0-9645625-0-2 (1995).
+
+FishBase 2000. CD ROM. c/o ICLARM, MCPO Box 2631, 0718 Makati City, Philippines. (This data-
+base can also be consulted on the Internet at the following URL: http://www.fishbase.org).
+
+Length-Weight Relationship of Fishes from Coral Reefs and Lagoons of New Caledonia – An
+Update. Letourneur,Y., M. Kulbicki, and P. Labrosse. NAGA, the ICLARM quarterly (21)4: 39-46
+(1998).
+
+FISHEYE, database on fish in the South Pacific. IRD (formerly ORSTOM). (This database can also be
+consulted on the Internet at the following URL: http://noumea.ird.nc/BASE/FISHEYE).
+
+53
+
+
+
+In French
+Poissons de Nouvelle-Calédonie. Pierre Laboute et René Grandperrin. Editions Catherine Ledru, 13 rue
+Victor Hugo, Baie de l’Orphelinat, 98 800 Nouméa, Nouvelle-Calédonie. ISBN 2-9505784-3-8 (2000).
+
+FISHEYE, base de connaissances sur les poissons du Pacifique Sud. IRD (anciennement ORSTOM),
+base de données consultable sur Internet à l’adresse suivante :
+http://noumea.ird.nc/en/BasCo.html 
+
+Guide des poissons des récifs coralliens, région Caraïbes, océan Indien, océan Pacifique, mer
+Rouge. Ewald Lieske et Robert Myers. Delachaux et Niestlé (Eds), 79 route d’Oron, 1000 Lausanne
+21, Suisse. ISBN 2-603-00982-6 (1995).
+
+… about Underwater Visual Census
+In English
+Manual for Assessing Fish Stocks on Pacific Coral Reefs. Melita Samoilys (ed). Department of
+Primary Industries, GPO Box 46, Brisbane Qld 4001, Australia. ISBN 0812-000, ISBN 0-7242-6774-3
+(1997).
+
+Survey Manual for Tropical Marine Resources (2nd Edition). S. English, C.Wilkinson and V. Baker
+(eds). Australian Institute of Marine Science,Townsville, Queensland, Australia. ISBN 0-642-25953-4
+(1997).
+
+Evaluation of Sampling Methods for Reef Fish Populations of Commercial and Recreational Interest.
+Cappo M., Brown I.W. CRC Reef Research Technical Report n°6. ISBN 1 876054 06 9 (1996).
+
+In French
+Évaluation visuelle des peuplements et populations de poissons : méthodes et problèmes.
+M.L. Harmelin-Vivien, J.G. Harmelin, C. Chauvet, C. Duval, R. Galzin, P. Lejeune, G. Barnabé, F. Blanc, R.
+Chevalier, J. Duclerc, G. Laserre. Revue d’Écologie (Terre Vie),Vol. 40, 1985.
+
+54

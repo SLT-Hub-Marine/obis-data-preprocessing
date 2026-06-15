@@ -1,0 +1,68 @@
+samplingProtocol_uid,unique_samplingProtocol_value,successful_extraction,is_real_url,extracted_md_fpath,extraction_notes_post_manual_inspection
+62,https://dx.doi.org/10.17504/protocols.io.bp2l69y7klqe/v2,TRUE,TRUE,extracted_url_00062.md,
+78,https://repository.oceanbestpractices.org/handle/11329/1738,TRUE,TRUE,extracted to extracted_url_00078.txt,actually links to https://repository.oceanbestpractices.org/items/bd6e4ee1-067d-4745-b6a9-ffdc9ba27d34 - manually extracted to extracted_url_00078.pdf - converted to txt
+82,https://dx.doi.org/10.17504/protocols.io.bucjnsun,TRUE,TRUE,extracted_url_00082.md,
+90,https://github.com/HakaiInstitute/rocky-subtidal-fish-invertebrate/blob/main/docs/Protocol.pdf,FALSE,TRUE,,github hosted content no longer available (404)
+93,https://github.com/arms-mbon/documentation/tree/main/armsmbon_handbook,TRUE,TRUE,extracted_url_00093.md,
+98,http://purl.org/spc/digilib/doc/fs6ca,TRUE,TRUE,extracted_url_00098.txt,manually extracted pdf to extracted_url_00098.pdf - converted to txt
+121,http://www.helcom.fi/Documents/Action%20areas/Monitoring%20and%20assessment/Manuals%20and%20Guidelines/Guidelines%20for%20monitoring%20of%20mesozooplankton.pdf,FALSE,TRUE,,failed to download site content - 403 Forbidden
+124,http://purl.org/spc/digilib/doc/pfj5w,FALSE,TRUE,,failed to download site content
+134,http://ipt.sb-roscoff.fr/ipt/resource?r=benthobs-pn#methods,TRUE,TRUE,extracted_url_00134.md,
+168,https://doi.org/10.5281/zenodo.8237301,TRUE,TRUE,extracted_url_00168.md,
+233,http://ipt.sb-roscoff.fr/ipt/resource?r=phytoplankton_somlit-astan#methods,TRUE,TRUE,extracted_url_00233.md,
+245,https://doi.org/10.1038/s41597-024-03744-9,TRUE,TRUE,extracted_url_00245.html,failed to download site content - points to https://www.nature.com/articles/s41597-024-03744-9 - manually saved as extracted_url_00245.html
+247,https://doi.org/10.3389/fmars.2020.615458,TRUE,TRUE,extracted_url_00247.md,
+266,https://github.com/HakaiInstitute/sentinels-light-trap-public/tree/main/docs/Protocols,FALSE,TRUE,,link points to github repo with multiple pdf files - all to do with sampling megalopae
+283,https://github.com/HakaiInstitute/nearshore-RI_motileInvertebrates/blob/eaebf4b2b252b48ba79eae92e32e5f8b6d6f2ac1/protocols/rocky_intertidal-protocol.pdf,TRUE,TRUE,extracted_url_00283.txt,manually saved pdf - converted to txt
+316,https://www.bodc.ac.uk/resources/inventories/cruise_inventory/report/6785/,TRUE,TRUE,extracted_url_00316.md,
+335,https://www.bodc.ac.uk/resources/inventories/cruise_inventory/report/6810/,TRUE,TRUE,extracted_url_00335.md,
+360,https://doi.org/10.3389/fmars.2020.572680,TRUE,TRUE,extracted_url_00360.md,
+391,https://www.bodc.ac.uk/resources/inventories/cruise_inventory/report/5998/,TRUE,TRUE,extracted_url_00391.md,
+421,https://doi.org/10.1093/icesjms/fsaa225,TRUE,TRUE,extracted_url_00421.html,failed to download site content - manually saved as html
+427,https://www.bodc.ac.uk/resources/inventories/cruise_inventory/report/6763/,TRUE,TRUE,extracted_url_00427.md,
+437,https://www.bodc.ac.uk/resources/inventories/cruise_inventory/report/8276/,TRUE,TRUE,extracted_url_00437.md,
+438,https://publications.gc.ca/collections/collection_2017/mpo-dfo/Fs97-6-3158-eng.pdf,TRUE,TRUE,extracted_url_00438.txt,manually saved pdf - converted to txt
+452,https://www.bodc.ac.uk/resources/inventories/cruise_inventory/report/6767/,TRUE,TRUE,extracted_url_00452.md,
+465,https://www.bodc.ac.uk/resources/inventories/cruise_inventory/report/9357/,TRUE,TRUE,extracted_url_00465.md,
+475,https://www.bodc.ac.uk/resources/inventories/cruise_inventory/report/5387/,TRUE,TRUE,extracted_url_00475.md,
+484,https://www.bodc.ac.uk/resources/inventories/cruise_inventory/report/6514/,TRUE,TRUE,extracted_url_00484.md,
+491,http://ipt.sb-roscoff.fr/ipt/resource?r=benthobs-riv-mlx#methods,TRUE,TRUE,extracted_url_00491.md,
+505,https://www.bodc.ac.uk/resources/inventories/cruise_inventory/report/11606/,TRUE,TRUE,extracted_url_00505.md,
+506,https://www.bodc.ac.uk/resources/inventories/cruise_inventory/report/5996/,TRUE,TRUE,extracted_url_00506.md,
+552,https://www.bodc.ac.uk/resources/inventories/cruise_inventory/report/5386/,TRUE,TRUE,extracted_url_00552.md,
+629,https://www.bodc.ac.uk/resources/inventories/cruise_inventory/report/8262/,TRUE,TRUE,extracted_url_00629.md,
+680,https://www.bodc.ac.uk/resources/inventories/cruise_inventory/report/11432/,TRUE,TRUE,extracted_url_00680.md,
+977,https://www.bodc.ac.uk/resources/inventories/cruise_inventory/report/6794/,TRUE,TRUE,extracted_url_00977.md,
+1162,https://doi.org/10.25573/serc.14925114,TRUE,TRUE,extracted_url_01162.html,failed to download site content - manually saved as html
+2034,https://doi.org/10.1016/j.dsr2.2012.02.011,TRUE,TRUE,extracted_url_02034.html,failed to extract markdown from downloaded site content - manually saved as html
+2222,http://www.iacseaturtle.org/docs/publicaciones/15-MANUALCIPT.pdf,TRUE,TRUE,extracted_url_02222.txt,failed to extract markdown from downloaded site content - manually downloaded pdf - converted to txt
+2453,http://www.helcom.fi/Documents/Action%20areas/Monitoring%20and%20assessment/Manuals%20and%20Guidelines/COMBINE_AnnexC9_MonitoringPhytobentic.pdf,FALSE,TRUE,,failed to download site content - 403 forbidden
+2903,https://doi.org/10.1111/j.1466-8238.2010.00642.x,TRUE,TRUE,extracted_url_02903.html,failed to download site content - manually saved as html
+4177,doi:10.1007/s00300-011-1100-4,TRUE,TRUE,extracted_url_04177.txt,failed to download site content - manually downloaded pdf - converted to txt
+5733,https://www.ccamlr.org/en/document/publications/scientific-observers-manual-%E2%80%93-2011,FALSE,TRUE,,failed to download site content - login required
+6938,http://vocab.nerc.ac.uk/collection/L22/current/TOOL0653/,TRUE,TRUE,extracted_url_06938.md,
+7393,https://doi.org/10.1080/00028487.2012.675914,FALSE,TRUE,extracted_url_07393.html,failed to download site content - manually saved as html
+9962,BC-0.25,FALSE,FALSE,,failed to download site content
+11871,DSN:TR:I.DEN.,FALSE,FALSE,,failed to download site content
+16243,https://doi.org/10.3389/fmars.2021.796488,TRUE,TRUE,extracted_url_16243.md,
+16931,http://vocab.nerc.ac.uk/collection/L22/current/NETT0071/,TRUE,TRUE,extracted_url_16931.md,
+16970,Method_3.3,FALSE,FALSE,,failed to download site content
+17382,DSN:I.DEN.,FALSE,FALSE,,failed to download site content
+17837,DN:I.DEN.,FALSE,FALSE,,failed to download site content
+18737,DSN:DN:I.DEN.,FALSE,FALSE,,failed to download site content
+22434,DN:DA:I.DEN.,FALSE,FALSE,,failed to download site content
+22703,https://doi.org/10.1578/AM.47.4.2021.349,TRUE,TRUE,extracted_url_22703.txt,failed to download site content - manually downloaded pdf - converted to txt
+23732,DSN:DA:TR:I.DEN.,FALSE,FALSE,,failed to download site content
+23738,Q:I.DEN.,FALSE,FALSE,,failed to download site content
+26118,I.K.M.W.T.,FALSE,FALSE,,failed to download site content
+26635,pelag.630,FALSE,FALSE,,failed to download site content
+26832,DN:I.DEN.(1.4),FALSE,FALSE,,failed to download site content
+27435,BN1.5/3M,FALSE,FALSE,,failed to download site content
+27735,DN:I.DEN.(0.6),FALSE,FALSE,,failed to download site content
+28320,PT.1.40,FALSE,FALSE,,failed to download site content
+28462,https://www.bodc.ac.uk/resources/inventories/cruise_inventory/reports/jr15005.pdf,TRUE,TRUE,extracted_url_28462.txt,failed to extract markdown from downloaded site content - manually downloaded pdf - converted to txt
+28615,semipelag.trawl,FALSE,FALSE,,failed to download site content
+29421,gr.24,FALSE,FALSE,,failed to download site content
+31706,5.7mm,FALSE,FALSE,,failed to download site content
+31804,BN2.4/4.5,FALSE,FALSE,,failed to download site content
+31886,Pel.Trawl,FALSE,FALSE,,failed to download site content

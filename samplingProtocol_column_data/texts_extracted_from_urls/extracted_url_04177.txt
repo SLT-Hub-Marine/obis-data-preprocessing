@@ -1,0 +1,803 @@
+﻿Polar Biol (2012) 35:543-554 
+DOI 10.1007/s00300-011-1100-4
+
+O R IG IN A L  PA PER
+
+Heterotrophic bacterial diversity in aquatic microbial mat 
+communities from Antarctica
+Karolien Peeters • Elie Verleyen • Dominic A. Hodgson •
+Peter Convey • Damien Ertz • Wim Vy ver man •
+Anne Willems
+
+Received: 16 June 2011/Revised: 25 August 2011/Accepted: 26 August 2011/Published online: 11 September 2011 
+© Springer-Verlag 2011
+
+Abstract Heterotrophic bacteria isolated from five aquatic order to explore the variance in the diversity of the samples at 
+microbial mat samples from different locations in conti­ genus level. Habitat type (terrestrial vs. aquatic) and specific 
+nental Antarctica and the Antarctic Peninsula were com­ conductivity in the lacustrine systems significantly 
+pared to assess their biodiversity. A total of 2,225 isolates explained the variation in bacterial community structure. 
+obtained on different media and at different temperatures Comparison of the phylotypes with sequences from public 
+were included. After an initial grouping by whole-genome databases showed that a considerable proportion (36.9%) is 
+fingerprinting, partial 16S rRNA gene sequence analysis was currently known only from Antarctica. This suggests that in 
+used for further identification. These results were compared Antarctica, both cosmopolitan taxa and taxa with limited 
+with previously published data obtained with the same dispersal and a history of long-term isolated evolution occur.
+methodology from terrestrial and aquatic microbial mat 
+samples from two additional Antarctic regions. The phylo- Keywords Microbial diversity • Cultivation •
+types recovered in all these samples belonged to five 16S rRNA gene sequencing • ASPA • PCA
+major phyla. Actinobacteria, Bacteroidetes, Proteobacteria, 
+Firmicutes and Deinococcus-Thermus, and included several 
+potentially new taxa. Ordination analyses were performed in Introduction
+
+Microbial mats and surface crusts that may develop in wet 
+Electronic supplementary material The online version of this 
+article (doi:10.1007/s00300-011-1100-4) contains supplementary Antarctic habitats (Vincent 2000; Layboum-Parry and Pearce 
+material, which is available to authorized users. 2007) are dense communities of vertically stratified micro­
+
+organisms and are believed to be responsible for much of the 
+K. Peeters • A. Willems ( H )
+Laboratory of Microbiology, Department of Biochemistry primary production under the extreme polar conditions. The 
+and Microbiology, Faculty of Science, Ghent University, mats and crusts typically consist of mucilage, in which cya­
+K. L. Ledeganckstraat 35, 9000 Ghent, Belgium nobacteria and other algal cells are embedded, together with 
+e-mail: Anne.Willems@ugent.be other heterotrophic and chemoautotrophic microorganisms, 
+
+sand grains and other inorganic materials (Femández- 
+E. Verleyen • W. Vyverman
+Protistology and Aquatic Ecology, Department o f Biology, Valiente et al. 2007). Particularly, the lacustrine ecosystems, 
+Faculty of Science, Ghent University, which range from relatively deep freshwater and hypersaline 
+Krijgslaan 281, S8, 9000 Ghent, Belgium lakes, to small ponds and seepage areas (Verleyen et al. 2011) 
+
+act as true biodiversity and primary production hotspots in a 
+D. A. Hodgson • P. Convey 
+British Antarctic Survey, Natural Environment matrix of polar desert and ice.
+Research Council, High Cross, Madingley Road, In recent years, Antarctic microbial mats have attracted 
+Cambridge CB3 0ET, UK a lot of scientific interest, with the photoautotrophic taxa 
+
+such as cyanobacteria (Taton et al. 2006), green algae 
+D. Ertz
+Department Bryophytes-Thallophytes, National Botanic (De Wever et al. 2009) and diatoms (Sabbe et al. 2003) 
+Garden of Belgium, 1860 Meise, Belgium probably being the best-studied groups. Water depth (and
+
+Ô  Springer
+
+
+
+544 Polar Biol (2012) 35:543-554
+
+hence light climate), liquid water availability and conduc­ features expected of the organisms obtained based on their 
+tivity or related parameters are the most important vari­ phylogenetic position.
+ables in structuring these communities (Hodgson et al. The aims of this study were (1) to contribute to a better 
+2004; Verleyen et al. 2010). Surprisingly, only a small understanding of the diversity of heterotrophic bacteria in 
+number of studies have focussed on the heterotrophic microbial mat communities from a range of terrestrial and 
+bacterial diversity in these microbial mats (Brambilla et al. aquatic habitats in coastal and inland ice-free regions in 
+2001; Van Trappen et al. 2002). Other land-based habitats Continental and Maritime Antarctica and (2) to explore the 
+in Antarctica that have been studied for their heterotrophic relationship between the bacterial communities and a set of 
+bacterial diversity include soils in dry valleys (Aislabie environmental parameters. We applied a cultivation-based 
+et al. 2006b) and maritime Antarctica (Chong et al. 2010), approach using several media and growth conditions to 
+the plankton in freshwater lakes (Pearce. 2005) and anoxic access heterotrophic bacteria. A large number of isolates 
+waters in meromictic lakes (Franzmann et al. 1991). The was obtained and identified through genotypic character­
+few studies focussing on the heterotrophic bacterial ization using rep-PCR fingerprinting and phylogenetic 
+diversity in aquatic microbial mats comprised samples analysis of the 16S rRNA gene sequences. Comparison of 
+from lakes in the McMurdo Dry Valleys, the Vestfold Hills the sequences with those available in public databases 
+and the Larsemann Hills and included culture-dependent as allowed identification of the bacteria and an assessment of 
+well as independent approaches. They reported a large their geographical distribution.
+diversity with an important number of previously unknown 
+taxa (Brambilla et al. 2001; Van Trappen et al. 2002). As a 
+result, several new species have been described in the Experimental procedures
+phyla Bacteroidetes, Proteobacteria, Actinobacteria and 
+Firmicutes (Reddy et al. 2002a, b, 2003a, b; Van Trappen Source of samples
+et al. 2003, 2004a, b, c, d; Shivaji et al. 2005). The rela­
+tionship between the bacterial diversity of microbial mats Five samples (PQl, LA3, SK5, WO10 and S06) from 
+and environmental parameters has not yet been studied lacustrine habitats in different locations in Continental 
+although Brambilla et al. (2001) suggested some general Antarctica and the Antarctic Peninsula (Fig. 1) were
+
+S06, 
+Schirmacher Oasis
+
+BB11S, 498 isolates LA3,
+Utsteinen 79 phylotypes Syowa Oasis 
+
+331 isolates 253 isolates 
+37 phylotypes 39 phylotypes
+
+BB50, WO 10,
+Utsteinen Syowa Oasis 
+
+4655 isolates 1 498 isolates 
+63 phylotypes 48 phylotypes
+
+SK5, 
+Syowa Oasis 
+
+Pourquoi-Pas Island 550 isolates 
+426 isolates 59 phylotypes
+
+89 phylotypes
+■ Actinobacteria
+■ Alphaproteobacteria
+
+TM4, ■ Betaproteobacteria
+Shackleton Range m Gammaproteobacteria
+
+421 isolates 
+34 phylotypes ■ Bacteroidetes
+
+Pensacola Mountains ■ Deinococcus-Thermus 
+364 isolates 
+
+56 phylotypes u Firmicutes
+
+Fig. 1 Division of the phylotypes over the different phylogenetic groups. The number o f obtained isolates and phylotypes are mentioned for the 
+different samples. Information for samples BB50, BB115, TM2 and TM4 was based on Peeters et al. 2011a, b
+
+Ô  Springer
+
+
+
+Polar Biol (2012) 35:543-554 545
+
+analysed (Table 1). All samples were kept frozen contin­ All plates were incubated for several weeks dining which 
+uously after collection (in January 2003 [PQ1] and January the number of colony forming units (CFUs) was counted. 
+2007 [LA3, SK5, WO10 and S06]) until processing in the When the number of CFUs had stabilized, the total number of 
+laboratory. Specific conductivity and pH were measured in CFU/g for each combination of culture conditions was cal­
+the field using a YSI 600 m. Details regarding the analysis culated for the plates showing between 20 and 400 colonies. 
+of the concentration of the major ions and nutrients have At the end of the incubation period, three colonies (or less in 
+been described by Hodgson et al. (2010) and Verleyen case of insufficient growth) of each morphological type 
+et al. (2011). (colony parameters used include colour, margin, elevation, 
+
+Data for the new samples were also compared with shape, diameter, surface appearance) were isolated and puri­
+information on four further samples previously studied fied. Pure cultures were cryopreserved at —80°C using broth 
+using the same methods, including two terrestrial mat medium plus 15% glycerol or the MicroBank™ system (Pro- 
+samples from Utsteinen (Sor Rondane Mountains, East Lab Diagnostics, Ontario, Canada).
+Antarctica) (Peeters et al. 2011a) and two microbial mat 
+samples from lakes in the Pensacola Mountains and the Genotypic fingerprinting
+Shackleton Range (Peeters et al. 2011b).
+
+To reduce the large number of isolates, duplicates were 
+Enumeration and isolation of heterotrophic bacteria eliminated using a whole-genome fingerprinting technique, 
+
+repetitive element palindromic (rep)-PCR, resulting in a 
+One gram of sample was aseptically weighed and smaller number of clusters and unique isolates. DNA prepa­
+homogenized in 9 ml sterile cold (4°C) physiological sal­ ration was carried out as described by Baele et al. (2003). Rep- 
+ine (0.86% NaCl) using a vortex. Tenfold dilution series PCR fingerprinting using the GTG5 primer (5'-GTG GTG 
+(kept at 4°C) were plated on four different media (Marine GTG GTG GTG-3') was performed according to Gevers et al. 
+agar 2216 (MA) (BD Difeo™), R2A (BD Difco™ ), ten (2001). Resulting fingerprints were processed using the Bio- 
+times diluted R2A (R2A/10), and PYGV (peptone-yeast- Numerics (v 5.1.) software (Applied-Maths). Rep-PCR pro­
+glucose-vitamin) medium (DSMZ medium 621)) and files were compared by calculating pairwise Pearson’s 
+incubated at 20, 15 and 4°C. R2A (Difco) contains pyru­ correlation coefficients (r). A cluster analysis was performed 
+vate, starch and dextrose as C sources and yeast extract, on the resulting matrix using the Unweighted Pair Group 
+peptone and casaminoacids as N and C sources, and PYGV Method using Arithmetic averages (UPGMA). An 80% 
+(DSMZ medium 621) contains peptone, yeast extract and Pearson’s correlation coefficient threshold was used (Gevers 
+glucose as C and/or N sources and additional vitamins and et al. 2001) in combination with visual inspection of bands to 
+minerals. Both are considered oligotrophic media because delineate rep-clusters. Rep-types included both rep-clusters 
+the amounts of these components are at least two to ten and isolates grouping separately.
+times lower than in more general media such as nutrient 
+broth. In addition to regular physiological saline (PS) 16S rRNA gene sequencing
+dilution series, sea water (SW) dilutions were used for the 
+LA3 and WO10 samples, which originated from lakes The 16S rRNA genes of the representatives of all the dif­
+close to the ocean and had elevated conductivity values. ferent rep-types were amplified and partially sequenced as
+
+Table 1 Overview of samples with their location, coordinates and description
+
+Sample number Place Region Latitude Longitude Sample description
+
+PQ1 Narrows lake Pourquoi-Pas Island, 67°42'S 67°27'W Littoral cyanobacterial mat with green algae and 
+Antarctic Peninsula diatoms
+
+LA3 Langhovde lake 3 Syowa Oasis 69°13'S 39°48'E Littoral brown crusts of cyanobacteria or diatoms 
+from a small salt lake, sampling depth 0.2 m
+
+SK5 Naka Tempyo Syowa Oasis 69°28'S 39°40'E Littoral epipsammic and interstitial microbial 
+mat, brown or orange pigmented on top with a 
+green surface layer, sampling depth 0.1 m
+
+WO 10 West Ongul Syowa Oasis 69°01'S 39°32'E Littoral orange mat below a black decomposed 
+Island, lake 10 mat. Shallow pool with evidence o f higher lake 
+
+level, sampling depth 0.15 m
+S 0 6 Schirmacher Schirmacher Oasis 70°45'S 11°40'E Littoral microbial mat sample from freshwater 
+
+Oasis, lake lake, sampling depth 0.1 m
+
+Ô  Springer
+
+
+
+546 Polar Biol (2012) 35:543-554
+
+previously described (Vancanneyt et al. 2004). PCR structure are underlain by differences in habitat type. 
+products were purified using a Nucleofast 96 PCR clean Therefore, we created three dummy variables (Table S2). 
+up membrane system (Machery-Nagel, Germany) and The forward selection procedure and unrestricted Monte 
+Tecan Workstation 200. The BKL1 primer was used for Carlo permutations tests (499 permutations, P — 0.05) 
+sequencing (Coenye et al. 1999). The fragments obtained were used to select the minimal number of variables 
+(approximately 400 bp of the first and most variable part of explaining the variation in the distribution of the different 
+the gene) were cleaned with the BigDye® xTerminator™  rep-types over the genera for the different samples. The 
+Purification Kit according to the protocol of the supplier importance of limnological variability was assessed for the 
+(Applied Biosystems). Sequence analysis was performed lacustrine samples only, because no chemical data were 
+using an ABI PRISM 3130x1 Genetic Analyzer (Applied available for the terrestrial samples.
+Biosystems, USA). Phylogenetic analysis was performed 
+using the BioNumerics (v 5.1.) software package (Applied- Geographical distribution of the phylotypes
+Maths). The sequences were compared, and pairwise sim­
+ilarity values were calculated to delineate phylotypes at The 16S rRNA gene sequence of each phylotype was com­
+99.0% 16S rRNA gene sequence similarity (Stach et al. pared with sequences available in public databases (EMBF 
+2003; Acinas et al. 2004). The classifier of the Ribosomal and NCBI) including cultured strains as well as environmental 
+Database Project, containing the sequences of all described sequences (both from metagenomics and high-throughput 
+species, was used to obtain a genus identification for the sequencing). Based on the origin of sequences showing 
+phylotypes (Wang et al. 2007). Identifications with confi­ >99.0% sequence similarity, the phylotypes were classified as 
+dence estimates lower than 80% (Wang et al. 2007) were Antarctic (when no high scoring sequences, or only high 
+verified by phylogenetic analysis with all neighbouring scoring sequences originating from other Antarctic environ­
+taxa. A multiple alignment of the sequences was made, and ments, were found), bipolar (only high scoring sequences 
+after visual inspection, distances were calculated using the from polar environments), cold (only high scoring sequences 
+Kimura-2 correction. A neighbour joining dendrogram from cold environments) or cosmopolitan (at least one high 
+(Saitou and Nei 1987) was constructed, and bootstrap scoring sequence from non-Antarctic/cold/polar environ­
+analysis was undertaken using 500 bootstrap replicates. ment) (Table 4). Phylotypes that showed no significant sim­
+When the analysis showed that a phylotype was not part of ilarity with any other sequences were classified as Antarctic.
+an existing genus and was either equally related to multiple 
+genera or had 16S rRNA gene sequence similarities with 
+neighbouring genera below the threshold value of 96.4% Results
+(Yarza et al. 2010), the phylotype was classified as a 
+potentially new genus. Isolation, rep-PCR fingerprinting and 16S rRNA gene 
+
+The 16S rRNA gene sequences determined in this study sequencing
+have been deposited in the EMBL database under accession 
+numbers FR772052-FR772080 and FR772100-FR772289. Dilution series of the different samples (Table 1) were 
+
+plated on four different media and incubated at three rel­
+Sample coverage atively cold temperatures compared to those used for more 
+
+temperate bacteria. After 3-week incubation for plates at 20 
+Rarefaction curves were used to estimate how well our and 15°C and 8 weeks for 4°C, the number of colony 
+method covers the fraction of bacteria viable in the growth forming units (CFUs) was counted for the different con­
+conditions used. They were calculated with an online ditions. When comparing the number of CFU/g for the five 
+rarefaction calculator (http://biome.sdsu.edu/fastgroup/cal_ samples, there were clear differences (Table 2). Sample 
+tools.htm). The Shannon biodiversity index was calculated WO10 had the highest CFU/g of all samples. The highest 
+as described by Magurran (1988). value for samples PQ1 and SK5 was low in comparison 
+
+with the other samples although a large diversity in colony 
+Multivariate analysis morphologies was observed and consequently many iso­
+
+lates were taken (Fig. 1). For samples PQ1, SK5 and S06, 
+Direct and indirect ordinations were performed using the highest number of CFU/g was found at 15 or 20°C, 
+CANOCO 4.5 for Windows (ter Braak and Smilauer 2002). while for samples FA3 and WO10, 4°C gave best growth. 
+A principal component analysis (PCA) was applied of the The samples originating from saline and brackish lakes and 
+number of rep-types assigned to the different genera for ponds (FA3 and WO10) yielded the highest number of 
+each sample. Redundancy analysis (RDA) was applied CFU/g on marine medium, whereas the other samples yielded 
+to assess whether differences in bacterial community the highest number of CFU/g on an oligotrophic medium.
+
+Ô  Springer
+
+
+
+Polar Biol (2012) 35:543-554 547
+
+T able 2 Plate counts (10" 
+CFU/g) for the different growth Medium Temperature (°C) PQ l LA3 SK5 WO 10 S 0 6
+conditions per sample M A PS 4 0.00026 21,6 0.0008 368.4211 0.282759
+
+15 0.000341 17.78333 0.0021 177.7632 0.398276
+20 0.000345 16.13333 0.003 244.7368 0.614828
+
+M A SW 4 nd 9.1 nd 52.28571 nd
+15 nd 11 nd 55.71429 nd
+20 nd 14.1 nd 48 nd
+
+R2A 4 0.003245 0.000167 0.187 41.31579 8.241379
+15 0.0128 0.0003 0.86 57.63158 79.2069
+20 0.02195 0.000133 1.89 114.2105 19.91379
+
+R2A/10 4 0.0022 0 0.16 9.013158 7.862069
+15 0.0148 0.00007 0.507 63.42105 26.44828
+20 0.0309 17.66667 0.9 30 24.34483
+
+The maximum plate count for PYGV 4 0.00127 0.00007 0.2085 15.52632 7.034483
+each sample is shown in bold 15 0.0132 0.0007 1.38 34.73684 25.7069
+and underlined', nd  not 20 0.022 0.0001 2.1 37.89474 26.82759
+determined —
+
+Between 253 and 550 isolates (Fig. 1) were purified number of isolates per rep-type: 5.17 for PQ l, compared to 
+from the five new samples. This gave a total of 2,225 4.24, 4.62, 4.54 and 4.82 for samples LA3, SK5, WO10 and 
+isolates that were grouped in 810 rep-types. To compare S06, respectively. Rarefaction curves (Fig. SI) were calcu­
+the diversity obtained under each culture condition, the lated to assess the coverage of the cultivable diversity under 
+relative diversity yield was calculated as the number of rep- these culture conditions. The curves for most samples 
+types recovered from a sample for each medium and approached a plateau. However, for sample PQ l, the rare­
+temperature combination, divided by the total number of faction curve continued to rise despite a high number of iso­
+rep-types obtained for that sample. The highest values are lates being recovered from this sample.
+summarized in Table 3. For all samples, the highest values 
+for the colony counts (Table 2) and the highest diversity Distribution of the phylotypes over different phyla, 
+(Table 3) were found on either oligotrophic media (R2A, classes, genera and samples
+R2A/10 and PYGV) or marine media (MA PS and MA 
+SW). The highest CFU/g and diversities for each sample The different phylotypes were identified using the classifier 
+were in the same temperature categories (high-temperature tool of the Ribosomal Database Project and phylogenetic 
+category: 15-20°C; low-temperature category: 4°C) for analysis of the 16S rRNA gene sequences. The diversity 
+samples PQ1, SK5 and S06; however, for samples LA3 found in the different samples was considered at different 
+and WO10, the highest CFU/g was at 4°C, while the taxonomic levels. At phylum level, for most samples, the 
+highest diversity was recovered at 20°C. phylotypes were affiliated with four major phylogenetic 
+
+Representatives of the different rep-types were sub­ groups. Actinobacteria, Proteobacteria, Bacteroidetes and 
+jected to 16S rRNA gene sequence analysis. Based on these Firmicutes. In addition, isolates of the Deinococcus-Ther­
+sequences, phylotypes were delineated at 99% sequence mus phylum were recovered from samples PQl and S06 
+similarity. The number of phylotypes recovered per sample (Fig. 1). At genus level, variation between the five samples 
+ranged from 39 (LA3) to 89 (PQ l) (Fig. 1). Interestingly, was larger: 70 genera were recovered as well as 18 
+only an intermediate number of isolates was taken in this potentially novel genera (Table SI). Only Salinibacterium  
+latter sample in comparison with the other samples, sug­ and Flavobacterium  were found in all five samples.
+gesting that it harbours a relatively large diversity. This was Previously, we studied two terrestrial samples, BB50 
+confirmed by the higher Shannon diversity index based on the and BB115, from the Utsteinen region (Peeters et al.
+
+Table 3 Highest relative values Samples PQ l LA3 SK5 WO10 S 0 6
+for the number of rep-types and 
+corresponding conditions Highest relative diversity yield 0.167 0.271 0.274 0.258 0.294
+
+Medium R2A MA PS PYGV M A PS PYGV
+Temperature (°C) 15 20 15 20 20
+
+Ô  Springer
+
+
+
+548 Polar Biol (2012) 35:543-554
+
+2011a), and two aquatic microbial mat samples, TM2 and phylotypes over the different samples. Sample SK5 shared 
+TM4, from the Pensacola Mountains and the Shackleton the highest percentage of phylotypes with other samples, 
+Range, respectively (Peeters et al. 2011b), using the same especially with samples PQ l, LA3 and S06. Also, samples 
+isolation conditions and the same characterization methods. TM2 and WO 10 and TM4 and S06 shared an important 
+Later, we compare our new findings with those from these percentage (>10% ) of phylotypes.
+four samples. To facilitate comparison and to provide an In all nine samples, only 3.4% (47) of the rep-types 
+overview, bacterial genus diversity data from these two contained isolates from more than one sample. The 
+studies are also included in Table SI. No genera were majority of these mixed rep-types contained isolates from 
+recovered from all nine samples. The genera Arthrobacter, two different samples, and only two comprised isolates 
+Brevundimonas and Hymenobacter were found in eight from three different samples. All samples contained iso­
+samples, whereas Cryobacterium, Rhodococcus, Sphingo­ lates that were part of these mixed rep-types, whereas the 
+monas, Flavobacterium  and Bacillus were found in seven highest number was shared between samples SK5 and S06. 
+of the nine samples. Some 38% (31/82) of the genera were A large portion of the mixed rep-types was affiliated with 
+recovered from only one sample (e.g. Frigoribacterium, Actinobacteria, while the remainder was related to all other 
+Saxeibacter, Aurantimonas, Caulobacter, Lysobacter, classes and phyla obtained except for the Deinococcus- 
+Maribacter, Brevibacillus). Thermus phylum. The mixed rep-types belonged to diverse 
+
+The genus Arthrobacter (Table SI) was best represented genera, with several from the genera Arthrobacter, Brev­
+among the isolates (733 isolates, representing 20 different undimonas, Hymenobacter, Pedobacter and Rothia.
+phylotypes), although the largest number of different 
+phylotypes (50) was found in the genus Hymenobacter, Bacterial community structure in relation 
+which also had a rather high number of isolates (230). to environmental conditions
+Other well-represented genera based on either the number 
+of isolates or the number of phylotypes included Brevun­ Also here, we included information from our previous 
+dimonas, Flavobacterium, Polaromonas, Psychrobacter, studies (Peeters et al. 201 la, b) to enhance the comparison. 
+Massilia, Sphingopyxis, Sphingomonas and Deinococcus. The principal component analysis at genus level (Fig. 2) 
+
+At the phylotype level, none of the phylotypes was confirmed the differences observed between the nine 
+found in all nine locations (Table SI). Only one phylotype samples. The two terrestrial samples from Utsteinen (BB50 
+(R-36741), identified as Brevundimonas, was found in and BB115) are located relatively close to each other in the 
+eight samples. Phylotype R-36538, identified as Arthro­ top half of the scatter plot. The two samples from the saline 
+bacter, was isolated from six samples. Furthermore, phyl­ lakes (LA3 and WO10) and the brackish lake (TM2) are 
+otypes belonging to the genera Brevundimonas, situated on the negative side of the first ordination axis. A 
+Rhodococcus, Salinibacterium, Sphingomonas and Massi­ redundancy analysis revealed that the dummy variable 
+lia were found in five samples, and phylotypes belonging to denoting the difference in habitat type and grouping ter­
+the genera Arthrobacter, Cryobacterium, Rothia, Polaro­ restrial and freshwater habitats significantly explained 
+monas, Bacillus, Paenibacillus and a potentially new genus 27.3% of the differences in community composition 
+in the class Betaproteobacteria were found in four samples. between terrestrial and aquatic samples. This indicates that 
+Additionally, 15 (4.2%) of the 356 phylotypes were the samples from saline lakes are different to those from 
+recovered from three samples, 68 (19.1%) were found in freshwater systems and terrestrial environments. In the 
+two samples, and 260 (73.0%) were restricted to a single subset of the samples from aquatic habitats for which 
+sample. Table 4 shows the distribution of shared limnological data are available, RDA confirmed that
+
+Table 4 Number of 
+phylotypes, defined at 99% Sample PQ l LA3 SK5 WOIO S 0 6 BB50a BB115a TM2h TM4h
+sequence similarity (lower left PQ l X 5% 11% 4% 9% 5% 2% 2% 4%
+triangle), and percentage of 
+phylotypes (upper right triangle) LA3 7 X 11% 7% 4% 1% 1% 3% 7%
+shared between the samples SK5 16 11 X 7% 14% 7% 4% 5% 8 %
+
+WO10 5 6 7 X 8 % 0% 2% 10% 5%
+S 0 6 15 5 20 10 X 5% 6% 4% 10%
+BB50 7 1 8 0 7 X 7% 3% 4%
+BB115 3 1 4 2 7 7 X 4% 7%
+TM2 3 3 6 10 6 4 4 X 9%
+
+Data from Peeters et al. 201 la  
+TM4 5 5 7 4 11 4 5 8 X
+
+Data from Peeters et al. 201 lb
+
+Ô  Springer
+
+
+
+Polar Biol (2012) 35:543-554 549
+
+1995), some clear differences between the samples were 
+BB50
+
+O apparent. The most diverse sample was PQ l, with the 
+highest Shannon diversity index and the largest number of 
+
+BB115
+°  i phylotypes recovered, despite only an intermediate number 
+
+of isolates obtained in comparison with the other samples 
+S 0 6
+
+TM4 O (Fig. 1). This relatively high diversity may be explained by 
+O the location of the sampling site on the Antarctic Peninsula 
+
+where environmental conditions are less extreme than on 
+OW O10 the Antarctic continent.
+o
+
+LA3 O The distribution of the different phyla, classes and genera 
+TM2
+
+0 O varied considerably. In most samples, the phylotypes 
+SK5 PQ1 belonged to four major phylogenetic groups (Actinobacte­
+
+-1.0 1.5 ria, Proteobacteria, Bacteroidetes and Firmicutes) that 
+Fig. 2 Principal component analysis (PCA) of the samples showing have been reported frequently from various Antarctic hab­
+the differences in bacterial diversity (at genus level) based on the itats including aquatic microbial mats, soil from continental 
+number of rep-types. Information for samples BB50, BB115, TM2 Antarctica and the sub-Antarctic islands and from sedi­
+and TM4 was based on Peeters et al. 2011a, b
+
+ments (Bowman et al. 2000a; Brambilla et al. 2001; Van 
+Trappen et al. 2002; Bowman and McCuaig 2003; Aislabie 
+
+conductivity significantly explained 34.4% of the variation et al. 2006b, 2008; Babalola et al. 2009; Cary et al. 2010; 
+in community structure at genus level. Chong et al. 2010; Selbmann et al. 2010). The phylum 
+
+Deinococcus-Thermus was only recovered from four sam­
+Geographical distribution of the phylotypes ples (BB50, BB115, PQ l and S06), including both terres­
+
+trial and aquatic samples. The genus Deinococcus has been 
+The sequences of the different phylotypes were compared found previously in Antarctic soils and especially in the 
+with public databases to assess their geographical distri­ McMurdo Dry Valleys (Aislabie et al. 2006a, 2008; Nie­
+bution. For the five new samples, a large number of the derberger et al. 2008; Cary et al. 2010) although several 
+phylotypes (36.0-64.6%) showed a cosmopolitan distri­ other studies focussing on Antarctic soils (Shivaji et al. 
+bution as was also found in the four previously studied 2004; Gesheva 2009) as well as on marine environments 
+samples (Table 5). All nine samples also contained a large (Bowman et al. 2000b, 2003) and microbial mats in Ant­
+number of phylotypes currently known only from Antarc­ arctic lakes (Brambilla et al. 2001; Van Trappen et al. 2002) 
+tica (20.6-58.4%), and many of these shared no significant did not report the presence of this taxon. Most of the fre­
+similarity (>99.0%) with any other sequence in public quently occurring genera (genera that were found in more 
+databases. In general, only small numbers of phylotypes than four samples or from which more than 100 isolates 
+have been classified as cold (<10.4%) or bipolar (<8.3%). were recovered) have been reported previously from Ant­
+It is clear that for most phyla/classes, the phylotypes were arctica (Irgens et al. 1996; Van Trappen et al. 2002; Busse 
+mainly cosmopolitan (Table 5). Notable exceptions were et al. 2003; Shivaji et al. 2004; Ah Tow and Cowan 2005; 
+the phyla Bacteroidetes and Deinococcus-Thermus, of Selbmann et al. 2010).
+which the majority of phylotypes were currently known Besides genera found in multiple samples, also some 
+only from Antarctica, many of them without significant phylotypes were found in more than one sample. The 
+sequence similarity with any other sequence. observation that sample PQ l, the only sample originating 
+
+from the Antarctic Peninsula, shared comparable percent­
+ages of phylotypes with all samples (Table 4), irrespective 
+
+Discussion of geographical distance is interesting. Moreover, these 
+percentages are in the same range as those shared between 
+
+We studied the cultured diversity of the heterotrophic the other samples. For some higher organisms such as 
+bacteria recovered under standardized conditions from five Acari and Nematoda, a strong boundary has been observed 
+aquatic microbial mat samples from different locations in between the species present in the Antarctic Peninsula and 
+Maritime and Continental Antarctica and compared the continental Antarctica, although for Tardigrada and Bryo­
+results with previously published data from terrestrial and phyta, no continental/maritime divide has been found 
+aquatic microbial mats from two additional regions. (Convey et al. 2008). Our results suggest that this boundary 
+Although only a limited number of isolates was studied probably does not exist for bacterial taxa.
+from each sample, and the culturable diversity represents The above-mentioned differences between the samples 
+only a fraction of the total diversity present (Amann et al. are related to lake water conductivity and the type of
+
+Ô  Springer
+
+
+
+550 Polar Biol (2012) 35:543-554
+
+Table 5 Number o f phylotypes recovered with cosmopolitan, cold, bipolar or Antarctic distribution for the different classes and phyla and the
+different samples
+
+Distribution type PQl LA3 SK5 WO10 S 0 6 BB50a BB115a TM2h TM4h
+
+Actinobacteria
+Cosmopolitan 8/14 4/5 7/12 10/16 13/20 12/20 10/13 4/5 12/13
+Cold 4/14 1/5 2/12 4/16 2/20 0/20 1/13 0/5 0/13
+Bipolar 0/14 0/5 0/12 0/16 0/20 0/20 0/13 1/5 0/13
+Antarctic0 2/14 (1) 0/5 (0) 3/12 (3) 2/16 (2) 5/20 (5) 8/20 (7) 2/13 (2) 0/5 (0) 1/13 (1)
+Alphaproteobacteria
+Cosmopolitan 10/12 8/10 15/17 6/7 15/17 5/7 5/5 8/13 6/7
+Cold 0/12 0/10 0/17 0/7 0/17 0/7 0/5 1/13 0/7
+Bipolar 0/12 0/10 0/17 0/7 0/17 0/7 0/5 0/13 0/7
+Antarctic0 2/12 (1) 2/10 (2) 2/17 (2) 1/7 (0) 2/17 (2) 2/7 (2) 0/5 (0) 4/13 (3) 1/7 (1)
+Betaproteobacteria
+Cosmopolitan 8/11 1/1 10/13 0/0 14/16 5/6 2/2 5/6 4/5
+Cold 0/11 0/1 1/13 0/0 1/16 0/6 0/2 0/6 0/5
+Bipolar 0/11 0/1 1/13 0/0 0/16 0/6 0/2 1/6 0/5
+Antarctic0 3/11 (1) 0/1 (0) 1/13 (1) 0/0 (0) 1/16 (0) 1/6 (1) 0/2 (0) 0/6 (0) 1/5 (1)
+Gammaproteobacteria
+Cosmopolitan 4/6 2/10 1/3 7/13 2/2 0/1 0/0 2/3 1/2
+Cold 0/6 0/10 0/3 1/13 0/2 0/1 0/0 0/3 0/2
+Bipolar 0/6 1/10 0/3 3/13 0/2 0/1 0/0 0/3 0/2
+Antarctic0 2/6 (1) 7/10 (3) 2/3 (0) 2/13 (0) 0/2 (0) 1/1 (1) 0/0 (0) 1/3 (0) 1/2 (0)
+Bacteroidetes
+Cosmopolitan 1/41 1/10 1/10 2/8 4/19 4/15 0/12 4/11 1/4
+Cold 1/41 0/10 0/10 0/8 0/19 1/15 0/12 0/11 0/4
+Bipolar 0/41 0/10 0/10 1/8 1/19 2/15 2/12 0/11 0/4
+Antarctic0 39/41 (31) 9/10 (5) 9/10 (8) 5/8 (0) 14/19 (14) 8/15 (7) 10/12 (10) 7/11 (6) 3/4 (3)
+Firmicutes
+Cosmopolitan 0/0 3/3 4/4 3/4 3/3 6/6 1/1 15/18 3/3
+Cold 0/0 0/3 0/4 0/4 0/3 0/6 0/1 0/18 0/3
+Bipolar 0/0 0/3 0/4 0/4 0/3 0/6 0/1 1/18 0/3
+Antarctic0 0/0 (0) 0/3 (0) 0/4 (0) 1/4 (0) 0/3 (0) 0/6 (0) 0/1 (0) 2/18 (1) 0/3 (0)
+Deinococcus-Thermus
+Cosmopolitan 1/5 0/0 0/0 0/0 0/2 1/8 0/4 0/0 0/0
+Cold 0/5 0/0 0/0 0/0 0/2 0/8 0/4 0/0 0/0
+Bipolar 0/5 0/0 0/0 0/0 0/2 0/8 0/4 0/0 0/0
+Antarctic0 4/5 (2) 0/0 (0) 0/0 (0) 0/0 (0) 2/2 (2) 7/8 (5) 4/4 (3) 0/0 (0) 0/0 (0)
+All isolates
+% cosmopolitan 36.0 48.7 64.4 58.3 64.6 52.4 48.6 67.9 79.4
+% cold 5.6 2.6 5.1 10.4 3.8 1.6 2.7 1.8 0.0
+% bipolar 0.0 2.6 1.7 8.3 1.3 3.2 5.4 5.4 0.0
+% Antarctic0 58.4 (41.6) 46.2 (25.6) 28.8 (23.7) 22.9 (4.2) 30.4 (29.1) 42.9 (36.5) 43.2 (40.5) 25.0 (17.9) 20.6 (17.6)
+
+Distribution types were assigned to phylotypes by evaluating the geographical origin of highly similar sequences (>99.0% ) present in public 
+databases and originating from cultured strains as well as environmental samples and clone libraries
+a Data from Peeters et al. 2011a
+b Data from Peeters et al. 2011b
+0 In brackets, the number/percentage o f phylotypes that shared no significant similarity with any other sequence in the public database
+
+Ô  Springer
+
+
+
+Polar Biol (2012) 35:543-554 551
+
+habitat (terrestrial vs. aquatic) as revealed by direct ordi­ For the BB samples, an important number of phylotypes 
+nation analyses. The importance of conductivity was also are currently restricted to Antarctica. This may be 
+evident from the fact that the medium used affected the explained partly by the terrestrial, more exposed nature of 
+colony yield and the diversity recovered for each sample. these samples from the pristine environment of the new 
+For example, the highest yield was obtained using the Princes Elisabeth Station in Utsteinen. These samples were 
+marine medium for the samples derived from saline and also taken inland, whereas most previous microbial studies 
+brackish lakes. A number of genera were only obtained on terrestrial samples in Antarctica have focussed on 
+from the saline lakes (e.g. Loktanella, Halomonas, Geli- regions closer to the coast and generally in close vicinity to 
+dilacus and Algoriphagus), whereas only small numbers of research stations (Shivaji et al. 2004; Aislabie et al. 2006b; 
+the less salt tolerant class Betaproteobacteria (Philippot Chong et al. 2009). The other samples in our comparison 
+et al. 2010) were isolated in these samples. Only the genera originated from locations closer to the ocean and may have 
+Aeromicrobium  and Micrococcus were isolated both from experienced inflow of non-Antarctic species, which may 
+terrestrial and saline samples. Interestingly, conductivity have contributed to the lower percentage of phylotypes 
+appears to be more important than the type of habitat, as with an Antarctic distribution. In addition, some strains 
+revealed by the ordination analysis. Although our results may have been isolated previously in one of the few earlier 
+may be influenced by the limited number of isolates and studies in the regions of the Schirmacher and Syowa Oasis 
+samples studied, this observation corroborates previous (Satoh et al. 1989; Shivaji et al. 2004). An important per­
+studies (Philippot et al. 2010; Tamames et al. 2010), centage of phylotypes currently restricted to Antarctica was 
+reporting that the diversity obtained from freshwater sam­ also recovered from sample PQ l, although this sample was 
+ples is more comparable with that of terrestrial samples taken on the Antarctic Peninsula, closer to the ocean and to 
+than with saline ones. The importance of conductivity and civilization.
+related variables rather than extremes of temperatures, pH, Comparing the geographical distribution of the phylotypes 
+or other physical and chemical factors (Tamames et al. in more detail, it is clear that the majority of those belonging to 
+2010) corroborates findings in other microbial organisms in the Actinobacteria, Proteobacteria and Firmicutes have a 
+Antarctic lakes, including diatoms and cyanobacteria more general distribution, whereas most Bacteroidetes and 
+(Verleyen et al. 2010). Deinococcus-Thermus phylotypes are currently restricted to 
+
+In the nine samples, a significant number of phylotypes the Antarctic continent. This high number of Antarctic phyl­
+were found to represent potentially novel genera. From the otypes within the Bacteroidetes, with several potentially new 
+terrestrial samples (BB50 and BB115), the saline samples taxa, is in agreement with the increasing number of new 
+(TM2, LA3 and WO10) and the freshwater samples (TM4, species described from Antarctica within this phylum (Shivaji 
+PQ l, SK5 and S06), respectively, 4, 12 and 22 phylotypes et al. 1992; Bowman et al. 1997, 1998; Hirsch et al. 1998; 
+represented potentially new genera. The majority of McCammon et al. 1998; Bowman and Nichols 2002; Van 
+potentially new genera were found in the classes Alpha­ Trappen et al. 2003, 2004b, c; Yi et al. 2005; Yi and Chun, 
+proteobacteria and Betaproteobacteria (35% each) and in 2006). Our observations therefore appear to indicate that both 
+samples S06 (19%), SK5 (16%) and LA3 (16%). Further cosmopolitan and specific Antarctic phylotypes, possibly with 
+polyphasic studies are necessary to confirm their status and a limited dispersal capacity, are present.
+classification. The isolated taxa can be investigated for 
+antimicrobial activities or other products of biotechnolog­
+ical significance (examples reviewed in Margesin and Conclusion
+Feller 2010). Moreover, several phylotypes obtained here 
+belonged to genera which at present contain only one Although only a limited number of microbial mat samples 
+species or even one strain (e.g. Rhodoglobus, Saxeibacter, were studied, these revealed a large diversity of culturable 
+Enhydrobacter and the recently described Marisedimico- heterotrophic bacteria. There were important differences 
+la). The additional cultures obtained in this work may give between the taxa obtained from each of the samples, and 
+more insight into the diversity present in these genera. only limited overlap was observed between the diversity 
+
+A comparison of our sequences to those available in obtained. Phylotypes belonged to five major phylogenetic 
+public databases (including sequences from cultured strains groups (Actinobacteria, Proteobacteria, Bacteroidetes, 
+as well as environmental community samples and clone Firmicutes and Deinococcus-Thermus) and several repre­
+libraries) revealed that the majority of the taxa showed a sented potentially new taxa. The bacterial diversity was 
+cosmopolitan distribution (Table 5). Although the geo­ found to relate to conductivity and habitat type. A com­
+graphical distribution reflects current and therefore limited parison of our data with sequences in public databases 
+knowledge of bacterial diversity and ecology (Curtis and showed that an important proportion of phylotypes (36.9%) 
+Sloan 2004), some interesting observations can be made. are currently known only from the Antarctic continent.
+
+Ô  Springer
+
+
+
+552 Polar Biol (2012) 35:543-554
+
+although a large proportion of cosmopolitan taxa (56.3%) gen. nov., sp. nov., a psychrophilic species from Antarctic sea 
+were also recovered. This suggests that, in Antarctica, ice, reclassification of Flavobacterium gondwanense (Dobson 
+
+et al. 1993) as Psychroflexus gondwanense gen. nov., comb. nov. 
+cosmopolitan taxa as well as taxa with limited dispersal, Microbiol UK 144:1601-1609 
+which potentially evolved in isolation, occur. Bowman JP, McCammon SA, Rea SM, McMeekin TA (2000a) The 
+
+microbial composition of three limnologically disparate hyper­
+Acknowledgments This work was funded by the Belgian Science saline Antarctic lakes. FEMS Microbiol Lett 183:81-88 
+Policy Office (BelSPO) projects AMBIO (an International Polar Year Bowman JP, Rea SM, McCammon SA, McMeekin TA (2000b) 
+project), ANTAR-IMPACT and BELDIVA. Fieldwork was supported Diversity and community structure within anoxic sediment from 
+by BelSPO and the International Polar Foundation, the British Ant­ marine salinity meromictic lakes and a coastal meromictic 
+arctic Survey and the Japanese Antarctic Research expedition 48. We marine basin, Vestfold Hills, Eastern Antarctica. Environ 
+thank the project coordinator Annick W ilmotte and are grateful to the Microbiol 2:227-237 
+Antarctic programme coordinator o f BelSPO and Sakae Kudoh, Bowman JP, McCammon SA, Gibson JAE, Robertson L, Nichols PD
+Satoshi Imura and Tamotsu Hoshino for logistic support during (2003) Prokaryotic metabolic activity and community structure 
+sampling campaigns. This study contributes to the BAS ‘Polar in Antarctic continental shelf sediments. Appl Environ Microbiol 
+Science for Planet Earth’ and SCAR ‘Evolution and Biodiversity in 69:2448-2462
+Antarctica’ programmes. EV is a postdoctoral research fellow with Brambilla E, Hippe H, Hagelstein A, Tindall BJ, Stackebrandt E 
+the Research Foundation -  Flanders (Belgium). (2001) 16S rDNA diversity of cultured and uncultured prokary­
+
+otes of a mat sample from Lake Fryxell, McMurdo Dry Valleys, 
+Antarctica. Extremophiles 5:23-33 
+
+Busse HJ, Denner EBM, Buczolits S, Salkinoja-Salonen M, Bennasar 
+A, Kampfer P (2003) Sphingomonas aurantiaca sp. nov., 
+
+References Sphingomonas aerolata sp. nov. and Sphingomonas faeni sp. 
+nov., air- and dustborne and Antarctic, orange-pigmented, 
+
+Acinas SG, Klepac-Ceraj V, Hunt DE, Pharino C, Ceraj I, Distel DL, psychrotolerant bacteria, and emended description o f the genus 
+Polz MF (2004) Fine-scale phylogenetic architecture of a Sphingomonas. Int J Syst Evol Microbiol 53:1253-1260 
+complex bacterial community. Nature 430:551-554 Cary SC, McDonald IR, Barrett JE, Cowan DA (2010) On the rocks: 
+
+Ah Tow L, Cowan DA (2005) Dissemination and survival o f non- the microbiology of Antarctic Dry Valley soils. Nat Rev 
+indigenous bacterial genomes in pristine Antarctic environments. Microbiol 8:129-138 
+Extremophiles 9:385-389 Chong CW, Tan GYA, W ong RCS, Riddle MJ, Tan IKP (2009) DGGE 
+
+Aislabie JM, Broady PA, Saul DJ (2006a) Culturable aerobic fingerprinting of bacteria in soils from eight ecologically different 
+heterotrophic bacteria from high altitude, high latitude soil of sites around Casey station, Antarctica. Polar Biol 32:853-860 
+La Gorce Mountains (86 degrees 30’S, 147 degrees W), Chong CW, Pearce DA, Convey P, Tan GYA, W ong RCS, Tan IKP 
+Antarctica. Antarct Sei 18:313-321 (2010) High le vels o f spatial heterogeneity in the biodiversity o f soil 
+
+Aislabie JM, Chhour KL, Saul DJ, Miyauchi S, Ayton J, Paetzold RF, prokaryotes on Signy Island, Antarctica. Soil Biol Biochem 
+Balks M R (2006b) Dominant bacteria in soils o f Marble Point 42:601-610
+and W right Valley, Victoria Land, Antarctica. Soil Biol Biochem Coenye T, Falsen E, Vancanneyt M, Hoste B, Govan JRW, Kersters 
+38:3041-3056 K, Vandamme P (1999) Classification of Alcaligenes faecalis- 
+
+Aislabie JM, Jordan S, Barker GM (2008) Relation between soil like isolates from the environment and human clinical samples as 
+classification and bacterial diversity in soils o f the Ross Sea Ralstonia gilardii sp. nov. Int J Syst Bacteriol 49:405^-13 
+region, Antarctica. Geoderma 144:9-20 Convey P, Gibson JAE, Hillenbrand CD, Hodgson DA, Pugh PJA, 
+
+Amann RI, Ludwig W, Schleifer KH (1995) Phylogenetic identifi­ Smellie JL, Stevens MI (2008) Antarctic terrestrial life— challeng­
+cation and in situ detection of individual microbial cells without ing the history of the frozen continent? Biol Rev 83:103-117 
+cultivation. Microbiol Rev 59:143-169 Curtis TP, Sloan W T (2004) Prokaryotic diversity and its limits: 
+
+Babalola OO, Kirby BM, Le Roes-Hill M, Cook AE, Cary SC, Burton microbial community structure in nature and implications for 
+SG, Cowan DA (2009) Phylogenetic analysis o f actinobacterial microbial ecology. Curr Opin Microbiol 7:221-226 
+populations associated with Antarctic Dry Valley mineral soils. De W ever A, Leliaert F, Verleyen E, Vanormelingen P, Van der 
+Environ Microbiol 11:566-576 Gucht K, Hodgson DA, Sabbe K, Vyverman W  (2009) Hidden 
+
+Baele M, Vancanneyt M, Devriese LA, Lefebvre K, Swings J, levels of phylodiversity in Antarctic green algae: further 
+Haesebrouck F (2003) Lactobacillus ingluviei sp. nov., isolated evidence for the existence of glacial refugia. Proc Royal Soc B 
+from the intestinal tract o f pigeons. Int J Syst Evol Microbiol Biol Sei 276:3591-3599 
+53:133-136 Fernández-Valiente E, Camacho A, Rochera C, Rico E, Vincent WF, 
+
+Bowman JP, McCuaig RD (2003) Biodiversity, community structural Quesada A (2007) Community structure and physiological 
+shifts, and biogeography of prokaryotes within Antarctic conti­ characterization of microbialmats in Byers Peninsula, Livingston 
+nental shelf sediment. Appl Environ Microbiol 69:2463-2483 Island (South Shetland Islands, Antarctica). FEMS Microb Ecol 
+
+Bowman JP, Nichols DS (2002) Aequorivita gen. nov., a member 59:377-385
+of the family Flavobacteriaceae isolated from terrestrial Franzmann PD, Hopfl P, W eiss N, Tindall BJ (1991) Psychrotrophic, 
+and marine Antarctic habitats. Int J Syst Evol Microbiol lactic acid-producing bacteria from anoxic waters in Ace Lake, 
+52:1533-1541 Antarctica— Carnobacterium funditum  sp. nov. and Carnobac­
+
+Bowman JP, McCammon SA, Brown JL, Nichols PD, McMeekin TA terium alterfunditum  sp. nov. Arch Microbiol 156:255-262 
+(1997) Psychroserpens burtonensis gen. nov., sp. nov., and Gesheva V (2009) Distribution of psychrophilic microorganisms in 
+Gelidibacter algens gen. nov., sp. nov., psychrophilic bacteria soils o f Terra Nova Bay and Edmonson Point, Victoria Land and 
+isolated from Antarctic lacustrine and sea ice habitats. Int J Syst their biosynthetic capabilities. Polar Biol 32:1287-1291 
+Bacteriol 47:670-677 Gevers D, Huys G, Swings J (2001) Applicability of rep-PCR 
+
+Bowman JP, McCammon SA, Lewis T, Skerratt JH, Brown JL, fingerprinting for identification of Lactobacillus species. FEMS 
+Nichols DS, McMeekin TA et al (1998) Psychroflexus torquis Microbiol Lett 205:31-36
+
+Ô  Springer
+
+
+
+Polar Biol (2012) 35:543-554 553
+
+Hirsch P, Ludwig W, Hethke C, Sittig M, Hoffmann B, Gallikowski Sabbe K, Verleyen E, Hodgson DA, Vanhoutte K, Vyverman W
+CA (1998) Hymenobacter roseosalivarius gen. nov., sp. nov. (2003) Benthic diatom flora o f freshwater and saline lakes in the 
+from continental Antarctic soils and sandstone: Bacteria of the Larsemann Hills and Rauer Islands, East Antarctica. Antarct Sei 
+Cytophaga/Flavobacterium/Bacteroides line of phylogenetic 15:227-248
+descent. Syst Appl Microbiol 21:374—383 Saitou N, Nei M (1987) The neighbor joining method— a new method 
+
+Hodgson DA, Vyverman W, Verleyen E, Sabbe K, Leavitt PR, Taton for reconstructing phylogenetic trees. Mol Biol Evol 4:406^-25 
+A, Squier AH, Keely BJ (2004) Environmental factors influenc­ Satoh H, Fukami K, W atanabe K, Takahashi E (1989) Seasonal 
+ing the pigment composition of in situ benthic microbial changes in heterotrophic bacteria under fast ice near Syowa 
+communities in east Antarctic lakes. Aquat Microb Ecol Station, Antarctica. Can J Microbiol 35:329-333 
+37:247-263 Selbmann L, Zucconi L, Ruisi S, Grube M, Cardinale M, Onofri S 
+
+Hodgson DA, Convey P, Verleyen E, Vyverman W, Mclnnes SJ, (2010) Culturable bacteria associated with Antarctic lichens: 
+Sands CJ, Fernández-Carazo R, W ilmotte A, De W ever A, affiliation and psychrotolerance. Polar Biol 33:71-83 
+Peeters K, Tavemier I, Willems A (2010) The limnology and Shivaji S, Ray MK, Rao NS, Saisree L, Jagannadham MV, Kumar 
+biology of the Dufek Massif, Transantarctic Mountains 82° GS, Reddy GSN, Bhargava PM (1992) Sphingobacterium  
+South. Polar Sei 4:197-214 antarcticus sp. nov., a psychrotrophic bacterium from the soils 
+
+Irgens RL, Gosink JJ, Staley JT (1996) Polaromonas vacuolata gen. o f Schirmacher Oasis, Antarctica. Int J Syst Bacteriol 42: 
+nov., sp. nov., a psychrophilic, marine, gas vacuolate bacterium 102-106
+from Antarctica. Int J Syst Bacteriol 46:822-826 Shivaji S, Reddy GSN, Aduri RP, Kutty R, Ravenschlag K (2004) 
+
+Layboum-Parry J, Pearce DA (2007) The biodiversity and ecology of Bacterial diversity o f a soil sample from Schirmacher Oasis, 
+Antarctic lakes: models for evolution. Philos Trans R Soc Lond Antarctica. Cell Mol Biol 50:525-536 
+B Biol Sei 362:2273-2289 Shivaji S, Reddy GSN, Suresh K, Gupta P, Chintalapati S, Schumann 
+
+Magurran AE (1988) Ecological diversity and its measurements. P, Stackebrandt E, Matsumoto GI (2005) Psychrobacter vallis 
+Princeton University Press, New Jersey, pp 192 sp. nov. and Psychrobacter aquaticus sp. nov., from Antarctica. 
+
+Margesin R, Feller G (2010) Biotechnological applications of Int J Syst Evol Microbiol 55:757-762 
+psychrophiles. Environ Technol 31:835-844 Stach JEM, Maldonado LA, Masson DG, W ard AC, Goodfellow M, 
+
+McCammon SA, Innés BH, Bowman JP, Franzmann PD, Dobson SJ, Bull AT (2003) Statistical approaches for estimating actinobac­
+Holloway PE, Skerratt JH, Nichols PD, Rankin LM (1998) teria! diversity in marine sediments. Appl Environ Microbiol 
+Flavobacterium hibem um  sp. nov., a lactose-utilizing bacterium 69:6189-6200
+from a freshwater Antarctic lake. Int J Syst Bacteriol Tamames J, Abelian JJ, Pignatelli M, Camacho A, M oya A (2010) 
+48:1405-1412 Environmental distribution of prokaryotic taxa. BMC Microbiol 
+
+Niederberger TD, McDonald IR, Hacker AL, Soo RM, Barrett JE, 10:1-14
+W all DH, Cary SC (2008) Microbial community composition in Taton A, Grubisic S, Balthasari P, Hodgson DA, Laybourn-Parry J, 
+soils o f Northern Victoria Land, Antarctica. Environ Microbiol W ilmotte A (2006) Biogeographical distribution and ecological 
+10:1713-1724 ranges of benthic cyanobacteria in East Antarctic lakes. FEMS 
+
+Pearce DA (2005) The structure and stability o f the bacterioplankton Microbiol Ecol 57:272-289 
+community in Antarctic freshwater lakes, subject to extremely ter Braak CJF, Smilauer P (2002) CANOCO reference manual and 
+rapid environmental change. FEMS Microbiol Ecol 53:61-72 user’s guide to CANOCO for Windows: software for canonical 
+
+Peeters K, Ertz D, Willems A (201 la) Culturable bacterial diversity at community ordination (version 4). Microcomputer Power, Ithaca 
+the Princess Elisabeth Station (Utsteinen, Spr Rondane M oun­ Van Trappen S, Mergaert J, Van Eygen S, Dawyndt P, Cnockaert 
+tains, East Antarctica) harbours many new taxa. Syst Appl MC, Swings J (2002) Diversity o f 746 heterotrophic bacteria 
+Microbiol 34:360-367 isolated from microbial mats from ten Antarctic lakes. Syst Appl 
+
+Peeters K, Hodgson DA, Convey P, Willems A (2011b) Culturable Microbiol 25:603-610 
+diversity o f heterotrophic bacteria in Forlidas Pond (Pensacola Van Trappen S, Mergaert J, Swings J (2003) Flavobacterium  
+Mountains) and Lundström Lake (Shackleton Range), Antarc­ gelidilacus sp. nov., isolated from microbial mats in Antarctic 
+tica. Microb Ecol 62:399^-13 lakes. Int J Syst Evol Microbiol 53:1241-1245 
+
+Philippot L, Andersson SGE, Battin TJ, Prosser JI, Schimel JP, Van Trappen S, Mergaert J, Swings J (2004a) Loktanella salsilacus 
+W hitman WB, Hallin S (2010) The ecological coherence o f high gen. nov., sp. nov., Loktanella fryxellensis sp. nov. and 
+bacterial taxonomic ranks. Nat Rev Microbiol 8:523-529 Loktanella vestfoldensis sp. nov., new members o f the Rhodob­
+
+Reddy GSN, Prakash JSS, Matsumoto Gl, Stackebrandt E, Shivaji S acter group, isolated from microbial mats in Antarctic lakes. Int J 
+(2002a) Arthrobacter roseus sp. nov., a psychrophilic bacterium Syst Evol Microbiol 54:1263-1269 
+isolated from an Antarctic cyanobacterial mat sample. Int J Syst Van Trappen S, Vandecandelaere I, Mergaert J, Swings J (2004b) 
+Evol Microbiol 52:1017-1021 Algoriphagus antarcticus sp. nov., a novel psychrophile from 
+
+Reddy GSN, Prakash JSS, Vairamani M, Prabhakar S, Matsumoto GI, microbial mats in Antarctic lakes. Int J Syst Evol Microbiol 
+Shivaji S (2002b) Planococcus antarcticus and Planococcus 54:1969-1973
+psychrophilus spp. nov. isolated from cyanobacterial mat Van Trappen S, Vandecandelaere I, Mergaert J, Swings J (2004c) 
+samples collected from ponds in Antarctica. Extremophiles Flavobacterium de gerlachei sp. nov., Flavobacterium frigoris 
+6:253-261 sp. nov. and Flavobacterium micromati sp. nov., novel psychro­
+
+Reddy GSN, Matsumoto GI, Shivaji S (2003a) Sporosarcina philic bacteria isolated from microbial mats in Antarctic lakes. 
+macmurdoensis sp. nov., from a cyanobacterial mat sample Int J Syst Evol Microbiol 54:85-92 
+from a pond in the McMurdo Dry Valleys, Antarctica. Int J Syst Van Trappen S, Vandecandelaere I, Mergaert JS, Swings J (2004d) 
+Evol Microbiol 53:1363-1367 Gillisia limnaea gen. nov., sp. nov., a new member o f the family 
+
+Reddy GSN, Prakash JSS, Prabahar V, Matsumoto GI, Stackebrandt Flavobacteriaceae isolated from a microbial mat in Lake 
+E, Shivaji S (2003b) Kocuria polaris sp. nov., an orange- Fryxell, Antarctica. Int J Syst Evol Microbiol 54:445^-48 
+pigmented psychrophilic bacterium isolated from an Antarctic Vancanneyt M, Mengaud J, Cleenwerck I, Vanhonacker K, Hoste B, 
+cyanobacterial mat sample. Int J Syst Evol Microbiol Dawyndt P, Degivry MC, Ringuet D, Janssens D, Swings J
+53:183-187 (2004) Reclassification o f Lactobacillus kefirgranum  Takizawa
+
+Ô  Springer
+
+
+
+554 Polar Biol (2012) 35:543-554
+
+et al. 1994 as Lactobacillus kefiranofaciens subsp. kefirgranum  Vincent WF (2000) Evolutionary origins o f Antarctic microbiota: 
+subsp. nov. and emended description o f L. kefiranofaciens invasion, selection and endemism. Antarct Sei 12:374-385 
+Fujisawa et al. 1988. Int J Syst Evol Microbiol 54:551-556 Wang Q, Garrity GM, Tiedje JM, Cole JR (2007) Naive Bayesian 
+
+Verleyen E, Sabbe K, Hodgson DA, Grubisic S, Taton A, Cousin S, classifier for rapid assignment o f rRNA sequences into the new 
+W ilmotte A, de W ever A, Van der Gucht K, Vyverman W bacterial taxonomy. Appl Environ Microbiol 73:5261-5267 
+(2010) The structuring role of climate-related environmental Yarza P, Ludwig W, Euzéby J, Amann R, Schleifer KL, Glöckner FO, 
+factors on Antarctic microbial mat communities. Aquat Microb Rosselló-Móra R (2010) Update of the all-species living tree 
+Ecol 59:11-24 project based on 16S and 23S rRNA sequence analyses. Syst 
+
+Verleyen E, Hodgson DA, Gibson J, Imura S, Kaup E, Kudoh S, De Appl Microbiol 33:291-299 
+W ever A, Hoshino T, McMinn A, Obbels D, Roberts D, Roberts Yi HN, Chun J (2006) Flavobacterium weaverense sp. nov. and 
+S, Sabbe K, Souffreau C, Tavemier I, Van Nieuwenhuyze W, Flavobacterium segetis sp. nov., novel psychrophiles isolated 
+Van Ranst E, Vindevogel N, Vyverman W  (2011) Chemical from the Antarctic. Int J Syst Evol Microbiol 56:1239-1244 
+limnology in coastal East Antarctic lakes: monitoring future Yi H, Yoon HI, Chun J (2005) Sejongia antarctica gen. nov., sp. nov. 
+climate change in centres of endemism and biodiversity. Antarct and Sejongia jeonii sp. nov., isolated from the Antarctic. Int J 
+Sei. doi: 10.1017/S0954102011000642 Syst Evol Microbiol 55:409^-16
+
+Ô  Springer
