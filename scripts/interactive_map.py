@@ -61,11 +61,11 @@ def main():
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>OBIS Occurrence Map — All Records</title>
 <meta name="description" content="Interactive map of OBIS ocean occurrence records with vector tiles">
-<link rel="stylesheet" href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css">
+<link rel="stylesheet" href="https://unpkg.com/maplibre-gl@3.6.2/dist/maplibre-gl.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-<script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
-<script src="https://unpkg.com/pmtiles@4.0.0/dist/pmtiles.js"></script>
+<script src="https://unpkg.com/maplibre-gl@3.6.2/dist/maplibre-gl.js"></script>
+<script src="https://unpkg.com/pmtiles@3.0.7/dist/pmtiles.js"></script>
 <style>
 *{{margin:0;padding:0;box-sizing:border-box}}
 html,body{{height:100%;overflow:hidden}}
@@ -192,6 +192,7 @@ const protocol = new pmtiles.Protocol();
 maplibregl.addProtocol("pmtiles", protocol.tile);
 
 const TILE_URL = "pmtiles://" + window.location.origin + "/{PMTILES_FILENAME}";
+console.log("PMTiles URL:", TILE_URL);
 
 const STYLES = [
     {{ name: "Dark",      url: "https://basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json" }},
@@ -245,15 +246,33 @@ function addOBISLayer() {{
     }});
 }}
 
-map.on('load', function() {{
-    addOBISLayer();
-
-    // Hide loader
-    setTimeout(() => {{
-        const l = document.getElementById('loader');
+function hideLoader() {{
+    const l = document.getElementById('loader');
+    if (l && !l.classList.contains('hide')) {{
         l.classList.add('hide');
         setTimeout(() => l.remove(), 700);
-    }}, 600);
+    }}
+}}
+
+map.on('load', function() {{
+    console.log('Map style loaded, adding OBIS layer...');
+    addOBISLayer();
+    console.log('OBIS source added, waiting for tiles...');
+}});
+
+// Hide loader when source data actually loads (not just style)
+map.on('sourcedata', function(e) {{
+    if (e.sourceId === 'obis' && e.isSourceLoaded) {{
+        console.log('OBIS tiles loaded!');
+        hideLoader();
+    }}
+}});
+
+// Also hide after timeout as fallback
+setTimeout(hideLoader, 8000);
+
+map.on('error', function(e) {{
+    console.error('Map error:', e.error);
 }});
 
 // Popup on click
